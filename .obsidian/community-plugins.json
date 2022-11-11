@@ -2,7 +2,8 @@
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-focus-mode",
-  "obsidian-banners",
   "obsidian-grandfather",
-  "obsidian-smart-typography"
+  "quick-latex",
+  "obsidian-latex-suite",
+  "obsidian-linter"
 ]

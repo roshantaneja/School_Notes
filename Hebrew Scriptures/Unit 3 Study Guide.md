@@ -10,69 +10,39 @@
 
   
 
-Terms - People, Places, Etc…
-
-  
-
+#### Terms - People, Places, Etc…
 Historical Books
-
 Joshua
-
 Deuteronomic Theology
-
 Promised Land
-
 Jericho
-
 Ai
-
 Canaanites
-
 Rahab
-
 Judges
-
 Ehud
-
 Deborah
-
 Jael/Sisera
-
 Samuel
-
 Saul
-
 David
-
 Solomon
-
 Jordan River
-
 Jonathon
-
 Davidic Covenant
-
 Bathsheba
-
 Uriah
-
 Temple
-
 Judah
-
 Israel
-
 Jerusalem
-
 Samaria
-
 Goliath
-
 Ban
-
 High Places
-
 Baal
+
+---
 
 
 
@@ -100,7 +70,10 @@ Baal
 	Deuteronomic theology is a school of thought created by the Deuteronomic scholars of Israel during the Babylonian exile. They believe that humanities relationship with god is very black-and-white and does 
 
 6.  When given a passage, such as Joshua 1, Joshua 24, Psalm 15 or Proverbs 12, be able to cite the text as an example of Deuteronomic theology.
+
 7.  Who were the “judges” and when was the period of the judges?
+	The judges were a series of 12 military and political leaders from the 12 tribes of Israel. Each of the judges have heavy flaws, but 
+
 8.  What cyclical pattern is a theme throughout the Book of Judges? Explain each of the “steps” in the cycle.
 9.  How did the Deuteronomic writers shape the book of Judges?
 10.  Given a story, such as the Judges 4, be able to cite and explain the cycle of sin, disaster, repentance, and deliverance. 
