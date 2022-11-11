@@ -74,8 +74,9 @@ High Places
 
 Baal
 
-  
-  
+
+
+### Questions
 
 1.  Using any version below, explain the OVERALL story of the Bible: (3-4 sentences)
 	1. UNION -> SEPARATION -> REUNION
