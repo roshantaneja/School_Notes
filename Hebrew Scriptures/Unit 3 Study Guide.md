@@ -97,7 +97,7 @@ Baal
 	Joshua was the prophet that follows Moses. During the time of Joshua, the people of Israel finally enter the promised land and wage several battles against the phillistineians
 
 5.  What is Deuteronomic theology?
-	Deuteronomic theology is like 
+	Deuteronomic theology is a school of thought created by the Deuteronomic scholars of Israel during the Babylonian exile. They believe that humanities relationship with god is very black-and-white and does 
 
 6.  When given a passage, such as Joshua 1, Joshua 24, Psalm 15 or Proverbs 12, be able to cite the text as an example of Deuteronomic theology.
 7.  Who were the “judges” and when was the period of the judges?
@@ -107,7 +107,7 @@ Baal
 11.  Who was Samuel? What role does he play in Israel’s history?
 12.  Who was Saul? What role does he play in Israel’s history?
 13.  Who was David? What role does he play in Israel’s history?
-14.  Why is David not the obvious choice for king? What religious truths are found in 1 Samuel 16 - the story of David’s annointing?
+14.  Why is David not the obvious choice for king? What religious truths are found in 1 Samuel 16 - the story of David’s anointing?
 15.  What is one of the main differences between Saul and David that the biblical writers are trying to convey?
 16.  What is the “Davidic Covenant?” 
 17.  What is one of David’s main sins and what happens as a result? How does this “explanation of events” reflect the theology of the Deuteronomic authors of 1 and 2 Samuel?
