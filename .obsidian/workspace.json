@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "11632b151e740cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ecc3a31b144406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c3fc200a0aa826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "530b6d6ac86c8a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ae61a7d9bb4474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad48e22834763be0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9111aa0497850b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd70368518ef3c77",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ed70dfa43b080ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb584633e2797a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ee5e0001e8fddf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fdbd4e47083ffbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63341b9d986977c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05eb335924ddae2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8c3fc200a0aa826",
+  "lastOpenFiles": [
+    "README.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+  ]
+}

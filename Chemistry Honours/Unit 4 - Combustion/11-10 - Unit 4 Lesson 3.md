@@ -86,19 +86,27 @@ Materials:  
 | Cold Water(10min)            | 5C                   | 14mL                             |
 | Hot Water(10min)             | 85C                  | 16.8mL                           |
 5.  Consider the accuracy of your results.
-	1.  How did you get reliable measurements? 
-	2. How did you know that the air in your syringe reached the temperature you wanted?
+	1.  How did you get reliable measurements?
+		We used significant figures to get as close as possible with the markings on the syringe
+	1. How did you know that the air in your syringe reached the temperature you wanted?
 		The thermometer displayed the temperature of the water.
     
 6.  Analyzing your results.
 	1.  What happened to the volume of the air sample when the temperature decreased?
-	2. What happened to the volume of the air sample when the temperature increased? 
-	3. Write one statement that summarizes your results.
-	4. Go to the [PHET simulation](https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_en.html) and explore a particle view of oxygen gas using the states of matter simulation. 
+		When the temperature decreased, the volume of the air sample went down
+	1. What happened to the volume of the air sample when the temperature increased? 
+		When the temperature increased, the volume of the air sample went up
+	1. Write one statement that summarizes your results.
+		This lab proves that the volume of a gas is dependent on its temperature
+	1. Go to the [PHET simulation](https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_en.html) and explore a particle view of oxygen gas using the states of matter simulation. 
 		1.  How did the particle model represent the oxygen gas?
-		2. What happens to the oxygen gas particles in the simulation as the temperature is increased?
+				The oxygen molecule was represented
+		2. at happens to the oxygen gas particles in the simulation as the temperature is increased?
+				the oxygen whithin the container begin to move faster as they move from solid to liquid to gaseous. This makes it such that the particles of oxygen spread fatrther apart
 		3. What happens to the oxygen gas particles in the simulation as the temperature is decreased? 
-		4. Write one statement that summarizes your results from the simulation. 
+				As the oxygen gets cooler, the particles slow down and get closer to one another. The oxygen moves from gaseous, to liquid to solid
+		4. Write one statement that summarizes your results from the simulation.
+				The 
   
 
 ### YOUR TURN...MODEL THE SYRINGE SYSTEM 

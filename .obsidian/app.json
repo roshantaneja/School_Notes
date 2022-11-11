@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "smartIndentList": false,
+  "showFrontmatter": true,
+  "showIndentGuide": false
+}
