@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f311d524428b96ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md"
               }
             }
           },
@@ -127,9 +140,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c3fc200a0aa826",
+  "active": "f311d524428b96ec",
   "lastOpenFiles": [
-    "README.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+    "Hebrew Scriptures/Unit 3 Study Guide.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
+    "README.md"
   ]
 }

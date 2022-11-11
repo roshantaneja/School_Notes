@@ -6,5 +6,6 @@
   "rightToLeft": false,
   "smartIndentList": false,
   "showFrontmatter": true,
-  "showIndentGuide": false
+  "showIndentGuide": true,
+  "showInlineTitle": true
 }

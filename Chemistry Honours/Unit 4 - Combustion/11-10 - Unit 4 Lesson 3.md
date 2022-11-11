@@ -37,7 +37,7 @@ QUESTION:  What is it about burning fuel that makes a car or rocket move?
 1.  A student claims that the products of a methane bubbles demonstration are both gasses. Do you agree with this claim? 
 	Yes, both products are gasses, Carbon Dioxide and Water.
 
-3.  Give the EVIDENCE and REASONING  to support your answer to question 1?  
+2.  Give the EVIDENCE and REASONING  to support your answer to question 1?  
 	Methane is CH4 and Oxygen is O2, therefore the only two molecule it can produce are CO2 and H2O after the reaction
 		CH4 + O2 -> CO2 + H2O
 
@@ -85,6 +85,8 @@ Materials:  
 | Hot Water(3min)              | 85C                  | 16mL                             |
 | Cold Water(10min)            | 5C                   | 14mL                             |
 | Hot Water(10min)             | 85C                  | 16.8mL                           |
+
+
 5.  Consider the accuracy of your results.
 	1.  How did you get reliable measurements?
 		We used significant figures to get as close as possible with the markings on the syringe
@@ -168,10 +170,7 @@ Image from: [BioRender.com](https://biorender.com/)
 	Conservation of Energy - Within some problem domain, the amount of energy remains constant and energy is neither created nor destroyed. Energy can be converted from one form to another (potential energy can be converted to kinetic energy) but the total energy within the domain remains fixed.
 	Record your ideas about the following statements below:
 	1.   If energy cannot be created or destroyed, just converted/transformed, where is the energy coming from to move the plunger of the syringe? 
-	2. Complete the following statement about the conversion of energy:  _________________________energy is being converted to ___________________ energy in order to move the plunger of the syringe. 
-    
-
-  
+	2. Complete the following statement about the conversion of energy:  ==Thermal/Heat== energy is being converted to ==mechanical/kinetic== energy in order to move the plunger of the syringe. 
 
 ### NEXT STEPS:
 
@@ -179,14 +178,9 @@ Image from: [BioRender.com](https://biorender.com/)
 2.  Open up the IMT for this unit, complete all boxes for lesson 3
 3.  Make sure all parts of the L4.3 student sheet are complete & complete the check for understanding on schoology. 
 
-  
-
 ### REVIEW & REINFORCE:
 
 Use the following sections of the textbook to help you review materials that were covered in this lesson
-
-  
-  
 
 Section 2.5 - [States of matter](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/r115/section/2.5/primary/lesson/solid-liquid-and-gas-chem/)
 
