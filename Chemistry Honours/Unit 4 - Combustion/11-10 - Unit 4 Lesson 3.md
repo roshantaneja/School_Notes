@@ -143,7 +143,7 @@ Image from: [BioRender.com](https://biorender.com/)
   
 
 10.  Consider our model of the syringe.
-	1.  Where is the highest kinetic energy in our model?
+	1. Where is the highest kinetic energy in our model?
 	2. Where is the highest thermal energy?
 	3. What is the evidence that there is mechanical energy?
 	4. What is the evidence that work was done?

@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "translucency": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 10,
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Cascadia Mono"
 }
