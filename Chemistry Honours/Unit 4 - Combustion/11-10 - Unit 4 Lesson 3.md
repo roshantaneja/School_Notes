@@ -192,4 +192,4 @@ Section 14.1 - [Compressibility](https://flexbooks.ck12.org/cbook/ck-12-chemistr
 
 Section 14.2 - [Factors affecting gas pressure](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/r115/section/14.2/primary/lesson/factors-affecting-gas-pressure-chem/)
 
-Reading - [External combustion engine](https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/section/15.11/primary/lesson/external-combustion-engines-ms-ps/)**
+Reading - [External combustion engine](https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/section/15.11/primary/lesson/external-combustion-engines-ms-ps/)
