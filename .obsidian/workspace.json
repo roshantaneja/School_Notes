@@ -15,6 +15,7 @@
               "state": {
                 "file": "Hebrew Scriptures/Unit 3 Study Guide.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -99,14 +100,27 @@
                 "file": "Hebrew Scriptures/Unit 3 Study Guide.md"
               }
             }
+          },
+          {
+            "id": "aad927214301c4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e8c3fc200a0aa826",
+  "active": "05eb335924ddae2a",
   "lastOpenFiles": [
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
