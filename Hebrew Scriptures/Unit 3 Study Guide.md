@@ -88,13 +88,13 @@ Baal
 	7. LIFE -> DEATH -> NEW LIFE/RESURRECTION
 
 2.  What period in Israelite history is recounted in the Historical Books?
-	The period in time recounting the time between the freedom from Egypt and the babylonian exile.
+	The period in time recounting the time between the freedom from Egypt and the Babylonian exile.
 
 3.  What’s the difference between these biblical historical books and modern day historical books?
 	The biblical historical books are not meant to be taken literally as a historical document, rather, the texts are metaphorical; symbolizing a deeper meaning behind the story.
 
 4.  Who was Joshua and what is the primary theology - understanding of God - we read about in the Book of Joshua?
-	Joshua was the prophet that follows Moses. During the time of Joshua, the people of israel finally enter the promised land and wage serveral battles against the phillistineians
+	Joshua was the prophet that follows Moses. During the time of Joshua, the people of Israel finally enter the promised land and wage several battles against the phillistineians
 
 5.  What is Deuteronomic theology?
 6.  When given a passage, such as Joshua 1, Joshua 24, Psalm 15 or Proverbs 12, be able to cite the text as an example of Deuteronomic theology.

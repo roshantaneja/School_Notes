@@ -7,5 +7,6 @@
   "smartIndentList": false,
   "showFrontmatter": true,
   "showIndentGuide": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "spellcheck": true
 }
