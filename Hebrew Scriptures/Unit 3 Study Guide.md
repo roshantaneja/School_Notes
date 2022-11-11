@@ -97,6 +97,8 @@ Baal
 	Joshua was the prophet that follows Moses. During the time of Joshua, the people of Israel finally enter the promised land and wage several battles against the phillistineians
 
 5.  What is Deuteronomic theology?
+	Deuteronomic theology is like 
+
 6.  When given a passage, such as Joshua 1, Joshua 24, Psalm 15 or Proverbs 12, be able to cite the text as an example of Deuteronomic theology.
 7.  Who were the “judges” and when was the period of the judges?
 8.  What cyclical pattern is a theme throughout the Book of Judges? Explain each of the “steps” in the cycle.
