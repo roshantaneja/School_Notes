@@ -11,8 +11,12 @@
             "id": "e8c3fc200a0aa826",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hebrew Scriptures/Unit 3 Study Guide.md"
+              }
             }
           }
         ]
