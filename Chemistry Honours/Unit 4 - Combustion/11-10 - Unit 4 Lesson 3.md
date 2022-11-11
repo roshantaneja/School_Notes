@@ -45,7 +45,7 @@ QUESTION:  What is it about burning fuel that makes a car or rocket move?
 ### LOOKING FORWARD
 
 3.  Use writing, drawing or a combination of these to explain the connection(s) between burning and energy? 
-	![](https://lh4.googleusercontent.com/3yevY_ZW_675mm1o6DuF_5p8TWWcf3-_d2UYdn7rU0faPHT0snXI1Qgjp1unLEqDgr8XgkheWZdLnpVYd6xxQAR2XNxb1LZSUhxGv75XBQc0Z8g5hcZhGtDUDdFlP2Jt1c8IHnl12wV0nzXxCSRm4i7rZxbxxnVqYEGNGymH2WsSll6GqP5NzGptdJi8FKpEP6R9kXUSyA)
+	![Fire Image](https://lh4.googleusercontent.com/3yevY_ZW_675mm1o6DuF_5p8TWWcf3-_d2UYdn7rU0faPHT0snXI1Qgjp1unLEqDgr8XgkheWZdLnpVYd6xxQAR2XNxb1LZSUhxGv75XBQc0Z8g5hcZhGtDUDdFlP2Jt1c8IHnl12wV0nzXxCSRm4i7rZxbxxnVqYEGNGymH2WsSll6GqP5NzGptdJi8FKpEP6R9kXUSyA)
 
   Image: [BioRender.com](https://app.biorender.com/)
 4.  Use writing, drawing or a combination of these to explain the connections between burning, energy, and movement (both at the particle scale, and on a scale that we can see?) 
