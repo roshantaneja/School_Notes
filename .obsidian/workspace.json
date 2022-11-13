@@ -16,11 +16,25 @@
                 "file": "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "027e4920deb075fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Unit 2/Final Writing Assignment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
+                "file": "History/Unit 2/Final Writing Assignment.md"
               }
             }
           },
@@ -107,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
+                "file": "History/Unit 2/Final Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +133,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e8c3fc200a0aa826",
+  "active": "05eb335924ddae2a",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
     "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "README.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
+    "README.md"
   ]
 }
