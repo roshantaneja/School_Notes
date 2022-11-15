@@ -147,7 +147,7 @@ Prophet Profile Questions
 * WHAT?  What was your prophet’s main message(s)? Give details. (3-4 sentences)
 	Before the fall of the temple of Jerusalem, Ezekiel is telling the people of Israel that danger is coming and they will soon fall to the Babylonians. Nobody believes him until it actually happens. Once Jerusalem falls, he becomes more recognized by the people, and has visons about spiritual resurrection. 
 * HOW? What are some important or unique details about your prophet? For example, how he was received? What was his writing or preaching style? What images or symbols did he use? What else do we need to know about your prophet or the time period in which he lived to understand his message? (3-4 sentences)
-    
+    He was originally a priest and was able to speak the word of god by consuming a scroll. In addition to this consummation of a scroll, god would often command Ezekiel to speak to the people of Israel or perform certain acts.
 * WHY?  Why is your prophet significant? What religious truths does he teach us? Explain. (3-4 sentences)
     
 
@@ -206,7 +206,7 @@ Jeremiah 1:1-19 
 
 Jeremiah 10:1-16 
 
-Ezekial
+Ezekiel
 
 Ezekiel 2:1-3:4 
 
