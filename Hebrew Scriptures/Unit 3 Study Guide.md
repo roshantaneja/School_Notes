@@ -64,7 +64,7 @@ Baal
 	The biblical historical books are not meant to be taken literally as a historical document, rather, the texts are metaphorical; symbolizing a deeper meaning behind the story.
 
 4.  Who was Joshua and what is the primary theology - understanding of God - we read about in the Book of Joshua?
-	Joshua was the prophet that follows Moses. During the time of Joshua, the people of Israel finally enter the promised land and wage several battles against the phillistineians
+	Joshua was the prophet that follows Moses. During the time of Joshua, the people of Israel finally enter the promised land and wage several battles against the Philistines
 
 5.  What is Deuteronomic theology?
 	Deuteronomic theology is a school of thought created by the Deuteronomic scholars of Israel during the Babylonian exile. They believe that humanities relationship with god is very black-and-white and does 
