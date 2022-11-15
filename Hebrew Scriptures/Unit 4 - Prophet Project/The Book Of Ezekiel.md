@@ -37,7 +37,7 @@ The following Scripture is the Authorized King James Version of the Holy Bible, 
 
   
 
-CHAPTER 1
+## CHAPTER 1
 
 ### The Vision of God
 
@@ -57,7 +57,7 @@ CHAPTER 1
 
   
 
-CHAPTER 2
+## CHAPTER 2
 
 ### Eating of the Scroll
 
