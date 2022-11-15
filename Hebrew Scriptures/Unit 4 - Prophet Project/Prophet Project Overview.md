@@ -131,72 +131,27 @@ Title and Author:
 
 Read Scripture Video
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
-Step 1 – Prophet Profile. Use your notes to write responses to the “Prophet Profile Questions.” If you cannot answer some of the questions it means that you need to do more research. 
+#### Step 1 – Prophet Profile. Use your notes to write responses to the “Prophet Profile Questions.” If you cannot answer some of the questions it means that you need to do more research. 
 
 Prophet Profile Questions
 
-1. WHO?  Name of Prophet 
+* WHO?  Name of Prophet 
 	Ezekiel
-2. WHEN?  Time Period of the Prophet
+* WHEN?  Time Period of the Prophet
     597 BCE
-3. WHERE?  Where did your prophet preach?
+* WHERE?  Where did your prophet preach?
     Temple of Jerusalem at the rebuilding after it was destroyed.
-4. WHAT?  Describe the social and religious background at the time of your prophet. Politically? Religiously? Socially? Economically? Etc...Be specific; give names and places if relevant. (3-4 sentences)
-	This was during the Babylonian exile, so the people of Israel already had extreme prejudice against the people
-5. WHAT?  What was your prophet’s main message(s)? Give details. (3-4 sentences)
-	
-1. HOW? What are some important or unique details about your prophet? For example, how he was received? What was his writing or preaching style? What images or symbols did he use? What else do we need to know about your prophet or the time period in which he lived to understand his message? (3-4 sentences)
+* WHAT?  Describe the social and religious background at the time of your prophet. Politically? Religiously? Socially? Economically? Etc...Be specific; give names and places if relevant. (3-4 sentences)
+	This was during the Babylonian exile, so the people of Israel already had extreme prejudice against the people of Israel were incredibly hostile to him due to his relationship with the god who had exiled them.
+* WHAT?  What was your prophet’s main message(s)? Give details. (3-4 sentences)
+	Before the fall of the temple of Jerusalem, Ezekiel is telling the people of Israel that danger is coming and they will soon fall to the Babylonians. Nobody believes him until it actually happens. Once Jerusalem falls, he becomes more recognized by the people, and has visons about spiritual resurrection. 
+* HOW? What are some important or unique details about your prophet? For example, how he was received? What was his writing or preaching style? What images or symbols did he use? What else do we need to know about your prophet or the time period in which he lived to understand his message? (3-4 sentences)
     
-7. WHY?  Why is your prophet significant? What religious truths does he teach us? Explain. (3-4 sentences)
+* WHY?  Why is your prophet significant? What religious truths does he teach us? Explain. (3-4 sentences)
     
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-Step 2 – Exegesis. Read and take notes on the scripture passage that is assigned. Read and take notes on two biblical commentaries on the particular passage.  (You may not check out the commentaries.  You can take photos or copy the information you need for research.)
+#### Step 2 – Exegesis. Read and take notes on the scripture passage that is assigned. Read and take notes on two biblical commentaries on the particular passage.  (You may not check out the commentaries.  You can take photos or copy the information you need for research.)
 
   
 
@@ -285,7 +240,7 @@ Commentary #2 - Title and Author
   
   
 
-Step 2– Exegesis. Use your notes to complete the “Exegesis Questions.” Type your final responses.  
+#### Step 2– Exegesis. Use your notes to complete the “Exegesis Questions.” Type your final responses.  
 
   
 
@@ -361,9 +316,7 @@ Modern Application
 
   
 
-Step 3 – Modern Application.  You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
-
-  
+#### Step 3 – Modern Application.  You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
 
 For a modern day passage: write out your prophet’s message for today’s world in about 150 words. Write in the style of your prophet and in the first person. Think about the following questions before writing:
 
