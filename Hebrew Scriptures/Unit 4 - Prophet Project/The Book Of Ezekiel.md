@@ -1,9 +1,4 @@
-  
-  
-
 # THE BOOK OF THE PROPHET EZEKIEL
-
-  
 
 _The prophet Ezekiel is one of four Major Prophets along with [**Isaiah**](https://biblescripture.net/Isaiah.html), [**Jeremiah**](https://biblescripture.net/Jeremiah.html), and [**Daniel**](https://biblescripture.net/Daniel.html) in [**Hebrew**](https://biblescripture.net/Hebrew.html) Scripture, our Old Testament of the [**Bible**](https://biblescripture.net/Bible.html). The priest Ezekiel was the first prophet to be called by God outside of Israel during the Babylonian Exile. Deported to Babylon by the river Chebar in 597 BC, Ezekiel -_ **יְחֶזְקֵאל** _- was truly an exilic prophet, who foresaw both the Fall of Jerusalem in 586 BC, but also the Restoration of Israel and the Temple.  
   

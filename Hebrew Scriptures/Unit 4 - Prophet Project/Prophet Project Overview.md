@@ -18,10 +18,6 @@ B. Scholarly Exegetical Outline on an assigned passage from your prophet.  Use 
 
 C. Modern Application of the prophetic message. Use your creativity to reimagine your prophet’s message for the world today.
 
-  
-
-Name of Prophet
-	E Period
 Elijah
 	Lex, Leah
 Amos
@@ -32,30 +28,13 @@ Isaiah
 	Curtis, Greg
 Micah
 	Meredith, Matthew
-
 Jeremiah
 	John, Mia
-
 Ezekial
 	Ellie, Chase, Roshan
-
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-
-Requirements: 
+### Requirements: 
 
 A. Prophet Profile – Typed responses to the “Prophet Profile Questions.”
 
@@ -65,93 +44,45 @@ C. Modern Application – A creatively expressed message of your prophet to the 
 
   
 
-Process:
+### Process:
 
 Step 1 – Prophet Profile. Read and respond to the questions about your prophet. Use the textbook, the Bible (introduction to your prophet’s book), ONE biblical resource book, and the “Read Scripture” Video on Youtube.  You may not use other Internet sources.
 
-  
-
 Step 2 - Exegesis. Read the passage and two commentaries to respond to the questions on the scripture passage that is assigned. Use two biblical commentaries that directly address the particular passage.
 
-Step 3 – Modern Application.  Now that you have spent two days exploring your prophet in depth – background, main themes, style of prophesying – think about the world today.  If your prophet was alive and prophesying today what would his message be? How would he express God’s message to society? You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
+Step 3 – Modern Application.  Now that you have spent two days exploring your prophet in depth – background, main themes, style of prophesying – think about the world today.  If your prophet was alive and prophesying today what would his message be? How would he express God’s message to society? You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet. 
 
-  
-  
-  
-  
+---
+<center>Prophet Profile</center>
+=
 
-Name:
-
-  
-
-Step 1 – Prophet Profile. Read and take notes on your prophet from the textbook, the Bible (introduction to your prophet’s book), ONE biblical resource book, and the “Bible Project” Video on Youtube.  You may not use other Internet sources.
-
-  
+#### Step 1a
+Prophet Profile. Read and take notes on your prophet from the textbook, the Bible (introduction to your prophet’s book), ONE biblical resource book, and the “Bible Project” Video on Youtube.  You may not use other Internet sources.
 
 Prophet Profile Notes 
 
-  
-
 Textbook:
 
-  
-  
-  
-  
-  
-  
-  
-  
-
 The Bible’s Introduction:
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 ONE Biblical Resource Book
 
 Title and Author:
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 Read Scripture Video
 
 
-#### Step 1 – Prophet Profile. Use your notes to write responses to the “Prophet Profile Questions.” If you cannot answer some of the questions it means that you need to do more research. 
+#### Step 1b
+Prophet Profile. Use your notes to write responses to the “Prophet Profile Questions.” If you cannot answer some of the questions it means that you need to do more research. 
 
-Prophet Profile Questions
+[Prophet Profile Questions](obsidian://open?vault=School_Notes&file=Hebrew%20Scriptures%2FUnit%204%20-%20Prophet%20Project%2FEzekiel%20-%20Prophet%20Profile)
 
-* WHO?  Name of Prophet 
-	Ezekiel
-* WHEN?  Time Period of the Prophet
-    597 BCE
-* WHERE?  Where did your prophet preach?
-    Temple of Jerusalem at the rebuilding after it was destroyed.
-* WHAT?  Describe the social and religious background at the time of your prophet. Politically? Religiously? Socially? Economically? Etc...Be specific; give names and places if relevant. (3-4 sentences)
-	This was during the Babylonian exile, so the people of Israel already had extreme prejudice against the people of Israel were incredibly hostile to him due to his relationship with the god who had exiled them.
-* WHAT?  What was your prophet’s main message(s)? Give details. (3-4 sentences)
-	Before the fall of the temple of Jerusalem, Ezekiel is telling the people of Israel that danger is coming and they will soon fall to the Babylonians. Nobody believes him until it actually happens. Once Jerusalem falls, he becomes more recognized by the people, and has visons about spiritual resurrection. 
-* HOW? What are some important or unique details about your prophet? For example, how he was received? What was his writing or preaching style? What images or symbols did he use? What else do we need to know about your prophet or the time period in which he lived to understand his message? (3-4 sentences)
-    He was originally a priest and was able to speak the word of god by consuming a scroll. In addition to this consummation of a scroll, god would often command Ezekiel to speak to the people of Israel or perform certain acts.
-* WHY?  Why is your prophet significant? What religious truths does he teach us? Explain. (3-4 sentences)
-    
+---
+<center>Exegetical Paragraph</center>
+=
 
-#### Step 2 – Exegesis. Read and take notes on the scripture passage that is assigned. Read and take notes on two biblical commentaries on the particular passage.  (You may not check out the commentaries.  You can take photos or copy the information you need for research.)
+#### Step 2a
+Exegesis. Read and take notes on the scripture passage that is assigned. Read and take notes on two biblical commentaries on the particular passage.  (You may not check out the commentaries.  You can take photos or copy the information you need for research.)
 
   
 
@@ -212,37 +143,12 @@ Ezekiel 2:1-3:4 
 
 Ezekiel 37:1-14 
 
-  
-  
-
 Commentary #1 - Title and Author
-
-  
-  
-  
-  
 
 Commentary #2 - Title and Author
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-#### Step 2– Exegesis. Use your notes to complete the “Exegesis Questions.” Type your final responses.  
-
-  
+#### Step 2b
+Exegesis. Use your notes to complete the “Exegesis Questions.” Type your final responses.  
 
 Exegesis Questions:
 
@@ -263,60 +169,17 @@ Exegesis Questions:
 8.  What other information is necessary to understand the text? (3-4 sentences)
     
 9.  Two Sources:
-    
 
-1.  Bibiography: Author Last Name, Author First Name. Title of work: Capital letter also for subtitle. Publisher, Year Published.
-    
+10. Bibiography: Author Last Name, Author First Name. Title of work: Capital letter also for subtitle. Publisher, Year Published.
 
-1.    
-    
 
-  
-  
+---
+<center>Modern Application</center>
+=
 
-2.    
-    
+#### Step 3
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-Modern Application
-
-  
-
-#### Step 3 – Modern Application.  You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
+Modern Application.  You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
 
 For a modern day passage: write out your prophet’s message for today’s world in about 150 words. Write in the style of your prophet and in the first person. Think about the following questions before writing:
 
