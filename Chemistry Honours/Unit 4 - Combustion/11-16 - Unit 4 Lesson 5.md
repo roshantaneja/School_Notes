@@ -111,22 +111,11 @@ Ba(OH)2·8H2O(s)  +  NH4Cl(s)  →  BaCl2·2(H2O)(s)  +  2NH3(aq)  +  8H
 
 1.  Look at the following balanced equation. What information does this equation give you? 
     
-
-  
-  
-
 2.  After observing this reaction, what information can you add? 
-    
-
-  
-  
-  
+	reaction was endothermic and makes the bag feel cold to the touch.
 
 3.  In which direction did heat move in this reaction? 
-    
-
-  
-  
+    From your hand to the reaction, the heat is moving into the bag.
 
 INVESTIGATING ENERGY IN OTHER PROCESSES 
 
