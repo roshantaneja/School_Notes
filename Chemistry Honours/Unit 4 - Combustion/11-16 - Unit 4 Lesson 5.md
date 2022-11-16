@@ -29,7 +29,7 @@ QUESTION:  Can any chemical reaction be used to fuel a car? Do all chemical rea
 
   
 
-PROCESSING LESSON 4 EXPERIMENT- EVAPORATION VS COMBUSTION OF ETHANOL:
+### PROCESSING LESSON 4 EXPERIMENT- EVAPORATION VS COMBUSTION OF ETHANOL:
 
 1.  Which process resulted in the greatest mass loss?
     Evaporation created the greatest mass loss
@@ -57,7 +57,7 @@ PROCESSING LESSON 4 EXPERIMENT- EVAPORATION VS COMBUSTION OF ETHANOL:
 
 3.
 
-APPLYING RESULTS TO ENGINE MODEL 
+### APPLYING RESULTS TO ENGINE MODEL 
 
 5.  How would you use this information to revise our working model to explain how fuel makes an engine work (and therefore a car move)? Keep in mind that ethanol is added to gasoline. Consider...
     
@@ -101,7 +101,7 @@ APPLYING RESULTS TO ENGINE MODEL 
   
   
 
-DEMO - TWO SALTS IN A ZIPLOC BAG
+### DEMO - TWO SALTS IN A ZIPLOC BAG
 
   
 
