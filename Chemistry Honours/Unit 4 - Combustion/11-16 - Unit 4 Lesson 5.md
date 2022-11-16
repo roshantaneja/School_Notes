@@ -121,9 +121,9 @@ INVESTIGATING ENERGY IN OTHER PROCESSES 
 
 Materials
 
--   3-Thermometers
+-   3-Thermometers -
     
--   1-Ring Stand
+-   1-Ring Stand - 
     
 -   1-Thermometer clamps
     
@@ -133,7 +133,6 @@ Materials
     
 -   100 mL graduated cylinder
     
-
 -   250 mL beaker for distilled water
     
 -   Ammonium nitrate, NH4NO3
