@@ -105,7 +105,7 @@ QUESTION:  Can any chemical reaction be used to fuel a car? Do all chemical rea
 
   
 
-Ba(OH)2·8H2O(s)  +  NH4Cl(s)  →  BaCl2·2H2O(s)  +  2NH3(aq)  +  8H2O(l)
+Ba(OH)2·8H2O(s)  +  NH4Cl(s)  →  BaCl2·2(H2O)(s)  +  2NH3(aq)  +  8H2O(l)
 
   
 
