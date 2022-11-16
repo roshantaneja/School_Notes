@@ -117,7 +117,7 @@ Ba(OH)2·8H2O(s)  +  NH4Cl(s)  →  BaCl2·2(H2O)(s)  +  2NH3(aq)  +  8H
 3.  In which direction did heat move in this reaction? 
     From your hand to the reaction, the heat is moving into the bag.
 
-INVESTIGATING ENERGY IN OTHER PROCESSES 
+#### INVESTIGATING ENERGY IN OTHER PROCESSES 
 
 Materials
 
@@ -184,7 +184,7 @@ Procedure
 
   
 
-Data
+#### Data
 
 <center> Mass and Volume Measurements </center>
 
@@ -216,17 +216,15 @@ Data
 
   
 
-RESULTS/ANALYSIS
+#### RESULTS/ANALYSIS
 
 7.  For each substance, look at the data table and record the highest temperature and lowest temperature.
 
 | Substances       | Highest temperature (ºC) | Lowest temperature(ºC) |
 | ---------------- | ------------------------ | ---------------------- |
-| Ammonium Nitrate |                          |                        |
-| Calcium Chloride |                          |                        |
-| Water            |                          |                        |
-
-  
+| Ammonium Nitrate | 14.8                     | 12.6                   |
+| Calcium Chloride | 24.7                     | 23.7                   |
+| Water            | 19.1                     | 18.6                   | 
 
 8. 
 	a)  An exothermic process or reaction releases energy. Which solution released heat or was “exothermic”?
@@ -271,7 +269,7 @@ RESULTS/ANALYSIS
   
   
 
-NEXT STEPS:
+### NEXT STEPS:
 
 1.  Reflect on today’s question: Could any chemical reaction be used to fuel a car? Do all chemical reactions “release” energy?
     
@@ -282,7 +280,7 @@ NEXT STEPS:
 
   
 
-REVIEW & REINFORCE:
+### REVIEW & REINFORCE:
 
 Use the following sections of the textbook to help you review materials that were covered in this lesson  
 
@@ -298,5 +296,4 @@ Use the following sections of the textbook to help you review materials that wer
     
 -   Section 17.4 - [Endothermic](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/17.4/primary/lesson/endothermic-reactions-ms-ps/)
     
-
-Section 17.5 - [Exothermic and Endothermic Processes](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/17.5/primary/lesson/exothermic-and-endothermic-processes-chem/)
+- Section 17.5 - [Exothermic and Endothermic Processes](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/17.5/primary/lesson/exothermic-and-endothermic-processes-chem/)
