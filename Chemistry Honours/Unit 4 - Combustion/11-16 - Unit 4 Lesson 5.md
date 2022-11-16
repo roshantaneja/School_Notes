@@ -190,7 +190,7 @@ Data
 
 | Beaker Number | Substance        | Volume of H2O (mL) | Mass (g) of solute |
 | ------------- | ---------------- | ------------------ | ------------------ |
-| 1             | Ammonium Nitrate |                    |                    |
+| 1             | Ammonium Nitrate |                    | 4.37g              | 
 | 2             | Calcium Chloride |                    |                    |
 | 3             | Water Only       |                    |                    |
 
