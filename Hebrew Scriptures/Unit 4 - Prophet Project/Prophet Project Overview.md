@@ -107,13 +107,16 @@ Exegesis. Use your notes to complete the “Exegesis Questions.” Type your fin
 Exegesis Questions:
 
 1. What is going on (plot) in the passage? (3-4 sentences)
-    In the passage, Ezekiel experiences a vision of a valley of dry bones. He speaks to god and tells him that he believes that the bones will never live again. God tells them to 
+    
+	In the passage, Ezekiel experiences a vision of a valley of dry bones. He speaks to god and tells him that he believes that the bones will never live again. God tells them to 
 2. When, where, and under what circumstances was the passage written? (3-4 sentences)
-    This passage was written during his captivity in Babylon. It was a compilation of prophetic texts written by Ezekiel that were collected after his death and compiled into the book.
+    
+	This passage was written during his captivity in Babylon. It was a compilation of prophetic texts written by Ezekiel that were collected after his death and compiled into the book.
 3. How did the prophet or author’s life circumstances affect the shaping of the text? (3-4 sentences)
-    Ezekiel was alive during the fall of Israel into the hands of the Babylonians. The vision he experienced explains that god will eventually restore the house of Israel to its former status, but only if the people of Israel begin to believe in god once again.
+    
+	Ezekiel was alive during the fall of Israel into the hands of the Babylonians. The vision he experienced explains that god will eventually restore the house of Israel to its former status, but only if the people of Israel begin to believe in god once again.
 4. Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
-    The original audience of the prophets message
+    The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians. 
 5. What central message(s) is the author trying to convey in the passage? (3-4 sentences)
     
 6. What words, images, and symbols are used, and what do they signify? (3-4 sentences)
