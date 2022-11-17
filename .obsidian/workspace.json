@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-                "mode": "source",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md"
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +119,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "19fc06cb04733a68",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Untitled.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "README.md",

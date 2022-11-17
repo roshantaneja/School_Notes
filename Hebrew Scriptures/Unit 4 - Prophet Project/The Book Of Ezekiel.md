@@ -2,11 +2,11 @@
 
 _The prophet Ezekiel is one of four Major Prophets along with [**Isaiah**](https://biblescripture.net/Isaiah.html), [**Jeremiah**](https://biblescripture.net/Jeremiah.html), and [**Daniel**](https://biblescripture.net/Daniel.html) in [**Hebrew**](https://biblescripture.net/Hebrew.html) Scripture, our Old Testament of the [**Bible**](https://biblescripture.net/Bible.html). The priest Ezekiel was the first prophet to be called by God outside of Israel during the Babylonian Exile. Deported to Babylon by the river Chebar in 597 BC, Ezekiel -_ **יְחֶזְקֵאל** _- was truly an exilic prophet, who foresaw both the Fall of Jerusalem in 586 BC, but also the Restoration of Israel and the Temple.  
   
-The central figure in the Book of Ezekiel is **God**. Chapter 1 of the book opens with a unique vision of the glory of the LORD (1:28). The phrase_ "You shall know that I am the LORD" _recurs 33 times throughout the text beginning at 6:7. While he punishes Israel for their idolatry and disobedience, his love for his creation mankind prevails in the end. God the Creator calls Ezekiel "Son of Man" 93 times. The Book of Ezekiel is generally divided into five parts: the Call of the Prophet (Chapters 1-3); Judgement until the Siege of Jerusalem (4-24); Judgement and Condemnation of Nations (25-32); Salvation for Israel (33-39); and the Restoration of Israel and the Temple (40-48).  
+The central figure in the Book of Ezekiel is **God**. ## CHAPTER 1 of the book opens with a unique vision of the glory of the LORD (1:28). The phrase_ "You shall know that I am the LORD" _recurs 33 times throughout the text beginning at 6:7. While he punishes Israel for their idolatry and disobedience, his love for his creation mankind prevails in the end. God the Creator calls Ezekiel "Son of Man" 93 times. The Book of Ezekiel is generally divided into five parts: the Call of the Prophet (## CHAPTERs 1-3); Judgement until the Siege of Jerusalem (4-24); Judgement and Condemnation of Nations (25-32); Salvation for Israel (33-39); and the Restoration of Israel and the Temple (40-48).  
   
-The Book is both esoteric and fascinating in many ways, such as the description of his prophetic call. His reference to the prophet as Watchman for Israel (3 and 33) serves as an admonition for all of us to be watchmen for our own lives and our loved ones, as well as for our neighbor. Cherubim, of the higher order of [**Angels**](https://maryourmother.net/Angels.html), figure in the Book: the Glory of the LORD left the Temple of Jerusalem and rested upon the Cherubim (10:18). Chapter 11:14-21 speaks of God's future Restoration of the Exiles. Ezekiel mentions three Biblical figures in a row as men of righteousness, Noah, Daniel, and Job (14:14 and 14:20). Ezekiel utilizes the parable_ **מָשָׁל** _- mashal - to convey his message, as seen in the Parable of the Two Eagles and Vine (17), and the Parable of the Pot (24). Ezekiel records the death of his wife in 24:18. God promises that, after his people have been led astray, He himself will shepherd his sheep (34:11-16), and give them a new heart and a new spirit (36:24-28).  
+The Book is both esoteric and fascinating in many ways, such as the description of his prophetic call. His reference to the prophet as Watchman for Israel (3 and 33) serves as an admonition for all of us to be watchmen for our own lives and our loved ones, as well as for our neighbor. Cherubim, of the higher order of [**Angels**](https://maryourmother.net/Angels.html), figure in the Book: the Glory of the LORD left the Temple of Jerusalem and rested upon the Cherubim (10:18). ## CHAPTER 11:14-21 speaks of God's future Restoration of the Exiles. Ezekiel mentions three Biblical figures in a row as men of righteousness, Noah, Daniel, and Job (14:14 and 14:20). Ezekiel utilizes the parable_ **מָשָׁל** _- mashal - to convey his message, as seen in the Parable of the Two Eagles and Vine (17), and the Parable of the Pot (24). Ezekiel records the death of his wife in 24:18. God promises that, after his people have been led astray, He himself will shepherd his sheep (34:11-16), and give them a new heart and a new spirit (36:24-28).  
   
-His Vision of the Dry Bones in Chapter 37 as a symbol of the Restoration of Israel - and the Resurrection of the Dead - is perhaps the best known passage of Ezekiel.  
+His Vision of the Dry Bones in ## CHAPTER 37 as a symbol of the Restoration of Israel - and the Resurrection of the Dead - is perhaps the best known passage of Ezekiel.  
   
 Ezekiel of all the prophets is noteworthy for providing the timing of events. In the traditional way, Ezekiel noted the time of the fall of Jerusalem in 33:21, "on the fifth day of the tenth month, in the twelfth year of our exile."  
   
@@ -22,13 +22,13 @@ The following Scripture is the Authorized King James Version of the Holy Bible, 
 
   
   
-
-## THE BOOK OF THE PROPHET EZEKIEL
+THE BOOK OF THE PROPHET EZEKIEL
+=
 
   
   
 
-## CALL OF THE PROPHET
+# CALL OF THE PROPHET
 
   
 
@@ -62,7 +62,7 @@ The following Scripture is the Authorized King James Version of the Holy Bible, 
 
   
 
-CHAPTER 3
+## CHAPTER 3
 
 1 Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel. 2 So I opened my mouth, and he caused me to eat that roll. 3 And he said unto me, Son of man, cause thy belly to eat, and fill thy stomach with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness. 4 And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.  
   
@@ -87,11 +87,11 @@ CHAPTER 3
   
   
 
-## JUDGEMENT AND CONDEMNATION OF ISRAEL
+# JUDGEMENT AND CONDEMNATION OF ISRAEL
 
   
 
-CHAPTER 4
+## CHAPTER 4
 
 ### Acts Symbolic of Siege and Exile
 
@@ -103,7 +103,7 @@ CHAPTER 4
 
   
 
-CHAPTER 5
+## CHAPTER 5
 
 1 And thou, son of man, take thee a sharp knife, take thee a barber's rasor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weight, and divide the hair. 2 Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, and smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them. 3 Thou shalt also take thereof a few in number, and bind them in thy skirts. 4 Then take of them again, and cast them into the midst of the fire, and burn them in the fire; for thereof shall a fire come forth into all the house of Israel.  
   
@@ -115,7 +115,7 @@ CHAPTER 5
 
   
 
-CHAPTER 6
+## CHAPTER 6
 
 ### Against the Mountains of Israel
 
@@ -129,7 +129,7 @@ CHAPTER 6
 
   
 
-CHAPTER 7
+## CHAPTER 7
 
 ### The End Has Come
 
@@ -147,7 +147,7 @@ and ye shall know that I am the LORD.
 
   
 
-CHAPTER 8
+## CHAPTER 8
 
 ### Vision of Abominations in the Temple
 
@@ -161,7 +161,7 @@ CHAPTER 8
 
   
 
-CHAPTER 9
+## CHAPTER 9
 
 ### Slaughter of the Idolaters
 
@@ -177,7 +177,7 @@ CHAPTER 9
 
   
 
-CHAPTER 10
+## CHAPTER 10
 
 ### God's Glory Leaves Jerusalem
 
@@ -191,7 +191,7 @@ CHAPTER 10
 
   
 
-CHAPTER 11
+## CHAPTER 11
 
 ### Judgment of the Princes
 
@@ -219,7 +219,7 @@ and I will give you the land of Israel.
 
   
 
-CHAPTER 12
+## CHAPTER 12
 
 ### Acts Symbolic of the Exile
 
@@ -241,7 +241,7 @@ CHAPTER 12
 
   
 
-CHAPTER 13
+## CHAPTER 13
 
 ### Against the Prophets of Peace
 
@@ -261,7 +261,7 @@ CHAPTER 13
 
   
 
-CHAPTER 14
+## CHAPTER 14
 
 ### Prophecy Useless for Idolaters
 
@@ -287,7 +287,7 @@ they shall but deliver their own souls by their righteousness.
 
   
 
-CHAPTER 15
+## CHAPTER 15
 
 ### Allegory of the Vine
 
@@ -295,7 +295,7 @@ CHAPTER 15
 
   
 
-CHAPTER 16
+## CHAPTER 16
 
 ### The Faithless Spouse
 
@@ -321,7 +321,7 @@ CHAPTER 16
 
   
 
-CHAPTER 17
+## CHAPTER 17
 
 ### Parable of the Eagles and Vine
 
@@ -367,7 +367,7 @@ I the LORD have spoken and have done it.
 
   
 
-CHAPTER 18
+## CHAPTER 18
 
 ### Personal Responsibility
 
@@ -387,7 +387,7 @@ CHAPTER 18
 
   
 
-CHAPTER 19
+## CHAPTER 19
 
 ### Allegory of the Lions
 
@@ -423,7 +423,7 @@ This is a lamentation, and shall be for a lamentation.
 
   
 
-CHAPTER 20
+## CHAPTER 20
 
 ### Israel's History of Infidelity
 
@@ -449,7 +449,7 @@ CHAPTER 20
 
   
 
-CHAPTER 21
+## CHAPTER 21
 
 ### The Sword of the Lord
 
@@ -490,7 +490,7 @@ to lift up the voice with shouting, to appoint battering rams against the gates,
 
   
 
-CHAPTER 22
+## CHAPTER 22
 
 ### Crimes of Jerusalem
 
@@ -504,7 +504,7 @@ CHAPTER 22
 
   
 
-CHAPTER 23
+## CHAPTER 23
 
 ### The Two Sisters
 
@@ -528,7 +528,7 @@ CHAPTER 23
 
   
 
-CHAPTER 24
+## CHAPTER 24
 
 ### Parable of the Pot
 
@@ -555,11 +555,11 @@ Set on a pot, set it on, and also pour water into it: 4 Gather the pieces thereo
   
   
 
-## JUDGEMENT OF FOREIGN NATIONS
+# JUDGEMENT OF FOREIGN NATIONS
 
   
 
-CHAPTER 25
+## CHAPTER 25
 
 1 The word of the LORD came again unto me, saying, 2 Son of man, set thy face against the Ammonites, and prophesy against them; 3 And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity; 4 Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk. 5 And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the LORD.  
   
@@ -573,7 +573,7 @@ CHAPTER 25
 
   
 
-CHAPTER 26
+## CHAPTER 26
 
 ### The City of Tyre
 
@@ -593,7 +593,7 @@ yea, the isles that are in the sea shall be troubled at thy departure.
 
   
 
-CHAPTER 27
+## CHAPTER 27
 
 ### Lament over Tyre
 
@@ -649,7 +649,7 @@ and never shalt be any more.
 
   
 
-CHAPTER 28
+## CHAPTER 28
 
 ### The Prince of Tyre
 
@@ -706,7 +706,7 @@ thou shalt be a terror, and never shalt thou be any more.
 
   
 
-CHAPTER 29
+## CHAPTER 29
 
 ### Egypt
 
@@ -735,7 +735,7 @@ and when they leaned upon thee, thou brakest, and madest all their loins to be a
 
   
 
-CHAPTER 30
+## CHAPTER 30
 
 ### Judgement of Egypt
 
@@ -747,7 +747,7 @@ CHAPTER 30
 
   
 
-CHAPTER 31
+## CHAPTER 31
 
 ### Allegory of the Cedar
 
@@ -778,7 +778,7 @@ so that all the trees of Eden, that were in the garden of God, envied him.
 
   
 
-CHAPTER 32
+## CHAPTER 32
 
 ### Dirges Over Pharaoh and Egypt
 
@@ -814,11 +814,11 @@ I will cover the sun with a cloud, and the moon shall not give her light.
   
   
 
-## SALVATION FOR ISRAEL
+# SALVATION FOR ISRAEL
 
   
 
-CHAPTER 33
+## CHAPTER 33
 
 ### The Prophet a Watchman
 
@@ -847,7 +847,7 @@ that one that had escaped out of Jerusalem came unto me, saying, The city is smi
 
   
 
-CHAPTER 34
+## CHAPTER 34
 
 ### Woe to The Shepherds of Israel
 
@@ -867,7 +867,7 @@ CHAPTER 34
 
   
 
-CHAPTER 35
+## CHAPTER 35
 
 ### Against Edom
 
@@ -879,7 +879,7 @@ CHAPTER 35
 
   
 
-CHAPTER 36
+## CHAPTER 36
 
 ### Regeneration of the Land
 
@@ -906,7 +906,7 @@ and I will take away the stony heart out of your flesh, and I will give you an h
 
   
 
-CHAPTER 37
+## CHAPTER 37
 
 ### Vision of the Dry Bones
 
@@ -929,7 +929,7 @@ and I will place them, and multiply them, and will set my sanctuary in the midst
 
   
 
-CHAPTER 38
+## CHAPTER 38
 
 ### First Prophecy Against Gog
 
@@ -945,7 +945,7 @@ and they shall know that I am the LORD.
 
   
 
-CHAPTER 39
+## CHAPTER 39
 
 ### Second Prophecy Against Gog
 
@@ -968,11 +968,11 @@ CHAPTER 39
   
   
 
-## THE NEW ISRAEL
+# THE NEW ISRAEL
 
   
 
-CHAPTER 40
+## CHAPTER 40
 
 ### The Man with a Measure
 
@@ -1008,7 +1008,7 @@ in the tenth day of the month, in the fourteenth year after that the city was sm
 
   
 
-CHAPTER 41
+## CHAPTER 41
 
 1 Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tabernacle. 2 And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits.  
   
@@ -1022,7 +1022,7 @@ CHAPTER 41
 
   
 
-CHAPTER 42
+## CHAPTER 42
 
 ### Other Structures
 
@@ -1032,7 +1032,7 @@ CHAPTER 42
 
   
 
-CHAPTER 43
+## CHAPTER 43
 
 ### The Return of the Lord
 
@@ -1058,7 +1058,7 @@ and, behold, the **glory of the LORD** filled the house.
 
   
 
-CHAPTER 44
+## CHAPTER 44
 
 ### The Closed Gate
 
@@ -1078,7 +1078,7 @@ CHAPTER 44
 
   
 
-CHAPTER 45
+## CHAPTER 45
 
 ### The Sacred Tract
 
@@ -1096,7 +1096,7 @@ CHAPTER 45
 
   
 
-CHAPTER 46
+## CHAPTER 46
 
 ### Sabbaths
 
@@ -1112,7 +1112,7 @@ CHAPTER 46
 
   
 
-CHAPTER 47
+## CHAPTER 47
 
 ### The Wonderful Stream
 
@@ -1126,7 +1126,7 @@ CHAPTER 47
 
   
 
-CHAPTER 48
+## CHAPTER 48
 
 1 Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan. 2 And by the border of Dan, from the east side unto the west side, a portion for Asher. 3 And by the border of Asher, from the east side even unto the west side, a portion for Naphtali. 4 And by the border of Naphtali, from the east side unto the west side, a portion for Manasseh. 5 And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim. 6 And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben. 7 And by the border of Reuben, from the east side unto the west side, a portion for Judah.
 
@@ -1141,9 +1141,5 @@ CHAPTER 48
 ### The Gates of the City
 
 30 And these are the goings out of the city on the north side, four thousand and five hundred measures. 31 And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi. 32 And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan. 33 And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun. 34 At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali. 35 It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.
-
-  
-  
-  
 
 ### [THE BIBLE](https://biblescripture.net/Bible.html)

@@ -91,61 +91,15 @@ Exegesis Questions (Notes Page)
   
   
 
-Name of Prophet
-
-Passage
-
-Elijah
-
-1 Kings 17:1-16 
-
-1 Kings 19:1-18 
-
-1 Kings 21:1-29 
-
-Amos
-
-Amos 4:1-12 
-
-Amos 5:7-17 
-
-Amos 5:18-27 
-
-Hosea
-
-Hosea 2: 1-25 
-
-Hosea 11:1-11 
-
-Hosea 14:1-10 
-
-Isaiah
-
-Isaiah 2:1-5 
-
-Isaiah 11:1-9 
-
-Micah
-
-Micah 4:1-7 
-
-Micah 6:6-8 
-
-Jeremiah
-
-Jeremiah 1:1-19 
-
-Jeremiah 10:1-16 
-
-Ezekiel
-
-Ezekiel 2:1-3:4 
-
-Ezekiel 37:1-14 
-
-Commentary #1 - Title and Author
-
-Commentary #2 - Title and Author
+| Name of Prophet | Passage                                                                |
+| --------------- | ---------------------------------------------------------------------- |
+| Elijah          | 1 Kings 17:1-16 - Lex<br>1 Kings 19:1-18 - Leah<br>1 Kings 21:1-29     |
+| Amos            | Amos 4:1-12 Ariv <br>Amos 5:7-17 <br>Ebo Amos 5:18-27                  |
+| Hosea           | Hosea 2: 1-25 Cade<br>Hosea 11:1-11 Damon<br>Hosea 14:1-10             |
+| Isaiah          | Isaiah 2:1-5 Curtis<br>Isaiah 11:1-9 Greg                              |
+| Micah           | Micah 4:1-7 Meredith<br>Micah 6:6-8 Matthew                            |
+| Jerimiah        | Jeremiah 1:1-19 John<br>Jeremiah 10:1-16 Mia                           |
+| Ezekiel         | Ezekiel 2:1-3:4 Ellie<br>Ezekiel 4:1-8 Chase<br>Ezekiel 37:1-14 Roshan |
 
 #### Step 2b
 Exegesis. Use your notes to complete the “Exegesis Questions.” Type your final responses.  
