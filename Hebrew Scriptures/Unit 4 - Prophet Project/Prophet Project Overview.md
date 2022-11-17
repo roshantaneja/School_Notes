@@ -19,19 +19,19 @@ B. Scholarly Exegetical Outline on an assigned passage from your prophet.  Use 
 C. Modern Application of the prophetic message. Use your creativity to reimagine your prophet’s message for the world today.
 
 Elijah
-	Lex, Leah
+> Lex, Leah
 Amos
-	Ariv, Ebo
+> Ariv, Ebo
 Hosea
-	Cade, Damon
+> Cade, Damon
 Isaiah
-	Curtis, Greg
+> Curtis, Greg
 Micah
-	Meredith, Matthew
+> Meredith, Matthew
 Jeremiah
-	John, Mia
+> John, Mia
 Ezekial
-	Ellie, Chase, Roshan
+> Ellie, Chase, Roshan
   
 
 ### Requirements: 
@@ -94,7 +94,7 @@ Exegesis Questions (Notes Page)
 | Name of Prophet | Passage                                                                |
 | --------------- | ---------------------------------------------------------------------- |
 | Elijah          | 1 Kings 17:1-16 - Lex<br>1 Kings 19:1-18 - Leah<br>1 Kings 21:1-29     |
-| Amos            | Amos 4:1-12 Ariv <br>Amos 5:7-17 <br>Ebo Amos 5:18-27                  |
+| Amos            | Amos 4:1-12 Ariv <br>Amos 5:7-17 Ebo<br>Amos 5:18-27                  |
 | Hosea           | Hosea 2: 1-25 Cade<br>Hosea 11:1-11 Damon<br>Hosea 14:1-10             |
 | Isaiah          | Isaiah 2:1-5 Curtis<br>Isaiah 11:1-9 Greg                              |
 | Micah           | Micah 4:1-7 Meredith<br>Micah 6:6-8 Matthew                            |

@@ -6,15 +6,16 @@
       {
         "id": "d2ecc3a31b144406",
         "type": "tabs",
+        "dimension": 44.81175390266299,
         "children": [
           {
-            "id": "19fc06cb04733a68",
+            "id": "e1e16d2f69c96f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
-                "mode": "preview",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -22,6 +23,26 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "8c264052187148d1",
+        "type": "tabs",
+        "dimension": 55.188246097337,
+        "children": [
+          {
+            "id": "b046184c7107cb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
               }
             }
           },
@@ -108,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +140,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "19fc06cb04733a68",
+  "active": "e1e16d2f69c96f56",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Untitled.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "README.md",
     "History/Unit 2/Final Writing Assignment.md"
