@@ -106,23 +106,23 @@ Exegesis. Use your notes to complete the “Exegesis Questions.” Type your fin
 
 Exegesis Questions:
 
-1.  What is going on (plot) in the passage? (3-4 sentences)
+1. What is going on (plot) in the passage? (3-4 sentences)
+    In the passage, Ezekiel experiences a vision of a valley of dry bones. He speaks to god and tells him that he believes that the bones will never live again. God tells them to 
+2. When, where, and under what circumstances was the passage written? (3-4 sentences)
     
-2.  When, where, and under what circumstances was the passage written? (3-4 sentences)
+3. How did the prophet or author’s life circumstances affect the shaping of the text? (3-4 sentences)
     
-3.  How did the prophet or author’s life circumstances affect the shaping of the text? (3-4 sentences)
+4. Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
     
-4.  Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
+5. What central message(s) is the author trying to convey in the passage? (3-4 sentences)
     
-5.  What central message(s) is the author trying to convey in the passage? (3-4 sentences)
+6. What words, images, and symbols are used, and what do they signify? (3-4 sentences)
     
-6.  What words, images, and symbols are used, and what do they signify? (3-4 sentences)
+7. What is the literary form or “genre” of the passage? (3-4 sentences)
     
-7.  What is the literary form or “genre” of the passage? (3-4 sentences)
+8. What other information is necessary to understand the text? (3-4 sentences)
     
-8.  What other information is necessary to understand the text? (3-4 sentences)
-    
-9.  Two Sources:
+9. Two Sources:
 
 10. Bibiography: Author Last Name, Author First Name. Title of work: Capital letter also for subtitle. Publisher, Year Published.
 
