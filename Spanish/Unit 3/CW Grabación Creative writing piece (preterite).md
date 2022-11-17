@@ -11,7 +11,7 @@ A las 8:00 de la mañana me desperté y miré la hora.
 
 Me desperté rápidamente y me preparé para la escuela.
 
-A las 8:05 me cambié y me lavé los dientes.
+A las 8:05 me cambié y me ceppille los dientes.
 
 A las 8:10 empaqué mi mochila.
 
@@ -21,6 +21,7 @@ A las 8:15 desayuno huevos y leche.
 
 A las 8:20 no encontré mis zapatos en la casa, pero los encontré en el 
 auto.
+
 A las 8:25 yo estuve listo para ir.
 
 En 5 minutos, yo corrí a la escuela muy rápido.
