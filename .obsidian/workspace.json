@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ecc3a31b144406",
-        "type": "tabs",
-        "dimension": 55.83103764921947,
-        "children": [
-          {
-            "id": "e1e16d2f69c96f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "8c264052187148d1",
         "type": "tabs",
-        "dimension": 44.168962350780525,
         "children": [
           {
             "id": "b046184c7107cb1b",
@@ -41,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5117552f62129cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+                "file": "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md"
               }
             }
           },
@@ -129,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +135,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b046184c7107cb1b",
+  "active": "5117552f62129cce",
   "lastOpenFiles": [
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
@@ -153,7 +146,6 @@
     "Untitled.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "README.md",
-    "History/Unit 2/Final Writing Assignment.md"
+    "README.md"
   ]
 }
