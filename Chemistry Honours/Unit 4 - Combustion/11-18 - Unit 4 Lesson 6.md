@@ -43,7 +43,10 @@ Complete L4.7 homework assignment (posted in schoology) over break and review le
 
 4.  We will use the set-up above to physically model energy changes associated with bond making and bond breaking. Play with the system and answer the following about the model:
 	1. What represents the atoms?
+		The marbles!
 	2. What represents the bond?
+		
+		
 	3.  Where is the kinetic energy?
 	4.  In your set-up, what action or movement represents bonds
 	5.  In your set-up, what action or movement represents bonds breaking?
