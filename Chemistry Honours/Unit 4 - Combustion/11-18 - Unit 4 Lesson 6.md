@@ -50,7 +50,6 @@ Complete L4.7 homework assignment (posted in schoology) over break and review le
 		The angle of the ruler
 	4.  In your set-up, what action or movement represents bonds
 		When the marble and the other part have 
-	
 	5.  In your set-up, what action or movement represents bonds breaking?
 		Separating the magnet and the marble
   
@@ -59,6 +58,7 @@ Complete L4.7 homework assignment (posted in schoology) over break and review le
 
 5.  Record Observations:
 	1. Form a bond between two atoms and take note of the change in energy in the model. Record your observations in the chart below.
+		
 	2. Break a bond between two atoms and take note of the change in energy in the model. Record your observations in the chart below.
 
   
@@ -97,7 +97,7 @@ Breaking a Bond
 		4.  Would a stronger magnet require more energy?
 		5.  If the magnet was stronger, what would that represent in our model?
 
-7.  Describe what is happening with the graphs below.  Write one sentence for what is happening with the speed of the marble during breaking bonds.  Write one sentence for what is happening with the speed of the marble during making bonds.   
+7.  Describe what is happening with the graphs below.  Write one sentence for what is happening with the speed of the marble during breaking bonds.  Write one sentence for what is happening with the speed of the marble during making bonds.
 
 8.  We have been physically manipulating our models and putting energy into the system to rearrange particles. However, we know that realistically atoms are too small to be manipulated and rearranged in this way and therefore our current model is limited in its accuracy. 
 	1.  How do atoms normally move and interact? (Hint: Do they move on a ruler track?)
