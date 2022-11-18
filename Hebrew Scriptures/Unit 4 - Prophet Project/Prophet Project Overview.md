@@ -176,7 +176,8 @@ For a symbolic image:
 For a playlist - Create a 3-song playlist that captures the spirit or message of your prophet.
 
 1.  For each song include title/artist/ link to song/lyrics
-	
+	- Feel Like God - gazzy, framed
+	- 
 	
 2.  Explain specifically why the song you chose is important/appropriate for your prophet (1-2 sentences per song)
     

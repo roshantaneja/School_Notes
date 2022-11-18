@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -122,7 +123,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd1a80e65882696d",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
