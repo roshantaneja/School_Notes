@@ -13,26 +13,20 @@ C. Modern Application of the prophetic message. Use your creativity to reimagine
 Elijah
 > Lex, Leah
 
-
 Amos
 > Ariv, Ebo
-
 
 Hosea
 > Cade, Damon
 
-
 Isaiah
 > Curtis, Greg
-
 
 Micah
 > Meredith, Matthew
 
-
 Jeremiah
 > John, Mia
-
 
 Ezekial
 > Ellie, Chase, Roshan
@@ -58,26 +52,7 @@ Step 3 – Modern Application.  Now that you have spent two days exploring your
 
 ---
 <center>Prophet Profile</center>
-=
-
-#### Step 1a
-Prophet Profile. Read and take notes on your prophet from the textbook, the Bible (introduction to your prophet’s book), ONE biblical resource book, and the “Bible Project” Video on Youtube.  You may not use other Internet sources.
-
-Prophet Profile Notes 
-
-Textbook:
-
-The Bible’s Introduction:
-
-ONE Biblical Resource Book
-
-Title and Author:
-
-Read Scripture Video
-
-
-#### Step 1b
-Prophet Profile. Use your notes to write responses to the “Prophet Profile Questions.” If you cannot answer some of the questions it means that you need to do more research. 
+= 
 
 Prophet Profile Questions
 
@@ -97,7 +72,7 @@ Prophet Profile Questions
     he was driven to communicate the word of god through his actions rather than his words. He often put off some unsettling and vivid messages through physical movement, and communication. Oftentimes, most people would consider him possessed by a demon, rather, he was possessed by god, and was driven to do these acts through the spirit of god. He shows us that even when exiled, god never left his people. Instead, he was still with the people. He shows us that the point of the exile was due to the infidelity of the Israelites to the covenant of god.
 
 ---
-<center>Exegetical Paragraph</center>
+<center>Exegetical Analysis</center>
 =
 
 #### Step 2a
@@ -126,21 +101,35 @@ Exegesis. Use your notes to complete the “Exegesis Questions.” Type your fin
 Exegesis Questions:
 
 1. What is going on (plot) in the passage? (3-4 sentences)
-    
+
 	In the passage, Ezekiel experiences a vision of a valley of dry bones. He speaks to god and tells him that he believes that the bones will never live again. God tells them to 
+
 2. When, where, and under what circumstances was the passage written? (3-4 sentences)
+
 	This passage was written during his captivity in Babylon. It was a compilation of prophetic texts written by Ezekiel that were collected after his death and compiled into the book.
+
 3. How did the prophet or author’s life circumstances affect the shaping of the text? (3-4 sentences)
+
 	Ezekiel was alive during the fall of Israel into the hands of the Babylonians. The vision he experienced explains that god will eventually restore the house of Israel to its former status, but only if the people of Israel begin to believe in god once again.
+
 4. Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
-    The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians. 
+
+    The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians.
+
 5. What central message(s) is the author trying to convey in the passage? (3-4 sentences)
+
     Through the metaphor of dry bones regaining life, Ezekiel shows how god never left his people. even in a time of great despair like the Babylonian exile, god still remained with his people. 
+
 6. What words, images, and symbols are used, and what do they signify? (3-4 sentences)
-    The imagery of god breathing life back into the dry bones, and the sinews and flesh covered them just through hearing the word of god. God tells Ezekiel that the bones were the house of Israel, 
+
+    The imagery of god breathing life back into the dry bones, and the sinews and flesh covered them just through hearing the word of god. God tells Ezekiel that the bones were the house of Israel, and they will once again be restored when they begin to act faithful in the eyes of god.
+
 7. What is the literary form or “genre” of the passage? (3-4 sentences)
+
     The vision of dry bones was a prophetic account from Ezekiel himself. The passage is written in first person, making it seem like Ezekiel himself is telling you of this revelation himself.
+
 8. What other information is necessary to understand the text? (3-4 sentences)
+
     During the time of the exile, much of Israel regarded Ezekiel as insane, or filled with the spirit of the devil. because of this, he was often called insane and disregarded by the rest of the people. But when the Babylonians actually came to Israel and conquered all of the Israelites, Ezekiel's message was actually heard. Much of this book was compiled after Ezekiel's imprisonment in Babylon.
 
 ---
@@ -149,40 +138,21 @@ Exegesis Questions:
 
 #### Step 3
 
-Modern Application.  You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet.
-	 
-For a modern day passage: write out your prophet’s message for today’s world in about 150 words. Write in the style of your prophet and in the first person. Think about the following questions before writing:
-
-1.  What issue would your prophet address today?
-    
-2.  What would he say about this issue?
-    
-3.  How did your prophet speak? (Visions, prose, verse, dramatic actions, etc…)
-    
-4.  What imagery was used? What imagery can you use today?
-    
-
-  
-
-For a symbolic image:
-
-1.  Depict the prophet and 3-4 symbols relevant to the life and message of the prophet
-    
-2.  Explain specifically why you chose the symbols that you did (1-2 sentences per symbol)
-    
-
-  
-
-For a playlist - Create a 3-song playlist that captures the spirit or message of your prophet.
-
 [Playlist Link](https://open.spotify.com/playlist/6yqyOxiiscd6yMaDtWSzEW?si=300b2730cbce4c28)
 
-1.  For each song include title/artist/ link to song/lyrics
-	- Feel Like God - gazzzy, framed
-	- I Feel It Coming - The Weeknd, Daft Punk
-	- Start a Riot - Duckwrth, Shaboozey
-	- GONE, GONE/THANK YOU - Tyler, The Creator
-	- Come Alive(Dry Bones) - Lauren Daigle
-	- Dream - Al Greene
-2.  Explain specifically why the song you chose is important/appropriate for your prophet (1-2 sentences per song)
-    
+
+- Feel Like God - gazzzy, framed
+
+	This song relates the call of Ezekiel to prophethood. He felt the spirit of god more violently than any other prophet, which I matched with the style of the song picked. The aggressive tone and sound of the music helps the listener experience the extreme emotions felt while being in the presence of god.
+
+- I Feel It Coming - The Weeknd, Daft Punk
+
+	The title of the song relates to how Ezekiel's prophetic visions helped him realize and warn the people of Israel that the Babylonians were coming. He could feel and understand that the end of the current Israel was coming and felt compelled to warn everyone.
+
+- Start a Riot - Duckwrth, Shaboozey
+
+	This song is very aggressive and symbolizes the riots and conquering of Israel by the Babylonians, but it also has a message about finding your inner hero in the toughest of times. 
+
+- GONE, GONE/THANK YOU - Tyler, The Creator
+- Come Alive(Dry Bones) - Lauren Daigle
+- Dream - Al Greene
