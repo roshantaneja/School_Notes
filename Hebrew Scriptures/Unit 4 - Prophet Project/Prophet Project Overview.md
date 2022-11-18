@@ -175,9 +175,14 @@ For a symbolic image:
 
 For a playlist - Create a 3-song playlist that captures the spirit or message of your prophet.
 
+[Playlist Link](https://open.spotify.com/playlist/6yqyOxiiscd6yMaDtWSzEW?si=300b2730cbce4c28)
+
 1.  For each song include title/artist/ link to song/lyrics
-	- Feel Like God - gazzy, framed
-	- 
-	
+	- Feel Like God - gazzzy, framed
+	- I Feel It Coming - The Weeknd, Daft Punk
+	- Start a Riot - Duckwrth, Shaboozey
+	- GONE, GONE/THANK YOU - Tyler, The Creator
+	- Come Alive(Dry Bones) - Lauren Daigle
+	- Dream - Al Greene
 2.  Explain specifically why the song you chose is important/appropriate for your prophet (1-2 sentences per song)
     
