@@ -45,11 +45,14 @@ Complete L4.7 homework assignment (posted in schoology) over break and review le
 	1. What represents the atoms?
 		The marbles!
 	2. What represents the bond?
-		
-		
+		The magnetic attraction between the marble and the magnet
 	3.  Where is the kinetic energy?
+		The angle of the ruler
 	4.  In your set-up, what action or movement represents bonds
+		When the marble and the other part have 
+	
 	5.  In your set-up, what action or movement represents bonds breaking?
+		Separating the magnet and the marble
   
 
 ### INVESTIGATION PART 1 
