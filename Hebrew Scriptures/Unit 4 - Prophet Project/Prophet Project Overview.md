@@ -118,9 +118,9 @@ Exegesis Questions:
 4. Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
     The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians. 
 5. What central message(s) is the author trying to convey in the passage? (3-4 sentences)
-    
+    Through the metaphor of dry bones regaining life, ezekiel shows how god never left his people. even in a time of great despair like the babylonian exile, god still remained with his people. 
 6. What words, images, and symbols are used, and what do they signify? (3-4 sentences)
-    
+    The imagery of the sinews 
 7. What is the literary form or “genre” of the passage? (3-4 sentences)
     
 8. What other information is necessary to understand the text? (3-4 sentences)

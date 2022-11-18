@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,8 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
               }
             }
           },
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,13 +134,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5117552f62129cce",
   "lastOpenFiles": [
-    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
