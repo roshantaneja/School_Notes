@@ -1,16 +1,8 @@
 The Prophet Project
-
-Hebrew Scriptures
-
-  
-
+=
+*Hebrew Scriptures*
 [https://www.youtube.com/watch?v=edcqUu_BtN0](https://www.youtube.com/watch?v=edcqUu_BtN0) “The Prophets”
-
-  
-
 Assignment:  This project has three components completed over 2.5 days.  All work can be done in class.
-
-  
 
 A. Prophet Profile on the prophet(s) assigned to you. Research the life and times of your prophet. Respond to the questions about your prophet.
 
@@ -20,16 +12,28 @@ C. Modern Application of the prophetic message. Use your creativity to reimagine
 
 Elijah
 > Lex, Leah
+
+
 Amos
 > Ariv, Ebo
+
+
 Hosea
 > Cade, Damon
+
+
 Isaiah
 > Curtis, Greg
+
+
 Micah
 > Meredith, Matthew
+
+
 Jeremiah
 > John, Mia
+
+
 Ezekial
 > Ellie, Chase, Roshan
   
@@ -138,12 +142,6 @@ Exegesis Questions:
     The vision of dry bones was a prophetic account from Ezekiel himself. The passage is written in first person, making it seem like Ezekiel himself is telling you of this revelation himself.
 8. What other information is necessary to understand the text? (3-4 sentences)
     During the time of the exile, much of Israel regarded Ezekiel as insane, or filled with the spirit of the devil. because of this, he was often called insane and disregarded by the rest of the people. But when the Babylonians actually came to Israel and conquered all of the Israelites, Ezekiel's message was actually heard. Much of this book was compiled after Ezekiel's imprisonment in Babylon.
-9. Two Sources:
-	
-	
-10. Bibliography: Author Last Name, Author First Name. Title of work: Capital letter also for subtitle. Publisher, Year Published.
-	
-
 
 ---
 <center>Modern Application</center>
@@ -178,7 +176,7 @@ For a symbolic image:
 For a playlist - Create a 3-song playlist that captures the spirit or message of your prophet.
 
 1.  For each song include title/artist/ link to song/lyrics
-
+	
 	
 2.  Explain specifically why the song you chose is important/appropriate for your prophet (1-2 sentences per song)
     
