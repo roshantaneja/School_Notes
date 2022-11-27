@@ -58,6 +58,7 @@ Step 3 – Modern Application.  Now that you have spent two days exploring your
 * WHO?  Name of Prophet 
 
 	Ezekiel
+
 * WHEN?  Time Period of the Prophet
 
 	597 BCE
