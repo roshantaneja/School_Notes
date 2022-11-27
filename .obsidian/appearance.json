@@ -2,10 +2,10 @@
   "accentColor": "",
   "translucency": false,
   "nativeMenus": true,
-  "baseFontSize": 12,
-  "monospaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Mono",
-  "interfaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 10,
+  "monospaceFontFamily": "Cascadia Mono,DejaVu Sans Mono",
+  "textFontFamily": "Cascadia Mono,DejaVu Sans Mono",
+  "interfaceFontFamily": "Cascadia Mono,DejaVu Sans Mono",
   "theme": "system",
   "showViewHeader": true
 }
