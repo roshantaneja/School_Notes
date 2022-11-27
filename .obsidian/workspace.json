@@ -29,7 +29,7 @@
                 "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -126,14 +126,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1a859783071e37a2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c3b884d8bc2c7e37",
   "lastOpenFiles": [
