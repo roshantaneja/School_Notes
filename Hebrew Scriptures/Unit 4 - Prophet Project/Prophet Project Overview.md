@@ -56,18 +56,30 @@ Step 3 – Modern Application.  Now that you have spent two days exploring your
 #### Prophet Profile Questions
 
 * WHO?  Name of Prophet 
+
 	Ezekiel
 * WHEN?  Time Period of the Prophet
+
     597 BCE
+
 * WHERE?  Where did your prophet preach?
+
     Temple of Jerusalem at the rebuilding after it was destroyed.
+
 * WHAT?  Describe the social and religious background at the time of your prophet. Politically? Religiously? Socially? Economically? Etc...Be specific; give names and places if relevant. (3-4 sentences)
+
 	This was during the Babylonian exile, so the people of Israel already had extreme prejudice against the people of Israel were incredibly hostile to him due to his relationship with the god who had exiled them.
+
 * WHAT?  What was your prophet’s main message(s)? Give details. (3-4 sentences)
+
 	Before the fall of the temple of Jerusalem, Ezekiel is telling the people of Israel that danger is coming and they will soon fall to the Babylonians. Nobody believes him until it actually happens. Once Jerusalem falls, he becomes more recognized by the people, and has visons about spiritual resurrection. 
+
 * HOW? What are some important or unique details about your prophet? For example, how he was received? What was his writing or preaching style? What images or symbols did he use? What else do we need to know about your prophet or the time period in which he lived to understand his message? (3-4 sentences)
+
     He was originally a priest and was able to speak the word of god by consuming a scroll. In addition to this consummation of a scroll, god would often command Ezekiel to speak to the people of Israel or perform certain acts.
+
 * WHY?  Why is your prophet significant? What religious truths does he teach us? Explain. (3-4 sentences)
+
     he was driven to communicate the word of god through his actions rather than his words. He often put off some unsettling and vivid messages through physical movement, and communication. Oftentimes, most people would consider him possessed by a demon, rather, he was possessed by god, and was driven to do these acts through the spirit of god. He shows us that even when exiled, god never left his people. Instead, he was still with the people. He shows us that the point of the exile was due to the infidelity of the Israelites to the covenant of god.
 
 ---
@@ -112,7 +124,7 @@ Exegesis Questions:
 
 4. Who were the original recipients of the prophet’s message?  What were their life circumstances? (2-3 sentences)
 
-    The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians.
+    The original audience of the prophets message were the captured Israelites that were oppressed by the Babylonians. During the time of the Babylonian exile, the Israelites were subjects of slavery and violence.
 
 5. What central message(s) is the author trying to convey in the passage? (3-4 sentences)
 
@@ -136,7 +148,9 @@ Exegesis Questions:
 
 #### Step 3
 
-[Playlist Link](https://open.spotify.com/playlist/6yqyOxiiscd6yMaDtWSzEW?si=300b2730cbce4c28)
+[**Playlist Link**](https://open.spotify.com/playlist/6yqyOxiiscd6yMaDtWSzEW?si=300b2730cbce4c28)
+
+<center>Playlist Overview</center>
 
 
 - Feel Like God - gazzzy, framed
@@ -153,7 +167,12 @@ Exegesis Questions:
 
 - GONE, GONE/THANK YOU - Tyler, The Creator
 
-	The title of the song comes 
+	The title of the song comes from the feeling of despair while the Israelites are rounded up and oppressed by the Babylonians. The song repeatedly says "my love is gone" - symbolizing that the Israelites have lost their love for god. But at the end of the song, it switches to the song thank you, where the tone switches to a much more hopeful beat. This gives hope that we may return back.
 
-- Come Alive(Dry Bones) - Lauren Daigle
-- Dream - Al Greene
+- Look Alive - SwuM
+
+	This song relates to Ezekiel's vision of the bones in the valley. the lyrics of the song talk about how drake believed that he would never return to music after he left, similar to how Ezekiel believed that the dry bones would never come alive. The title also relates to the song because as soon as Ezekiel spoke the word of god, the bones came to life.
+
+- Dream - Al Green
+
+	This song serves as a bookend to the story of Ezekiel. When he is imprisoned in Babylon, he believes that he has already served his purpose of bringing hope to the people of Israel that they will someday return back to the promised land. The song starts soft and ends rather dramatically, similar to the life of Ezekiel. The title also symbolizes the dream that someday they "will come again" just like Al Green says in the song.
