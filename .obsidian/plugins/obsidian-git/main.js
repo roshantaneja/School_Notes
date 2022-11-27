@@ -31086,7 +31086,7 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
     var _a2;
     this.showNotices();
     try {
-      if (!import_obsidian23.Platform.isDesktopApp) {
+      if (import_obsidian23.Platform.isDesktopApp) {
         this.gitManager = new SimpleGit(this);
         await this.gitManager.setGitInstance();
       } else {

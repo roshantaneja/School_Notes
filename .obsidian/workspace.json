@@ -24,13 +24,8 @@
             "id": "c3b884d8bc2c7e37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,14 +132,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c3b884d8bc2c7e37",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "History/Unit 2/Final Writing Assignment.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
