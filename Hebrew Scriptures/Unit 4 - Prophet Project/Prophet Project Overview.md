@@ -51,10 +51,9 @@ Step 2 - Exegesis. Read the passage and two commentaries to respond to the quest
 Step 3 – Modern Application.  Now that you have spent two days exploring your prophet in depth – background, main themes, style of prophesying – think about the world today.  If your prophet was alive and prophesying today what would his message be? How would he express God’s message to society? You can (1) write out a modern day passage from the perspective of your prophet that addresses a modern day injustice; or (2) create a symbolic image that depicts your prophet and his message; or (3) create a 3 song playlist that captures the spirit and message of your prophet. 
 
 ---
-<center>Prophet Profile</center>
-= 
+## <center>Prophet Profile</center>
 
-Prophet Profile Questions
+#### Prophet Profile Questions
 
 * WHO?  Name of Prophet 
 	Ezekiel
@@ -72,8 +71,7 @@ Prophet Profile Questions
     he was driven to communicate the word of god through his actions rather than his words. He often put off some unsettling and vivid messages through physical movement, and communication. Oftentimes, most people would consider him possessed by a demon, rather, he was possessed by god, and was driven to do these acts through the spirit of god. He shows us that even when exiled, god never left his people. Instead, he was still with the people. He shows us that the point of the exile was due to the infidelity of the Israelites to the covenant of god.
 
 ---
-<center>Exegetical Analysis</center>
-=
+## <center>Exegetical Analysis</center>
 
 #### Step 2a
 Exegesis. Read and take notes on the scripture passage that is assigned. Read and take notes on two biblical commentaries on the particular passage.  (You may not check out the commentaries.  You can take photos or copy the information you need for research.)
@@ -133,8 +131,8 @@ Exegesis Questions:
     During the time of the exile, much of Israel regarded Ezekiel as insane, or filled with the spirit of the devil. because of this, he was often called insane and disregarded by the rest of the people. But when the Babylonians actually came to Israel and conquered all of the Israelites, Ezekiel's message was actually heard. Much of this book was compiled after Ezekiel's imprisonment in Babylon.
 
 ---
-<center>Modern Application</center>
-=
+## <center>Modern Application</center>
+
 
 #### Step 3
 
@@ -154,5 +152,8 @@ Exegesis Questions:
 	This song is very aggressive and symbolizes the riots and conquering of Israel by the Babylonians, but it also has a message about finding your inner hero in the toughest of times. 
 
 - GONE, GONE/THANK YOU - Tyler, The Creator
+
+	
+
 - Come Alive(Dry Bones) - Lauren Daigle
 - Dream - Al Greene
