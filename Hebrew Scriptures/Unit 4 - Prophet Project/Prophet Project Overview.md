@@ -149,11 +149,11 @@ Exegesis Questions:
 
 - Start a Riot - Duckwrth, Shaboozey
 
-	This song is very aggressive and symbolizes the riots and conquering of Israel by the Babylonians, but it also has a message about finding your inner hero in the toughest of times. 
+	This song is very aggressive and symbolizes the riots and conquering of Israel by the Babylonians, but it also has a message about finding your inner hero in the toughest of times. The song reminds me of the violence that occurred during the conquering of Israel.
 
 - GONE, GONE/THANK YOU - Tyler, The Creator
 
-	
+	The title of the song comes 
 
 - Come Alive(Dry Bones) - Lauren Daigle
 - Dream - Al Greene
