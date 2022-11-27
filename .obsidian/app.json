@@ -4,7 +4,7 @@
   "showUnsupportedFiles": true,
   "showLineNumber": true,
   "rightToLeft": false,
-  "smartIndentList": false,
+  "smartIndentList": true,
   "showFrontmatter": true,
   "showIndentGuide": true,
   "showInlineTitle": true,

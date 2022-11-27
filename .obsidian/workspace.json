@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "90e67c34c8c320e9",
+        "id": "ad3038702eacbde0",
         "type": "tabs",
         "children": [
           {
-            "id": "1855f817e96cb059",
+            "id": "7806ff8a150b61ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Unit 2/Final Writing Assignment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3b884d8bc2c7e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Unit 2/Final Writing Assignment.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/Unit 2/Final Writing Assignment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Unit 2/Final Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,25 +112,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "61289bd2e5e2d27f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c3b884d8bc2c7e37",
+  "active": "7806ff8a150b61ca",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "History/Unit 2/Final Writing Assignment.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
-    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md"
+    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
+    "History/Unit 2/Final Writing Assignment.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md"
   ]
 }
