@@ -11,8 +11,13 @@
             "id": "7806ff8a150b61ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
+              }
             }
           },
           {
@@ -100,17 +107,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "1a859783071e37a2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -118,6 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e25d97769d4c750",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
