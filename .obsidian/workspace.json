@@ -24,8 +24,13 @@
             "id": "c3b884d8bc2c7e37",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Unit 2/Final Writing Assignment.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Unit 2/Final Writing Assignment.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Unit 2/Final Writing Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +144,15 @@
   },
   "active": "c3b884d8bc2c7e37",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "History/Unit 2/Final Writing Assignment.md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "History/Unit 2/Final Writing Assignment.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel - Prophet Profile.md",
-    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
-    "Untitled.md"
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md"
   ]
 }

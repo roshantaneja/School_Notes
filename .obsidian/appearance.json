@@ -7,5 +7,6 @@
   "textFontFamily": "Cascadia Mono,DejaVu Sans Mono",
   "interfaceFontFamily": "Cascadia Mono,DejaVu Sans Mono",
   "theme": "system",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "cssTheme": "Obsidian Nord"
 }
