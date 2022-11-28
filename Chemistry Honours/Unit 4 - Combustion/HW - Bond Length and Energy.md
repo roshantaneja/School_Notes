@@ -1,6 +1,4 @@
-::HW- : What makes some bonds stronger and other bonds weaker?::
-
-  
+==HW: What makes some bonds stronger and other bonds weaker?==
 
 Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron Shells and Bond Length/Energy Chart](https://docs.google.com/document/d/1Z8IZoPStv40yWmrDEjkSEYnKK9HrlaerI0k95XmCNwI/edit?usp=sharing) and answer the following questions.
 

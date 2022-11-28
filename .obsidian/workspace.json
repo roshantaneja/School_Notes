@@ -63,10 +63,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "a959bf027545bed8",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
+    "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
-    "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "conflict-files-obsidian-git.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md"
+    "Hebrew Scriptures/Unit 3 Study Guide.md"
   ]
 }
