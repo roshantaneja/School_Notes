@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -115,14 +115,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "87ef5c7bb206ba4b",
+  "active": "73f9b4de6145b76f",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",

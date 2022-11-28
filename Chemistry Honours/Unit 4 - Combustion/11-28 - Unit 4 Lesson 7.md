@@ -92,22 +92,24 @@
 
 5.  To answer part of our unit question of “Why does burning hydrogen release more energy than burning octane?”, we must look at the chemical reactions and the bonds forming and breaking. 
     1.  Using two model kits, in groups of four, model both chemical reactions. 
-    | Process                | Equation                               |
-    | ---------------------- | -------------------------------------- |
-    | Combustion of Hydrogen | H2 (l) + O2(l)→ H2O (g)                |
-    | Combustion of Octane   | C8H18 (l) + O2 (g) → H2O (g) + CO2 (g) | 
+    
+    | Process                | Equation                                    |
+    | ---------------------- | ------------------------------------------- |
+    | Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                   | 
+    | Combustion of Octane   | 1C8H18 (l) + 25O2 (g) → 9H2O (g) + 8CO2 (g) |
+	
 	2.  In your model count and record how many of each element you have on each side of the equation.
 	3.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
 	4.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
 		1.  Work with another two groups to model the balanced chemical equations for combustion.  Add to your model so that you have the same number count of each atom as products and reactants. Use this table to help you.
 		Balanced Chemical Equations - ELEMENT count
 		
-		| Process                | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
-		| ---------------------- | ------- | ----------------------------------- | ---------------------------------- |
-		| Combustion of Hydrogen | H       |                                     |                                    |
-		| Combustion of Hydrogen | O       |                                     |                                    |
-		| Combustion of Octane   | H       |                                     |                                    |
-		| Combustion of Octane   | O       |                                     |                                    |
+		| Process  | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
+		| -------- | ------- | -------------------------------------- | ------------------------------------- |
+		| Hydrogen | H       | 4                                      | 4                                     |
+		| Hydrogen | O       | 2                                      | 2                                     | 
+		| Octane   | H       | 18                                     | 18                                    |
+		| Octane   | O       | 50                                     | 50                                    |
 		
 		2.  Take and insert a photo of your group’s balanced chemical equations. 
 		    Photo of model of hydrogen combustion
