@@ -34,14 +34,8 @@
 
 1.  Let’s review what we figured out about covalent bonds. 
     
-
-1.  What happens to the electrons in the covalent bonds in molecules like CH4, CO2, H2, and H2O?
-    
-
-  
-
-2.  The octet rule says that atoms form bonds to fill their valence shells and achieve stability.  Complete the table for H, O, N, C.
-    
+	1.  What happens to the electrons in the covalent bonds in molecules like CH4, CO2, H2, and H2O?
+	2.  The octet rule says that atoms form bonds to fill their valence shells and achieve stability.  Complete the table for H, O, N, C.
 
 | Element Name | Element Symbol | No. Valence Electrons | No. Covalent Bonds |
 | ------------ | -------------- | --------------------- | ------------------ |
@@ -60,24 +54,10 @@
   
 
 2.  Let’s review what we figured out from our magnetic sphere investigations and from the bond energies and bond length charts.
-    
-
-1.  Atoms are composed of positively charged nuclei surrounded by a negatively charged cloud of electrons. When bonds form, the nuclei of one atom attract the electrons of another atom, pulling the atoms toward each other.  What is the definition of bond length?
-    
-
-  
-
-2.  What is the definition of bond energy?
-    
-
-  
-  
-
-3.  Revisit data from our last class on bond energy and bond length. What is the general relationship between bond energy and bond length?
-    
-
-  
-![](https://lh5.googleusercontent.com/q0Noq8QcWbKaVKI19MP1Q5dRde6hFZ5VJIIIq_imUu0XjQcHzZxSgFCzRzF2FYURkyNQOshjRNxp0o9TzzgMMY_oeUDcCUZ889ddprqOQaJP7JD-gB9ub0_kOghLppFqZCHOfgRxJg5l8WWlvZxqnN4welMDycTBYyY19csppNcGSRmeubpn8PWmsHd8ARTuSyI0o7YIMw)  
+    1.  Atoms are composed of positively charged nuclei surrounded by a negatively charged cloud of electrons. When bonds form, the nuclei of one atom attract the electrons of another atom, pulling the atoms toward each other.  What is the definition of bond length?
+    2.  What is the definition of bond energy?
+    3.  Revisit data from our last class on bond energy and bond length. What is the general relationship between bond energy and bond length?
+    ![](https://lh5.googleusercontent.com/q0Noq8QcWbKaVKI19MP1Q5dRde6hFZ5VJIIIq_imUu0XjQcHzZxSgFCzRzF2FYURkyNQOshjRNxp0o9TzzgMMY_oeUDcCUZ889ddprqOQaJP7JD-gB9ub0_kOghLppFqZCHOfgRxJg5l8WWlvZxqnN4welMDycTBYyY19csppNcGSRmeubpn8PWmsHd8ARTuSyI0o7YIMw)  
   
   
   
@@ -85,202 +65,53 @@
   
 
 3.  Let’s review what we learned from the lesson where we observed the temperature changes for two different chemical processes.
-    
-
-1.  What do we call reactions that result in a decrease in temperature?
-    
-
-  
-
-2.  What do we call reactions that result in an increase in temperature?
+    1.  What do we call reactions that result in a decrease in temperature?
+    2.  What do we call reactions that result in an increase in temperature?
     
 
   
 
 4.  Let’s recall what we learned about bond-breaking and bond-forming.  Think about a magnet coming together or being pulled apart.
-    
-
-1.  Does bond breaking require or release energy?
-    
-
-  
-
-2.  Is breaking bonds endothermic or exothermic?
-    
-
-  
-
-3.  Does bond making require or release energy?
-    
-
-  
-
-4.  Is forming bonds endothermic or exothermic?
+	1.  Does bond breaking require or release energy?
+	2.  Is breaking bonds endothermic or exothermic?
+	3.  Does bond making require or release energy?
+	4.  Is forming bonds endothermic or exothermic?
     
 
   
 
 5.  Below is a diagram of a bond forming and breaking of O2. 
+    ![](https://lh5.googleusercontent.com/a5KL4OlhZ6WQLrU-8UFku69Zu3ihq8tFIuLSYo6pG-VFm6Pi-MJL5vQI3BDlv_zVHWHO4KE1xGnmV7uSo0zNHN2hEX69r0dLCmp0JAZD1grT_cUKtqNgDyxnjIymbksoLwJRIgixq8uHUyHUw2zk8xo4zZh0RoQsoPIZAcwmcZPhZoXDLf2fjqDWyCM42FalCmA75VQNiA)
+    ![](https://lh5.googleusercontent.com/LUaNI5Lxv5V2dkgx6dwy_SO-p2u3XIQE3WC1YuBVDcvk29Y9rRc0xRmILXJBd_LI6sOi5dKBJ4WpFFEucaWVreZYHl71VDxEbTbjA0vCxYtfMCFSZpXSW-5qg7k28w20WszWSR78bb9hZuesePtrOVB8TNwn0ufsBBL6W60PtFIM3ZHvHzNgVrKf9D8SWwsQ4cxAaFOGTQ)
+    Images from: [MolView](https://molview.org/)
+    1.  What stays the same during bond formation and bond breaking? 
+    2.  What changes in bond formation and bond breaking?
     
 
-  
-
-![](https://lh5.googleusercontent.com/a5KL4OlhZ6WQLrU-8UFku69Zu3ihq8tFIuLSYo6pG-VFm6Pi-MJL5vQI3BDlv_zVHWHO4KE1xGnmV7uSo0zNHN2hEX69r0dLCmp0JAZD1grT_cUKtqNgDyxnjIymbksoLwJRIgixq8uHUyHUw2zk8xo4zZh0RoQsoPIZAcwmcZPhZoXDLf2fjqDWyCM42FalCmA75VQNiA)
-
-![](https://lh5.googleusercontent.com/LUaNI5Lxv5V2dkgx6dwy_SO-p2u3XIQE3WC1YuBVDcvk29Y9rRc0xRmILXJBd_LI6sOi5dKBJ4WpFFEucaWVreZYHl71VDxEbTbjA0vCxYtfMCFSZpXSW-5qg7k28w20WszWSR78bb9hZuesePtrOVB8TNwn0ufsBBL6W60PtFIM3ZHvHzNgVrKf9D8SWwsQ4cxAaFOGTQ)
-
-    Images from: [MolView](https://molview.org/)
-
-  
-
-1.  What stays the same during bond formation and bond breaking? 
-    
-
-  
-
-2.  What changes in bond formation and bond breaking?
-    
-
-MODELING and COMPUTATIONS
+### MODELING and COMPUTATIONS
 
 5.  To answer part of our unit question of “Why does burning hydrogen release more energy than burning octane?”, we must look at the chemical reactions and the bonds forming and breaking. 
-    
-
-1.  Using two model kits, in groups of four, model both chemical reactions. 
-    
-
-  
-
-Process
-
-Equation
-
-Combustion of Hydrogen
-
-H2 (l) + O2(l)→ H2O (g)
-
-Combustion of Octane
-
-C8H18 (l) + O2 (g) → H2O (g) + CO2 (g)
-
-  
-  
-
-2.  In your model count and record how many of each element you have on each side of the equation.
-    
-
-Process
-
-Element
-
-No. of each element as the REACTANT 
-
-No. of each element as the PRODUCT
-
-Combustion of Hydrogen
-
-H
-
-  
-
-  
-
-O
-
-  
-
-  
-
-Combustion of Octane
-
-C
-
-  
-
-  
-
-H
-
-  
-
-  
-
-O
-
-  
-
-  
-
-  
-
-3.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
-    
-
-  
-  
-
-4.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
-    
-
-1.  Work with another two groups to model the balanced chemical equations for combustion.  Add to your model so that you have the same number count of each atom as products and reactants. Use this table to help you.
-    
-
-  
-
-Balanced Chemical Equations - ELEMENT count
-
-Process
-
-Element
-
-No. of each element as the REACTANT 
-
-No. of each element as the PRODUCT
-
-Combustion of Hydrogen
-
-H
-
-  
-
-  
-
-O
-
-  
-
-  
-
-Combustion of Octane
-
-C
-
-  
-
-  
-
-H
-
-  
-
-  
-
-O
-
-  
-
-  
-
-  
-
-2.  Take and insert a photo of your group’s balanced chemical equations. 
-    
-
-Photo of model of hydrogen combustion
-
-  
-
-Photo of model of octane combustion
+    1.  Using two model kits, in groups of four, model both chemical reactions. 
+    | Process                | Equation                               |
+    | ---------------------- | -------------------------------------- |
+    | Combustion of Hydrogen | H2 (l) + O2(l)→ H2O (g)                |
+    | Combustion of Octane   | C8H18 (l) + O2 (g) → H2O (g) + CO2 (g) | 
+	2.  In your model count and record how many of each element you have on each side of the equation.
+	3.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
+	4.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
+		1.  Work with another two groups to model the balanced chemical equations for combustion.  Add to your model so that you have the same number count of each atom as products and reactants. Use this table to help you.
+		Balanced Chemical Equations - ELEMENT count
+		
+		| Process                | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
+		| ---------------------- | ------- | ----------------------------------- | ---------------------------------- |
+		| Combustion of Hydrogen | H       |                                     |                                    |
+		| Combustion of Hydrogen | O       |                                     |                                    |
+		| Combustion of Octane   | H       |                                     |                                    |
+		| Combustion of Octane   | O       |                                     |                                    |
+		
+		2.  Take and insert a photo of your group’s balanced chemical equations. 
+		    Photo of model of hydrogen combustion
+		    Photo of model of octane combustion
 
   
 
