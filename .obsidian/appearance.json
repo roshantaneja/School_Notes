@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#ffffff",
   "translucency": false,
   "nativeMenus": true,
   "baseFontSize": 10,
@@ -8,5 +8,5 @@
   "interfaceFontFamily": "Cascadia Mono,DejaVu Sans Mono",
   "theme": "system",
   "showViewHeader": true,
-  "cssTheme": "Everforest"
+  "cssTheme": "Dracula for Obsidian"
 }
