@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
-                "mode": "source",
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c87545bc8ca4dc8f",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md"
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
               }
             }
           }
@@ -123,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73f9b4de6145b76f",
+  "active": "87ef5c7bb206ba4b",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
+    "History/Unit 2/Final Writing Assignment.md",
+    "Hebrew Scriptures/Unit 3 Study Guide.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
-    "conflict-files-obsidian-git.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md"
   ]
 }
