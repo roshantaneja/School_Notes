@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1990c45231ed9933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tanzania Prep/11-27-2022.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
+                "file": "Tanzania Prep/11-27-2022.md"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+                "file": "Tanzania Prep/11-27-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7806ff8a150b61ca",
+  "active": "1990c45231ed9933",
   "lastOpenFiles": [
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
