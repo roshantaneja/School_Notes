@@ -67,7 +67,7 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 	1.  What does a (pm) stand for in length measurements?
 	1 picometer
 	2.  How many meters are in 75 pm? Use scientific notation and show your work.
-    $$75*10^{-11}$$
+    $$7.5*10^{-11}$$
 
   
   
