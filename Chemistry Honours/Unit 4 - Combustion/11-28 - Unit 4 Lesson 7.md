@@ -92,8 +92,8 @@
 
 | Process                | Equation                                      |
 | ---------------------- | --------------------------------------------- |
-| Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                     |
-| Combustion of Octane   | 2C8H18 (l) + 25O2 (g) → 18H2O (g) + 16CO2 (g) |
+| Combustion of Hydrogen | 2H<sub>2</sub>(l) + O<sub>2</sub>(l) → 2H<sub>2</sub>O (g)                     |
+| Combustion of Octane   | 2C<sub>8</sub>H<sub>18</sub> (l) + 25O<sub>2</sub> (g) → 18H<sub>2</sub>O (g) + 16CO<sub>2</sub> (g) |
 
 5. (cont)
 	1.  In your model count and record how many of each element you have on each side of the equation.
@@ -113,15 +113,15 @@
 2.  Take and insert a photo of your group’s balanced chemical equations. 
 3.  Use your models to complete the table by counting the number of each molecule in your balanced equation for each process.
 
-| Process  | Molecule | No. of each Molecule |
-| -------- | -------- | -------------------- |
-| Hydrogen | H2       | 2                    |
-| ^^       | O2       | 1                    |
-| ^^       | H2O      | 2                    |
-| Octane   | C8H18    | 1                    |
-| ^^       | O2       | 25                   |
-| ^^       | H2O      | 18                   |
-| ^^       | CO2      | 16                   | 
+| Process  | Molecule                     | No. of each Molecule |
+| -------- | ---------------------------- | -------------------- |
+| Hydrogen | H<sub>2</sub>                | 2                    |
+| ^^       | O<sub>2</sub>                | 1                    |
+| ^^       | H<sub>2</sub>O               | 2                    |
+| Octane   | C<sub>18</sub>H<sub>18</sub> | 2                    |
+| ^^       | O<sub>2</sub>                | 25                   |
+| ^^       | H<sub>2</sub>O               | 18                   |
+| ^^       | CO<sub>2</sub>               | 16                   |
 
 4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass.     
 
@@ -133,20 +133,8 @@
 | Balanced Chemical Equations ||
 | Process                | Equation                                                  |
 | ---------------------- | --------------------------------------------------------- |
-| Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2 H2O (g) + energy                  |
-| Combustion of Octane   | 2 C8H18 (l) + 25 O2 (g)→ 18 H2O (g) + 16 CO2 (g) + energy | 
-
-Process
-
-Equation
-
-Combustion of Hydrogen
-
-2 H2 (l) +  O2 (l) →  2H2O (g) + energy
-
-Combustion of Octane
-
-_____ C8H18 (l) +______ O2 (g)→ ____ H2O (g) + _____ CO2 (g) + energy
+| Combustion of Hydrogen | 2 H<sub>2</sub> (l) +  O<sub>2</sub> (l) →  2 H<sub>2</sub>O (g) + energy                  |
+| Combustion of Octane   | 2 C8H18 (l) + 25 O<sub>2</sub> (g)→ 18 H<sub>2</sub>O (g) + 16 CO<sub>2</sub> (g) + energy | 
 
   
 
