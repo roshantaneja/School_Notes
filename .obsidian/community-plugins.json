@@ -4,10 +4,10 @@
   "obsidian-grandfather",
   "quick-latex",
   "obsidian-latex-suite",
-  "obsidian-linter",
   "better-word-count",
   "obsidian-excel-to-markdown-table",
   "highlightr-plugin",
   "table-editor-obsidian",
-  "table-extended"
+  "table-extended",
+  "obsidian-discordrpc"
 ]
