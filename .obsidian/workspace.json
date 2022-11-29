@@ -11,8 +11,13 @@
             "id": "28210a2370c3181f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md"
+              }
             }
           },
           {
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "28210a2370c3181f",
   "lastOpenFiles": [
-    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
+    "History/Unit 2/Final Writing Assignment.md",
+    "conflict-files-obsidian-git.md",
+    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
     "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
-    "History/Unit 2/Final Writing Assignment.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md"
   ]
 }
