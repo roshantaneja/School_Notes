@@ -154,26 +154,26 @@ Exegesis Questions:
 <center>Playlist Overview</center>
 
 
-- **Feel Like God** - gazzzy, framed
+- **Feel Like God** - <mark style="background: #D2B3FFA6;">gazzzy, framed</mark>
 
 	This song relates the call of Ezekiel to prophethood. He felt the spirit of god more violently than any other prophet, which I matched with the style of the song picked. The aggressive tone and sound of the music helps the listener experience the extreme emotions felt while being in the presence of god.
 
-- **I Feel It Coming** - The Weeknd, Daft Punk
+- **I Feel It Coming** - <mark style="background: #D2B3FFA6;">The Weeknd, Daft Punk</mark>
 
 	The title of the song relates to how Ezekiel's prophetic visions helped him realize and warn the people of Israel that the Babylonians were coming. He could feel and understand that the end of the current Israel was coming and felt compelled to warn everyone.
 
-- **Start a Riot** - Duckwrth, Shaboozey
+- **Start a Riot** - <mark style="background: #D2B3FFA6;">Duckwrth, Shaboozey</mark>
 
 	This song is very aggressive and symbolizes the riots and conquering of Israel by the Babylonians, but it also has a message about finding your inner hero in the toughest of times. The song reminds me of the violence that occurred during the conquering of Israel.
 
-- **GONE, GONE/THANK YOU** - Tyler, The Creator
+- **GONE, GONE/THANK YOU** - <mark style="background: #D2B3FFA6;">Tyler, The Creator</mark>
 
 	The title of the song comes from the feeling of despair while the Israelites are rounded up and oppressed by the Babylonians. The song repeatedly says "my love is gone" - symbolizing that the Israelites have lost their love for god. But at the end of the song, it switches to the song thank you, where the tone switches to a much more hopeful beat. This gives hope that we may return back.
 
-- **Look Alive** - SwuM
+- **Look Alive** - <mark style="background: #D2B3FFA6;">SwuM</mark>
 
 	This song relates to Ezekiel's vision of the bones in the valley. the lyrics of the song talk about how drake believed that he would never return to music after he left, similar to how Ezekiel believed that the dry bones would never come alive. The title also relates to the song because as soon as Ezekiel spoke the word of god, the bones came to life.
 
-- **Dream** - Al Green
+- **Dream** - <mark style="background: #D2B3FFA6;">Al Green</mark>
 
 	This song serves as a bookend to the story of Ezekiel. When he is imprisoned in Babylon, he believes that he has already served his purpose of bringing hope to the people of Israel that they will someday return back to the promised land. The song starts soft and ends rather dramatically, similar to the life of Ezekiel. The title also symbolizes the dream that someday they "will come again" just like Al Green says in the song.
