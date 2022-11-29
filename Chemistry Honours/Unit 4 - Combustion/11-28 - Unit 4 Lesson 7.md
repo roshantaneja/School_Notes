@@ -124,12 +124,10 @@
 
 ### BALANCED CHEMICAL EQUATIONS
 
--tx-
-|| Balanced Chemical Equations             ||
-| ---------------------- | --------------------------------------- | --- |
-| Process                | Equation                                |     |
-| ---------------------- | --------------------------------------- |     |
-| Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2H2O (g) + energy |     |
+|  | Balanced Chemical Equations |
+Process                | Equation                                |
+---------------------- | --------------------------------------- |
+Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2H2O (g) + energy |
 
 Process
 
