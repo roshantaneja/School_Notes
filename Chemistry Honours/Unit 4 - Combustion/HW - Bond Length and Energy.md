@@ -1,6 +1,4 @@
-HW- : What makes some bonds stronger and other bonds weaker?
-
-  
+==HW: What makes some bonds stronger and other bonds weaker?==
 
 Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron Shells and Bond Length/Energy Chart](https://docs.google.com/document/d/1Z8IZoPStv40yWmrDEjkSEYnKK9HrlaerI0k95XmCNwI/edit?usp=sharing) and answer the following questions.
 
@@ -69,7 +67,7 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 	1.  What does a (pm) stand for in length measurements?
 	1 picometer
 	2.  How many meters are in 75 pm? Use scientific notation and show your work.
-    $$75*10^{-11}$$
+    $$7.5*10^{-11}$$
 
   
   

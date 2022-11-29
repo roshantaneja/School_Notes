@@ -28,7 +28,7 @@ Micah
 Jeremiah
 > John, Mia
 
-Ezekial
+Ezekiel
 > Ellie, Chase, Roshan
   
 
