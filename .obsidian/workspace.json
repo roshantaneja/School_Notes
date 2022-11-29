@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4541128855d2783a",
+        "id": "dc4fcb1766f755d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7c997751e955176d",
+            "id": "54cec6c03b2d77ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,18 +117,30 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "81ed00bcf7d1ce96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7c997751e955176d",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
