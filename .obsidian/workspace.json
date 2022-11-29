@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
               }
             }
           },
@@ -116,22 +116,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "28210a2370c3181f",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
@@ -140,7 +140,6 @@
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "History/Unit 2/Final Writing Assignment.md",
     "conflict-files-obsidian-git.md",
-    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md"
   ]
 }
