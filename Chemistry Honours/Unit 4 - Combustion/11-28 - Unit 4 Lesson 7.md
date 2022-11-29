@@ -119,12 +119,12 @@
 		| Process  | Molecule | No. of each Molecule |
 		| -------- | -------- | -------------------- |
 		| Hydrogen | H2       | 2                    |
-		| Hydrogen | O2       | 1                    |
-		| Hydrogen | H2O      | 2                    |
+		| ^^       | O2       | 1                    |
+		| ^^       | H2O      | 2                    |
 		| Octane   | C8H18    | 1                    |
-		| ^        | O2       | 25                   |
-		| ^        | H2O      | 9                    |
-		| ^        | CO2      | 8                    |
+		| ^^       | O2       | 25                   |
+		| ^^       | H2O      | 9                    |
+		| ^^       | CO2      | 8                    |
 
   
 		4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass. 
