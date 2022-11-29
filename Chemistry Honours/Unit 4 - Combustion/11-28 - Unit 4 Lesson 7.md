@@ -37,12 +37,12 @@
 	1.  What happens to the electrons in the covalent bonds in molecules like CH4, CO2, H2, and H2O?
 	2.  The octet rule says that atoms form bonds to fill their valence shells and achieve stability.  Complete the table for H, O, N, C.
 
-| Element Name | Element Symbol | No. Valence Electrons | No. Covalent Bonds |
-| ------------ | -------------- | --------------------- | ------------------ |
-| Hydrogen     | H              | 1                     | 1                  |
-| Oxygen       | O              | 6                     | 2                  |
-| Nitrogen     | N              | 5                     | 3                  |
-| Carbon       | C              | 4                     | 4                  | 
+	| Element Name | Element Symbol | No. Valence Electrons | No. Covalent Bonds |
+	| ------------ | -------------- | --------------------- | ------------------ |
+	| Hydrogen     | H              | 1                     | 1                  |
+	| Oxygen       | O              | 6                     | 2                  |
+	| Nitrogen     | N              | 5                     | 3                  |
+	| Carbon       | C              | 4                     | 4                  | 
 
 
   
@@ -91,13 +91,11 @@
 ### MODELING and COMPUTATIONS
 
 5.  To answer part of our unit question of “Why does burning hydrogen release more energy than burning octane?”, we must look at the chemical reactions and the bonds forming and breaking. 
-    1.  Using two model kits, in groups of four, model both chemical reactions. 
-    
-    | Process                | Equation                                    |
-    | ---------------------- | ------------------------------------------- |
-    | Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                   | 
+    1.  Using two model kits, in groups of four, model both chemical reactions.
+    | Process                | Equation                                      |
+    | ---------------------- | --------------------------------------------- |
+    | Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                     | 
     | Combustion of Octane   | 2C8H18 (l) + 25O2 (g) → 18H2O (g) + 16CO2 (g) |
-	
 	2.  In your model count and record how many of each element you have on each side of the equation.
 	3.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
 	4.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
@@ -119,12 +117,12 @@
 		| Process  | Molecule | No. of each Molecule |
 		| -------- | -------- | -------------------- |
 		| Hydrogen | H2       | 2                    |
-		| ^^       | O2       | 1                    |
-		| ^^       | H2O      | 2                    |
+		|          | O2       | 1                    |
+		|          | H2O      | 2                    |
 		| Octane   | C8H18    | 1                    |
-		| ^^       | O2       | 25                   |
-		| ^^       | H2O      | 9                    |
-		| ^^       | CO2      | 8                    |
+		|          | O2       | 25                   |
+		|          | H2O      | 9                    |
+		|          | CO2      | 8                    |
 
   
 		4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass. 
@@ -140,7 +138,7 @@ Equation
 
 Combustion of Hydrogen
 
-____ H2 (l) + ____ O2 (l) → _____ H2O (g) + energy
+2 H2 (l) +  O2 (l) →  H2O (g) + energy
 
 Combustion of Octane
 

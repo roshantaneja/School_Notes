@@ -111,14 +111,6 @@
             }
           },
           {
-            "id": "2e25d97769d4c750",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "81ed00bcf7d1ce96",
             "type": "leaf",
             "state": {
@@ -131,16 +123,17 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "28210a2370c3181f",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "History/Unit 2/Final Writing Assignment.md",
