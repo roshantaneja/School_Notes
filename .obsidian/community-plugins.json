@@ -6,7 +6,7 @@
   "obsidian-latex-suite",
   "obsidian-linter",
   "better-word-count",
-  "table-extended",
   "obsidian-excel-to-markdown-table",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "table-editor-obsidian"
 ]

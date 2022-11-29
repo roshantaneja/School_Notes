@@ -65,9 +65,13 @@
 
 4.  Let’s recall what we learned about bond-breaking and bond-forming.  Think about a magnet coming together or being pulled apart.
 	1.  Does bond breaking require or release energy?
+		Breaking bonds requires energy
 	2.  Is breaking bonds endothermic or exothermic?
+		Breaking bonds is endothermic
 	3.  Does bond making require or release energy?
+		Bond making releases energy because the particles have reached a lower state of energy by bonding.
 	4.  Is forming bonds endothermic or exothermic?
+		Forming bonds is exothermic
     
 
   
@@ -115,8 +119,8 @@
 | ^^       | H2O      | 2                    |
 | Octane   | C8H18    | 1                    |
 | ^^       | O2       | 25                   |
-| ^^       | H2O      | 9                    |
-| ^^       | CO2      | 8                    |
+| ^^       | H2O      | 18                   |
+| ^^       | CO2      | 16                   | 
 
 4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass.     
 
@@ -124,10 +128,10 @@
 
 ### BALANCED CHEMICAL EQUATIONS
 
-|  | Balanced Chemical Equations |
-Process                | Equation                                |
----------------------- | --------------------------------------- |
-Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2H2O (g) + energy |
+| Process                | Equation                                                  |
+| ---------------------- | --------------------------------------------------------- |
+| Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2 H2O (g) + energy                  |
+| Combustion of Octane   | 2 C8H18 (l) + 25 O2 (g)→ 18 H2O (g) + 16 CO2 (g) + energy | 
 
 Process
 
