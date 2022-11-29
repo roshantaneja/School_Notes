@@ -33,25 +33,17 @@
 ### RECAP 
 
 1.  Let’s review what we figured out about covalent bonds. 
-    
+
 	1.  What happens to the electrons in the covalent bonds in molecules like CH4, CO2, H2, and H2O?
+
 	2.  The octet rule says that atoms form bonds to fill their valence shells and achieve stability.  Complete the table for H, O, N, C.
 
-	| Element Name | Element Symbol | No. Valence Electrons | No. Covalent Bonds |
-	| ------------ | -------------- | --------------------- | ------------------ |
-	| Hydrogen     | H              | 1                     | 1                  |
-	| Oxygen       | O              | 6                     | 2                  |
-	| Nitrogen     | N              | 5                     | 3                  |
-	| Carbon       | C              | 4                     | 4                  | 
-
-
-  
-
-  
-
-  
-
-  
+| Element Name | Element Symbol | No. Valence Electrons | No. Covalent Bonds |
+| ------------ | -------------- | --------------------- | ------------------ |
+| Hydrogen     | H              | 1                     | 1                  |
+| Oxygen       | O              | 6                     | 2                  |
+| Nitrogen     | N              | 5                     | 3                  |
+| Carbon       | C              | 4                     | 4                  |
 
 2.  Let’s review what we figured out from our magnetic sphere investigations and from the bond energies and bond length charts.
     1.  Atoms are composed of positively charged nuclei surrounded by a negatively charged cloud of electrons. When bonds form, the nuclei of one atom attract the electrons of another atom, pulling the atoms toward each other.  What is the definition of bond length?
@@ -92,45 +84,52 @@
 
 5.  To answer part of our unit question of “Why does burning hydrogen release more energy than burning octane?”, we must look at the chemical reactions and the bonds forming and breaking. 
     1.  Using two model kits, in groups of four, model both chemical reactions.
-    | Process                | Equation                                      |
-    | ---------------------- | --------------------------------------------- |
-    | Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                     | 
-    | Combustion of Octane   | 2C8H18 (l) + 25O2 (g) → 18H2O (g) + 16CO2 (g) |
-	2.  In your model count and record how many of each element you have on each side of the equation.
-	3.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
-	4.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
+
+
+| Process                | Equation                                      |
+| ---------------------- | --------------------------------------------- |
+| Combustion of Hydrogen | 2H2(l) + O2(l) → 2H2O (g)                     |
+| Combustion of Octane   | 2C8H18 (l) + 25O2 (g) → 18H2O (g) + 16CO2 (g) |
+
+5. (cont)
+	1.  In your model count and record how many of each element you have on each side of the equation.
+	2.  For each process, do you have the same number of each element on both the reactant and product side of the equation? 
+	3.  Matter cannot be created or destroyed.  This is the law of conservation of matter.  Chemical equations must follow this law. We call this balancing chemical equations.  
 		1.  Work with another two groups to model the balanced chemical equations for combustion.  Add to your model so that you have the same number count of each atom as products and reactants. Use this table to help you.
 		Balanced Chemical Equations - ELEMENT count
-		
-		| Process  | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
-		| -------- | ------- | -------------------------------------- | ------------------------------------- |
-		| Hydrogen | H       | 4                                      | 4                                     |
-		| Hydrogen | O       | 2                                      | 2                                     | 
-		| Octane   | H       | 18                                     | 18                                    |
-		| Octane   | O       | 50                                     | 50                                    |
-		
-		2.  Take and insert a photo of your group’s balanced chemical equations. 
-		    Photo of model of hydrogen combustion
-		    Photo of model of octane combustion
-		3.  Use your models to complete the table by counting the number of each molecule in your balanced equation for each process.
 
-		| Process  | Molecule | No. of each Molecule |
-		| -------- | -------- | -------------------- |
-		| Hydrogen | H2       | 2                    |
-		|          | O2       | 1                    |
-		|          | H2O      | 2                    |
-		| Octane   | C8H18    | 1                    |
-		|          | O2       | 25                   |
-		|          | H2O      | 9                    |
-		|          | CO2      | 8                    |
+| Process  | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
+| -------- | ------- | -------------------------------------- | ------------------------------------- |
+| Hydrogen | H       | 4                                      | 4                                     |
+| ^^       | O       | 2                                      | 2                                     |
+| Octane   | H       | 18                                     | 18                                    |
+| ^^       | O       | 50                                     | 50                                    |
 
-  
-		4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass. 
-    
+2.  Take and insert a photo of your group’s balanced chemical equations. 
+3.  Use your models to complete the table by counting the number of each molecule in your balanced equation for each process.
+
+| Process  | Molecule | No. of each Molecule |
+| -------- | -------- | -------------------- |
+| Hydrogen | H2       | 2                    |
+| ^^       | O2       | 1                    |
+| ^^       | H2O      | 2                    |
+| Octane   | C8H18    | 1                    |
+| ^^       | O2       | 25                   |
+| ^^       | H2O      | 9                    |
+| ^^       | CO2      | 8                    |
+
+4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass.     
 
   
 
 ### BALANCED CHEMICAL EQUATIONS
+
+-tx-
+|| Balanced Chemical Equations             ||
+| ---------------------- | --------------------------------------- | --- |
+| Process                | Equation                                |     |
+| ---------------------- | --------------------------------------- |     |
+| Combustion of Hydrogen | 2 H2 (l) +  O2 (l) →  2H2O (g) + energy |     |
 
 Process
 
@@ -138,7 +137,7 @@ Equation
 
 Combustion of Hydrogen
 
-2 H2 (l) +  O2 (l) →  H2O (g) + energy
+2 H2 (l) +  O2 (l) →  2H2O (g) + energy
 
 Combustion of Octane
 
