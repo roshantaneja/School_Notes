@@ -114,59 +114,18 @@
 		2.  Take and insert a photo of your group’s balanced chemical equations. 
 		    Photo of model of hydrogen combustion
 		    Photo of model of octane combustion
+		3.  Use your models to complete the table by counting the number of each molecule in your balanced equation for each process.
+
+		| Process  | Molecule | No. of each Molecule |
+		| -------- | -------- | -------------------- |
+		| Hydrogen | H2       | 2                    |
+		| Hydrogen | O2       | 1                    |
+		| Hydrogen | H2O      | 2                    | 
+		| Octane   | H        | 18                   |
+		| Octane   | O        | 50                   |
 
   
-
-  
-
-3.  Use your models to complete the table by counting the number of each molecule in your balanced equation for each process.
-    
-
-  
-
-Balanced Chemical Equations - MOLECULE count
-
-Process
-
-MOLECULE
-
-No. of each MOLECULE
-
-Combustion of Hydrogen
-
-H2
-
-  
-
-O2
-
-  
-
-H2O
-
-  
-
-Combustion of Octane
-
-C8H18
-
-  
-
-O2
-
-  
-
-H2O
-
-  
-
-CO2
-
-  
-
-  
-
-4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass. 
+		4.  We add a coefficient in front of each molecule in a balanced equation to indicate the number of each molecule. Coefficients are greater than one (2,3,4,5…). We do not use one as a coefficient in balanced equations. In the blank lines provided, add the coefficients to show that you have a balanced equation that obeys the law of conservation of mass. 
     
 
   
