@@ -201,67 +201,38 @@ How many Octane molecules are in one Mole?: 6.02 x 1023
   
 
 10.  Connecting moles and grams to the periodic table:
-    
-
-1.  Using the periodic table, support why the mass of one mole of hydrogen, H2 is about 2 grams. 
-    
-
-  
-  
-
-2.  Using the periodic table, support why the mass of one mole of oxygen, O2 is about 32 grams.
-    
-
-  
-
-3.  Look at the element square for Hydrogen and Oxygen from the periodic table.  
-    
-
-What is the name of the number that you are using to determine the mass in one mole?  _____________________________
-
-  
-
-4.  Your turn - Calculate the mass of one mole of water, H2O.
-    
-
-  
-  
-
-5.  Describe in your own words how you obtained your answer for the mass of one mole of water.
-    
+	1.  Using the periodic table, support why the mass of one mole of hydrogen, H2 is about 2 grams. 
+	2.  Using the periodic table, support why the mass of one mole of oxygen, O2 is about 32 grams.
+	3. Look at the element square for Hydrogen and Oxygen from the periodic table.
+	4. What is the name of the number that you are using to determine the mass in one mole?  _____________________________
+	5. Your turn - Calculate the mass of one mole of water, H2O.
+	6. Describe in your own words how you obtained your answer for the mass of one mole of water.
 
   
   
 
 11.  Definition of Molar Mass
-    
-
-1.  The molar mass is the mass of one mole of a substance.  The molar mass changes depending on the substance because the atomic structure (the number of protons, electrons, and neutrons) of each atom is different.  
-    
-
-1.  What are the units for molar mass?
-    
-
-  
-
-2.  Write the molar mass of carbon (C) atoms using the correct units.
-    
-
-  
-
-3.  Rewrite the molar mass of hydrogen gas, H2 using the correct units. 
-    
-
-  
-
-4.  Determine the molar mass of oxygen gas, O2 using the correct units. 
-    
-
-  
-
-5.  Determine the mass of one mole of octane, C8H18 using the correct units.
-    
-
+	1.  The molar mass is the mass of one mole of a substance.  The molar mass changes depending on the substance because the atomic structure (the number of protons, electrons, and neutrons) of each atom is different. 
+	2. What are the units for molar mass?
+	g/mol
+3. Write the molar mass of carbon (C) atoms using the correct units.
+	    
+	12 g/mol
+	  
+	
+	3.  Rewrite the molar mass of hydrogen gas, H2 using the correct units. 
+	    
+	2 g/mol
+	  
+	
+	4.  Determine the molar mass of oxygen gas, O2 using the correct units. 
+	    
+	32 g/mol
+	  
+	
+	5.  Determine the mass of one mole of octane, C8H18 using the correct units.
+	    
+	114 g/mol
   
   
   
