@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "conflict-files-obsidian-git.md",
