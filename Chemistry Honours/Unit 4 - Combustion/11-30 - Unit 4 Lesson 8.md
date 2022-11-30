@@ -135,7 +135,7 @@ Atomic mass of total elements in the compound will make the molar mass of the co
 	
 	Ball and Stick Model: 
 	
-	<img src="https://lh6.googleusercontent.com/9BnSiISBWHmaVC7mHjcY3xFat7nVf7FwM5QLwzhDZ-qLcqGpH4UgzvYaYS5C6dvYhnW-eTVmLcKJODmTcCffpxAtcEinB93DW2ffnsrNZYVaGB5nuMwK-_G3yJuu8eAaIYTVAIaDrNuoWeEza7I2zjGd8zsZVDZa1bv15ffIumXk_jsPkP762EkyVnXB0mFT" alt="drawing" width="200"/>
+	<img src="https://lh6.googleusercontent.com/9BnSiISBWHmaVC7mHjcY3xFat7nVf7FwM5QLwzhDZ-qLcqGpH4UgzvYaYS5C6dvYhnW-eTVmLcKJODmTcCffpxAtcEinB93DW2ffnsrNZYVaGB5nuMwK-_G3yJuu8eAaIYTVAIaDrNuoWeEza7I2zjGd8zsZVDZa1bv15ffIumXk_jsPkP762EkyVnXB0mFT" alt="" width="200"/>
 	
 	How many Salt Particles in a Mole:
 	$$
@@ -145,20 +145,15 @@ Atomic mass of total elements in the compound will make the molar mass of the co
 
 8.  Now consider our fuels. Look at the table below of the molecular formulas, the ball and stick models, and the number of particles in a mole for hydrogen gas and octane. 
     
-
-1.  What do you notice?
-    
-
-  
-
-2.  Draw Lewis structures of each of the molecules and insert them in the table below.
+	1.  What do you notice?
+	2.  Draw Lewis structures of each of the molecules and insert them in the table below.
     
 
   
 
 Hydrogen gas
 
-Octane liquid
+
 
 Formula: H2 
 
@@ -179,22 +174,15 @@ Draw Lewis structure of H2
 How many Hydrogen molecules are in a Mole?: 6.02 x 1023
 
   
+Octane liquid
 
 Formula: C8H18
 
-  
-
 Ball and stick model of C8H18:
 
-  
 ![](https://lh6.googleusercontent.com/G7cOT8x5z0Ps_O5MxV3oGsKXRpMKeDiYfh0D0EPIoPL7UnrJpBYd1kvLK9LJhzHW2hs--e2KZSfnxvIivlsgFr2PtQTTyHFnpeQEiXEGAgZunB0R5naP8hSLY2ImrZR_RaFwgosC3NAVAyG1jSFn86qS2O92vQAqLf55liBLaCFvq4-7UUXrzHeaWXiwlTOff7dflu9R6Q)  
-  
-  
 
 Draw a Lewis structure of C8H18:
-
-  
-  
 
 How many Octane molecules are in one Mole?: 6.02 x 1023
 
@@ -207,7 +195,7 @@ How many Octane molecules are in one Mole?: 6.02 x 1023
 
   
 
-1.  What is the numerical count in a mole? __________________________
+1.  What is the numerical count in a mole? $$6.02 * 10^{23}$$
     
 
   
