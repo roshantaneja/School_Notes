@@ -9,7 +9,7 @@ Complete, balance, and add states to the following combustion reactions.
 
 2. 2C4H10 (l) + 13O2 (g) → 8CO2 (g) + 10H2O (g)
 
-3. CH4 (g) + O2 (g) → 1CO2 (g) + 2H2O (g)
+3. CH4 (g) + 2O2 (g) → 1CO2 (g) + 2H2O (g)
 
 4. C2H6 (l) + O2 (g) → CO2 (g) + H2O (g)
 
