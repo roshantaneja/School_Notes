@@ -1,1 +1,18 @@
-{}
+{
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-underline": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1669781991441": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ]
+}

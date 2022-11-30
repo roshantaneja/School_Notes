@@ -80,8 +80,12 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 	2.  What is the definition of a Joule (J)? 
 	Power(Energy per unit time)
 	3.  What unit does mole (mol) represent?
-	$$6.02214076*10^{23}$$
-	4.  What is the definition of a mole?
+
+
+$$6.02214076*10^{23}$$
+
+
+	5.  What is the definition of a mole?
 	The SI Unit of the **amount of substance**
 	5.  Watch the [TedTalk on the Mole](https://www.ted.com/talks/daniel_dulek_how_big_is_a_mole_not_the_animal_the_other_one?language=en#t-4295).  Write three things that you learned from the video.
 		1. it was created by Avogadro
