@@ -95,57 +95,52 @@
 
 Mass of 1 mole of salt
 
+57.50g
   
 
 Mass of 1 mole of water
 
-  
+17.48
 
   
 
 6.  What initial ideas do you have about the relationship between a gram and the mole after looking at these two substances?
-    
+
+Atomic mass of total elements in the compound will make the molar mass of the compound.
 
   
 
 7.  Look at the table below of the molecular formulas, the ball and stick models, and the number of particles in a mole for sugar and salt. 
-    
-
-1.  What do you notice?
-    
-
-  
-
-WATER
-
-SALT
-
-Formula: H2O 
-
-  
-
-Ball and Stick Model:
-
-![](https://lh5.googleusercontent.com/62I8PBaA-JQHC0Iy9-a8aE9RXwxtvGPXDt_LjQWIFtOPW_y_GcdouX7XoOkvUrTbvUYxhTu1vaE_jQL5AmTRW1kNdcuxX5Ajd26NmXkLVxLz7yHmRQ_-8aQr-nnQAEngPjpk40xHpHgQ4oofSA2PeCb5WdVOmZcqiFU399tkYz2Je73K13C1PKGTIiiER-TM)
-
-  
-
-How many water molecules in a Mole:
-
-6.02 x 1023
-
-Formula: NaCl
-
-  
-
-Ball and Stick Model:
-
-![](https://lh6.googleusercontent.com/9BnSiISBWHmaVC7mHjcY3xFat7nVf7FwM5QLwzhDZ-qLcqGpH4UgzvYaYS5C6dvYhnW-eTVmLcKJODmTcCffpxAtcEinB93DW2ffnsrNZYVaGB5nuMwK-_G3yJuu8eAaIYTVAIaDrNuoWeEza7I2zjGd8zsZVDZa1bv15ffIumXk_jsPkP762EkyVnXB0mFT)
-
-How many Salt Particles in a Mole:
-
-6.02 x 1023
-
+	1.  What do you notice?
+	    
+	
+	  
+	
+	WATER
+	
+	Formula: H2O 
+	
+	Ball and Stick Model:
+	
+	![](https://lh5.googleusercontent.com/62I8PBaA-JQHC0Iy9-a8aE9RXwxtvGPXDt_LjQWIFtOPW_y_GcdouX7XoOkvUrTbvUYxhTu1vaE_jQL5AmTRW1kNdcuxX5Ajd26NmXkLVxLz7yHmRQ_-8aQr-nnQAEngPjpk40xHpHgQ4oofSA2PeCb5WdVOmZcqiFU399tkYz2Je73K13C1PKGTIiiER-TM)
+	
+	How many water molecules in a Mole:
+	$$
+	6.02 * 10^{23}
+	$$
+	
+	SALT
+	
+	Formula: NaCl
+	
+	Ball and Stick Model: 
+	
+	<img src="https://lh6.googleusercontent.com/9BnSiISBWHmaVC7mHjcY3xFat7nVf7FwM5QLwzhDZ-qLcqGpH4UgzvYaYS5C6dvYhnW-eTVmLcKJODmTcCffpxAtcEinB93DW2ffnsrNZYVaGB5nuMwK-_G3yJuu8eAaIYTVAIaDrNuoWeEza7I2zjGd8zsZVDZa1bv15ffIumXk_jsPkP762EkyVnXB0mFT" alt="drawing" width="200"/>
+	
+	How many Salt Particles in a Mole:
+	$$
+	6.02 * 10^{23}
+	$$
   
 
 8.  Now consider our fuels. Look at the table below of the molecular formulas, the ball and stick models, and the number of particles in a mole for hydrogen gas and octane. 
