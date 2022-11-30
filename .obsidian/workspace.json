@@ -16,7 +16,7 @@
                 "file": "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -134,6 +133,7 @@
   "active": "e9c2aaac33ff70ef",
   "lastOpenFiles": [
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
+    "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
@@ -141,7 +141,6 @@
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md"
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
   ]
 }

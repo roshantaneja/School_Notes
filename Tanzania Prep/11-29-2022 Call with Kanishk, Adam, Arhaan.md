@@ -1,3 +1,7 @@
+## Meeting notes
+- Need a marketing PDF
+- Send out email with all marker
+- 
 
 
 ## 25 tips to Coldcalling
@@ -58,11 +62,8 @@ Anything else can be a distraction that prevents you from being fully present wi
 
 ### 5. Calculate How Many Calls You Need to Make to Hit Your Goals
 
-Do you know how many cold calls you need to hit your monthly quota?
 
-We’ve got you covered. Check out our Interactive Cold Call Worksheet below to work backward from your goals and hit your quota each month.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27900%27%20height=%271256%27/%3e)![Interactive Cold Call Worksheet](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2022%2F01%2FCold-Call-Worksheet-Yesware-Cover.png&w=1984&q=75)Interactive Cold Call WorksheetFully customizable worksheet that pinpoints roughly how many cold calls you need to make each day and in total for the month in order to hit your quota.
 
 EmailDownload PDF
 
