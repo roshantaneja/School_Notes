@@ -124,7 +124,6 @@ We recommend using Yesware’s data as a starting point to find the cold calling
 
 There are several different tools out there that help you find your cold call sweet spot by tracking call connects (or you could use an excel sheet to track this manually):
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27716%27%20height=%27230%27/%3e)![cold calling tips](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.27.32-AM.png&w=1536&q=75)
 
 ### 12. Use Trigger Events to Get Your Foot in the Door
 
