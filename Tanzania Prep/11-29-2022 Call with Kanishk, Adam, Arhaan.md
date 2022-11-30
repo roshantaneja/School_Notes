@@ -18,8 +18,6 @@ Check their [LinkedIn](https://www.yesware.com/blog/using-linkedin-for-sales/),
 
 Here’s a checklist designed from our [Discovery Call Formula](https://www.yesware.com/blog/discovery-call/) to help you get started:
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27565%27%20height=%27732%27/%3e)![preparing for a cold call](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fdiscovery-call-re-research-checklist-yesware.png&w=1280&q=75)
-
 Thorough research will also ensure you [connect with the decision-maker](https://www.yesware.com/blog/how-to-close-a-sale/) in the organization you’re reaching out to.
 
 ### 2. Write an Outline of What You Want to Say
@@ -52,7 +50,6 @@ We like to think that great salespeople do the same. Save time by stealing these
 
 Here’s an example of a sales call backed with this type of script:
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27910%27%20height=%27706%27/%3e)![cold calling tips how to use a script as a shoulder not a crutch](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.25.26-AM.png&w=1984&q=75)
 
 ### 4. Take 1-2 Hours to Go Through Your Call List
 
