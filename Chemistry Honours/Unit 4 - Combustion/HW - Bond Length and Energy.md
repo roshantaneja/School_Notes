@@ -6,24 +6,24 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 
 1.  For each period on the periodic table, count and record the number of energy levels or shells around the nucleus.
 	
-    | Period | Number of Shells |
-    | ------:|:---------------- |
-    |      1 | 1                |
-    |      2 | 2                |
-    |      3 | 3                |
-    |      4 | 4                |
-    |      5 | 5                |
-    |      6 | 6                |
-    |      7 | 7                |
+| Period | Number of Shells |
+| ------:|:---------------- |
+|      1 | 1                |
+|      2 | 2                |
+|      3 | 3                |
+|      4 | 4                |
+|      5 | 5                |
+|      6 | 6                |
+|      7 | 7                |
 
   
 
 2.  Fuel reactions use the same elements of life that we studied in Unit 1:  H, C, and O. Complete the table by determining the atomic number, number of protons, number of electrons in each energy level, and number of valence electrons. Create an atomic model for each of these elements by placing the correct number of electrons in the correct electron shell. Only include the electrons in your model; not the protons and the neutrons in the nucleus.
 	
 	
-    | Hydrogen                                                                                                                                                                                                                     | Carbon                                                                                                                                                                                                                        | Oxygen                                                                                                                                                                                                                       | 
-    | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Atomic Number: 1 <br> **In the nucleus:** <br> No. of Protons: 0 <br> No. of Neutrons: 1<br> **in the energy shells:**  <br> No. electrons in 1st shell: 1  <br> No. electrons in 2nd shell: 0 <br> No. valence electrons: 1 | Atomic Number: 6 <br> **In the nucleus:** <br> No. of Protons: 6 <br> No. of Neutrons: 6 <br> **in the energy shells:**  <br> No. electrons in 1st shell: 2  <br> No. electrons in 2nd shell: 4 <br> No. valence electrons: 4 | Atomic Number: 8 <br> **In the nucleus:** <br> No. of Protons: 8 <br> No. of Neutrons: 8 <br> **in the energy shells:** <br> No. electrons in 1st shell: 2  <br> No. electrons in 2nd shell: 6 <br> No. valence electrons: 6 |
+| Hydrogen                                                                                                                                                                                                                     | Carbon                                                                                                                                                                                                                        | Oxygen                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Atomic Number: 1 <br> **In the nucleus:** <br> No. of Protons: 0 <br> No. of Neutrons: 1<br> **in the energy shells:**  <br> No. electrons in 1st shell: 1  <br> No. electrons in 2nd shell: 0 <br> No. valence electrons: 1 | Atomic Number: 6 <br> **In the nucleus:** <br> No. of Protons: 6 <br> No. of Neutrons: 6 <br> **in the energy shells:**  <br> No. electrons in 1st shell: 2  <br> No. electrons in 2nd shell: 4 <br> No. valence electrons: 4 | Atomic Number: 8 <br> **In the nucleus:** <br> No. of Protons: 8 <br> No. of Neutrons: 8 <br> **in the energy shells:** <br> No. electrons in 1st shell: 2  <br> No. electrons in 2nd shell: 6 <br> No. valence electrons: 6 |
 
 
 3.  The radius of an atom is the distance from the nucleus to the outermost electron. Based on your shell models, which element has the smallest atomic radius-H, C or O? Write a statement that connects the number of shells to the atomic radius.
@@ -39,12 +39,12 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 5.  Bond Energy is the energy required to break a bond. Look at the [chart of Bond Length and Bond Energy](https://docs.google.com/document/d/1Z8IZoPStv40yWmrDEjkSEYnKK9HrlaerI0k95XmCNwI/edit?usp=sharing).  Find each bond type and complete the table by recording the bond length and bond energy.
     
 	
-    | Bond Type | Bond Energy (kJ/mol) | Bond Length (pm) |
-    | --------- | -------------------- | ---------------- |
-    | H - F     | 565                  | 92               |
-    | H - Cl    | 427                  | 127              |
-    | H - Br    | 363                  | 141              |
-    | H - I     | 295                  | 161              |
+| Bond Type | Bond Energy (kJ/mol) | Bond Length (pm) |
+| --------- | -------------------- | ---------------- |
+| H - F     | 565                  | 92               |
+| H - Cl    | 427                  | 127              |
+| H - Br    | 363                  | 141              |
+| H - I     | 295                  | 161              |
     1. For the halogens, which are the elements in Group 17 on the periodic table, what is the relationship between the energy of a bond and the length of the bond? Explain your reasoning.  
     The length of the bond is inversely proportional to enter energy in the bond. As the distance between the atoms gets larger, 
 
@@ -53,10 +53,10 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 
 6.  Find each bond type and complete the table by recording the bond length and bond energy.
 
-    | Bond Type | Bond Energy (kJ/mol) | Bond Length (pm) |
-    | --------- | -------------------- | ---------------- |
-    | C = O     | 745                  | 120              |
-    | C - O     | 385                  | 143              |
+| Bond Type | Bond Energy (kJ/mol) | Bond Length (pm) |
+| --------- | -------------------- | ---------------- |
+| C = O     | 745                  | 120              |
+| C - O     | 385                  | 143              |
 	
 	1. What is the relationship between the energy of the bond and the number of bonds (single bond, double bond)? Explain your reasoning.
     Double bonds have more energy because there are more electrons being shared between the atoms.
@@ -80,11 +80,7 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 	2.  What is the definition of a Joule (J)? 
 	Power(Energy per unit time)
 	3.  What unit does mole (mol) represent?
-
-
-$$6.02214076*10^{23}$$
-
-
+	$$6.02214076*10^{23}$$
 	5.  What is the definition of a mole?
 	The SI Unit of the **amount of substance**
 	5.  Watch the [TedTalk on the Mole](https://www.ted.com/talks/daniel_dulek_how_big_is_a_mole_not_the_animal_the_other_one?language=en#t-4295).  Write three things that you learned from the video.
