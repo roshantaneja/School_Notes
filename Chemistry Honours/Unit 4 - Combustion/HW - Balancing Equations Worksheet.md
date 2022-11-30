@@ -5,9 +5,9 @@
   
 
 Complete, balance, and add states to the following combustion reactions.
-1. C3H8 (l) + 5O2 (g) → 3CO2 (g)  +  4H2O (g)
+1. C<sub>3</sub>H<sub>8</sub> (l) + 5O<sub>2</sub> (g) → 3CO<sub>2</sub> (g)  +  4H<sub>2</sub>O (g)
 
-2. 2C4H10 (l) + 13O2 (g) → 8CO2 (g) + 10H2O (g)
+2. 2C<sub>4</sub>H<sub>10</sub> (l) + 13O<sub>2</sub> (g) → 8CO<sub>2</sub> (g) + 10H<sub>2</sub>O (g)
 
 3. CH4 (g) + 2O2 (g) → 1CO2 (g) + 2H2O (g)
 
