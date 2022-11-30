@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -134,14 +133,14 @@
   "active": "0482eb51a756ab98",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
     "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Ezekiel.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
+    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
   ]
 }
