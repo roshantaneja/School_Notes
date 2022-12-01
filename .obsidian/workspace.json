@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0482eb51a756ab98",
+            "id": "c53344f8f9692c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md"
+                "file": "Tanzania Prep/Marketing PDF.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +127,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "0482eb51a756ab98",
+  "active": "c53344f8f9692c6a",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 2/Final Writing Assignment.md",
@@ -139,7 +141,6 @@
     "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
-    "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
-    "Hebrew Scriptures/Unit 3 Study Guide.md"
+    "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md"
   ]
 }
