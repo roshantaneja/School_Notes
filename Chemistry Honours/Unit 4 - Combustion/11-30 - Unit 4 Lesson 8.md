@@ -47,10 +47,10 @@
 ### CONNECTING ENERGY to BALANCED EQUATIONS
 
   
-| Fuel     | Combustion Reaction                                      | Energy (kJ/g) | Energy (kJ/mol) | CO2/gal (lbs) | 
-| -------- | -------------------------------------------------------- | ------------- | --------------- | ------------- |
-| Gasoline | 2C8H18 (l)    +   25O2 (g)     →16CO2 (g)  +   18H2O (g) | 47            | 5430            | 20            |
-| Hydrogen | 2H2 (g)   +    O2 (g)      →          2H2O (g)           | 142           | 286             | 0             |
+| Fuel     | Combustion Reaction                                                                                  | Energy (kJ/g) | Energy (kJ/mol) | CO2/gal (lbs) |
+| -------- | ---------------------------------------------------------------------------------------------------- | ------------- | --------------- | ------------- |
+| Gasoline | 2C<sub>8</sub>H<sub>18</sub> (l) + 25O<sub>2</sub> (g) → 16CO<sub>2</sub> (g) + 18H<sub>2</sub>O (g) | 47            | 5430            | 20            |
+| Hydrogen | 2H<sub>2</sub> (g) + O<sub>2</sub> (g) → 2H<sub>2</sub>O (g)                                         | 142           | 286             | 0             |
 
 
 
