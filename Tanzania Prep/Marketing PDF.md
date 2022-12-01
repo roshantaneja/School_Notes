@@ -66,10 +66,12 @@ Yuvraj Taneja
     
 -   Karimu Foundation [[karimufoundation.org](https://www.karimufoundation.org/)]
     
--   Project FUEL [[projectfuel. in](http://projectfuel.in)]
+-   Project FUEL [[projectfuel.in](http://projectfuel.in)]
     
 
 ## How to Donate:
+Every donation helps us reach our goal of $30,000!
+
 [Campaign Link](https://campaigns.karimufoundation.org/campaign/maasai-water-harvesting-project/c446640)
 
 ---
