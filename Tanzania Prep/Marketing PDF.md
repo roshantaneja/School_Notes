@@ -14,38 +14,24 @@ The premise of this project is to mitigate or solve the lack of accessible and c
 
 The goal this year: raise $30k to build a second water harvesting unit.
 
-  
-
 The next few years' goal is to raise funds to build 10 water wells tanks and create treatment infrastructure units for ten villages (__~55K people__) - at least one tank per village.
-
-  
 
 ## Fundraising Team ==School students==
 
 A number of high schoolers Bay Area, North Carolina, and Singapore are helping support the fund raising. 100% of the funds raised will be invested into the project. In addition, to fund raising the team will be executing local programs and conducting on-ground research that will help future programs for the Maasai community. 
 
-Adam Barycza
+### Students Involved
 
-Arhaan Gupta
-
-Eduardo Tapper
-
-Kanishk Pandey
-
-Kashi Pandey
-
-Palmer Avery
-
-Rishan Rastogi
-
-Roshan Taneja
-
-Yuvraj Taneja
+-tx-
+| -------------- | ------------- | -------------- |
+| Adam Barycza   | Arhaan Gupta  | Eduardo Tapper |
+| Kanishk Pandey | Kashi Pandey  | Palmer Avery   |
+| Rishan Rastogi | Roshan Taneja | Yuvraj Taneja  |
 
 
 ## What's Happening This Year:
 
-8 Students from across the world will:
+### 8 Students from across the world will:
 
 -   Fundraise and raise awareness about the project.
     
@@ -56,9 +42,8 @@ Yuvraj Taneja
 -   Kickstart the building of the second water harvesting unit.
     
 -   Plan and execute education, science, and technology projects with the Maasai.
-    
 
-## Organizations Involved:
+### Organizations Involved:
 
 -   Maji Wells Foundation
     
@@ -67,9 +52,8 @@ Yuvraj Taneja
 -   Karimu Foundation [[karimufoundation.org](https://www.karimufoundation.org/)]
     
 -   Project FUEL [[projectfuel.in](http://projectfuel.in)]
-    
 
-## ==How to Donate:==
+## How to Donate:
 Every donation helps us reach our goal of $30,000!
 
 The funds donated will strictly be used for the building of the water harvesting unit. In addition, Karimu is a 501C charity, and any donations given to the cause can be recorded for tax benefits.
@@ -77,19 +61,17 @@ The funds donated will strictly be used for the building of the water harvesting
 [Campaign Link](https://campaigns.karimufoundation.org/campaign/maasai-water-harvesting-project/c446640)
 
 ---
-![](https://lh6.googleusercontent.com/hWkd44ojUDFFDv9i0rxdAXQRyRRojkfLkmzsuYvQO01V6ku6GAx4Eqh9vfxmK6458aC6KngaLQZUMkgO8nfmBrKPhvkAXBdudKdtk7l3grrgfWBuoBcH6gNcvPA18Z0EuntbvCfVMkQmFt-yxmVtIL3KZOczK16_xcVfXMsy41RXAuaQd7uAp-eAGPEq_A)The first water harvesting unit was implemented in July of 2022; it contains 100k liters of sanitized and accessible water for over 4000 people in Losimingori. The goal for December 2022: Raise $30k - 40k to build a second water harvesting unit.
+![](https://lh6.googleusercontent.com/hWkd44ojUDFFDv9i0rxdAXQRyRRojkfLkmzsuYvQO01V6ku6GAx4Eqh9vfxmK6458aC6KngaLQZUMkgO8nfmBrKPhvkAXBdudKdtk7l3grrgfWBuoBcH6gNcvPA18Z0EuntbvCfVMkQmFt-yxmVtIL3KZOczK16_xcVfXMsy41RXAuaQd7uAp-eAGPEq_A)
 
-![](https://lh3.googleusercontent.com/Q6QL58B-Hc8gqf5udQJ4nHqK0mKU77Kbkk3YavnKBfw1Co7U1oRMM0K-Ac2OcQ4PrHcZ5xgMilYGa53YfJDX6V2T6C0kBRqzybppK4fikCG5TE9C5EClOMBTYIxm_7Z3pAGMlOG4BT3rfQ58Nl7YXmA8bWrhSHQ-u4P-0BcK4piw9EQNAPQHBJZ4Cd1j_g)
+The first water harvesting unit was implemented in July of 2022; it contains 100k liters of sanitized and accessible water for over 4000 people in Losimingori. The goal for December 2022: Raise $30k - 40k to build a second water harvesting unit.
 
 ![](https://lh5.googleusercontent.com/uhxeLaGbjyyk418OZjg_hMz47JfZ-_Q3TDvmXcduzFSyiCbKOe3qn4-BAx44uXOfSHxXNBCkV-88r_In1ps8_men7ebIX-BysC_ZZh1A_uyZr_p6cvu31XJmWWuIXPKHV2xb5jprRlBjb6a0FRVLLWG5rfJehzj-WMfED0QY6klk2Z3L7V8H_k0OFLNWig)
 
-Maasai Gathering water from nearby flood lakes is hazardous and unhealthy.
+Maasai Gathering water from nearby flood lakes where the water is hazardous and unhealthy.
 
 ![](https://lh6.googleusercontent.com/c25w4Xn14wir-g8VQTWAnrUp_EQbmc2XZDGqgf-So-SZ1Cdlv1ZGX2h_NUXdaUfxBsRVwkDgVpdrEBb0nwRhJ9gS_sOL8R9DOsHkk7AXdYjJ_j8c-scLnUk4ATrtPU-mFiksq5dZOUpvlLkg26XGQhUmqUYSoPxtPRdpwIvnZZNiHr8-zEYe-09iou264g)
 
-Current Water Harvesting Unit (June 2022) being used to collect, store and distribute water.
-
-  
+Current Water Harvesting Unit (__June 2022__) being used to collect, store and distribute clean water.
 
 ## Impact of providing clean, accessible water
 
