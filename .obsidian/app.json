@@ -10,8 +10,8 @@
   "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
+    "includeName": false,
+    "pageSize": "Legal",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

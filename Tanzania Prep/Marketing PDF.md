@@ -43,7 +43,7 @@ Roshan Taneja
 Yuvraj Taneja
 
 
-## Whats Happening This Year:
+## What's Happening This Year:
 
 8 Students from across the world will:
 
@@ -95,15 +95,11 @@ Current Water Harvesting Unit (June 2022) being used to collect, store and distr
 
 Several other projects in the Karimu foundation are also centered around water distribution.
 
-  
-
 [DataStudio: The Karimu Water Project](https://datastudio.google.com/u/0/reporting/419e7887-521f-4dae-b782-3dda936b0b9d/page/FDqSC)
 
 [Ayalagaya Water System Maintenance](https://karimufoundation.org/our-projects/Ayalagaya-Water-System-Maintenance)
 
 [Water For All Villages](https://karimufoundation.org/our-projects/2018-water-for-all-villages)
-
-  
 
 Each of these projects has shown how by reducing the necessity of water collection, many families in Tanzania can use their extra time to go to school, make jewelry or tend to their livestock or agriculture. These projects also show that we can create a working infrastructure around the water harvesting unit to ensure that it remains perpetually productive and valuable for the community.
 
