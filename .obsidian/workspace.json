@@ -8,12 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9160b1099333defb",
+            "id": "3a47369c90dfcb09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Unit 3/3-5.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7ca1c9079a79af75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee761e4410f4ceb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +42,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Unit 3/3-5.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -116,31 +138,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Unit 3/3-5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
-  "active": "ad48e22834763be0",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Tanzania Prep/Marketing PDF.md",
+    "History/Unit 3/3-5.md",
     "History/Unit 2/Final Writing Assignment.md",
     "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "README.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "conflict-files-obsidian-git.md",
-    "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md"
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
   ]
 }
