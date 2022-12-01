@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "122ea317f292fef3",
+            "id": "9160b1099333defb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
+                "file": "History/Unit 3/3-5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50260543823242,
-    "collapsed": true
+    "width": 212.50260543823242
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md"
+                "file": "History/Unit 3/3-5.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
+                "file": "History/Unit 3/3-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,17 +130,17 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "122ea317f292fef3",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
+    "History/Unit 2/Final Writing Assignment.md",
+    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "README.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
     "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md"
   ]
 }
