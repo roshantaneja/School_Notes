@@ -45,8 +45,12 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 | H - Cl    | 427                  | 127              |
 | H - Br    | 363                  | 141              |
 | H - I     | 295                  | 161              |
+<<<<<<< HEAD
 
 1. For the halogens, which are the elements in Group 17 on the periodic table, what is the relationship between the energy of a bond and the length of the bond? Explain your reasoning.  
+=======
+    1. For the halogens, which are the elements in Group 17 on the periodic table, what is the relationship between the energy of a bond and the length of the bond? Explain your reasoning.  
+>>>>>>> origin/main
     The length of the bond is inversely proportional to enter energy in the bond. As the distance between the atoms gets larger, 
 
   
@@ -58,9 +62,14 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 | --------- | -------------------- | ---------------- |
 | C = O     | 745                  | 120              |
 | C - O     | 385                  | 143              |
+<<<<<<< HEAD
 
 1. What is the relationship between the energy of the bond and the number of bonds (single bond, double bond)? Explain your reasoning.
 
+=======
+	
+	1. What is the relationship between the energy of the bond and the number of bonds (single bond, double bond)? Explain your reasoning.
+>>>>>>> origin/main
     Double bonds have more energy because there are more electrons being shared between the atoms.
 
 2. Does your relationship hold true for carbon with multiple bonds (C-C, C=C, C≡C) and nitrogen with multiple bonds (N-N, N=N, N≡N)? State evidence to support your answer.
@@ -84,6 +93,7 @@ Electron Shells, Bond Length and Bond Energies:  Use the [Supplement: Electron 
 	2.  What is the definition of a Joule (J)? 
 	Power(Energy per unit time)
 	3.  What unit does mole (mol) represent?
+<<<<<<< HEAD
 
 
 $$6.02214076*10^{23}$$
@@ -91,6 +101,10 @@ $$6.02214076*10^{23}$$
 
 5.  What is the definition of a mole?
 6. 
+=======
+	$$6.02214076*10^{23}$$
+	5.  What is the definition of a mole?
+>>>>>>> origin/main
 	The SI Unit of the **amount of substance**
 
 5.  Watch the [TedTalk on the Mole](https://www.ted.com/talks/daniel_dulek_how_big_is_a_mole_not_the_animal_the_other_one?language=en#t-4295).  Write three things that you learned from the video.
