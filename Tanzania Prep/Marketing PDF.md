@@ -69,8 +69,10 @@ Yuvraj Taneja
 -   Project FUEL [[projectfuel.in](http://projectfuel.in)]
     
 
-## How to Donate:
+## ==How to Donate:==
 Every donation helps us reach our goal of $30,000!
+
+The funds donated will strictly be used for the building of the water harvesting unit. In addition, Karimu is a 501C charity, and any donations given to the cause can be recorded for tax benefits.
 
 [Campaign Link](https://campaigns.karimufoundation.org/campaign/maasai-water-harvesting-project/c446640)
 
