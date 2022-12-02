@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c4759407b75c9ae",
+            "id": "34caa0992dcec3ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precalculus BC Honours/Vector Notes.md",
+                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bdc0cd033011f901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precalculus BC Honours/Vector Notes.md"
+                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precalculus BC Honours/Vector Notes.md",
+                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,19 +140,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
-  "active": "2c4759407b75c9ae",
+  "active": "34caa0992dcec3ab",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
+    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+    "Precalculus BC Honours/Vector Notes.md",
     "Tanzania Prep/Marketing PDF.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/3-5.md",
     "History/Unit 2/Final Writing Assignment.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "README.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
+    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md"
   ]
 }
