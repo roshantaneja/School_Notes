@@ -71,15 +71,15 @@ Calculate the bond energy from the reactants and products and then combine them 
     
 
 
-|                              |                          |                   | METHANOL COMBUSTION                         |                                                                    |
-| ---------------------------- | ------------------------ | ----------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| What bonds are being BROKEN? | What is the bond energy? | How many of each? | What is the Total energy in this bond type? | TOTAL energy required to break the bonds in the balanced equation: |
-| ---------------------------- | ------------------------ | ----------------- | ------------------------------------------- | ------------------------------------------------------------------ |
-| C - H                        | 413                      |                   |                                             |                                                                    |
-| C - C                        | 347                      |                   |                                             |                                                                    |
-| O - H                        | 467                      |                   |                                             |                                                                    |
-| C - O                        | 358                      |                   |                                             |                                                                    |
-| O = O                        | 495                      |                   |                                             |                                                                    |
+| >                            | >                        | METHANOL COMBUSTION | <                                           | <                                                                  |
+| ---------------------------- | ------------------------ | ------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| What bonds are being BROKEN? | What is the bond energy? | How many of each?   | What is the Total energy in this bond type? | TOTAL energy required to break the bonds in the balanced equation: |
+| ---------------------------- | ------------------------ | -----------------   | ------------------------------------------- | ------------------------------------------------------------------ |
+| C - H                        | 413                      | 3                   | 1239                                        | 2064                                                               | 
+| C - C                        | 347                      | 0                   |                                             | ^                                                                  |
+| O - H                        | 467                      | 1                   | 467                                         | ^                                                                  |
+| C - O                        | 358                      | 1                   | 358                                         | ^                                                                  |
+| O = O                        | 495                      | 0                   |                                             | ^                                                                  |
 
 
 
