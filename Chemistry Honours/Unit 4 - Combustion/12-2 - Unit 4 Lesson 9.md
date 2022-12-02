@@ -56,91 +56,51 @@ Can we find the energy released in a reaction using bong energy
 
 Calculate the bond energy from the reactants and products and then combine them to determine the overall energy released from two combustion reactions. 
 
-Bond
+| Bond  | Bond Energy (kJ/mol) |
+| ----- | -------------------- |
+| C - C | 347                  |
+| C - H | 413                  |
+| C - O | 358                  |
+| C = O | 799                  |
+| O = O | 495                  |
+| O - H | 467                  | 
 
-Bond Energy (kJ/mol)
 
-C - C
-
-347
-
-C - H
-
-413
-
-C - O
-
-358
-
-C = O
-
-799
-
-O = O
-
-495
-
-O - H
-
-467
-
-  
-
-  
-  
 
 1.  Using the models, balanced equations, and chart above, fill in the chart with bond energies to determine the overall energy for each of the reactions.
     
 
-METHANOL COMBUSTION
 
-What bonds are being BROKEN?
+|                              |                          |                   | METHANOL COMBUSTION                         |                                                                    |
+| ---------------------------- | ------------------------ | ----------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| What bonds are being BROKEN? | What is the bond energy? | How many of each? | What is the Total energy in this bond type? | TOTAL energy required to break the bonds in the balanced equation: |
+| ---------------------------- | ------------------------ | ----------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+| C - H                        | 413                      |                   |                                             |                                                                    |
+| C - C                        | 347                      |                   |                                             |                                                                    |
+| O - H                        | 467                      |                   |                                             |                                                                    |
+| C - O                        | 358                      |                   |                                             |                                                                    |
+| O = O                        | 495                      |                   |                                             |                                                                    |
 
-What is the bond energy? 
 
-How many of each?
 
-What is the Total energy in this bond type?
 
-TOTAL energy required to break the bonds in the balanced equation: 
 
-C - H
-
-413
-
-  
 
   
 
   
 
-C - C
 
-347
 
-  
 
-  
-
-O - H
-
-467
 
   
 
   
 
-C - O
 
-358
 
-  
 
-  
-
-O = O
-
-495
 
   
 
