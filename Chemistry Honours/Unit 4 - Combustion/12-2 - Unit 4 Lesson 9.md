@@ -70,9 +70,8 @@ Calculate the bond energy from the reactants and products and then combine them 
 1.  Using the models, balanced equations, and chart above, fill in the chart with bond energies to determine the overall energy for each of the reactions.
     
 
-
-| >                            | >                        | METHANOL COMBUSTION | <                                           | <                                                                  |
-| ---------------------------- | ------------------------ | ------------------- | ------------------------------------------- | ------------------------------------------------------------------ |
+-tx-
+|                                                          METHANOL COMBUSTION                           |||||
 | What bonds are being BROKEN? | What is the bond energy? | How many of each?   | What is the Total energy in this bond type? | TOTAL energy required to break the bonds in the balanced equation: |
 | ---------------------------- | ------------------------ | -----------------   | ------------------------------------------- | ------------------------------------------------------------------ |
 | C - H                        | 413                      | 3                   | 1239                                        | 2064                                                               | 
