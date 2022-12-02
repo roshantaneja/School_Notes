@@ -8,36 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a47369c90dfcb09",
+            "id": "2c4759407b75c9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tanzania Prep/Marketing PDF.md",
-                "mode": "preview",
+                "file": "Precalculus BC Honours/Vector Notes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "7ca1c9079a79af75",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee761e4410f4ceb3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -114,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Precalculus BC Honours/Vector Notes.md"
+              }
             }
           },
           {
@@ -131,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Precalculus BC Honours/Vector Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,10 +129,10 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "2c4759407b75c9ae",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Tanzania Prep/Marketing PDF.md",
+    "conflict-files-obsidian-git.md",
     "History/Unit 3/3-5.md",
     "History/Unit 2/Final Writing Assignment.md",
     "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
