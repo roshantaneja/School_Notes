@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -127,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "active": "d59ce45c875250a7",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
     "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Precalculus BC Honours/Vector Notes.md",
     "Tanzania Prep/Marketing PDF.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/3-5.md",
-    "History/Unit 2/Final Writing Assignment.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md"
+    "History/Unit 2/Final Writing Assignment.md"
   ]
 }
