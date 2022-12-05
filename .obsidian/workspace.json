@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34caa0992dcec3ab",
+            "id": "d59ce45c875250a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+                "file": "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50260543823242,
-    "collapsed": true
+    "width": 212.50260543823242
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md"
+                "file": "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+                "file": "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "34caa0992dcec3ab",
+  "active": "d59ce45c875250a7",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
