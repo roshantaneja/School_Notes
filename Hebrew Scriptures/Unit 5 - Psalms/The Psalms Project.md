@@ -106,8 +106,10 @@ Original Audience: Again, given they were composed and collected over several ce
     5.  Directly apply any aspect of the Psalm to your life today
     6.  2-3 direct quotes/words/phrases from your Psalm
 
-
+---
 1. Read the psalm
 2. "The peoples plea is that God not allow the present danger to wipe out the community that has been graciously established" - "after confidently invoking god(Ps 90:1), the psalm turns to a complaint contrasting God's eternity with the brevity of human life(Ps 90:2-6)
-	1. Written By Moses, Title: "Gods Eternity and Mans Frailty", ""
-	2. 
+	1. Written By Moses, Title: "Gods Eternity and Mans Frailty", Edition 1
+3. 
+
+Psalm 90 is a lamenting psalm about the eternity of life of god and not of the humans he created. The Psalm laments about how god brings life to his people but also takes it away just as fast. 
