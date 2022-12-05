@@ -109,4 +109,5 @@ Original Audience: Again, given they were composed and collected over several ce
 
 1. Read the psalm
 2. "The peoples plea is that God not allow the present danger to wipe out the community that has been graciously established" - "after confidently invoking god(Ps 90:1), the psalm turns to a complaint contrasting God's eternity with the brevity of human life(Ps 90:2-6)
-	1. Written By Moses, Title: "Gods Eternity and Mans Frailty", 
+	1. Written By Moses, Title: "Gods Eternity and Mans Frailty", ""
+	2. 
