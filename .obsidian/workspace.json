@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "active": "d59ce45c875250a7",
   "lastOpenFiles": [

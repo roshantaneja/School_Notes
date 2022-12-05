@@ -79,7 +79,7 @@ There are different types of Psalms that scholars often group into different cat
     
 
   
-
+---
 ## Scholarly Exegesis Essentials - Book of Psalms
 
 Author: Many and various, sometimes called “psalmists”
@@ -91,7 +91,7 @@ Place: Majority were in the southern Kingdom of Judah, as they were associated w
 Original Audience: Again, given they were composed and collected over several centuries, the time, place, and circumstances of the original audience varied.
 
   
-
+---
 ## Psalm Assignment:
 
 1.  Read the Psalm assigned to you to get a sense of its basic message and content.  Read any footnotes in your Bible about the Psalm.
@@ -112,4 +112,4 @@ Original Audience: Again, given they were composed and collected over several ce
 	1. Written By Moses, Title: "Gods Eternity and Mans Frailty", Edition 1
 3. 
 
-Psalm 90 is a lamenting psalm about the eternity of life of god and not of the humans he created. `"after confidently invoking god (Ps 90:1), the psalm turns to a complaint contrasting God's eternity with the brevity of human life (Ps 90:2-6)"`, The Psalm laments about how god brings life to his people but also takes it away just as fast. `"though a thousand fall at your side, || ten thousand fall at your right side, || near you it shall not come(Ps 91-7)"`. This shows that even though death plagues humanity, it will never catch god. In addition, the psalm contains `"The peoples plea is that God not allow the present danger to wipe out the community that has been graciously established"`. It was written after the exodus, meaning that the people of the new Israel believed that their community was sacred and should be spared from the cold hand of death. This Psalm suggests that god agrees that all life is sacred but it is not indefinite. It sends a message that you have a limited number of days, making life worth living is worth the effort. `"Seventy is the sum of our years, || Eighty if we are strong, || and most of them are fruitless toil, || for they pass quickly and we drift away.(Ps 90:10)"` By showing that the years of fruitless toil amount to nothing, the author further heightens the point that life is precious and should not be wasted in fruitless toil. 
+Psalm 90 is a lamenting psalm about the eternity of life of god and not of the humans he created. `"after confidently invoking god (Ps 90:1), the psalm turns to a complaint contrasting God's eternity with the brevity of human life (Ps 90:2-6)"`, The Psalm laments about how god brings life to his people but also takes it away just as fast. `"though a thousand fall at your side, || ten thousand fall at your right side, || near you it shall not come(Ps 91-7)"`. This shows that even though death plagues humanity, it will never catch god. In addition, the psalm contains `"The peoples plea is that God not allow the present danger to wipe out the community that has been graciously established"`. It was written after the exodus, meaning that the people of the new Israel believed that their community was sacred and should be spared from the cold hand of death. This Psalm suggests that god agrees that all life is sacred but it is not indefinite. It sends a message that you have a limited number of days, making life worth living is worth the effort. `"Seventy is the sum of our years, || Eighty if we are strong, || and most of them are fruitless toil, || for they pass quickly and we drift away.(Ps 90:10)"` By showing that the years of fruitless toil amount to nothing, the author further heightens the point that life is precious and should not be wasted in fruitless toil. In my life, I want to make the most of the time I have been given. 
