@@ -8,28 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c53344f8f9692c6a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9b09986b36c29de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "fd638f1245c5b306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -37,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -115,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Tanzania Prep/Marketing PDF.md"
               }
             }
           },
@@ -133,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
