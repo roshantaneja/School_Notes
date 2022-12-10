@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Final Test/Final Test Overview.md"
+                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Final Test/Final Test Overview.md",
+                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,10 +144,10 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "d59ce45c875250a7",
+  "active": "096ec348f4cb1887",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
+    "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "Hebrew Scriptures/Untitled.md",
     "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
     "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md",
