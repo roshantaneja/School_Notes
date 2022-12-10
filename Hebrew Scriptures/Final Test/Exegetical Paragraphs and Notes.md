@@ -25,4 +25,4 @@ Then the Lord said, “Rise and anoint him; this is the one.”
 
 [13] So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David. Samuel then went to Ramah.
 
-During this passage, god tells Samuel to stop mourning over the loss of Saul as the king of israel. Instead, he tells him to focus on finding a new King. In this 
+During this passage, god tells Samuel to stop mourning over the loss of Saul as the king of Israel. Instead, he tells him to focus on finding a new King. God told Samuel to find Jesse of Bethlehem as he had "chosen one of his sons to be king"(1SM16:1). 
