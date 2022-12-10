@@ -281,7 +281,3 @@ Concluding sentences restate the thesis, and explain why the passage was importa
 Concluding sentences do not clearly explain why the passage was important to the Israelites or how it is still relevant today.
 
 Concluding sentences are brief and ineffective.
-
-  
-  
-**
