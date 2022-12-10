@@ -7,20 +7,20 @@ The Lord said, “Take a heifer with you and say, ‘I have come to sacrifice 
 
 [4] Samuel did what the Lord said. When he arrived at Bethlehem, the elders of the town trembled when they met him. They asked, “Do you come in peace?”
 
-5 Samuel replied, “Yes, in peace; I have come to sacrifice to the Lord. Consecrate yourselves and come to the sacrifice with me.” Then he consecrated Jesse and his sons and invited them to the sacrifice.
+[5] Samuel replied, “Yes, in peace; I have come to sacrifice to the Lord. Consecrate yourselves and come to the sacrifice with me.” Then he consecrated Jesse and his sons and invited them to the sacrifice.
 
-6 When they arrived, Samuel saw Eliab and thought, “Surely the Lord’s anointed stands here before the Lord.”
+[6] When they arrived, Samuel saw Eliab and thought, “Surely the Lord’s anointed stands here before the Lord.”
 
-7 But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.”
+[7] But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.”
 
-8 Then Jesse called Abinadab and had him pass in front of Samuel. But Samuel said, “The Lord has not chosen this one either.” 9 Jesse then had Shammah pass by, but Samuel said, “Nor has the Lord chosen this one.” 10 Jesse had seven of his sons pass before Samuel, but Samuel said to him, “The Lord has not chosen these.” 11 So he asked Jesse, “Are these all the sons you have?”
+[8] Then Jesse called Abinadab and had him pass in front of Samuel. But Samuel said, “The Lord has not chosen this one either.” [9] Jesse then had Shammah pass by, but Samuel said, “Nor has the Lord chosen this one.” [10] Jesse had seven of his sons pass before Samuel, but Samuel said to him, “The Lord has not chosen these.” [11] So he asked Jesse, “Are these all the sons you have?”
 
 “There is still the youngest,” Jesse answered. “He is tending the sheep.”
 
 Samuel said, “Send for him; we will not sit down until he arrives.”
 
-12 So he sent for him and had him brought in. He was glowing with health and had a fine appearance and handsome features.
+[12] So he sent for him and had him brought in. He was glowing with health and had a fine appearance and handsome features.
 
 Then the Lord said, “Rise and anoint him; this is the one.”
 
-13 So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David. Samuel then went to Ramah.
+[13] So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David. Samuel then went to Ramah.
