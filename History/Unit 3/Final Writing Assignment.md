@@ -1,5 +1,3 @@
-**  
-
 The Unit 3 Assessment, which you will complete during our Final Assessment period on Monday, December 12, will include three parts:
 
   
