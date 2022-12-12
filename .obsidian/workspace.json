@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Unit 3/Part 2 - Historical Analysis.md"
+                "file": "History/Unit 3/Part 3 - Historical Reflection.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Unit 3/Part 2 - Historical Analysis.md",
+                "file": "History/Unit 3/Part 3 - Historical Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +141,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ee9e9f88da43282a",
+  "active": "0bc4b20fb1a197a0",
   "lastOpenFiles": [
-    "History/Unit 3/Part 3 - Historical Reflection.md",
     "History/Unit 3/Part 2 - Historical Analysis.md",
+    "History/Unit 3/Part 3 - Historical Reflection.md",
     "History/Unit 3/Final Writing Assignment.md",
     "History/Unit 2/Final Writing Assignment.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",

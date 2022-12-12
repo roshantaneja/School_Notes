@@ -8,3 +8,4 @@ From my historical understanding of the Reconstruction and Redemption periods, I
 -   Progress towards our country's founding ideals is not inevitable, but must be actively pursued and defended
 -   When we prioritize the rights and well-being of all members of society, we move closer to realizing the vision of a fair and just society that our founders sought to create
 -   However, when we prioritize the interests of the wealthy and powerful, we move further away from these ideals.
+-   Many of the rules put in place to manage the hyper-rich were written __after__ the gilded age taught that there was little holding one back from extreme economic involvement.
