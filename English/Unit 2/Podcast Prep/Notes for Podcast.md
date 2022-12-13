@@ -11,3 +11,34 @@ In addition to the Narrative, we have also studied several other texts that have
 Overall, our readings and discussions have shown us the devastating impact of slavery on both enslaved individuals and American society as a whole. The continued legacy of slavery can be seen in the persistent racial inequalities and injustices that continue to plague American society. As we move forward, it is important for us to continue to engage with and learn from texts like the Narrative of the Life of Frederick Douglass in order to better understand the past and work towards a more just and equitable future.
 
 Let me hand it off to Andy, "what is the first thing you noticed about the narrative?"
+
+---
+
+## Podcast Beatsheet: The Horrors of Slavery
+  
+
+### Segment 1: Background on slavery in the United States
+
+Brief history of slavery in the United States, including how it was justified and the role it played in the country's economy
+
+The dehumanizing effects of slavery, including the separation of families and the denial of basic human rights
+
+  
+
+### Segment 2: The narrative of Frederick Douglass
+
+Introduction to Frederick Douglass, a former slave who became a prominent abolitionist and writer
+
+Discussion of Douglass' narrative, in which he describes his experiences as a slave and his eventual escape to freedom
+
+The importance of Douglass' narrative in shedding light on the realities of slavery and its impact on those who were forced to endure it
+
+  
+
+### Segment 3: The movie "Get Out" and its portrayal of slavery
+
+Introduction to the movie "Get Out," a horror film that explores the theme of slavery in a contemporary setting
+
+Discussion of how the movie uses the concept of "the sunken place" to represent the psychological effects of slavery on its victims
+
+The relevance of "Get Out" in addressing the ongoing legacy of slavery in the United States
