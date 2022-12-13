@@ -1,4 +1,4 @@
-## intro
+## Intro
 
 Welcome to our podcast, where today we will be discussing the Narrative of the Life of Frederick Douglass and its continued legacy on American culture and society. As a group, we have recently finished reading Douglass's powerful account of his experiences as an enslaved person in the United States, and we will be sharing our thoughts on how this book has deepened our understanding of slavery as an institution and its ongoing impact on American culture and society.
 
@@ -9,3 +9,5 @@ One of the most powerful aspects of the Narrative for us was Douglass's use of r
 In addition to the Narrative, we have also studied several other texts that have deepened our understanding of slavery's legacy on American culture and society. The Slate animation of the Middle Passage, for example, offered a poignant visual representation of the horrors of the transatlantic slave trade and the unimaginable suffering of enslaved people. The sorrow songs we studied, such as "Steal Away" and "Wade in the Water," offered a glimpse into the emotional lives of enslaved people and the ways in which they used music to express their pain and hope for freedom.
 
 Overall, our readings and discussions have shown us the devastating impact of slavery on both enslaved individuals and American society as a whole. The continued legacy of slavery can be seen in the persistent racial inequalities and injustices that continue to plague American society. As we move forward, it is important for us to continue to engage with and learn from texts like the Narrative of the Life of Frederick Douglass in order to better understand the past and work towards a more just and equitable future.
+
+Let me hand it off to Andy, "what is the first thing you noticed about the narrative?"
