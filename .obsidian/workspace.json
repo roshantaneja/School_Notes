@@ -11,12 +11,10 @@
             "id": "25b0fd02ef874ad5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "English/Unit 2/Podcast Prep/Notes for Class.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
@@ -97,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Unit 2/Podcast Prep/Notes for Class.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Unit 2/Podcast Prep/Notes for Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +124,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "25b0fd02ef874ad5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "English/Unit 2/Podcast Prep/Notes for Class.md",
+    "conflict-files-obsidian-git.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
     "History/Unit 3/Part 2 - Historical Analysis.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
