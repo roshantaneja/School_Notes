@@ -17,8 +17,22 @@
                 "staged": true
               }
             }
+          },
+          {
+            "id": "a3e9eb038a75a05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Unit 2/Podcast Prep/Beatsheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Unit 2/Podcast Prep/Beatsheet.md"
+              }
             }
           },
           {
@@ -112,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/Unit 2/Podcast Prep/Beatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +141,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "a3e9eb038a75a05e",
   "lastOpenFiles": [
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
     "conflict-files-obsidian-git.md",
