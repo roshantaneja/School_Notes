@@ -11,10 +11,12 @@
             "id": "25b0fd02ef874ad5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "English/Unit 2/Podcast Prep/Notes for Class.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -95,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/Unit 2/Podcast Prep/Notes for Class.md"
+              }
             }
           },
           {
@@ -112,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/Unit 2/Podcast Prep/Notes for Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
