@@ -1,4 +1,4 @@
-### 1 Samuel 16:1-13 ... Samuel Appoints David
+### 1 Samuel 16:1-13 - Samuel Appoints David
 [1] The Lord said to Samuel, “How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way; I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.”
 
 [2] But Samuel said, “How can I go? If Saul hears about it, he will kill me.”
@@ -26,3 +26,14 @@ Then the Lord said, “Rise and anoint him; this is the one.”
 [13] So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David. Samuel then went to Ramah.
 
 During this passage, god tells Samuel to stop mourning over the loss of Saul as the king of Israel. Instead, he tells him to focus on finding a new King. God told Samuel to find Jesse of Bethlehem as he had "chosen one of his sons to be king"(1SM16:1).
+
+
+## Exegesis
+
+1 Samuel 16:1-13 tells the story of how God chose David to be the next king of Israel. The text begins by describing how the Lord spoke to Samuel, the prophet, and told him to go to the house of Jesse in Bethlehem. When Samuel arrived, he saw Jesse's oldest son, Eliab, and thought he must be the one God had chosen. However, the Lord told Samuel that he should not judge by outward appearances, but rather by the state of a person's heart. So, Samuel continued to look at Jesse's other sons, but none of them were chosen by God. Finally, Jesse brought out his youngest son, David, who was out tending to the sheep. The Lord told Samuel that this was the one he had chosen to be the next king of Israel. This passage is significant because it shows how God can choose anyone, even the least likely candidate, to fulfill his plans. It also emphasizes the importance of looking beyond outward appearances and focusing on a person's inner character.
+
+1 Samuel 16:1-13 is a passage that describes the story of God choosing David to be the next king of Israel. In this passage, God instructs the prophet Samuel to go to the house of Jesse and anoint one of his sons as the new king. Samuel is initially unsure of how to choose the right son, but God tells him to look at their outward appearance. However, God makes it clear that he does not look at things the way humans do, and instead he looks at the heart.
+
+Samuel goes to Jesse's house and sees all of his sons, but none of them are the right choice. But then Jesse brings out his youngest son, David, who is tending the sheep. As soon as Samuel sees David, God tells him that this is the one he has chosen to be the next king. Samuel then anoints David with oil, signifying that he has been chosen by God for this important role.
+
+This passage highlights the importance of the heart in God's eyes. It also shows that God's choices are not always based on what humans consider to be important or valuable. In this case, God chooses David, the youngest and seemingly least important son, to be the next king. This shows that God looks at the heart and not just outward appearances. It also serves as a reminder that God's ways are not always the same as ours, and that we should trust in his choices and plans for us.

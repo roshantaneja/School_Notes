@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Unit 2/Podcast Prep/Notes for Podcast.md",
+                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -97,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md"
+              }
             }
           },
           {
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +128,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "25b0fd02ef874ad5",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Final Test/Final Test Overview.md",
+    "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
@@ -135,8 +142,6 @@
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
     "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
   ]
 }
