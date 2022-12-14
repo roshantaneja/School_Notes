@@ -1,4 +1,4 @@
-### 1 Samuel 16:1-13 - Samuel Appoints David
+## 1 Samuel 16:1-13 - Samuel Appoints David
 [1] The Lord said to Samuel, “How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way; I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king.”
 
 [2] But Samuel said, “How can I go? If Saul hears about it, he will kill me.”

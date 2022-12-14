@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Everforest"
+  "cssTheme": "Terminal",
+  "accentColor": "#00ff00",
+  "theme": "obsidian"
 }
