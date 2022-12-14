@@ -34,3 +34,16 @@ During this passage, god tells Samuel to stop mourning over the loss of Saul as 
 
 
 
+## Graded discussion of Exodus 32:1-29
+
+-   The Israelites sin by creating and worshipping a golden calf
+	- They got bored that Moses was taking too long to discuss with god one day.
+	- This was a direct violation of the first commandment of the new covenant with god.
+		- By violating this new covenant, god punished the israelites that they 
+-   Despite God's deliverance and covenant with the Israelites, they turn away from Him
+	- Through the sin of worshipping the golden calf, god is able to 
+-   Moses pleads with God to forgive the people
+	- He makes sure to provide god a good explanation.
+-   God agrees to forgive, but not without punishment
+	- 
+-   The passage highlights the theme of sin and forgiveness.
