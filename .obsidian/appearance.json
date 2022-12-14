@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
   "cssTheme": "Everforest",
   "accentColor": ""
+=======
+  "cssTheme": "Wasp",
+  "accentColor": "",
+  "theme": "obsidian"
+>>>>>>> origin/main
 }
