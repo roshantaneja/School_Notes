@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f506aafc55aec81c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish/Final 2022/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
         "stacked": true
@@ -127,20 +140,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2d8d54aa4a60ba03",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Spanish/Final 2022/Untitled.md",
     "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
-    "conflict-files-obsidian-git.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
     "History/Unit 3/Part 2 - Historical Analysis.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md"
   ]
 }
