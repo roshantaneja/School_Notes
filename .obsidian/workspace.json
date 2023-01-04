@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
-                "mode": "preview",
+                "file": "Tanzania Prep/Marketing PDF.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.50520849227905
+    "width": 238.50260543823242
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md"
+                "file": "Tanzania Prep/Marketing PDF.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
+                "file": "Tanzania Prep/Marketing PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +131,15 @@
   },
   "active": "19d1783bce069e58",
   "lastOpenFiles": [
-    "Precalculus BC Honours/Vector Notes.md",
-    "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
+    "Tanzania Prep/11-30-2022 Call with almost everyone.md",
+    "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
+    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
+    "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
+    "Precalculus BC Honours/Vector Notes.md",
     "conflict-files-obsidian-git.md",
     "English/Unit 2/Podcast Prep/Beatsheet.md",
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
-    "History/Unit 3/Part 2 - Historical Analysis.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
+    "History/Unit 3/Part 2 - Historical Analysis.md"
   ]
 }
