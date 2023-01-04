@@ -129,17 +129,29 @@
     "direction": "horizontal",
     "width": 279.5
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "gpt3-notes:GPT-3 Notes": false
+    }
+  },
   "active": "19d1783bce069e58",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Tanzania Prep/Marketing PDF.md",
     "Tanzania Prep/11-30-2022 Call with almost everyone.md",
     "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
     "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "Precalculus BC Honours/Vector Notes.md",
-    "conflict-files-obsidian-git.md",
     "English/Unit 2/Podcast Prep/Beatsheet.md",
-    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
-    "History/Unit 3/Part 2 - Historical Analysis.md"
+    "English/Unit 2/Podcast Prep/Notes for Podcast.md"
   ]
 }
