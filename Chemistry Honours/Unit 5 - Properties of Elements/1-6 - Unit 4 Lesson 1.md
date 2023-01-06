@@ -54,9 +54,12 @@ As a team, look/read at EPA [“The Life Cycle of a Cell Phone”](https://drive
 
 TABLE A:  KWL “Life Cycle of the Cell Phone” *List at least 5 bullets in each category below.
 
-| KNOW: What do you know about<br>the life cycle of a cell phone? | WANT TO KNOW: What do you want to<br>know about the life of a cell phone? | LEARNED: What have you learned about the<br>life of a cell phone? |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-|                                                                 |                                                                           |                                                                   |
+| KNOW: What do you know about the life cycle of a cell phone? | WANT TO KNOW: What do you want to know about the life of a cell phone?   | LEARNED: What have you learned about the life of a cell phone? |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Uses a lithium battery                                          | What parts of the phone are recycled?                                       |                                                                   |
+| send to recycling center when throwing away                     | How many of these get made?                                                 |                                                                   |
+|                                                                 | How much of these phones actually get recycled?                             |                                                                   |
+|                                                                 | Are they considering alternative options to materials that are running out? |                                                                   |
 
   
 
@@ -66,77 +69,27 @@ INVESTIGATION: Research the pros and cons of Reusing, Recycling, and Disposing o
 
 TABLE B:  REUSE, RECYCLE or DISPOSE
 
-REUSE: What are the pros and cons of reusing the smartphone?
 
-RECYCLE: What are the pros and cons of recycling the smartphone?
+| REUSE: What are the pros and cons of reusing the smartphone?          | RECYCLE: What are the pros and cons of recycling the smartphone?      | DIPOSE: What are the pros and cons of disposing of the smartphone? |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| PROS: Schools, underprivileged members of society can now have phones | PROS: Rechargable batteries can be recycled and reused in new phones. |                                                                    | 
+| Extends the useful life of the phone                                  | Reduces the footprint of the                                          |                                                                    |
+|                                                                       |                                                                       |                                                                    |
 
-DIPOSE: What are the pros and cons of disposing of the smartphone?
-
-PROS:
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-CONS:
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-PROS:
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-CONS:
-
-  
-
-PROS:
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-CONS:
 
   
 
   
 
-SHARING: Each pair will place at least one post-it of your research on our combined class jamboard (find link on Schoology) for each page (i-vii). Jamboard pages include: LEARNED, Reusing Pros & Cons, Recycling Pros & Cons, Disposing Pros & Cons. We will review this information as a class. 
+### SHARING: 
+
+Each pair will place at least one post-it of your research on our combined class jamboard (find link on Schoology) for each page (i-vii). Jamboard pages include: LEARNED, Reusing Pros & Cons, Recycling Pros & Cons, Disposing Pros & Cons. We will review this information as a class. 
 
   
 
-CER: Decide how you will end the life of your smartphone. You can choose either reusing, recycling or disposing of your smartphone. Fill out a [CER template](https://docs.google.com/document/d/1J7uRPxNlGvLRyYjwHkP3ymPu9bcv3ILyDhXHfMuLDh0/edit?usp=sharing) (not a paragraph, just a claim and three evidence and reasoning statements with citation) based on your decision.  Use your team research and the class jamboard to help with your thinking. CER template is on the following page  
+### CER:
+
+Decide how you will end the life of your smartphone. You can choose either reusing, recycling or disposing of your smartphone. Fill out a [CER template](https://docs.google.com/document/d/1J7uRPxNlGvLRyYjwHkP3ymPu9bcv3ILyDhXHfMuLDh0/edit?usp=sharing) (not a paragraph, just a claim and three evidence and reasoning statements with citation) based on your decision.  Use your team research and the class jamboard to help with your thinking. CER template is on the following page  
 
 TEMPLATE: CER Graphic Organizer 
 
