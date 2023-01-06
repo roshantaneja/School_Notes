@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19d1783bce069e58",
+            "id": "69deb0de96080d8b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "AI Testing/Podcast Script.md",
-                "staged": true
+                "file": "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -95,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md"
+              }
             }
           },
           {
@@ -112,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +141,17 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "19d1783bce069e58",
+  "active": "69deb0de96080d8b",
   "lastOpenFiles": [
+    "Tanzania Prep/11-30-2022 Call with almost everyone.md",
     "Tanzania Prep/Marketing PDF.md",
+    "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
     "AI Testing/Podcast Scri.md",
     "conflict-files-obsidian-git.md",
-    "Tanzania Prep/11-30-2022 Call with almost everyone.md",
     "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
     "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
     "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
-    "Precalculus BC Honours/Vector Notes.md",
-    "English/Unit 2/Podcast Prep/Beatsheet.md"
+    "Precalculus BC Honours/Vector Notes.md"
   ]
 }
