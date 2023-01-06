@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 4 Lesson 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

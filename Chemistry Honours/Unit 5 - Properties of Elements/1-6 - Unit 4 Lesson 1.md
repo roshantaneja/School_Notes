@@ -70,11 +70,10 @@ INVESTIGATION: Research the pros and cons of Reusing, Recycling, and Disposing o
 TABLE B:  REUSE, RECYCLE or DISPOSE
 
 
-| REUSE: What are the pros and cons of reusing the smartphone?          | RECYCLE: What are the pros and cons of recycling the smartphone?      | DIPOSE: What are the pros and cons of disposing of the smartphone? |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| PROS: Schools, underprivileged members of society can now have phones | PROS: Rechargable batteries can be recycled and reused in new phones. |                                                                    | 
-| Extends the useful life of the phone                                  | Reduces the footprint of the                                          |                                                                    |
-|                                                                       |                                                                       |                                                                    |
+| REUSE: What are the pros and cons of reusing the smartphone?          | RECYCLE: What are the pros and cons of recycling the smartphone?      | DISPOSE: What are the pros and cons of disposing of the smartphone? |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| PROS: Schools, underprivileged members of society can now have phones | PROS: Rechargable batteries can be recycled and reused in new phones. |                                                                     |
+| Extends the useful life of the phone                                  | Reduces the footprint of the                                          |                                                                     |
 
 
   
@@ -91,38 +90,24 @@ Each pair will place at least one post-it of your research on our combined class
 
 Decide how you will end the life of your smartphone. You can choose either reusing, recycling or disposing of your smartphone. Fill out a [CER template](https://docs.google.com/document/d/1J7uRPxNlGvLRyYjwHkP3ymPu9bcv3ILyDhXHfMuLDh0/edit?usp=sharing) (not a paragraph, just a claim and three evidence and reasoning statements with citation) based on your decision.  Use your team research and the class jamboard to help with your thinking. CER template is on the following page  
 
-TEMPLATE: CER Graphic Organizer 
+#### TEMPLATE: 
 
-Question:
+**CER Graphic Organizer** 
 
-At the end of your smartphone’s life, will you reuse, recycle, or dispose of your smartphone? 
-
-      ↑    
-
-Claim: (write a complete sentence to answer the question)
-
+|                                                                                                       | At the end of your smartphone’s life, will you reuse, recycle, or dispose of your smartphone? |                                                                                             |
+| -----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------- |
+|                                                                                                       |                                               ↑                                               |                                                                                             |
+|                                                                                                       |                   Claim: (write a complete sentence to answer the question)                   |                                                                                             |
+|                                                                                                     ↗ |                                               ↑                                               | ↖                                                                                           |
+| Reasoning: What is the science principle that explains why evidence is linked to the claim? <br> <br> |  Reasoning: What is the science principle that explains why evidence is linked to the claim?  | Reasoning: What is the science principle that explains why evidence is linked to the claim? |
+|                                                                                                     ↑ |                                               ↑                                               | ↑                                                                                           |
+|                     Evidence:What specific piece of information from your source supports your claim? |       Evidence:What specific piece of information from your source supports your claim?       | Evidence:What specific piece of information from your source supports your claim?           |
   
-
-    ↗                   ↑                             ↖
-
-Reasoning: What is the science principle that explains why evidence is linked to the claim? 
-
-Reasoning: What is the science principle that explains why evidence is linked to the claim? 
-
-Reasoning: What is the science principle that explains why evidence is linked to the claim? 
-
-↑                                             ↑                             ↑
-
-Evidence:What specific piece of information from your source supports your claim?
-
-Evidence:What specific piece of information from your source supports your claim?
-
-Evidence:What specific piece of information from your source supports your claim?
 
   
   
 
-NEXT STEPS:
+### NEXT STEPS:
 
 1.  Reflect on today’s question: What should we do at the end of the life of a smartphone? Reuse? Recycle? Dispose of?
     
