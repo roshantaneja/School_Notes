@@ -10,7 +10,9 @@ After our on-ground research, we are happy to report that the current water harv
 
 In addition to research, some of our student leaders hosted workshops for several skills. Our most crucial workshop was the technology literacy course. This course taught underprivileged Maasai the necessary tech skills required to succeed in our modern world. Other workshops included art, dance, and singing sessions, which were undoubtedly fun to participate in and enjoy. 
 
-In the future, we plan to create a program that subsidizes part of the cost of low-cost water harvesting units. This will make it easier for families in more remote areas to access clean water. This will be a crucial step towards providing clean water to the **55,000** people living in Monduli.
+Towards the end of our visit, we hosted an offsite with community members to brainstorm other potential solutions to the water harvesting problem besides just water tanks. The experience was very enlightening as the community provided several insights on issues we didn't know existed, helping us brainstorm at full capacity as a team. The result was a large selection of ideas, all of which can be prototyped and perhaps implemented at scale.
+
+In the future, we plan to create a program that subsidizes part of the cost of smaller, low-cost water harvesting units. This will make it easier for families in more remote areas to access clean water. This will be a crucial step towards providing clean water to the **55,000** people living in Monduli.
 
 As of right now, our student leaders are sifting through the data and insights we gathered during our stay in Tanzania to put together a presentation for the *Lions Club Global Summit* in March this year.
 
