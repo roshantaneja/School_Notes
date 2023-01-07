@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "7744668dff0b6bbe",
+            "id": "2aaaa0deba50cc51",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -109,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanish/Final 2022/Notas Finales de la Cuento.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanish/Final 2022/Notas Finales de la Cuento.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,10 +154,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7744668dff0b6bbe",
+  "active": "2aaaa0deba50cc51",
   "lastOpenFiles": [
-    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Spanish/Final 2022/Notas Finales de la Cuento.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",

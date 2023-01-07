@@ -1,8 +1,14 @@
 {
+<<<<<<< HEAD
   "cssTheme": "Minimal",
   "accentColor": "",
   "interfaceFontFamily": "DejaVu Sans Mono",
   "textFontFamily": "DejaVu Sans Mono",
   "monospaceFontFamily": "DejaVu Sans Mono",
   "baseFontSize": 10
+=======
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "",
+  "baseFontSize": 12
+>>>>>>> origin/main
 }
