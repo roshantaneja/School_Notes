@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest",
-  "baseFontSize": 11,
+  "cssTheme": "",
+  "baseFontSize": 10,
   "interfaceFontFamily": "Digital-7 Mono",
-  "textFontFamily": "VCR OSD Mono",
-  "monospaceFontFamily": "VCR OSD Mono"
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Code 128"
 }

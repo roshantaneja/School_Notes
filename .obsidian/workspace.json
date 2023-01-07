@@ -137,20 +137,20 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": true
     }
   },
   "active": "03a5d084c1c89dcd",
   "lastOpenFiles": [
+    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
+    "English/Unit 2/Podcast Prep/Beatsheet.md",
     "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
     "conflict-files-obsidian-git.md",
     "Spanish/Final 2022/Notas Finales de la Cuento.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
     "Hebrew Scriptures/Final Test/Final Test Overview.md",
-    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
-    "History/Unit 3/Part 2 - Historical Analysis.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md"
+    "History/Unit 3/Part 2 - Historical Analysis.md"
   ]
 }
