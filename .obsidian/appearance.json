@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
-  "baseFontSize": 14
+  "cssTheme": "Everforest",
+  "baseFontSize": 11,
+  "interfaceFontFamily": "Digital-7 Mono",
+  "textFontFamily": "VCR OSD Mono",
+  "monospaceFontFamily": "VCR OSD Mono"
 }
