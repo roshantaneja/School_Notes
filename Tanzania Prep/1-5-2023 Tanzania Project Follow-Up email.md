@@ -21,5 +21,3 @@ We are grateful for your support and are committed to continuing our work toward
 Sincerely,
 
 The Water Harvesting Team
-
-
