@@ -1,4 +1,8 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "DejaVu Sans Mono",
+  "textFontFamily": "DejaVu Sans Mono",
+  "monospaceFontFamily": "DejaVu Sans Mono",
+  "baseFontSize": 10
 }
