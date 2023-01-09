@@ -1,6 +1,12 @@
 {
   "wrapperTags": [
     {
+      "id": "w1673245764777",
+      "name": "center",
+      "startTag": "<center>",
+      "endTag": "</center>"
+    },
+    {
       "id": "w1669781991441",
       "name": "sub",
       "startTag": "<sub>",
