@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Wasp",
   "baseFontSize": 11,
   "interfaceFontFamily": "AaSpot",
-  "textFontFamily": "Source Code Pro",
-  "monospaceFontFamily": "DejaVu Sans Mono"
+  "textFontFamily": "Earthbound",
+  "monospaceFontFamily": "Digital-7 Mono"
 }

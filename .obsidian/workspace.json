@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Robotics/2022-2023/16887.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -123,12 +123,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +138,10 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": true
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "03a5d084c1c89dcd",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
     "Tanzania Prep/Marketing PDF.md",
     "Robotics/Untitled.md",
