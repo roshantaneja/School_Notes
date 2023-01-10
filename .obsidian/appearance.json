@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Terminal",
+  "cssTheme": "Shiba Uni",
   "accentColor": "",
-  "baseFontSize": 17,
-  "interfaceFontFamily": "AaSpot",
-  "textFontFamily": "Earthbound",
+  "baseFontSize": 13,
+  "interfaceFontFamily": "Lucida Console",
+  "textFontFamily": "Earthbound,IBM Plex Mono",
   "monospaceFontFamily": "Digital-7 Mono"
 }
