@@ -48,250 +48,64 @@ Read in the cK-12 textbook on [metals](https://www.ck12.org/c/chemistry/metals/l
 
   
 
-| Substance | Color or Luster | Conductivity | Malleable/Brittle | Reaction w CuCl2 |
-|:---------:| --------------- | ------------ | ----------------- | ---------------- |
-|     A     |                 |              |                   |                  |
-|     B     |                 |              |                   |                  |
-|     C     |                 |              |                   |                  |
-|     D     |                 |              |                   |                  |
+| Substance | Color or Luster    | Conductivity | Malleable/Brittle | Reaction w CuCl2 |
+|:---------:| ------------------ | ------------ | ----------------- | ---------------- |
+|     A     | Luster, and silver | Y            | Brittle           | No reaction      |
+|     B     | Luster, Silver     | Y            | Malleable         | Turned Black     |
+|     C     | Yellow Dust        | N            | Brittle           | No Reaction      |
+|     D     | Foil, Silver       | Y            | Malleable         |                  |
 
 Classify each substance as either a metal, nonmetal, or metalloid and explain your reasoning.
 
 -   A -
-    
-
-  
+    Metaloid
 
 -   B - 
-    
-
-  
+    Metal
 
 -   C -
-    
-
-  
+    NonMetal
 
 -   D-
-    
+    Metal
 
 Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u1fMl37b6B7zI9HnTJPfzvnaNA4t6DMQ/view?usp=sharing)” infographic to complete this table.
 
-| Location in smartphone - Screen | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone | 
-| ------------------------------- | -------------- | ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
-
-K
-
-
-Al
-
-
-Si
-
-Sn
+| Location in smartphone - Screen | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| ------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
+|                                 |       K        | Potassium    |                               |                   |                          |                                             |
+|                                 |       Al       |              |                               |                   |                          |                                             |
+|                                 |       Si       |              |                               |                   |                          |                                             |
+|                                 |       Sn       |              |                               |                   |                          |                                             |
 
 
-Location in smartphone - Battery
+| Location in smartphone - Battery | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| -------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
+|                                  |       Li       |              |                               |                   |                          |                                             |
+|                                  |       O        |              |                               |                   |                          |                                             |
+|                                  |       Al       |              |                               |                   |                          |                                             |
+|                                  |       Co       |              |                               |                   |                          |                                             |
 
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-Li
 
   
 
-  
+| Location in smartphone - Electronics | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| ------------------------------------ |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
+|                                      |       P        |              |                               |                   |                          |                                             |
+|                                      |       Cu       |              |                               |                   |                          |                                             |
+|                                      |       Ag       |              |                               |                   |                          |                                             |
+|                                      |       Au       |              |                               |                   |                          |                                             |
+
 
   
 
-  
 
-  
-
-O
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Al
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Co
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Location in smartphone - Electronics
-
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-P
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Cu
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Ag
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Au
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Location in smartphone - Casing
-
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-C
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Mg
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Ni
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Br
-
-  
-
-  
-
-  
-
-  
-
-  
+| Location in smartphone - Casing | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| ------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
+|                                 |       C        |              |                               |                   |                          |                                             |
+|                                 |       Mg       |              |                               |                   |                          |                                             |
+|                                 |       Ni       |              |                               |                   |                          |                                             |
+|                                 |       Br       |              |                               |                   |                          |                                             |
 
 1.  Which of these elements sound new/unfamiliar to you?
     
