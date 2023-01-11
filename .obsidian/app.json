@@ -18,5 +18,6 @@
   },
   "livePreview": false,
   "vimMode": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "promptDelete": false
 }
