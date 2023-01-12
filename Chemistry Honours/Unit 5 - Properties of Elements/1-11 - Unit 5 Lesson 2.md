@@ -71,7 +71,7 @@ Classify each substance as either a metal, nonmetal, or metalloid and explain yo
 
 Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u1fMl37b6B7zI9HnTJPfzvnaNA4t6DMQ/view?usp=sharing)” infographic to complete this table.
 
-| Location in smartphone - Screen | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| Location in smartphone - Screen | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning for use of element in smart phone |
 | ------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
 |                                 |       K        | Potassium    |                               |                   |                          |                                             |
 |                                 |       Al       |              |                               |                   |                          |                                             |
@@ -79,7 +79,7 @@ Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u
 |                                 |       Sn       |              |                               |                   |                          |                                             |
 
 
-| Location in smartphone - Battery | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| Location in smartphone - Battery | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning for use of element in smart phone |
 | -------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
 |                                  |       Li       |              |                               |                   |                          |                                             |
 |                                  |       O        |              |                               |                   |                          |                                             |
@@ -89,7 +89,7 @@ Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u
 
   
 
-| Location in smartphone - Electronics | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| Location in smartphone - Electronics | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning for use of element in smart phone |
 | ------------------------------------ |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
 |                                      |       P        |              |                               |                   |                          |                                             |
 |                                      |       Cu       |              |                               |                   |                          |                                             |
@@ -100,7 +100,7 @@ Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u
   
 
 
-| Location in smartphone - Casing | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone |
+| Location in smartphone - Casing | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning for use of element in smart phone |
 | ------------------------------- |:--------------:| ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
 |                                 |       C        |              |                               |                   |                          |                                             |
 |                                 |       Mg       |              |                               |                   |                          |                                             |
