@@ -40,16 +40,16 @@ Part 2:  Answer Critical Thinking Questions
 
   
 | Element Name <br> Location   | Element Symbol | Atomic Number | Average Atomic Mass | Most abundant isotope name | protons | electrons | neutrons | isotope symbol <br> (mass number & atomic number) | FROM PTE of Abundance Element in Earth’s Crust (mg/kg) |
-|------------------------------|----------------|---------------|---------------------|----------------------------|---------|-----------|----------|---------------------------------------------------|--------------------------------------------------------|
+| ---------------------------- | -------------- | ------------- | ------------------- | -------------------------- | ------- | --------- | -------- | ------------------------------------------------- | ------------------------------------------------------ |
 | Aluminum <br> Battery        | Al             | 13            | 26.982 amu          | Aluminum - 27              | 13      | 13        | 14       | 13 - 27 Al                                        | 82300                                                  |
 | Gold <br> Electronics        | Au             | 79            | 197 amu             | Gold - 197                 | 79      | 79        | 118      | 79 - 197 Au                                       | 0.0002                                                 |
 | Copper <br> Electronics      | Cu             | 29            | 63.546 amu          | Copper - 63                | 29      | 29        | 34       | 29 - 63 Cu                                        | 55                                                     |
 | Lithium <br> Battery         | Li             | 3             | 6.939 amu           | Lithium - 7                | 3       | 3         | 4        | 3 - 7 Li                                          | 20                                                     |
 | Silicon <br> Electronics     | Si             | 14            | 28.086 amu          | Silicon - 28               | 14      | 14        | 14       | 14 - 28 Si                                        | 2770                                                   |
-| Phosphorous <br> Electronics | P              | 15            | 30.97 amu           | Phosphorus- 31             | 15      | 15        | 16       | 15 - 31 P                                         | 2                                                      |
-| Dysprosium <br> Screen       | Dy             | 66            | 162.5 amu           | Dysprosium-163             | 66      | 66        | 97       | 66 - 163 Dy                                       | 0.00005                                                |
-| Tungsten <br> Electronics    | W              | 74            | 183.8 amu           | Tungsten- 184              | 74      | 74        | 110      | 74 - 184 W                                        | 0.0001                                                 |
-| Praseodymium <br> Screen     | Pr             | 59            | 140.9 amu           | Praseodymium-141           | 59      | 59        | 82       | 59 - 141 Pr                                       | 0.00001                                                |
+| Phosphorous <br> Electronics | P              | 15            | 30.97 amu           | Phosphorus - 31            | 15      | 15        | 16       | 15 - 31 P                                         | 2                                                      |
+| Dysprosium <br> Screen       | Dy             | 66            | 162.5 amu           | Dysprosium -163            | 66      | 66        | 97       | 66 - 163 Dy                                       | 0.00005                                                |
+| Tungsten <br> Electronics    | W              | 74            | 183.8 amu           | Tungsten - 184             | 74      | 74        | 110      | 74 - 184 W                                        | 0.0001                                                 |
+| Praseodymium <br> Screen     | Pr             | 59            | 140.9 amu           | Praseodymium -141          | 59      | 59        | 82       | 59 - 141 Pr                                       | 0.00001                                                |
 
 
 Part 1 - Complete the table using these directions
@@ -93,32 +93,26 @@ Part 2 - Using your completed chart answer the following questions
 
 1.  Why does the atomic number change from element to element?
     
-
+  The atomic number of an element is determined by the number of protons in the nucleus of an atom. As the number of protons in the nucleus changes, so does the atomic number. Elements are arranged on the periodic table in order of increasing atomic number.
   
-  
-  
-
 2.  If two elements are next to each other such as Hydrogen and Helium, how do their atomic numbers compare?  What does that tell you about the number of protons? 
     
-
-  
-
-  
+  The atomic number of Hydrogen is 1 and the atomic number of Helium is 2. This tells us that Helium has one more proton in its nucleus than Hydrogen.
 
 3.  How could you change Silicon (14) to Phosphorus (15)? 
     
-
-  
-  
+  Silicon can be changed to Phosphorus by either adding or removing a proton from the nucleus. This can be achieved through a process called nuclear transmutation, which involves bombarding the nucleus of an atom with a high-energy particle, such as a neutron, proton, or alpha particle.
   
 
 4.  Do you think that in a high school chemistry class we could change silicon to phosphorus?  Why or why not?
     
-
-  
+  It is unlikely that a high school chemistry class would have the equipment or resources to change silicon to phosphorus through nuclear transmutation. This process typically requires a high-energy particle accelerator and specialized equipment.
 
 5.  Which three elements are the most abundant in the Earth’s Crust from this chart? List the element and the atomic number starting with most abundant.
-    
+	
+MOST ABUNDANT: 
+2nd MOST ABUNDANT: 
+3rd MOST ABUNDANT: 
 
 6.  Which three elements are the least abundant in the Earth’s Crust from this chart? List the element and the atomic number ending with least abundant.
     
