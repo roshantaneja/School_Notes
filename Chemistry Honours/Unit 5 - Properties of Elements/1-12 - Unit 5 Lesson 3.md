@@ -27,9 +27,7 @@ QUESTION: Where do all of the elements in our smartphone come from?
 
 ## L5.3 Student Sheet
 
-*Lesson 5.3: Where do all the elements in our smartphones come from?
-
-  
+*Lesson 5.3: Where do all the elements in our smartphones come from?*
 
 Exploring the Smartphone Elements with Periodic Tables of Elements (PTE) 
 
