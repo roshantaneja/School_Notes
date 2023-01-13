@@ -97,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md"
+              }
             }
           },
           {
@@ -114,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +140,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "4d09ccc407cac2aa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
     "IMG_1256.jpg",
     "IMG_1271.jpg",
@@ -147,7 +151,6 @@
     "Chemistry Honours/Unit 5 - Properties of Elements/Roe.md",
     "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
     "Robotics/2022-2023/16887.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
-    "History/Unit 3/Part 2 - Historical Analysis.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md"
   ]
 }
