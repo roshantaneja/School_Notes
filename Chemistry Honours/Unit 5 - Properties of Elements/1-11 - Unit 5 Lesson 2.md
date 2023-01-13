@@ -48,250 +48,50 @@ Read in the cK-12 textbook on [metals](https://www.ck12.org/c/chemistry/metals/l
 
   
 
-| Substance | Color or Luster | Conductivity | Malleable/Brittle | Reaction w CuCl2 |
-|:---------:| --------------- | ------------ | ----------------- | ---------------- |
-|     A     |                 |              |                   |                  |
-|     B     |                 |              |                   |                  |
-|     C     |                 |              |                   |                  |
-|     D     |                 |              |                   |                  |
+| Substance | Color or Luster    | Conductivity | Malleable/Brittle | Reaction w CuCl2 |
+|:---------:| ------------------ | ------------ | ----------------- | ---------------- |
+|     A     | Luster, and silver | Y            | Brittle           | No reaction      |
+|     B     | Luster, Silver     | Y            | Malleable         | Turned Black     |
+|     C     | Yellow Dust        | N            | Brittle           | No Reaction      |
+|     D     | Foil, Silver       | Y            | Malleable         |                  |
 
 Classify each substance as either a metal, nonmetal, or metalloid and explain your reasoning.
 
 -   A -
-    
-
-  
+    Metaloid
 
 -   B - 
-    
-
-  
+    Metal
 
 -   C -
-    
-
-  
+    NonMetal
 
 -   D-
-    
+    Metal
 
 Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u1fMl37b6B7zI9HnTJPfzvnaNA4t6DMQ/view?usp=sharing)” infographic to complete this table.
 
-| Location in smartphone - Screen | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/Nonmetal/Metalloid | Reasoning for use of element in smart phone | 
-| ------------------------------- | -------------- | ------------ | ----------------------------- | ----------------- | ------------------------ | ------------------------------------------- |
-
-K
-
-
-Al
-
-
-Si
-
-Sn
-
-
-Location in smartphone - Battery
-
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-Li
-
-  
-
-  
-
-  
-
-  
-
-  
-
-O
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Al
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Co
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Location in smartphone - Electronics
-
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-P
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Cu
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Ag
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Au
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Location in smartphone - Casing
-
-Element symbol
-
-Element name
-
-Atomic Number for the element
-
-Molar mass
-
-(g/mol)
-
-Metal/Nonmetal/
-
-Metalloid
-
-Reasoning for use of element in smart phone
-
-C
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Mg
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Ni
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Br
-
-  
-
-  
-
-  
-
-  
-
-  
+| Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning                                                                                                                                       |
+| -------------- | ------------ | ----------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| K              | Potassium    | 19                            | 39.0983           | Metal                      | Potassium is not commonly used in smartphone screens.                                                                                           |
+| Al             | Aluminum     | 13                            | 26.9815           | Metal                      | Aluminum is used in the touchscreen of smartphones as it is a good conductor of electricity.                                                    |
+| Si             | Silicon      | 14                            | 28.0855           | Metalloid                  | Silicon is used in the manufacturing of the touchscreen and the semiconductor components of smartphones.                                        |
+| Sn             | Tin          | 50                            | 118.71            | Metal                      | Tin is not commonly used in smartphone screens.                                                                                                 |
+| Battery        |              |                               |                   |                            |                                                                                                                                                 |
+| Li             | Lithium      | 3                             | 6.939             | Metal                      | Lithium is used in lithium-ion batteries, which are commonly found in smartphones, as it has a high energy density and low self-discharge rate. |
+| O              | Oxygen       | 8                             | 15.999            | Nonmetal                   | Oxygen is not commonly used in smartphone batteries.                                                                                            |
+| Al             | Aluminum     | 13                            | 26.9815           | Metal                      | Aluminum is used in the casing of some smartphone batteries as it is a good conductor of heat.                                                  |
+| Co             | Cobalt       | 27                            | 58.933            | Metal                      | Cobalt is used in some lithium-ion batteries as it improves the stability and longevity of the battery.                                         |
+| Electronics    |              |                               |                   |                            |                                                                                                                                                 |
+| P              | Phosphorus   | 15                            | 30.9738           | Nonmetal                   | Phosphorus is not commonly used in smartphone electronics.                                                                                      |
+| Cu             | Copper       | 29                            | 63.546            | Metal                      | Copper is used in the wiring and components of smartphones as it is a good conductor of electricity.                                            |
+| Ag             | Silver       | 47                            | 107.87            | Metal                      | Silver is used in some smartphone components as it is a good conductor of electricity and has antimicrobial properties.                         |
+| Au             | Gold         | 79                            | 196.967           | Metal                      | Gold is used in some smartphone components as it is a good conductor of electricity and does not corrode easily.                                |
+| Casing         |              |                               |                   |                            |                                                                                                                                                 |
+| C              | Carbon       | 6                             | 12.0107           | Nonmetal                   | Carbon is used in the form of carbon fiber in some smartphone casings as it is lightweight and strong.                                          |
+| Mg             | Magnesium    | 12                            | 24.305            | Metal                      | Magnesium is not commonly used in smartphone casings.                                                                                           |
+| Ni             | Nickel       | 28                            | 58.6934           | Metal                      | Nickel is used in some smartphone casings as it provides corrosion resistance and durability.                                                   |
+| Br             | Bromine      | 35                            | 79.904            | Nonmetal                   | Bromine is not commonly used in smartphone casings.                                                                                             |
 
 1.  Which of these elements sound new/unfamiliar to you?
     
