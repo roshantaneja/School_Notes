@@ -4,27 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2bdfe2b33027e2b",
+        "id": "cb244be313fa022c",
         "type": "tabs",
         "children": [
           {
-            "id": "669bead5676948f2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "a0773988ae4d9964",
+            "id": "bc6e1bb57fc563cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -108,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md"
+              }
             }
           },
           {
@@ -125,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "669bead5676948f2",
+  "active": "bc6e1bb57fc563cf",
   "lastOpenFiles": [
     "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
     "conflict-files-obsidian-git.md",
