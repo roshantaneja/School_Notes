@@ -73,21 +73,28 @@ Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u
 
 | Element symbol | Element name | Atomic Number for the element | Molar mass(g/mol) | Metal/ Nonmetal/ Metalloid | Reasoning                                                                                                                                       |
 | -------------- | ------------ | ----------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Screen         |              |                               |                   |                            |                                                                                                                                                 |
 | K              | Potassium    | 19                            | 39.0983           | Metal                      | Potassium is not commonly used in smartphone screens.                                                                                           |
 | Al             | Aluminum     | 13                            | 26.9815           | Metal                      | Aluminum is used in the touchscreen of smartphones as it is a good conductor of electricity.                                                    |
 | Si             | Silicon      | 14                            | 28.0855           | Metalloid                  | Silicon is used in the manufacturing of the touchscreen and the semiconductor components of smartphones.                                        |
 | Sn             | Tin          | 50                            | 118.71            | Metal                      | Tin is not commonly used in smartphone screens.                                                                                                 |
+
 | Battery        |              |                               |                   |                            |                                                                                                                                                 |
+| -------------- | ------------ | ----------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Li             | Lithium      | 3                             | 6.939             | Metal                      | Lithium is used in lithium-ion batteries, which are commonly found in smartphones, as it has a high energy density and low self-discharge rate. |
 | O              | Oxygen       | 8                             | 15.999            | Nonmetal                   | Oxygen is not commonly used in smartphone batteries.                                                                                            |
 | Al             | Aluminum     | 13                            | 26.9815           | Metal                      | Aluminum is used in the casing of some smartphone batteries as it is a good conductor of heat.                                                  |
 | Co             | Cobalt       | 27                            | 58.933            | Metal                      | Cobalt is used in some lithium-ion batteries as it improves the stability and longevity of the battery.                                         |
+
 | Electronics    |              |                               |                   |                            |                                                                                                                                                 |
+| -------------- | ------------ | ----------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | P              | Phosphorus   | 15                            | 30.9738           | Nonmetal                   | Phosphorus is not commonly used in smartphone electronics.                                                                                      |
 | Cu             | Copper       | 29                            | 63.546            | Metal                      | Copper is used in the wiring and components of smartphones as it is a good conductor of electricity.                                            |
 | Ag             | Silver       | 47                            | 107.87            | Metal                      | Silver is used in some smartphone components as it is a good conductor of electricity and has antimicrobial properties.                         |
 | Au             | Gold         | 79                            | 196.967           | Metal                      | Gold is used in some smartphone components as it is a good conductor of electricity and does not corrode easily.                                |
+
 | Casing         |              |                               |                   |                            |                                                                                                                                                 |
+| -------------- | ------------ | ----------------------------- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | C              | Carbon       | 6                             | 12.0107           | Nonmetal                   | Carbon is used in the form of carbon fiber in some smartphone casings as it is lightweight and strong.                                          |
 | Mg             | Magnesium    | 12                            | 24.305            | Metal                      | Magnesium is not commonly used in smartphone casings.                                                                                           |
 | Ni             | Nickel       | 28                            | 58.6934           | Metal                      | Nickel is used in some smartphone casings as it provides corrosion resistance and durability.                                                   |
@@ -95,16 +102,21 @@ Part 3: Use the “[Elements of a Smartphone](https://drive.google.com/file/d/1u
 
 1.  Which of these elements sound new/unfamiliar to you?
     
-
+    
+    I was surprised to know that phosphorous may be used in phones
   
 
 2.  What does the “number for the element” mean?
     
+    
+    The number of protons in the element
 
   
 
 3.  Why are there different elements in the different areas of the phone?
     
+    
+    Different parts of the phone require different elements due to their different functions.
 
   
 
@@ -112,233 +124,8 @@ Part 4: Structure of Atom 
 
 ![](https://lh5.googleusercontent.com/u7I0JfYNV_-2m-FHHt_U_5vl0ZhfuNgbYSyOrOMiviDn8uQLxGw1o264gmciqse8fYCShCQN2vCE3fPnSVSIwrMqAWhwFHoLffbTn9h6wZ69rcryRojGJqpyZZT-U5bVI0Kr84vKokl3UCR-vaq7UHhuMPGr2zbAtiRA-U9n3aBISU-Yw5Uz9wAiPSMi6g)![](https://lh4.googleusercontent.com/KGayZrYYriAKap1Xa7gPfYi_Oyxx0DSP_WCrQgbIr7nL8-hqjtYA56MP42TaftzZUPMfm0W9mVDrySng5OjqQUT2bNoByGW9Ss-DN5WnqpG9fgLUhC1Uc2w3a-vc-Qklis1xu9xeReTMnI50bmr4z8SvNqygBTYlEAYIBEtBRKel9qmWJU7oE0TD9eeA-Q)
 
-  
-  
-  
-  
-  
-  
 
-Part 5: Isotope Practice
 
-Complete Table.  The first row is done for you as an example.
-
-  
-
-Isotopic Symbol
-
-Atomic Number
-
-Mass Number
-
-Protons
-
-Neutrons
-
-Electrons
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-                  115In
-
-                     49
-
-Location:  Screen
-
-49
-
-115
-
-49
-
-66
-
-49
-
-                    16O
-
-                      8
-
-Location:  Screen
-
-  
-
-16
-
-  
-
-8
-
-  
-
-151Eu
-
-                  63
-
-Location:  Screen
-
-  
-
-151
-
-  
-
-88
-
-  
-  
-  
-
-7Li
-
-                  3
-
-Location:  Battery
-
-  
-
-3
-
-  
-
-7
-
-  
-
-  
-
-  
-  
-  
-
-12C
-
-                    6
-
-Location:  Battery
-
-6
-
-  
-
-  
-
-6
-
-  
-
-  
-
-6
-
-197Au
-
-                 79
-
-Location:  Electronics
-
-  
-
-79
-
-  
-
-  
-
-  
-
-79
-
-  
-
-  
-
-79
-
-122Sb
-
-                 51
-
-Location:  Electronics
-
-  
-  
-  
-
-  
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-25
-
-                     12
-
-Location:  Casing
-
-  
-
-  
-
-  
-  
-  
-
-  
-
-  
-
-  
-  
-  
-
-Location:  Casing
-
-  
-
-35
-
-  
-
-80
-
-  
-  
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 Part 6: Naming Ionic Compounds with Transition Metals 
 
@@ -366,130 +153,21 @@ TIP for Success: The number in roman numerals is the charge NOT how many of the 
 
 Practice Write the name or the formula for the following binary ionic compounds with transition  metals.
 
-Name 
-
-Cation/Anion with Charges 
-
-Formula
-
-Iron (II) chloride 
-
-Fe2+, Cl 1- 
-
-FeCl2
-
-Iron (III) oxide 
-
-Fe3+, O 2- 
-
-Fe2O3
-
-copper (I) nitride
-
-  
-
-  
-
-  
-
-  
-
-Cu3N2
-
-tin (IV) oxide
-
-  
-
-  
-
-  
-
-  
-
-SnO
-
-  
-
-  
-
-AgCl
-
-zinc sulfide
-
-  
-
-  
-
-  
-
-  
-
-Ni3P2
-
-manganese (VII) iodide
-
-  
-
-  
-
-cadmium (II) nitride
-
-  
-
-  
-
-  
-
-  
-
-PbCO3
-
-  
-
-Ti4+, PO43-
-
-  
-
-  
-
-  
-
-Ag2SO4
-
-tin (II) chloride
-
-  
-
-  
-
-  
-
-Sn2+, CO32-
-
-  
-
-  
-
-  
-
-ZnCl2
-
-manganese (IV) hydroxide
-
-  
-
-  
-
-  
-
-NEXT STEPS:
-
-1.  Reflect on today’s question: What elements are in smartphones and how are they different from each other? 
-    
-2.  Open up the IMT for this unit, complete all boxes for lesson 2
-    
-3.  Make sure all parts of the L5.2 student sheet are complete and complete the check for understanding on Schoology.
-    
-
-  
-**
+| Name                     | Cation/Anion with Charges | Formula  |
+|--------------------------|---------------------------|----------|
+| Iron (II) chloride       | Fe2+, Cl 1-               | FeCl2    |
+| Iron (III) oxide         | Fe3+, O 2-                | Fe2O3    |
+| copper (I) nitride       | Cu1+, N 3-                | Cu3N2    |
+| tin (IV) oxide           | Sn4+, O 2-                | SnO2     |
+| Silver chloride          | Ag1+, Cl 1-               | AgCl     |
+| zinc sulfide             | Zn2+, S 2-                | ZnS      |
+| Nickel phosphide         | Ni3+, P 3-                | Ni3P2    |
+| manganese (VII) iodide   | Mn7+, I 1-                | MnI2     |
+| cadmium (II) nitride     | Cd2+, N 3-                | Cd3N2    |
+| Lead carbonate           | Pb2+, CO3 2-              | PbCO3    |
+| Titanium phosphate       | Ti4+, PO4 3-              | Ti(PO4)3 |
+| Silver sulfate           | Ag1+, SO4 2-              | Ag2SO4   |
+| tin (II) chloride        | Sn2+, Cl 1-               | SnCl2    |
+| Strontium carbonate      | Sr2+, CO3 2-              | SrCO3    |
+| Zinc chloride            | Zn2+, Cl 1-               | ZnCl2    |
+| manganese (IV) hydroxide | Mn2+, OH 1-               | Mn(OH)2  |

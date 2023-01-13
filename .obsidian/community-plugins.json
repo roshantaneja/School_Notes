@@ -10,5 +10,8 @@
   "table-extended",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "cm-editor-syntax-highlight-obsidian",
+  "numerals",
+  "obsidian-dynamic-toc"
 ]
