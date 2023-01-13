@@ -171,16 +171,3 @@ Practice Write the name or the formula for the following binary ionic compounds 
 | Strontium carbonate      | Sr2+, CO3 2-              | SrCO3    |
 | Zinc chloride            | Zn2+, Cl 1-               | ZnCl2    |
 | manganese (IV) hydroxide | Mn2+, OH 1-               | Mn(OH)2  |
-
-
-NEXT STEPS:
-
-1.  Reflect on today’s question: What elements are in smartphones and how are they different from each other? 
-    
-2.  Open up the IMT for this unit, complete all boxes for lesson 2
-    
-3.  Make sure all parts of the L5.2 student sheet are complete and complete the check for understanding on Schoology.
-    
-
-  
-**
