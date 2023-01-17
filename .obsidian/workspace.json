@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -33,9 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/textbook pages.md"
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md"
               }
             }
           }
@@ -129,8 +127,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6c70c3f631bf65d",
+  "active": "bc6e1bb57fc563cf",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
@@ -139,7 +138,6 @@
     "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md"
   ]
 }
