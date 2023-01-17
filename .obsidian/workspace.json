@@ -35,16 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad48e22834763be0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "9111aa0497850b52",
             "type": "leaf",
             "state": {
@@ -66,13 +56,22 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ac69c04bd1951a77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -83,27 +82,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63341b9d986977c1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "05eb335924ddae2a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md"
-              }
-            }
-          },
-          {
             "id": "61289bd2e5e2d27f",
             "type": "leaf",
             "state": {
@@ -112,19 +90,14 @@
             }
           },
           {
-            "id": "81ed00bcf7d1ce96",
+            "id": "6c7082789a30adf8",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,9 +108,7 @@
     "hiddenItems": {
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false
     }

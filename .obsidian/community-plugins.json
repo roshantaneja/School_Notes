@@ -4,7 +4,6 @@
   "obsidian-grandfather",
   "quick-latex",
   "obsidian-latex-suite",
-  "better-word-count",
   "obsidian-excel-to-markdown-table",
   "table-editor-obsidian",
   "table-extended",
@@ -13,5 +12,6 @@
   "obsidian-mind-map",
   "cm-editor-syntax-highlight-obsidian",
   "numerals",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "better-word-count"
 ]
