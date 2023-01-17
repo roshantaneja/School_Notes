@@ -1,3 +1,5 @@
+answer this entire worksheet by filling in the ___ blanks in the sentences.
+
 ## Stage 1: Jesus of Nazareth and His Disciples
 During the time that Jesus lived and worked, he had a profound effect on his disciples.
 
@@ -26,22 +28,20 @@ During the time that Jesus lived and worked, he had a profound effect on his dis
 5. Messiah: Hebrew for "the one____
 
 ## Stage 2: The Disciples and the Early Community of Faith
-The second stage is characterized by oral telling of the Good News
-After Jesus' resurrection, early Christians began an intense campaign to proclaim
-to surrounding communities.
-Fundamental part of understanding Jesus was understanding that he fulfilled
-Why wasn't Jesus' life recorded in a chronological, biographical account?
-For many decades stories of Jesus were shared by word of mouth developing into
-: The sharing of carefully selected and highly polished recollections.
-Stage 3: The Earlv Community of Faith and Evangelists
-The third stage is characterized by the writing down of carefully selected and edited stories of Jesus.
-• The first Gospel was written approximately
-Why the Transition from oral tradition to written?
-years after Jesus died.
-I.
-2.
-Time -
-Instruction -
-Why do we have multiple gospels?
-Opinion: Given that the Gospels were written many years after Jesus died, why do you trust (or not
-trust) the truth that is found in the Gospels about who Jesus is?
+**The second stage is characterized by oral telling of the Good News**
+1. After Jesus' resurrection, early Christians began an intense campaign to proclaim ___ to surrounding communities.
+2. Fundamental part of understanding Jesus was understanding that he fulfilled ___
+3. Why wasn't Jesus' life recorded in a chronological, biographical account?
+4. For many decades stories of Jesus were shared by word of mouth developing into ___ : The sharing of carefully selected and highly polished recollections.
+## Stage 3: The Earlv Community of Faith and Evangelists
+**The third stage is characterized by the writing down of carefully selected and edited stories of Jesus.**
+1. The first Gospel was written approximately ___ years after Jesus died.
+
+**Why the Transition from oral tradition to written?**
+1. Time - 
+2. Instruction -
+
+**Why do we have multiple gospels?** ___
+
+**Opinion: Given that the Gospels were written many years after Jesus died, why do you trust (or not
+trust) the truth that is found in the Gospels about who Jesus is?** ___
