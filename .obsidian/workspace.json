@@ -16,11 +16,25 @@
                 "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
                 "mode": "source",
                 "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3209305147d790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md"
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md"
               }
             }
           }
@@ -114,9 +128,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bc6e1bb57fc563cf",
+  "active": "ee3209305147d790",
   "lastOpenFiles": [
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+    "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
@@ -124,7 +139,6 @@
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-16 - Unit 4 Lesson 5.md"
+    "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md"
   ]
 }
