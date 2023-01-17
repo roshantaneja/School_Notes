@@ -1,3 +1,4 @@
+## Stage 1: Jesus of Nazareth and his Disciples
 1.  Jesus was born a Jew around the year 5 B.C.E.
 2.  He was raised in the small village of Nazareth.
 3.  At about age 30 Jesus began a public career of preaching and teaching.
@@ -29,7 +30,7 @@
 3.  Why wasn't Jesus' life recorded in a chronological, biographical account? Because the early Christian community's focus was on the message and not the chronology of Jesus' life.
 4.  For many decades stories of Jesus were shared by word of mouth developing into oral tradition : The sharing of carefully selected and highly polished recollections.
 
-## Stage 3: The Earlv Community of Faith and Evangelists
+## Stage 3: The Early Community of Faith and Evangelists
 
 **The third stage is characterized by the writing down of carefully selected and edited stories of Jesus.**
 
