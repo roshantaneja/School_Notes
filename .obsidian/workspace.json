@@ -130,11 +130,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true
     }
