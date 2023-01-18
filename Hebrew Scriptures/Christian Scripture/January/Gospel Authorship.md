@@ -28,3 +28,4 @@ Yes.
 
 * What other information should we know about this Gospel?
 
+This gospel is the only gospel to mention the word "Church"
