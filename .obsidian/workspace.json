@@ -11,8 +11,13 @@
             "id": "fa5888d09c114d9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md"
+              }
             }
           },
           {
@@ -130,8 +137,9 @@
       "markdown-importer:Open format converter": true
     }
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "fa5888d09c114d9f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
     "Untitled.canvas",
@@ -140,7 +148,6 @@
     "English/Unit 2/The great gatsby.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
-    "Robotics/2022-2023/16887.md",
-    "Precalculus BC Honours/Vector Notes.md"
+    "Robotics/2022-2023/16887.md"
   ]
 }
