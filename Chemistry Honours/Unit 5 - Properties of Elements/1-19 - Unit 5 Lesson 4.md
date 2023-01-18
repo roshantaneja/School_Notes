@@ -69,26 +69,6 @@ Using the Types of Radiation video and help from your teacher, complete the tabl
 | Beta                       |                     |  $$\beta$$   |                 |                |
 | Gamma                      |                     |  $$\gamma$$  |                 |                |
 | Neutron                    |                     |      NA      |                 |                |
- 
-
-
-
-
-
-
-
-
-
-
-
-Neutron
-
-
-NA
-
-
-
-
 
 
 
