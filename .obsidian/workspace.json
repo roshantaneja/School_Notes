@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -115,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

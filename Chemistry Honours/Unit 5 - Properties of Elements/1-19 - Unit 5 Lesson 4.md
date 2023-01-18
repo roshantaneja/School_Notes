@@ -54,7 +54,7 @@ Part 1 - Activity: Play Nuclear Quest and Answer Questions
 
 
 
-
+**![](https://lh3.googleusercontent.com/2mNIp2HTyEozDLM-QSB5fvX5RrwLixNWbSPgvE0uFjifomDxbG08AdVWGbQKgV2fpsXyy1YSQrGkWpNAsVRprwA2mZhibTF4uqwelwgvOPdcXkgnYG-NZk1jQ_sCPSFaayejpUfHuTZ_ZvT8ORLqMq0x4LBsm9p_hPSWzZOUglvnoQ8HKZm5TZZHaSW9Fg)**
 
 
 
@@ -63,13 +63,12 @@ Go over answers from Nuclear Quest Game
 Using the Types of Radiation video and help from your teacher, complete the table below.
 
 
-| Type of radiation/particle | Particle or Energy? | Greek Symbol | Isotopic Symbol | What stops it? |
-| -------------------------- | ------------------- |:------------:| --------------- | -------------- |
-| Alpha                      |                     |  $$\alpha$$  |                 |                |
-| Beta                       |                     |  $$\beta$$   |                 |                |
-| Gamma                      |                     |  $$\gamma$$  |                 |                |
-| Neutron                    |                     |      NA      |                 |                |
-
+| Type of radiation/particle | Particle or Energy? | Greek Symbol | Isotopic Symbol | What stops it?    |
+| -------------------------- | ------------------- |:------------:| --------------- | ----------------- |
+| Alpha                      | Particle            |  $$\alpha$$  | He              | Paper, clothes    |
+| Beta                       | Particle            |  $$\beta$$   | e               | Aluminum, plastic |
+| Gamma                      | Energy              |  $$\gamma$$  | NA              | Lead, concrete    |
+| Neutron                    | Particle            |      NA      | NA              | Concrete, lead    |
 
 
 Part 3 - Equations showing each reaction:  
