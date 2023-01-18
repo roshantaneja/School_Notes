@@ -67,8 +67,8 @@ Using the Types of Radiation video and help from your teacher, complete the tabl
 | -------------------------- | ------------------- |:------------:| --------------- | ----------------- |
 | Alpha                      | Particle            |  $$\alpha$$  | He              | Paper, clothes    |
 | Beta                       | Particle            |  $$\beta$$   | e               | Aluminum, plastic |
-| Gamma                      | Energy              |  $$\gamma$$  | NA              | Lead, concrete    |
-| Neutron                    | Particle            |      NA      | NA              | Concrete, lead    |
+| Gamma                      | Energy              |  $$\gamma$$  | NA              | Lead, Concrete    |
+| Neutron                    | Particle            |      NA      | NA              | Lead, Concrete    |
 
 
 Part 3 - Equations showing each reaction:  
