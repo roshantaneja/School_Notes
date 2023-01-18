@@ -11,16 +11,25 @@
             "id": "fa5888d09c114d9f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c310a8bb386bf719",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -122,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -137,11 +146,11 @@
       "markdown-importer:Open format converter": true
     }
   },
-  "active": "fa5888d09c114d9f",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
     "Untitled.canvas",
-    "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
     "English/Unit 2/The great gatsby.md",

@@ -48,3 +48,6 @@ Because different communities of faith may have had different perspectives on th
 **Opinion: Given that the Gospels were written many years after Jesus died, why do you trust (or not trust) the truth that is found in the Gospels about who Jesus is?**
 
 It ultimately depends on one's personal beliefs and perspective. Some scholars believe that the Gospels were written by authors who were close enough to the events and teachings of Jesus to accurately record them, while others argue that the Gospels were written with certain theological or political agendas in mind and may not be entirely historically accurate. Ultimately, the question of the reliability of the Gospels is a complex one that requires careful examination and critical analysis. I personally do not trust the truths written in the gospel about who Jesus Christ was. Due to being written almost a century after his death, its very possible that Jesus was a very different character than what he was portrayed as in the gospels. I am, however, not denying the existence of a historical character of Jesus, simply implying that many of the stories written in the gospel were only written through word of mouth, or oral tradition.
+
+$$f(x) = x^{2} + 4x^{} + 2$$
+

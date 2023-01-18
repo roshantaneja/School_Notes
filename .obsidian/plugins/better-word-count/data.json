@@ -18,9 +18,9 @@
     },
     {
       "prefix": " ",
-      "suffix": " today",
+      "suffix": " total",
       "metric": {
-        "type": 1,
+        "type": 2,
         "counter": 0
       }
     }
