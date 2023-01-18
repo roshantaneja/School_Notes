@@ -64,11 +64,11 @@ Using the Types of Radiation video and help from your teacher, complete the tabl
 
 
 | Type of radiation/particle | Particle or Energy? | Greek Symbol | Isotopic Symbol | What stops it? |
-| -------------------------- | ------------------- | ------------ | --------------- | -------------- |
-| Alpha                      |                     | &\alpha&             |                 |                |
-| Beta                       |                     |              |                 |                |
-| Gamma                      |                     |              |                 |                |
-| Neutron                    |                     | NA           |                 |                |
+| -------------------------- | ------------------- |:------------:| --------------- | -------------- |
+| Alpha                      |                     |  $$\alpha$$  |                 |                |
+| Beta                       |                     |  $$\beta$$   |                 |                |
+| Gamma                      |                     |  $$\gamma$$  |                 |                |
+| Neutron                    |                     |      NA      |                 |                |
  
 
 
