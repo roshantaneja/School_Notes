@@ -61,11 +61,14 @@ Part 1 - Activity: Play Nuclear Quest and Answer Questions
 Part 2:  Nuclear Quest and Types of Radiation
 Go over answers from Nuclear Quest Game
 Using the Types of Radiation video and help from your teacher, complete the table below.
+
+
 | Type of radiation/particle | Particle or Energy? | Greek Symbol | Isotopic Symbol | What stops it? |
 | -------------------------- | ------------------- | ------------ | --------------- | -------------- |
-| Alpha                      |                     |              |                 |                |
+| Alpha                      |                     | &\alpha&             |                 |                |
 | Beta                       |                     |              |                 |                |
-| Gamma                           |                     |              |                 |                |
+| Gamma                      |                     |              |                 |                |
+| Neutron                    |                     | NA           |                 |                |
  
 
 
