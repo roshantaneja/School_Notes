@@ -23,13 +23,109 @@
 -   Open IMT for Unit 5 and make sure all sections for lesson 4 are complete. 
 -   Make sure student sheet L5.4 is complete and complete Edpuzzle on schoology. 
 
-More to review with, videos 
+### More to review with, videos 
 
 -   [Nuclear chemistry #1](https://youtu.be/KWAsz59F8gA)
 -   [Nuclear chemistry #2](https://youtu.be/FU6y1XIADdg)
 
-TB links From CK12 textbook
+### TB links From CK12 textbook
 
 -   [Nuclear fusion](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/24.5/primary/lesson/nuclear-fusion-chem/)
 -   [Nuclear fission](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/24.4/primary/lesson/nuclear-fission-processes-chem/)
 -   [Types of Radioactive decay](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/24.2/primary/lesson/nuclear-decay-processes-chem/)
+
+## L5.2 Student Sheet
+*What reactions created the different elements in a smartphone?*
+
+
+Review: #1 How does this image support your learning from our last class?
+
+
+
+#2 What is the difference between nuclear fusion and nuclear fission? 
+
+
+
+
+
+
+Part 1 - Activity: Play Nuclear Quest and Answer Questions
+
+
+
+
+
+
+
+
+Part 2:  Nuclear Quest and Types of Radiation
+Go over answers from Nuclear Quest Game
+Using the Types of Radiation video and help from your teacher, complete the table below.
+| Type of radiation/particle | Particle or Energy? | Greek Symbol | Isotopic Symbol | What stops it? |
+| -------------------------- | ------------------- | ------------ | --------------- | -------------- |
+| Alpha                      |                     |              |                 |                |
+| Beta                       |                     |              |                 |                |
+| Gamma                           |                     |              |                 |                |
+ 
+
+
+
+
+
+
+
+
+
+
+
+Neutron
+
+
+NA
+
+
+
+
+
+
+
+Part 3 - Equations showing each reaction:  
+Nuclear Fusion: Use the image to the right to fill out the  blank ‘--’ spaces below
+ 1-H + 1-H → 2-He + Ɣ  energy
+2-He + 2-He  →11H + 11H + 2-He  + Ɣ (energy)
+
+
+Nuclear Fission: Use the equation below to complete blank spaces in the image to the right
+92235U +01n →92236U →56144Ba +3689Kr + 301n + Ɣ
+
+
+
+
+
+
+
+
+
+
+
+
+PRACTICE PROBLEMS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEXT STEPS:
+Reflect on today’s question: What reactions created the different elements in a cell phone? 
+Open up the IMT for this unit, complete all boxes for lesson 4
+Make sure all parts of the L5.4 student sheet are complete and complete the check for understanding on Schoology. See agenda on schoology for review resources!

@@ -106,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md"
+              }
             }
           }
         ]
@@ -124,12 +126,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "8b3543db3fad4c80",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
-    "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
