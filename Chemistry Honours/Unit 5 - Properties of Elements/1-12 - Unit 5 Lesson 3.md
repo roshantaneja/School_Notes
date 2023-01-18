@@ -206,9 +206,8 @@ Part 3 - How are Elements formed? 
   
 
 -   If 1 eV = 1.60218 x 10-19 J, then how many kJ of energy was produced from the detonation of your bomb?
-    
 
-  
+
   
   
   
