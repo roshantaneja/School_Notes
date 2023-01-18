@@ -35,8 +35,6 @@ Part 1:  Complete Table - detailed instructions below (pg 2)
 
 Part 2:  Answer Critical Thinking Questions
 
-
-  
 | Element Name <br> Location   | Element Symbol | Atomic Number | Average Atomic Mass | Most abundant isotope name | protons | electrons | neutrons | isotope symbol <br> (mass number & atomic number) | FROM PTE of Abundance Element in Earth’s Crust (mg/kg) |
 | ---------------------------- | -------------- | ------------- | ------------------- | -------------------------- | ------- | --------- | -------- | ------------------------------------------------- | ------------------------------------------------------ |
 | Aluminum <br> Battery        | Al             | 13            | 26.982 amu          | Aluminum - 27              | 13      | 13        | 14       | 13 - 27 Al                                        | 82300                                                  |
@@ -48,7 +46,6 @@ Part 2:  Answer Critical Thinking Questions
 | Dysprosium <br> Screen       | Dy             | 66            | 162.5 amu           | Dysprosium -163            | 66      | 66        | 97       | 66 - 163 Dy                                       | 0.00005                                                |
 | Tungsten <br> Electronics    | W              | 74            | 183.8 amu           | Tungsten - 184             | 74      | 74        | 110      | 74 - 184 W                                        | 0.0001                                                 |
 | Praseodymium <br> Screen     | Pr             | 59            | 140.9 amu           | Praseodymium -141          | 59      | 59        | 82       | 59 - 141 Pr                                       | 0.00001                                                |
-
 
 Part 1 - Complete the table using these directions
 
@@ -209,9 +206,8 @@ Part 3 - How are Elements formed? 
   
 
 -   If 1 eV = 1.60218 x 10-19 J, then how many kJ of energy was produced from the detonation of your bomb?
-    
 
-  
+
   
   
   

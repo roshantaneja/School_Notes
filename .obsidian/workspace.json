@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2042e611ef473884",
+        "id": "f70979ddfcc38139",
         "type": "tabs",
         "children": [
           {
-            "id": "ee3209305147d790",
+            "id": "8b3543db3fad4c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c9e861507100b896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e7cde2561cb384ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -102,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -114,17 +140,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ee3209305147d790",
+  "active": "c9e861507100b896",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
-    "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
-    "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
-    "conflict-files-obsidian-git.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
+    "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+    "conflict-files-obsidian-git.md",
+    "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
+    "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md"
+    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md"
   ]
 }
