@@ -24,17 +24,9 @@
             "id": "4b9f0eee8aabd039",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "765614813b48aa55",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -42,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
               }
             }
           },
@@ -159,8 +151,10 @@
       "markdown-importer:Open format converter": true
     }
   },
-  "active": "765614813b48aa55",
+  "active": "4b9f0eee8aabd039",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
+    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
@@ -168,8 +162,6 @@
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Untitled.canvas",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
-    "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "English/Unit 2/The great gatsby.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md"
+    "Hebrew Scriptures/Unit 3 Study Guide.md"
   ]
 }
