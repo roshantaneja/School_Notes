@@ -31,7 +31,7 @@ What is inside a smartphone?
 
 ### PURPOSE:  Discover how to take a smartphone apart.In the process of taking the phone apart.
 
-Part 1. Reviewing the Chemistry of Smartphones
+#### Part 1. Reviewing the Chemistry of Smartphones
 Review the Chemistry of the Smartphone Infographic we have used so far in class.  
 List the four major components of the smartphone.
 
@@ -50,7 +50,7 @@ List the name of each layer and the function of that part of the smartphone.
 | Layer 6 |          |
 
 
-Part 2. Smartphone Disassembly Research
+#### Part 2. Smartphone Disassembly Research
 Each pair of students will be given a smartphone. Research the phone you have been given from your teacher. You may not be able to identify the model or year of the phone. You should be able to identify the manufacturer of the smartphone. Record information below.
 
 Smartphone Name/Brand/Model:  
