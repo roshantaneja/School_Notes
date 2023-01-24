@@ -93,19 +93,13 @@ Nuclear Fission: Use the equation below to complete blank spaces in the image to
 
 PRACTICE PROBLEMS:
 
+![](https://lh6.googleusercontent.com/1WOKnU6TTZhvdUKKRZdJ4VsARDbQ-bt5jpKgUPNXNa9FopOTCarya6jmKZzVdkc7GWLqXnu_2gNTgSS4mc7sXozg03zaK4OJwvPDbS75WN2UFXbvZVG4K-GC6G1cIyiijAr3uxbaexgulLak_SgW4uc22U8OviAqTMyWt6olR7Vj2aiwaBgz9byMntujVw)
 
+![](https://lh4.googleusercontent.com/qY2ZtdDU7MFsEN0szyj2090E9l8DTrPQrH6OGYpnHkKP9F-gQ7pb0wRjrqGgH9kN696yzA9w7DtBtFN_vUttdQmaK9kNjA0H-9tPcjXU5mLdS4ckQCJ1_vf5ho-Hv_aj8Gw6zLsXGjPrlzft9UXb6AP3pYdxZS-jQQsoq_qVplwaz-t9LYH2mCp6W6z7ig)
 
+![](https://lh4.googleusercontent.com/H0PJKPfZ-kxA7SatRfmsrd5e-mHYcHiOoFzZxWcY2rYZZeJLLuK5EKn46yHa1NJkSPJzxJbFKKGvbhk4DxQnz3cgIQf4biVVftaRP59roRAy2xIhu8ABfXsXjOBPcb13nUjlkzMYR0LUAhBmbOJ6XM65CTmMPJuy3c_br5eVkOSv6wQXLVlN2O1Fjli5bA)
 
-
-
-
-
-
-
-
-
-
-
+![](https://lh4.googleusercontent.com/IP1mBaGT36DFBVpiOKTQm9Zfzo9fyhA5h2PdxkhmHqRu1OCXzJMgMxHf99FijoLN8hFYnN4GQkanZA8Iq9GJJS44LbZD6AEdQAzRy9JS_iarRs4cjA4Exti8JA0Z-pRh530fvZhrAxORBRnZX9R9UizHkaZepukfyEx7ZB9ySv45Vlw-jLJTSygBsShrKQ)
 
 NEXT STEPS:
 Reflect on today’s question: What reactions created the different elements in a cell phone? 
