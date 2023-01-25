@@ -72,94 +72,63 @@ Water
 6.  Describe the houses of the Jewish people in Jesus’ day. 
     
 * often had smaller haouses, not very showy. Community stoves and kitchens.
-  
-  
-  
-  
-  
-  
 
 7.  Describe the most common occupations of the common Jewish people in Jesus’ day.
     
-
-  
-  
-  
-  
-  
-  
-  
+* Most jewish participated in artisian crafts and dyes.
   
 
 ## C. The Jewish Family and Social Classes (p.89-94)
 
 8.  Describe the process of betrothal and marriage within a Jewish family.  
     
-
-  
-  
-  
-  
-  
+* Time period before ppl got married.
+* mostly got married around 12.5 and men got married around 20
+* Law recognized the rules of marriage but not particularly fair.
   
 
 9.  Describe the distinct roles of women and men in the Jewish family.
     
-
-  
-  
-  
-  
-  
-  
+* men were the head of the families.
+* fathers were pretty ruthless and could sell their children.
+* women were not given any rights at all.
   
 
 10.  Explain the different social classes of Jesus day, including groups that had high status and those that did not.
     
+* Poor vs rich, no middle class
+* poor ppl would work in farms and such or would be enslaved to rich people.
+
+
 
 ## D. Major Features of Judaism (p.94-100)
 
 11.  Explain the importance of Jerusalem and its Temple in the life of the Jewish people of Jesus’ day.
     
-
-  
-  
-  
-  
-  
-  
-  
+* People sacrificed animals to show thanksgiving or to seek forgiveness.
   
 
 12.  Explain the role of a synagogue in Jesus’ day.
     
-
-  
-  
-  
-  
-  
-  
-  
+* Place people went to when the temple was destroyed and became the center of jewish life.
   
   
 
 13.  Discuss the daily and weekly prayer life of the Jews of Jesus’ day.
     
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+* A faithful Jewish person was expected to pray at dawn and dusk and to recite the shema.
+* set aside 3 times during the day to pray.
+* Personal and communal prayer
 
 14.  Identify two important feasts in the Jewish year and explain their meaning.
     
-  
+* Passover largest celebrated feast in the religion
+* day of atonement. 3 days of feast. and ritual maimings.
+
+
+
+
 
 ## E. Key Religious-Political Groups and Persons (p.66 and 100-102)
 
