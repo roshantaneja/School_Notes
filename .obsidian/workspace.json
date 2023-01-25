@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -148,12 +148,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +167,9 @@
   },
   "active": "4003c08bfc0ad28a",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "English/Unit 2/The great gatsby.md",
     "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",

@@ -1,6 +1,4 @@
-**
-
-L5.6 Homework: Smartphone Infographic 
+# Homework: Smartphone Infographic 
 
   
 
@@ -47,41 +45,28 @@ What is the value of metals in your smartphone? Use infographic & information be
 | Copper    | Used to make wires and connectors in the phone, most of the circuit board traces may use copper traces to improve conductivity |
 | Silver    | Exceptionally conductive, Also used for conductive components in circuitry                                                     |
 | Gold      | Used in circuit board because it is chemically stable and also conducts electricity                                            |
-| Palladium |                                                                                                                                |
-| Platinum  |                                                                                                                                |
+| Palladium | Used for multi-layer ceramic chip capacitors (MLCC)                                                                            |
+| Platinum  | Used to coat electrodes to control the flow of electricity                                                                     | 
   
 
 8.  Which metal is most common in smartphones based on mass? 
     
-
-  
+Copper
 
 9.  Which metal is the most valuable metal in smartphones? 
     
-
-  
-  
+Platinum at close to $22 Million for 1 ton of platinum
 
 Do cell phones affect your health? Use infographic
 
 10.  What kind of radiation do smartphones emit? Is this type of radiation dangerous? 
     
-
-  
-  
+They emit RF (radio frequency) radiation
 
 11.  Do cell phones cause cancer? 
     
-
-  
-  
+There is no evidence that any amounts of RF radiation cause cancer or increases the risk of cancer in humans.
 
 12.  What other health concerns are there for smartphones? 
-    
-
-  
-  
-
-*Turn in this completed sheet to the schoology assignment before your next class period
-
-**
+	
+More mental health related concerns of owning a smartphone
