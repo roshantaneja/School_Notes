@@ -219,5 +219,3 @@ Scribes would interpret all kinds of literature, from law to religious texts. Th
   
 
 People who withdrew from Jewish society to just participate in religious traditions.
-
-**
