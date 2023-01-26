@@ -10,7 +10,7 @@
   "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
