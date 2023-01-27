@@ -8,25 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77ad9a25af7b73b0",
+            "id": "b1a7a0af08f4a63b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+                "file": "Hebrew Scriptures/Christian Scripture/January/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6fe6bf0c763c4af",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf"
+                "source": false
               }
             }
           }
@@ -81,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -105,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md"
+                "file": "Hebrew Scriptures/Christian Scripture/January/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md"
               }
             }
           }
@@ -127,11 +118,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77ad9a25af7b73b0",
+  "active": "b1a7a0af08f4a63b",
   "lastOpenFiles": [
+    "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
-    "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
     "Spanish/Final 2022/Notas Finales de la Cuento.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
