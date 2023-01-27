@@ -1,8 +1,9 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
-  "baseFontSize": 10,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Lucida Console",
-  "textFontFamily": "Earthbound,IBM Plex Mono",
-  "monospaceFontFamily": "Digital-7 Mono"
+  "textFontFamily": "Earthbound,Bahnschrift",
+  "monospaceFontFamily": "Digital-7 Mono",
+  "baseFontSizeAction": true
 }
