@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,7 +129,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fbe78678c0919a99",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
     "conflict-files-obsidian-git.md",
