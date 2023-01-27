@@ -13,7 +13,6 @@ Read James Martin’s article: [“Were Jesus, Mary, and Joseph refugees? Yes.�
 3.  Personal Reflection: What is challenging/enlightening/thought-provoking about the article for you? Explain. (No right answer here, as long as you show you are thoughtfully considering the implications of the article and giving sound reasoning for your opinions)  
       
       The angel literally tells joseph to "flee" to egypt, almost literally calling them refugees. 
-      
     
 
   
