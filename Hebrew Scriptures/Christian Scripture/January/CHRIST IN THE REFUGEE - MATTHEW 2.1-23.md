@@ -15,8 +15,6 @@ Read James Martin’s article: [“Were Jesus, Mary, and Joseph refugees? Yes.�
       The angel literally tells joseph to "flee" to egypt, almost literally calling them refugees. 
     
 
-  
-
 Listen to [Carlos’ Story:](https://drive.google.com/file/d/1RtRQL8ObRQTVd5nBMRBB2m1mcQ6cx9NO/view?usp=sharing) This father and son pair came to the Kino Border Initiative in Nogales, MX which is a Catholic non-profit seeking to provide accompaniment and advocacy for migrants. 
 
 4.  What from the story stands out to you and why?  
