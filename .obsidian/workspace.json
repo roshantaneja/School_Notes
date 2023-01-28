@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1908411e964fc8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a693f2a56804ba1c",
             "type": "leaf",
             "state": {
@@ -32,6 +19,25 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "ac343ef4d972b948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c49fae17b1b16f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -113,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,11 +133,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1908411e964fc8b7",
+  "active": "0c49fae17b1b16f1",
   "lastOpenFiles": [
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
     "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
     "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
