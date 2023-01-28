@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -116,17 +117,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c14a10594ff22fef",
+  "active": "ac69c04bd1951a77",
   "lastOpenFiles": [
-    "English/Unit 2/The Great Gatsby/The great gatsby - Journal Draft Ch 1.md",
+    "English/Unit 2/The Great Gatsby/Journal Ch 1.md",
+    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
+    "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/TEst.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Hebrew Scriptures/Christian Scripture/January/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
-    "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
-    "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf"
+    "Hebrew Scriptures/Christian Scripture/January/textbook pages.md"
   ]
 }
