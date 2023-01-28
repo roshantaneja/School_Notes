@@ -6,3 +6,4 @@ Yo reccomiendo que practiques ingles con duolingo y que enquentes un tutor.
 
 Yo aconsejo que participes en los actividades de amigos de sean. Por ejemplo, te sugiero que veas un partido de béisbol. 
 
+
