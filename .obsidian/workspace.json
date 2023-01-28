@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f70979ddfcc38139",
+        "id": "1320e17adb671739",
         "type": "tabs",
         "children": [
           {
-            "id": "b595acf40e1777f7",
+            "id": "1908411e964fc8b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
-                "mode": "preview",
+                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md"
+                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md"
               }
             }
           }
@@ -117,17 +117,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b595acf40e1777f7",
+  "active": "1908411e964fc8b7",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
+    "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md",
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
     "Spanish/Final 2022/Notas Finales de la Cuento.md",
-    "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
-    "English/Unit 2/The Great Gatsby/Journal Ch 1.md"
+    "English/Unit 2/The Great Gatsby/Journal Ch 4.md"
   ]
 }
