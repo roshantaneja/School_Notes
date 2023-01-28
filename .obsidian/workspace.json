@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1a7a0af08f4a63b",
+            "id": "c14a10594ff22fef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Unit 2/The great gatsby.md",
+                "file": "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Unit 2/The great gatsby.md"
+                "file": "English/Unit 2/The Great Gatsby/Journal Ch 4.md"
               }
             }
           }
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,8 +116,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b1a7a0af08f4a63b",
+  "active": "c14a10594ff22fef",
   "lastOpenFiles": [
+    "English/Unit 2/The Great Gatsby/The great gatsby - Journal Draft Ch 1.md",
     "Hebrew Scriptures/Christian Scripture/January/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
@@ -127,7 +127,6 @@
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
-    "Spanish/Final 2022/Notas Finales de la Cuento.md"
+    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf"
   ]
 }
