@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1320e17adb671739",
+        "id": "828bc020b84dc187",
         "type": "tabs",
         "children": [
           {
-            "id": "a693f2a56804ba1c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf"
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "ac343ef4d972b948",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c49fae17b1b16f1",
+            "id": "62906451ce87c301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+                "file": "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -87,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -112,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md"
+                "file": "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md"
               }
             }
           }
@@ -133,17 +115,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c49fae17b1b16f1",
+  "active": "62906451ce87c301",
   "lastOpenFiles": [
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
+    "Tanzania Prep/Marketing PDF.md",
     "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
+    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf",
     "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.md",
     "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
-    "Spanish/Final 2022/Notas Finales de la Cuento.md",
-    "English/Unit 2/The Great Gatsby/Journal Ch 4.md"
+    "Spanish/Final 2022/Notas Finales de la Cuento.md"
   ]
 }
