@@ -63,57 +63,46 @@ Use the following [Periodic Table](https://drive.google.com/file/d/1IFRkKVSOowQM
 
 1.  For Lithium and Potassium, what are the group number and family name?
     
-
-  
-
-  
+Group 1A
+Alkali Metals
 
 2.  Find copper.  List copper’s period, group number, and family name?
-    
-
-  
-
+	
+period 4
+family (Transition Metals)
   
 
 3.  Besides copper, list at least four of the names of elements that are in this same family of the periodic table. 
     
-
-  
-
-  
+Silver,
+Gold,
+Roentgenium
 
 4.  For Antimony and Arsenic, what are the group number and family name?
     
-
+Group: 5A, 15, 
+Family: Pnictogens (Non-Metals, Metalioids)
   
-
-  
-
 5.  Find lead on your periodic table.  List lead’s symbol, period, group number, and family name.
     
-
-  
-
-  
+Symbol: Pb,
+Period: 6,
+Group: 4A, 14
 
 6.  List the symbols of at least three elements that are part of the Lanthanides. 
     
-
-  
-
-  
+Lanthanum(La)
+Cerium(Ce)
+Praseodymium(Pr)
 
 7.  Are there any families that don’t have any elements in the smartphone? Why do you think that is true?
     
-
-  
-
+None of the Noble Gasses, because they're gasses.
   
 
 8.  What is the name of the element found in the halogen family in the smartphone’s casing?
     
 
-  
 
   
 
