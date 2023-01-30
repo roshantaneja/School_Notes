@@ -136,17 +136,17 @@ In this activity, there are samples around the room with 6.02 x 1023 atoms or 6.
 
 To help you figure out how the samples are made, travel the room, record the mass, look at the data, and consider how the masses were derived.  Good luck - and once you figure it out, create a sample of 6.02 x 1023 Iron atoms of your own.  Your instructor will know if you understand if you can create your own sample!
 
-| Sample                                                                                                      | Chemical Formula | Atom Count  | Number of Moles | Mass (g) |
-| ----------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | --------------- | -------- |
-| Copper                                                                                                      | Cu               | 6.02 x 1023 | 1 mol           |          |
-| Zinc                                                                                                        | Zn               | 6.02 x 1023 | 1 mol           |          |
-| Aluminum                                                                                                    | Al               | 6.02 x 1023 | 1 mol           |          |
+| Sample   | Chemical Formula | Atom Count   | Number of Moles | Mass (g) |
+| -------- | ---------------- | ------------ | --------------- | -------- |
+| Copper   | Cu               | 6.02 x 10^23 | 1 mol           |          | 
+| Zinc     | Zn               | 6.02 x 10^23 | 1 mol           |          |
+| Aluminum | Al               | 6.02 x 10^23 | 1 mol           |          |
 
 In your own words, describe how these samples of 6.02 x 1023 atoms of each element were made.
 
 | Your turn. Make a sample of 6.02 x 1023 atoms of iron using nails. Record the chemical formula and mass. |     |             |       |     |     |
 | -------------------------------------------------------------------------------------------------------- | --- | ----------- | ----- | --- | --- |
-| Iron                                                                                                     |  Fe   | 6.02 x 1023 | 1 mol |     |     |
+| Iron                                                                                                     | Fe  | 6.02 x 1023 | 1 mol |     |     |
   
 
 In your own words, describe how these samples of 6.02 x 1023 atoms of each element were made.
@@ -209,35 +209,14 @@ Molar Mass Calculations: Using the molar mass, the number of moles from a mass, 
 
 Complete the following tables, using your disassembled smartphone aluminum sample, copper sample, your screen (see values from L5.7 student sheet) and [this periodic table](https://drive.google.com/file/d/1OVAdniqSNWWoiB6rad-or_a5qrzb_MOH/view?usp=sharing). 
 
-Smartphone Component
+| Smartphone Component                                                   | Chemical Name | Chemical Formula | Your Mass (g) | Molar Mass (g/mol) |
+| ---------------------------------------------------------------------- | ------------- | ---------------- | ------------- | ------------------ |
+| Electronics                                                            | Copper        |                  |               |                    |
 
-Chemical Name
-
-Chemical Formula
-
-Your Mass (g)
-
-Molar Mass (g/mol)
-
-Electronics
-
-Copper
-
-  
-
-  
-
-  
 
 How many moles are in your sample? Show calculations
 
-  
-  
-  
-  
-
 How many atoms are in your sample? Show calculations
-
   
   
   
