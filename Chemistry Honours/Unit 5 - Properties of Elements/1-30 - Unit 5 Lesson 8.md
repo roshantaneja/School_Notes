@@ -10,9 +10,9 @@ Part 1: Research specific properties of metals, nonmetals, and metalloids and pl
 |            | Metals                                    | Nonmetals                                            | Metalloids                                                           |
 | ---------- | ----------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------- |
 | Properties | - ductile and malleable                   | - tend to be poor conductors of heat and electricity | - have properties of both metals and nonmetals                       |
-|            | - poor conductors of heat and electricity | - often found as gases or brittle solids             | - intermediate conductors of heat and electricity                    |
-|            | - typically solid at room temperature     | - generally have lower melting and boiling points    | -  often have metallic luster                                        |
-|            | - often shiny and metallic in appearance  | - typically dull or non-metallic in appearance       | - found as semimetals between metals and nonmetals on periodic table | 
+|            | - poor conductors of heat and electricity | - often found as gases or brittle solids             | - intermediate conductors of heat and electricity                    | 
+|            | - typically solid at room temperature     | - generally have lower melting and boiling points    | - often have metallic luster                                         |
+|            | - often shiny and metallic in appearance  | - typically dull or non-metallic in appearance       | - found as semimetals between metals and nonmetals on periodic table |
 
 
 Part 2: Research specific properties of the periodic table groups/families of elements and place them in the appropriate boxes. [Here’s a section in the TB to use](https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/section/6.9/primary/lesson/hydrogen-and-alkali-metals-chem/) & a PTE that shows location of these groups
@@ -21,17 +21,30 @@ Part 2: Research specific properties of the periodic table groups/families of el
 
   
 
-|            | Alkali            | Metals | Alkaline Earth Metals | Rare Earth Metals | Transition Metals | Halogens |
-| ---------- | ----------------- | ------ | --------------------- | ----------------- | ----------------- | -------- |
-| Properties | - Highly reactive |        |                       |                   |                   |          |
+|            | Alkali                                                 | Metals                                           | Alkaline Earth Metals                         | Rare Earth Metals                                | Transition Metals                     | Halogens |
+| ---------- | ------------------------------------------------------ | ------------------------------------------------ | --------------------------------------------- | ------------------------------------------------ | ------------------------------------- | -------- |
+| Properties | - Highly reactive                                      | - Typically harder and denser than alkali metals | - High melting and boiling points             | - Often found in compounds, not as pure elements | - Highly reactive nonmetals           |          |
+|            | - Soft, low-melting, and low-boiling solids            | - Good conductors of heat and electricity        | - Typically dense, hard, and malleable        | - Good conductors of heat and electricity        | - Usually found as diatomic molecules |          |
+|            | - Low density, good conductors of heat and electricity | - Found in group 2 of the periodic table         | - Good conductors of heat and electricity     | - Found in groups 3-12 of the periodic table     |                                       |          |
+|            | - Found in group 1 of the periodic table               |                                                  | - Found in groups 57-71 of the periodic table |                                                  |                                       |          |
   
   
   
 
-
+ |  |  |  |  | |  |  |  | |  |  | - Good oxidizing agents, forming salts with alkali and alkaline earth metals | - Found in group 17 of the periodic table |
 
   
+Properties of Halogens
 
+- Nonmetals
+
+-   Highly reactive
+-   Tend to form negative ions
+-   Poor conductors of heat and electricity
+-   Found in group 17 (VIIA) of the periodic table
+-   Typically exist as diatomic molecules in nature
+-   High electronegativity
+-   Often used as oxidizing agents
   
 
   
