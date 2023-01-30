@@ -128,7 +128,7 @@ Although manufacturers base production on the cost of the elements in the smartp
 
 Because atoms are small, we need to have a big number to represent the number of atoms that would be visible to the human eye and able to be massed on our balances.  The number we use is called Avogadro's number.  Avogadro's Number is 6.02 x 1023  Avogadro's number is a big number because atoms are so, so small.
 
-Avogadro's Number, N = 6.02 X 1023
+<center>Avogadro's Number, N = 6.02 X 1023</center>
 
 We have words that represent numbers in our language.  For example, a dozen means a count of 12 and a ream means a count of 500.  A sample with 6.02 x 1023 particles is called a mole. 
 
@@ -136,44 +136,17 @@ In this activity, there are samples around the room with 6.02 x 1023 atoms or 6.
 
 To help you figure out how the samples are made, travel the room, record the mass, look at the data, and consider how the masses were derived.  Good luck - and once you figure it out, create a sample of 6.02 x 1023 Iron atoms of your own.  Your instructor will know if you understand if you can create your own sample!
 
-Sample
+| Sample                                                                                                      | Chemical Formula | Atom Count  | Number of Moles | Mass (g) |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | --------------- | -------- |
+| Copper                                                                                                      | Cu               | 6.02 x 1023 | 1 mol           |          |
+| Zinc                                                                                                        | Zn               | 6.02 x 1023 | 1 mol           |          |
+| Aluminum                                                                                                    | Al               | 6.02 x 1023 | 1 mol           |          |
 
-Chemical Formula
+In your own words, describe how these samples of 6.02 x 1023 atoms of each element were made.
 
-Atom Count
-
-Number of Moles
-
-Mass (g)
-
-Copper
-
-Cu
-
-6.02 x 1023
-
-1 mol
-
-  
-
-Zinc
-
-Zn
-
-6.02 x 1023
-
-1 mol
-
-  
-
-Aluminum
-
-Al
-
-6.02 x 1023
-
-1 mol
-
+| Your turn. Make a sample of 6.02 x 1023 atoms of iron using nails. Record the chemical formula and mass. |     |             |       |     |     |
+| -------------------------------------------------------------------------------------------------------- | --- | ----------- | ----- | --- | --- |
+| Iron                                                                                                     |  Fe   | 6.02 x 1023 | 1 mol |     |     |
   
 
 In your own words, describe how these samples of 6.02 x 1023 atoms of each element were made.
