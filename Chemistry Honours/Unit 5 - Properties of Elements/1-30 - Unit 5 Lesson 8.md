@@ -138,9 +138,9 @@ To help you figure out how the samples are made, travel the room, record the mas
 
 | Sample   | Chemical Formula | Atom Count   | Number of Moles | Mass (g) |
 | -------- | ---------------- | ------------ | --------------- | -------- |
-| Copper   | Cu               | 6.02 x 10^23 | 1 mol           |          | 
-| Zinc     | Zn               | 6.02 x 10^23 | 1 mol           |          |
-| Aluminum | Al               | 6.02 x 10^23 | 1 mol           |          |
+| Copper   | Cu               | 6.02 x 10^23 | 1 mol           | 61.7     |
+| Zinc     | Zn               | 6.02 x 10^23 | 1 mol           | 64.82    |
+| Aluminum | Al               | 6.02 x 10^23 | 1 mol           | 29.93    | 
 
 In your own words, describe how these samples of 6.02 x 1023 atoms of each element were made.
 
@@ -213,85 +213,26 @@ Complete the following tables, using your disassembled smartphone aluminum sampl
 | ---------------------------------------------------------------------- | ------------- | ---------------- | ------------- | ------------------ |
 | Electronics                                                            | Copper        |                  |               |                    |
 
+How many moles are in your sample? Show calculations
+
+How many atoms are in your sample? Show calculations
+  
+| Smartphone Component                                                   | Chemical Name | Chemical Formula | Your Mass (g) | Molar Mass (g/mol) |
+| ---------------------------------------------------------------------- | ------------- | ---------------- | ------------- | ------------------ |
+| Casing                                                                 | Aluminum      |                  |               |                    |
 
 How many moles are in your sample? Show calculations
 
 How many atoms are in your sample? Show calculations
   
-  
-  
-  
 
-  
-
-Smartphone Component
-
-Chemical Name
-
-Chemical Formula
-
-Your Mass (g)
-
-Molar Mass (g/mol)
-
-Casing
-
-Aluminum
-
-  
-
-  
-
-  
-
-How many moles are in your sample? Show calculations
-
-  
-  
-  
-
-How many atoms are in your sample? Show calculations
-
-  
-  
-  
-  
-
-  
-
-Smartphone Component
-
-Chemical Name
-
-Chemical Formula
-
-Your Mass (g)
-
-Molar Mass (g/mol)
-
-Screen
-
-Silicon Dioxide
-
-SiO2
-
-  
-
-  
+| Smartphone Component                                                   | Chemical Name   | Chemical Formula | Your Mass (g) | Molar Mass (g/mol) |
+| ---------------------------------------------------------------------- | --------------- | ---------------- | ------------- | ------------------ |
+| Screen                                                                 | Silicon Dioxide | SiO2             |               |                    |
 
 What is the molar mass of SiO2? Show calculations
 
-  
-  
-  
-  
-
 How many moles are in your sample? Show calculations
-
-  
-  
-  
-  
 
 How many atoms are in your sample? Show calculations
 
