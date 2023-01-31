@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+                "file": "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md"
+                "file": "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md"
               }
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +158,15 @@
   },
   "active": "17c501c5991824d3",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "Hebrew Scriptures/Christian Scripture/January/textbook pages.md",
     "Hebrew Scriptures/Christian Scripture/January/Gospels of Christ.md",
+    "Hebrew Scriptures/Christian Scripture/January/Gospel Authorship.md",
+    "Hebrew Scriptures/Christian Scripture/January/CW World of Jesus.md",
     "conflict-files-obsidian-git.md",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
-    "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
-    "Tanzania Prep/Marketing PDF.md",
-    "Spanish/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
-    "Spanish/Correo Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf"
+    "Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md"
   ]
 }
