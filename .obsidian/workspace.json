@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bf63790c72d4eb64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242
+    "width": 451.5004348754883
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -138,12 +152,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b34cffd14f11c282",
+  "active": "bf63790c72d4eb64",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
     "Robotics/2022-2023/16887.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
     "English/Unit 2/The great gatsby.md",
     "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
