@@ -44,66 +44,14 @@ Before proceeding with the experiment, read over the [Laboratory Procedure](http
 
 **OBSERVATIONS: **Throughout the experiment, record observations at the corresponding steps in the procedure.
 
-
-<table>
-  <tr>
-   <td><strong>What you did</strong>
-   </td>
-   <td><strong>What you observed</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 1:</strong> Started with copper, Cu (s).
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 2:</strong> Added nitric acid, HNO<sub>3 </sub>(aq).
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 4:</strong> Added water, H<sub>2</sub>O (l).
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 5:</strong> Added sodium hydroxide, NaOH (aq).
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 6:</strong> Heated the mixture.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 8:</strong> Filtered the solid and added sulfuric acid, H<sub>2</sub>SO<sub>4</sub> (aq), to the solid. 
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 10:</strong> Added sulfuric acid, H<sub>2</sub>SO<sub>4</sub> (aq), to the solid. 
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 11:</strong> Added zinc, Zn (s).
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Step 13:</strong> Poured off liquid and rinsed. 
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+| What you did                                                                  | What you observed | 
+| ----------------------------------------------------------------------------- | ----------------- |
+| Step 1: Started with copper, Cu (s).                                          |                   |
+| Step 2: Added nitric acid, HNO3 (aq).                                         |                   |
+| Step 4: Added water, H2O (l).                                                 |                   |
+| Step 5: Added sodium hydroxide, NaOH (aq).                                    |                   |
+| Step 6: Heated the mixture.                                                   |                   |
+| Step 8: Filtered the solid and added sulfuric acid, H2SO4 (aq), to the solid. |                   |
+| Step 10: Added sulfuric acid, H2SO4 (aq), to the solid.                       |                   |
+| Step 11: Added zinc, Zn (s).                                                  |                   |
+| Step 13: Poured off liquid and rinsed.                                        |                   |
