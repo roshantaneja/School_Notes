@@ -27,7 +27,7 @@ Before proceeding with the experiment, read over the [Laboratory Procedure](http
    
 4. Where do I do the step in the procedure that involves the production of nitrogen dioxide?
    
-   You wont, Mr Grieb will do it
+   in the fume hood
    
 5. What precautions should I take when I heat chemicals?
    
@@ -39,7 +39,7 @@ Before proceeding with the experiment, read over the [Laboratory Procedure](http
    
 7. Who should I ask if I have questions during the lab?
    
-   
+   Mr Grieb.
    
 
 **OBSERVATIONS: **Throughout the experiment, record observations at the corresponding steps in the procedure.
@@ -57,4 +57,4 @@ Before proceeding with the experiment, read over the [Laboratory Procedure](http
 | Step 13:<br>Poured off liquid and rinsed.                                        |                          |
 
 
-**![](https://lh5.googleusercontent.com/8Z2v0fphxva1DPsBlFt5XRjXujdiDjBYklZRgKpgvIsQxJ_8INB-Hp_BLYyfuVFvkA-vKyw5z5j85RwqEQkx3MJaHdYHD9L3ppn1Fu1jEUi3gG6W-ysCBL5KIdpDivNkTqd9QJ70UbrY08mbjt3aSgg)**
+![](https://lh5.googleusercontent.com/8Z2v0fphxva1DPsBlFt5XRjXujdiDjBYklZRgKpgvIsQxJ_8INB-Hp_BLYyfuVFvkA-vKyw5z5j85RwqEQkx3MJaHdYHD9L3ppn1Fu1jEUi3gG6W-ysCBL5KIdpDivNkTqd9QJ70UbrY08mbjt3aSgg)
