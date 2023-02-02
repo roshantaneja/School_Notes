@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5004348754883
+    "width": 222.50043487548828
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +138,7 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "01d017885c0d0b0a",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
     "English/Unit 2/The Great Gatsby/Journal ch 5.md",
     "Recording 20230201212009.webm",

@@ -1,7 +1,7 @@
 CHRIST IN THE REFUGEE: MATTHEW 2:1-23
 Read James Martin’s article: [“Were Jesus, Mary, and Joseph refugees? Yes.”](obsidian://open?vault=School_Notes&file=Hebrew%20Scriptures%2FChristian%20Scripture%2FJanuary%2FJesus%20the%20refugee%2FArticle%20about%20christ%20the%20refugee) 
 
-1.  What is the author’s thesis?
+1.  What is the author’s thesis?  
       
       Jesus Mary and Joseph were refugees.
     
