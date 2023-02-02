@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50043487548828
+    "width": 222.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -126,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,8 +142,8 @@
   },
   "active": "7036a88ef5b8011b",
   "lastOpenFiles": [
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "College Couseling/2-2-2023 College Counseling.md",
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
     "English/Unit 2/The Great Gatsby/Journal ch 5.md",
     "Recording 20230201212009.webm",
     "conflict-files-obsidian-git.md",

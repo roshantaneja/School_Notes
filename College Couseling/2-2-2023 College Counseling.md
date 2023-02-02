@@ -61,3 +61,7 @@
 * School Counselors
 * College counselors
 * SHP Counseling resource Tile, Note the summer enrichment database
+
+## Course Selection
+
+### 
