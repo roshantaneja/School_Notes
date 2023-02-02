@@ -64,4 +64,6 @@
 
 ## Course Selection
 
-### 
+### Junior Year
+* offers more choicses academically
+* 
