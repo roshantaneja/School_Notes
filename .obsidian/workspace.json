@@ -19,8 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "976cd4d95afea222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "01d017885c0d0b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Unit 2/The Great Gatsby/Journal ch 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md"
+                "file": "English/Unit 2/The Great Gatsby/Journal ch 5.md"
               }
             }
           },
@@ -127,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,17 +167,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ad48e22834763be0",
+  "active": "01d017885c0d0b0a",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "conflict-files-obsidian-git.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
     "Robotics/2022-2023/16887.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
     "English/Unit 2/The great gatsby.md",
     "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
     "Hebrew Scriptures/Unit 3 Study Guide.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "Hebrew Scriptures/Unit 4 - Prophet Project/The Book Of Ezekiel.md"
+    "Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md"
   ]
 }

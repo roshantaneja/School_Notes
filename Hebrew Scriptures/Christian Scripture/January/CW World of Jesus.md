@@ -1,14 +1,8 @@
 # The World of Jesus
 
-  
-
 Step 1: Work with your group members (A, B, C, D, E) to respond to the questions for your section based on your textbook reading. The responses for your section should each be 2-4 sentences in length.
 
-  
-
 Step 2: Take notes on the other sections when your classmates share their learning with you. You should have 2-4 bullet points per question.
-
-  
 
 ## A. Palestine:  Great Variety in a Small Land (p.79-82)
 

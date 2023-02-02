@@ -15,26 +15,9 @@
         "type": 0,
         "counter": 1
       }
-    },
-    {
-      "prefix": " ",
-      "suffix": " total",
-      "metric": {
-        "type": 2,
-        "counter": 0
-      }
     }
   ],
-  "altBar": [
-    {
-      "prefix": "",
-      "suffix": "files",
-      "metric": {
-        "type": 2,
-        "counter": 3
-      }
-    }
-  ],
+  "altBar": [],
   "countComments": false,
-  "collectStats": true
+  "collectStats": false
 }
