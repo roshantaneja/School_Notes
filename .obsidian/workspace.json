@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Unit 2/The Great Gatsby/Journal ch 5.md",
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/2-1 - Unit 5 Lesson 9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5004348754883,
-    "collapsed": true
+    "width": 272.5004348754883
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Unit 2/The Great Gatsby/Journal ch 5.md"
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/2-1 - Unit 5 Lesson 9.md"
               }
             }
           },
@@ -140,17 +139,17 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "01d017885c0d0b0a",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
-    "Recording 20230201212009.webm",
+    "Hebrew Scriptures/Christian Scripture/January/Gospels of christ.md",
+    "History/Unit 3/Part 2 - Historical Analysis.md",
+    "History/Unit 3/Part 3 - Historical Reflection.md",
     "English/Unit 2/The Great Gatsby/Journal ch 5.md",
+    "Recording 20230201212009.webm",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
-    "Robotics/2022-2023/16887.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
-    "English/Unit 2/The great gatsby.md",
-    "Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md"
+    "Robotics/2022-2023/16887.md"
   ]
 }
