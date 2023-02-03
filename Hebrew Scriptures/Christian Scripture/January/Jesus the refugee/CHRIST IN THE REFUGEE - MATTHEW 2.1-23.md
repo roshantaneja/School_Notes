@@ -5,7 +5,7 @@ Read James Martin’s article: [“Were Jesus, Mary, and Joseph refugees? Yes.�
       
       Jesus Mary and Joseph were refugees.
     
-2.  Give two quotations and explain how these quotes give evidence to support the author’s thesis.  
+2.  Give two quotations and explain how these quotes give evidence to support the author’s thesis.
       
       "A family is forced to flee their homeland for fear of persecution. This is the classic modern-day definition of a refugee." - by showing the definition of a refugee, Martin is able to very simply show the parallels between the modern refugee and the holy family.
       
