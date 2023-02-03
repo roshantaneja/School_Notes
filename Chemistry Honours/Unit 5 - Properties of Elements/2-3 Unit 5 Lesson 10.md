@@ -1,0 +1,31 @@
+**Step 1:**  “Colorless nitric acid is added to solid orange-brown copper powder, resulting in a blue-green solution, a brown gas, and liquid water.”
+
+HNO is added to Cu, resulting in Cu(NO<sub>3</sub>)<sub>2</sub>(aq) and NO<sub>2</sub> and H<sub>2</sub>O.
+
+The copper atoms are in Cu(NO<sub>3</sub>)<sub>2</sub>(aq)/Copper(II) Nitrate. The copper is in compound form.
+
+---
+
+**Step 2:**  “Clear, colorless sodium hydroxide solution is added to the blue-green solution, resulting in clumps of dark blue solid and clear, colorless sodium nitrate solution.”  
+
+NaOH(aq) is added to Cu(NO<sub>3</sub>)<sub>2</sub>(aq), resulting in Cu(OH)<sub>2</sub>(s) and Na(NO<sub>3</sub>).
+
+The copper atoms are in Cu(OH)<sub>2</sub>(s)/Copper(II) Hydroxide.  The copper is in compound form.
+
+---
+
+**Step 3:**  “The dark blue clumps are heated, resulting in a black solid and liquid water.”
+
+Cu(OH)<sub>2</sub>(s) is heated, resulting in CuO(s) and H<sub>2</sub>O.
+
+The copper atoms are in  CuO(s)/Copper(II) Oxide.  The copper is in compound form.
+
+---
+
+**Step 4:**  “Clear, colorless sulfuric acid is added to the black solid, resulting in a clear blue solution and liquid water.”
+
+H<sub>2</sub>SO<sub>4</sub> is added to CuO(s), resulting in  and _______________.
+
+black solid     clear blue solution
+
+The copper atoms are in  _____________________________________.  The copper is in ( elemental  or compound )
