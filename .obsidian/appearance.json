@@ -1,13 +1,3 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "",
-<<<<<<< HEAD
-  "baseFontSize": 10,
-=======
-  "baseFontSize": 11,
->>>>>>> origin/main
-  "interfaceFontFamily": "Lucida Console",
-  "textFontFamily": "Earthbound,Bahnschrift",
-  "monospaceFontFamily": "Digital-7 Mono",
-  "baseFontSizeAction": true
+  "baseFontSize": 15
 }
