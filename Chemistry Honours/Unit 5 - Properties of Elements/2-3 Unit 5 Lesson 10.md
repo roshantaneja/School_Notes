@@ -43,7 +43,7 @@ The copper atoms are in  Cu(s)/Copper.  The copper is in elemental form.
 | Step | Balanced Equation in latex                                         |
 | ---- | ------------------------------------------------------------------ |
 | 1    | $$HNO + Cu \to Cu(NO_{3})_{2}(aq) + NO_{2} + H_{2}O$$              |
-| 2    | $$NaOH(aq) + Cu(NO_{3})_{2}(aq) \to Cu(OH)_{2}(s) and Na(NO_{3})$$ | 
-| 3    |      $$$$                                                              |
-| 4    |                                                                    |
+| 2    | $$NaOH(aq) + Cu(NO_{3})_{2}(aq) \to Cu(OH)_{2}(s) and Na(NO_{3})$$ |
+| 3    | $$Cu(OH)_{2}(s) + energy \to CuO(s) and H_{2}O$$                   | 
+| 4    |  $$H<sub>2</sub>SO<sub>4</sub>(aq) is added to CuO(s), resulting in CuSO<sub>4</sub>(aq)and H<sub>2</sub>O$$                                                                  |
 | 5    |                                                                    |
