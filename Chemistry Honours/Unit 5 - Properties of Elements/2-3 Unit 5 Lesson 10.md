@@ -40,10 +40,10 @@ The copper atoms are in  Cu(s)/Copper.  The copper is in elemental form.
 
 **Part 3:  Transcribing the words into balanced chemical equations with formulas.** Write the **balanced** chemical equation for the reaction occurring during the step, include the states of matter.
 
-| Step | Balanced Equation in latex                                         |
-| ---- | ------------------------------------------------------------------ |
-| 1    | $$HNO + Cu \to Cu(NO_{3})_{2}(aq) + NO_{2} + H_{2}O$$              |
-| 2    | $$NaOH(aq) + Cu(NO_{3})_{2}(aq) \to Cu(OH)_{2}(s) and Na(NO_{3})$$ |
-| 3    | $$Cu(OH)_{2}(s) + energy \to CuO(s) and H_{2}O$$                   | 
-| 4    |  $$H<sub>2</sub>SO<sub>4</sub>(aq) is added to CuO(s), resulting in CuSO<sub>4</sub>(aq)and H<sub>2</sub>O$$                                                                  |
-| 5    |                                                                    |
+| Step | Balanced Equation in latex                                       |
+| ---- | ---------------------------------------------------------------- |
+| 1    | $$HNO + Cu(aq) \to Cu(NO_{3})_{2}(aq) + NO_{2})(g) + H_{2}O$$            |
+| 2    | $$NaOH(aq) + Cu(NO_{3})_{2}(aq) \to Cu(OH)_{2}(s) + Na(NO_{3})$$ |
+| 3    | $$Cu(OH)_{2}(s) + \psi \to CuO(s) + H_{2}O$$                     | 
+| 4    | $$H_{2}SO_{4}(aq) + CuO(s) \to CuSO_{4}(aq) + H_{2}O$$           |
+| 5    |                                                                  |
