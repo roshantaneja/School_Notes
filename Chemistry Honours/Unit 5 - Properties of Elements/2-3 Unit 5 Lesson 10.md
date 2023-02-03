@@ -24,8 +24,18 @@ The copper atoms are in  CuO(s)/Copper(II) Oxide.  The copper is in compound f
 
 **Step 4:**  “Clear, colorless sulfuric acid is added to the black solid, resulting in a clear blue solution and liquid water.”
 
-H<sub>2</sub>SO<sub>4</sub> is added to CuO(s), resulting in  and _______________.
+H<sub>2</sub>SO<sub>4</sub>(aq) is added to CuO(s), resulting in CuSO<sub>4</sub>(aq)and H<sub>2</sub>O.
 
-black solid     clear blue solution
+The copper atoms are in  CuSO<sub>4</sub>(aq)/ Copper(II) Sulfate.  The copper is in ( elemental  or compound )
 
-The copper atoms are in  _____________________________________.  The copper is in ( elemental  or compound )
+---
+
+**Step 5:**  “Solid, silver-gray zinc is added to the clear blue solution, resulting in a brownish powder and clear, colorless zinc sulfate solution.”
+
+Zn(s) is added to CuSO<sub>4</sub>(aq), resulting in ZnSO<sub>4</sub> and Cu(s).
+
+The copper atoms are in  Cu(s)/Copper.  The copper is in elemental form.
+
+---
+
+**Part 3:  Transcribing the words into balanced chemical equations with formulas.** Write the **balanced** chemical equation for the reaction occurring during the step, include the states of matter.
