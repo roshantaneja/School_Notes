@@ -132,12 +132,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian-advanced-slides:Show Slide Preview": true
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "194178040a9a64ab",

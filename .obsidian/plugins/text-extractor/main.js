@@ -28,7 +28,7 @@ __export(main_exports, {
   default: () => TextExtractorPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 
 // node_modules/.pnpm/svelte@3.55.0/node_modules/svelte/internal/index.mjs
 function noop() {
@@ -3766,8 +3766,8 @@ var b;
 var v;
 var z;
 var y;
-var O;
 var e;
+var O;
 var x;
 var L;
 var w;
@@ -3797,7 +3797,7 @@ var q = function(U2, F2, Q2, B2) {
 var P = new S();
 var g = class extends Error {
 };
-M = /* @__PURE__ */ new WeakMap(), Y = /* @__PURE__ */ new WeakMap(), c = /* @__PURE__ */ new WeakMap(), p = /* @__PURE__ */ new WeakMap(), m = /* @__PURE__ */ new WeakMap(), t = /* @__PURE__ */ new WeakMap(), G = /* @__PURE__ */ new WeakMap(), X = /* @__PURE__ */ new WeakMap(), H = /* @__PURE__ */ new WeakMap(), b = /* @__PURE__ */ new WeakMap(), v = /* @__PURE__ */ new WeakMap(), z = /* @__PURE__ */ new WeakMap(), y = /* @__PURE__ */ new WeakMap(), O = /* @__PURE__ */ new WeakMap(), D = /* @__PURE__ */ new WeakSet(), e = function() {
+M = /* @__PURE__ */ new WeakMap(), Y = /* @__PURE__ */ new WeakMap(), c = /* @__PURE__ */ new WeakMap(), p = /* @__PURE__ */ new WeakMap(), m = /* @__PURE__ */ new WeakMap(), t = /* @__PURE__ */ new WeakMap(), G = /* @__PURE__ */ new WeakMap(), X = /* @__PURE__ */ new WeakMap(), H = /* @__PURE__ */ new WeakMap(), b = /* @__PURE__ */ new WeakMap(), v = /* @__PURE__ */ new WeakMap(), z = /* @__PURE__ */ new WeakMap(), y = /* @__PURE__ */ new WeakMap(), e = /* @__PURE__ */ new WeakMap(), D = /* @__PURE__ */ new WeakSet(), O = function() {
   return q(this, Y, "f") || q(this, c, "f") < q(this, p, "f");
 }, x = function() {
   return q(this, v, "f") < q(this, z, "f");
@@ -3824,7 +3824,7 @@ M = /* @__PURE__ */ new WeakMap(), Y = /* @__PURE__ */ new WeakMap(), c = /* @__
     return q(this, G, "f") && clearInterval(q(this, G, "f")), u(this, G, void 0, "f"), q(this, D, "m", w).call(this), false;
   if (!q(this, y, "f")) {
     const U2 = !q(this, D, "a", r);
-    if (q(this, D, "a", e) && q(this, D, "a", x)) {
+    if (q(this, D, "a", O) && q(this, D, "a", x)) {
       const F2 = q(this, H, "f").dequeue();
       return !!F2 && (this.emit("active"), F2(), U2 && q(this, D, "m", o).call(this), true);
     }
@@ -3854,11 +3854,11 @@ _ == A && (_ = 1), console.info(`Text Extractor - Number of available workers: $
 var $ = new class extends E {
   constructor(U2) {
     var F2, Q2, B2, R2;
-    if (super(), D.add(this), M.set(this, void 0), Y.set(this, void 0), c.set(this, 0), p.set(this, void 0), m.set(this, void 0), t.set(this, 0), G.set(this, void 0), X.set(this, void 0), H.set(this, void 0), b.set(this, void 0), v.set(this, 0), z.set(this, void 0), y.set(this, void 0), O.set(this, void 0), Object.defineProperty(this, "timeout", { enumerable: true, configurable: true, writable: true, value: void 0 }), !(typeof (U2 = { carryoverConcurrencyCount: false, intervalCap: Number.POSITIVE_INFINITY, interval: 0, concurrency: Number.POSITIVE_INFINITY, autoStart: true, queueClass: h, ...U2 }).intervalCap == "number" && U2.intervalCap >= 1))
+    if (super(), D.add(this), M.set(this, void 0), Y.set(this, void 0), c.set(this, 0), p.set(this, void 0), m.set(this, void 0), t.set(this, 0), G.set(this, void 0), X.set(this, void 0), H.set(this, void 0), b.set(this, void 0), v.set(this, 0), z.set(this, void 0), y.set(this, void 0), e.set(this, void 0), Object.defineProperty(this, "timeout", { enumerable: true, configurable: true, writable: true, value: void 0 }), !(typeof (U2 = { carryoverConcurrencyCount: false, intervalCap: Number.POSITIVE_INFINITY, interval: 0, concurrency: Number.POSITIVE_INFINITY, autoStart: true, queueClass: h, ...U2 }).intervalCap == "number" && U2.intervalCap >= 1))
       throw new TypeError(`Expected \`intervalCap\` to be a number from 1 and up, got \`${(Q2 = (F2 = U2.intervalCap) === null || F2 === void 0 ? void 0 : F2.toString()) !== null && Q2 !== void 0 ? Q2 : ""}\` (${typeof U2.intervalCap})`);
     if (U2.interval === void 0 || !(Number.isFinite(U2.interval) && U2.interval >= 0))
       throw new TypeError(`Expected \`interval\` to be a finite number >= 0, got \`${(R2 = (B2 = U2.interval) === null || B2 === void 0 ? void 0 : B2.toString()) !== null && R2 !== void 0 ? R2 : ""}\` (${typeof U2.interval})`);
-    u(this, M, U2.carryoverConcurrencyCount, "f"), u(this, Y, U2.intervalCap === Number.POSITIVE_INFINITY || U2.interval === 0, "f"), u(this, p, U2.intervalCap, "f"), u(this, m, U2.interval, "f"), u(this, H, new U2.queueClass(), "f"), u(this, b, U2.queueClass, "f"), this.concurrency = U2.concurrency, this.timeout = U2.timeout, u(this, O, U2.throwOnTimeout === true, "f"), u(this, y, U2.autoStart === false, "f");
+    u(this, M, U2.carryoverConcurrencyCount, "f"), u(this, Y, U2.intervalCap === Number.POSITIVE_INFINITY || U2.interval === 0, "f"), u(this, p, U2.intervalCap, "f"), u(this, m, U2.interval, "f"), u(this, H, new U2.queueClass(), "f"), u(this, b, U2.queueClass, "f"), this.concurrency = U2.concurrency, this.timeout = U2.timeout, u(this, e, U2.throwOnTimeout === true, "f"), u(this, y, U2.autoStart === false, "f");
   }
   get concurrency() {
     return q(this, z, "f");
@@ -3915,7 +3915,7 @@ var $ = new class extends E {
               clearTimeout(R3), R3 = void 0;
             }, V4;
           }(Promise.resolve(U2({ signal: F2.signal })), F2.timeout === void 0 ? this.timeout : F2.timeout, () => {
-            (F2.throwOnTimeout === void 0 ? q(this, O, "f") : F2.throwOnTimeout) && B2(P);
+            (F2.throwOnTimeout === void 0 ? q(this, e, "f") : F2.throwOnTimeout) && B2(P);
           }), d3 = await V3;
           Q2(d3), this.emit("completed", d3);
         } catch (U3) {
@@ -3972,7 +3972,10 @@ function JU() {
 function WU(Q2) {
   const B2 = Q2.path.replace(/\//g, "-"), R2 = function(Q3) {
     return import_obsidian.Platform.isMobileApp ? dU.exports.md5(Q3.toString()) : (0, import_crypto.createHash)("md5").update(Q3).digest("hex");
-  }(Q2.path), V2 = Q2.basename.slice(0, 2).toLowerCase(), d2 = `${JU()}/${V2}`, J2 = `${B2}-${R2}.json`;
+  }(Q2.path);
+  let V2 = Q2.basename.slice(0, 2).toLowerCase().replace(/\//g, "_");
+  V2.length < 2 && (V2 += "_");
+  const d2 = `${JU()}/${V2}`, J2 = `${B2}-${R2}.json`;
   return { folder: d2, filename: J2, fullpath: `${d2}/${J2}` };
 }
 async function lU(U2, F2 = "") {
@@ -4111,11 +4114,12 @@ UU = NU, QU = /* @__PURE__ */ new WeakMap(), BU = function(U2) {
   U2.worker.terminate(), B(NU, UU, Q(NU, UU, "f", FU).filter((F2) => F2 !== U2), "f", FU);
 }, FU = { value: [] };
 RU = /* @__PURE__ */ new WeakSet(), VU = async function(F2) {
+  var _a2;
   const Q2 = await lU(F2);
   if (Q2)
-    return Q2.text;
+    return (_a2 = Q2.text) != null ? _a2 : "[Failed to extract text]";
   if (import_obsidian.Platform.isMobile)
-    return "";
+    return "[Cannot extract text on mobile]";
   const B2 = WU(F2), R2 = new Uint8Array(await app.vault.readBinary(F2)), V2 = NU.getWorker();
   return new Promise(async (U2, Q3) => {
     try {
@@ -4465,8 +4469,8 @@ var vU = tU();
 var { version: zU } = bU;
 var yU = { ...{ langPath: "https://tessdata.projectnaptha.com/4.0.0", workerBlobURL: true, logger: () => {
 } }, workerPath: typeof process != "undefined" && process.env.TESS_ENV === "development" ? vU(`/dist/worker.dev.js?nocache=${Math.random().toString(36).slice(3)}`) : `https://unpkg.com/tesseract.js@v${zU}/dist/worker.min.js`, corePath: null };
-var OU = tU();
-var eU = (U2) => new Promise((F2, Q2) => {
+var eU = tU();
+var OU = (U2) => new Promise((F2, Q2) => {
   const B2 = new FileReader();
   B2.onload = () => {
     F2(B2.result);
@@ -4482,15 +4486,15 @@ var xU = async (U2) => {
     if (/data:image\/([a-zA-Z]*);base64,([^"]*)/.test(U2))
       F2 = atob(U2.split(",")[1]).split("").map((U3) => U3.charCodeAt(0));
     else {
-      const Q2 = await fetch(OU(U2));
+      const Q2 = await fetch(eU(U2));
       F2 = await Q2.arrayBuffer();
     }
   else
     U2 instanceof HTMLElement ? (U2.tagName === "IMG" && (F2 = await xU(U2.src)), U2.tagName === "VIDEO" && (F2 = await xU(U2.poster)), U2.tagName === "CANVAS" && await new Promise((Q2) => {
       U2.toBlob(async (U3) => {
-        F2 = await eU(U3), Q2();
+        F2 = await OU(U3), Q2();
       });
-    })) : (U2 instanceof File || U2 instanceof Blob) && (F2 = await eU(U2));
+    })) : (U2 instanceof File || U2 instanceof Blob) && (F2 = await OU(U2));
   return new Uint8Array(F2);
 };
 var LU = (U2, F2) => {
@@ -4633,6 +4637,9 @@ var nF = class {
     const F2 = new nF(kF.createWorker({ cachePath: "tesseract-" + app.appId }));
     return Q(nF, JF, "f", WF).push(F2), F2;
   }
+  static clearWorkers() {
+    Q(nF, JF, "f", WF).forEach((U2) => U2.worker.terminate()), B(nF, JF, [], "f", WF);
+  }
   async run(U2) {
     return new Promise(async (F2, R2) => {
       B(this, lF, true, "f");
@@ -4656,11 +4663,12 @@ JF = nF, lF = /* @__PURE__ */ new WeakMap(), ZF = /* @__PURE__ */ new WeakMap(),
   U2.worker.terminate(), B(nF, JF, Q(nF, JF, "f", WF).filter((F2) => F2 !== U2), "f", WF);
 }, WF = { value: [] };
 EF = /* @__PURE__ */ new WeakSet(), SF = async function(F2, Q2) {
+  var _a2;
   const B2 = Q2.langs.sort().join("+"), R2 = await lU(F2, B2);
   if (R2)
-    return R2.text;
+    return (_a2 = R2.text) != null ? _a2 : "[Failed to extract text]";
   if (import_obsidian.Platform.isMobile)
-    return "";
+    return "[Cannot extract text on mobile]";
   const V2 = WU(F2), d2 = new Uint8ClampedArray(await app.vault.readBinary(F2)), J2 = nF.getWorker();
   return new Promise(async (U2, R3) => {
     try {
@@ -4683,37 +4691,40 @@ var TF = new class {
     }
   }
 }();
-var aF = ["afr", "amh", "ara", "asm", "aze", "aze_cyrl", "bel", "ben", "bod", "bos", "bul", "cat", "ceb", "ces", "chi_sim", "chi_tra", "chr", "cym", "dan", "deu", "dzo", "ell", "eng", "enm", "epo", "est", "eus", "fas", "fin", "fra", "frk", "frm", "gle", "glg", "grc", "guj", "hat", "heb", "hin", "hrv", "hun", "iku", "ind", "isl", "ita", "ita_old", "jav", "jpn", "kan", "kat", "kat_old", "kaz", "khm", "kir", "kor", "kur", "lao", "lat", "lav", "lit", "mal", "mar", "mkd", "mlt", "msa", "mya", "nep", "nld", "nor", "ori", "pan", "pol", "por", "pus", "ron", "rus", "san", "sin", "slk", "slv", "spa", "spa_old", "sqi", "srp", "srp_latn", "swa", "swe", "syr", "tam", "tel", "tgk", "tgl", "tha", "tir", "tur", "uig", "ukr", "urd", "uzb", "uzb_cyrl", "vie", "yid"];
-function CF(U2, F2) {
+function aF() {
+  nF.clearWorkers();
+}
+var CF = ["afr", "amh", "ara", "asm", "aze", "aze_cyrl", "bel", "ben", "bod", "bos", "bul", "cat", "ceb", "ces", "chi_sim", "chi_tra", "chr", "cym", "dan", "deu", "dzo", "ell", "eng", "enm", "epo", "est", "eus", "fas", "fin", "fra", "frk", "frm", "gle", "glg", "grc", "guj", "hat", "heb", "hin", "hrv", "hun", "iku", "ind", "isl", "ita", "ita_old", "jav", "jpn", "kan", "kat", "kat_old", "kaz", "khm", "kir", "kor", "kur", "lao", "lat", "lav", "lit", "mal", "mar", "mkd", "mlt", "msa", "mya", "nep", "nld", "nor", "ori", "pan", "pol", "por", "pus", "ron", "rus", "san", "sin", "slk", "slv", "spa", "spa_old", "sqi", "srp", "srp_latn", "swa", "swe", "syr", "tam", "tel", "tgk", "tgl", "tha", "tir", "tur", "uig", "ukr", "urd", "uzb", "uzb_cyrl", "vie", "yid"];
+function hF(U2, F2) {
   const Q2 = Object.assign({}, { langs: ["eng"] }, F2);
-  if (hF(U2.path))
-    return EU.getPdfText(U2);
   if (DF(U2.path))
+    return EU.getPdfText(U2);
+  if (MF(U2.path))
     return TF.getImageText(U2, Q2);
   throw new Error("File type not supported");
 }
-function hF(U2) {
+function DF(U2) {
   return U2.endsWith(".pdf");
 }
-function DF(U2) {
+function MF(U2) {
   return U2.endsWith(".png") || U2.endsWith(".jpg") || U2.endsWith(".jpeg");
 }
-function MF(U2) {
-  return hF(U2) || DF(U2);
-}
-function YF() {
-  return aF;
+function YF(U2) {
+  return DF(U2) || MF(U2);
 }
 function cF() {
+  return CF;
+}
+function pF() {
   $.clear();
 }
-function pF(U2) {
+function mF(U2) {
   const F2 = WU(U2);
   return app.vault.adapter.exists(F2.fullpath);
 }
-async function mF(U2) {
+async function tF(U2) {
   const F2 = WU(U2);
-  if (await pF(U2))
+  if (await mF(U2))
     return await app.vault.adapter.remove(F2.fullpath);
 }
 
@@ -4775,7 +4786,7 @@ function create_fragment7(ctx) {
 function instance7($$self, $$props, $$invalidate) {
   let $selectedLanguages;
   component_subscribe($$self, selectedLanguages, ($$value) => $$invalidate(0, $selectedLanguages = $$value));
-  const langs = YF();
+  const langs = cF();
   function multiselect_selected_binding(value) {
     $selectedLanguages = value;
     selectedLanguages.set($selectedLanguages);
@@ -4797,6 +4808,7 @@ var TextExtractorSettingsTab = class extends import_obsidian2.PluginSettingTab {
     this.plugin = plugin;
     selectedLanguages.subscribe(async (value) => {
       settings.ocrLanguages = value;
+      aF();
       await saveSettings(this.plugin);
     });
   }
@@ -4855,70 +4867,120 @@ async function saveSettings(plugin) {
   await plugin.saveData(settings);
 }
 
+// src/utils.ts
+var import_obsidian3 = require("obsidian");
+async function createNote(name, contents = "") {
+  var _a2, _b;
+  try {
+    let pathPrefix;
+    switch (app.vault.getConfig("newFileLocation")) {
+      case "current":
+        pathPrefix = (_b = (_a2 = app.workspace.getActiveFile()) == null ? void 0 : _a2.parent.path) != null ? _b : "";
+        break;
+      case "folder":
+        pathPrefix = app.vault.getConfig("newFileFolderPath");
+        break;
+      default:
+        pathPrefix = "";
+        break;
+    }
+    if (pathPrefix) {
+      pathPrefix += "/";
+    }
+    let path = `${pathPrefix}${name}`;
+    if (app.vault.getAbstractFileByPath(`${path}.md`)) {
+      let i2 = 1;
+      while (await app.vault.getAbstractFileByPath(`${path} ${i2}.md`)) {
+        i2++;
+      }
+      path += ` ${i2}`;
+    }
+    await app.vault.create(`${path}.md`, contents);
+    await app.workspace.openLinkText(path, "");
+  } catch (e2) {
+    new import_obsidian3.Notice("Text Extract - Could not create note: " + e2.message);
+    throw e2;
+  }
+}
+
 // src/main.ts
-var TextExtractorPlugin = class extends import_obsidian3.Plugin {
+var TextExtractorPlugin = class extends import_obsidian4.Plugin {
   constructor() {
     super(...arguments);
     this.api = {
       async extractText(file) {
         const langs = settings.ocrLanguages;
-        return await CF(file, { langs });
+        return await hF(file, { langs });
       },
-      canFileBeExtracted: MF,
-      isInCache: pF
+      canFileBeExtracted: YF,
+      isInCache: mF
     };
   }
   async onload() {
     await loadSettings(this);
     this.addSettingTab(new TextExtractorSettingsTab(this));
     this.registerEvent(app.workspace.on("file-menu", (menu, file, _source) => {
-      if (file instanceof import_obsidian3.TFile && MF(file.path)) {
-        menu.addItem((item) => {
-          item.setTitle("Text Extractor");
-          const submenu = item.setSubmenu();
-          if (import_obsidian3.Platform.isDesktopApp) {
+      if (file instanceof import_obsidian4.TFile && YF(file.path)) {
+        if (import_obsidian4.Platform.isDesktopApp) {
+          menu.addItem((item) => {
+            item.setTitle("Text Extractor");
+            const submenu = item.setSubmenu();
             const { clipboard } = require("electron");
             submenu.addItem((item2) => {
               item2.setTitle("Extract Text to clipboard").setIcon("clipboard-copy").onClick(async () => {
-                let text2 = await extractTextWithSettings(file);
+                let text2 = await extractTextWithNotice(file);
                 await clipboard.writeText(text2);
-                new import_obsidian3.Notice("Text Extractor - Text copied to clipboard");
+                new import_obsidian4.Notice("Text Extractor - Text copied to clipboard");
               });
             });
-          }
-          submenu.addItem((item2) => {
-            item2.setTitle("Extract Text into a new note").setIcon("document").onClick(async () => {
-              let text2 = await extractTextWithSettings(file);
-              text2 = `${text2}
+            submenu.addItem((item2) => {
+              item2.setTitle("Extract text into a new note").setIcon("document").onClick(async () => {
+                let contents = await extractTextWithNotice(file);
+                contents = `${contents}
 
 ![[${file.path}]]`;
-              const newFile = await app.vault.create(file.basename + ".md", text2);
-              await app.workspace.openLinkText(newFile.basename, "", true);
-            });
-          });
-          if (import_obsidian3.Platform.isDesktopApp) {
-            submenu.addSeparator();
-            submenu.addItem((item2) => {
-              item2.setTitle("Clear cache for this file").setIcon("trash").onClick(async () => {
-                await mF(file);
-                new import_obsidian3.Notice(`Text Extractor - Removed ${file.path} from cache`);
+                await createNote(file.basename, contents);
               });
             });
-          }
-        });
+            if (import_obsidian4.Platform.isDesktopApp) {
+              submenu.addSeparator();
+              submenu.addItem((item2) => {
+                item2.setTitle("Clear cache for this file").setIcon("trash").onClick(async () => {
+                  await tF(file);
+                  new import_obsidian4.Notice(`Text Extractor - Removed ${file.path} from cache`);
+                });
+              });
+            }
+          });
+        } else {
+          menu.addItem((item) => {
+            item.setTitle("Extract text into a new note").setIcon("document").onClick(async () => {
+              let contents = await extractTextWithNotice(file);
+              contents = `${contents}
+
+![[${file.path}]]`;
+              await createNote(file.basename, contents);
+            });
+          });
+        }
       }
     }));
   }
   onunload() {
-    cF();
+    pF();
   }
 };
-async function extractTextWithSettings(file) {
-  if (!await pF(file)) {
-    new import_obsidian3.Notice(`Text Extractor - Extracting text from file ${file.path}, please wait...`);
+async function extractTextWithNotice(file) {
+  if (!await mF(file)) {
+    new import_obsidian4.Notice(`Text Extractor - Extracting text from file ${file.path}, please wait...`);
   }
-  const langs = settings.ocrLanguages;
-  return await CF(file, { langs });
+  try {
+    const langs = settings.ocrLanguages;
+    return await hF(file, { langs });
+  } catch (e2) {
+    new import_obsidian4.Notice(`Text Extractor - Error extracting text from file ${file.path}`);
+    throw e2;
+  }
 }
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.

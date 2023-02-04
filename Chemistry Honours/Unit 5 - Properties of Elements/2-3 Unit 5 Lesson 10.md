@@ -44,6 +44,7 @@ The copper atoms are in  Cu(s)/Copper.  The copper is in elemental form.
 | ---- | ----------------------------------------------------------------------- | ------------------ |
 | 1    | $$4HNO_{3}(aq) + Cu(aq) \to Cu(NO_{3})_{2}(aq) + 2NO_{2}(g) + 2H_{2}O$$ | Single Replacement |
 | 2    | $$2NaOH(aq) + Cu(NO_{3})_{2}(aq) \to Cu(OH)_{2}(s) + 2Na(NO_{3})$$      | Double Replacement |
-| 3    | $$Cu(OH)_{2}(s) + e \to CuO(s) + H_{2}O$$                          | Decomposition      |
+| 3    | $$Cu(OH)_{2}(s) + e \to CuO(s) + H_{2}O$$                               | Decomposition      |
 | 4    | $$H_{2}SO_{4}(aq) + CuO(s) \to CuSO_{4}(aq) + H_{2}O$$                  | Double Replacement |
 | 5    | $$Zn(s) + CuSO_{4}(aq) \to ZnSO_{4} + Cu(s)$$                           | Single Replacement |
+
