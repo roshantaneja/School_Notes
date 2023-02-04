@@ -1,0 +1,8 @@
+{
+  "resultSeparator": " → ",
+  "layoutStyle": "AnswerInline",
+  "alternateRowColor": true,
+  "defaultRenderStyle": "Plain",
+  "hideLinesWithoutMarkupWhenEmitting": true,
+  "hideEmitterMarkupInInput": true
+}

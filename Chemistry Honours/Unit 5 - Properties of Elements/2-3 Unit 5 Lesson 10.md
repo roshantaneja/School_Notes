@@ -26,7 +26,7 @@ The copper atoms are in  CuO(s)/Copper(II) Oxide.  The copper is in compound f
 
 H<sub>2</sub>SO<sub>4</sub>(aq) is added to CuO(s), resulting in CuSO<sub>4</sub>(aq)and H<sub>2</sub>O.
 
-The copper atoms are in  CuSO<sub>4</sub>(aq)/ Copper(II) Sulfate.  The copper is in ( elemental  or compound )
+The copper atoms are in  CuSO<sub>4</sub>(aq)/ Copper(II) Sulfate.  The copper is in Compound form.
 
 ---
 
