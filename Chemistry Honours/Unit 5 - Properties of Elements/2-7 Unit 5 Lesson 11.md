@@ -2,104 +2,62 @@
 
   
 
-### Part 1:  Revisiting Conservation of Mass (Show ALL calculations)
+# Part 1:  Revisiting Conservation of Mass (Show ALL calculations)
 
-1.  We began with about 0.10 g of copper which is 1.57 x 10-3 moles of copper.
+## We began with about 0.10 g of copper which is 1.57 x 10-3 moles of copper.
+
+### How many atoms of copper are in this sample? Show all calculations.
+  $$1.57 * 10^{-3} * 6.02 * 10^{23} = 9.4514 * 10^{20}$$
+### What is the mass of copper we should have at the end of this cycle assuming excellent technique?
+$$0.1g$$
+### How many moles of copper atoms should we have at the end of this cycle assuming excellent technique? 
+$$1.57 * 10^{-3}$$
+### How many atoms of copper atoms should we have at the end of this cycle assuming excellent technique?
+$$9.4514 * 10^{20}$$
+
+## STEP 1: Cu(s) +   4 HNO3(aq) →    Cu(NO3)2 (aq) +   2 NO2 (g) +   2 H2O (l)
+
+### Look at the balanced equation, what is the ratio of Cu (s) : Cu(NO3)2 (aq)?
+$$1:1$$
+### What is the molar mass of copper (II) nitrate?
+$$Cu(63.546) + 2N(14.007) + 6O(15.999) = 187.56\frac{g}{mol}$$
+### At the end of STEP 1, there are 1.57 x 10-3 moles of copper (II) nitrate formed as indicated by the ratio in the balanced equation. What is the mass of this amount of copper (II) nitrate?
+
+$$Cu(NO_{3})_{2}\left( 187.56 \frac{g}{mol}\right) * 1.57 * 10^{-3} = 2.944692 * 10^{-1}$$
+
+## STEP 2: 2 NaOH (aq) +   Cu(NO3)2 (aq) →   Cu(OH)2 (aq) +   2 NaNO3 (aq)
+
+
+
+### Look at the balanced equation, what is the ratio of Cu(NO3)2 (aq) :  Cu(OH)2 (aq)?
+
+$$1:1$$
+  
+
+### What is the molar mass of copper (II) hydroxide?
+
+
+$$Cu(63.546AMU) + 2O(15.999AMU) + 2H(1.008) = 97.561 \frac{g}{mol}$$
+  
+
+### At the end of STEP 2, there are 1.57 x 10-3 moles of copper (II) hydroxide formed as indicated by the ratio in the balanced equation.  What is the mass of this amount of copper (II) hydroxide?
+    
+
+$$$$
+  
+  
+
+## STEP 3: Cu(OH)2 (aq) + Heat →   CuO (s) +   H2O (l)
     
 
   
 
-1.  How many atoms of copper are in this sample? Show all calculations.
-    
-
-  
-  
-  
-  
-
-2.  What is the mass of copper we should have at the end of this cycle assuming excellent technique? __________________________
+### Look at the balanced equation, what is the ratio of Cu(OH)2 (aq) : CuO (s)? __________
     
 
   
 
-3.  How many moles of copper atoms should we have at the end of this cycle assuming excellent technique?  ____________________
-    
-
-  
-
-4.  How many atoms of copper atoms should we have at the end of this cycle assuming excellent technique?  ____________________
-    
-
-  
-  
-
-2.  STEP 1: Cu(s) +   4 HNO3(aq) →    Cu(NO3)2 (aq) +   2 NO2 (g) +   2 H2O (l)
-    
-
-  
-
-1.  Look at the balanced equation, what is the ratio of Cu (s) : Cu(NO3)2 (aq)? __________
-    
-
-  
-
-2.  What is the molar mass of copper (II) nitrate?
-    
-
-  
-  
-  
-
-3.  At the end of STEP 1, there are 1.57 x 10-3 moles of copper (II) nitrate formed as indicated by the ratio in the balanced equation. What is the mass of this amount of copper (II) nitrate?
-    
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-3.  STEP 2: 2 NaOH (aq) +   Cu(NO3)2 (aq) →   Cu(OH)2 (aq) +   2 NaNO3 (aq)
-    
-
-  
-
-1.  Look at the balanced equation, what is the ratio of Cu(NO3)2 (aq) :  Cu(OH)2 (aq)? __________
-    
-
-  
-
-2.  What is the molar mass of copper (II) hydroxide?
-    
-
-  
-  
-  
-  
-
-3.  At the end of STEP 2, there are 1.57 x 10-3 moles of copper (II) hydroxide formed as indicated by the ratio in the balanced equation.  What is the mass of this amount of copper (II) hydroxide?
-    
-
-  
-  
-  
-  
-
-4.  STEP 3: Cu(OH)2 (aq) + Heat →   CuO (s) +   H2O (l)
-    
-
-  
-
-1.  Look at the balanced equation, what is the ratio of Cu(OH)2 (aq) : CuO (s)? __________
-    
-
-  
-
-2.  What is the molar mass of copper (II) oxide?
+### What is the molar mass of copper (II) oxide?
     
 
   
