@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f49fae5a3e207a",
+        "id": "159f8b805c2d4fff",
         "type": "tabs",
         "children": [
           {
-            "id": "faf47d866708349b",
+            "id": "00653145ea88a78f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -134,7 +131,7 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "faf47d866708349b",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "History/Research Project/Untitled.md",
