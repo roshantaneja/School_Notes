@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f49fae5a3e207a",
+        "id": "af27e281cce1b7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "b8735d6feeeb9bc2",
+            "id": "50871a78035e930d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanish/02-06-2023 - Socratic Seminar Parte 1.md",
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50043487548828
+    "width": 213.50043487548828
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanish/02-06-2023 - Socratic Seminar Parte 1.md"
+                "file": "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md"
               }
             }
           },
@@ -139,17 +139,17 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "b8735d6feeeb9bc2",
+  "active": "50871a78035e930d",
   "lastOpenFiles": [
-    "Spanish/Final 2022/Notas Finales de la Cuento.md",
     "Spanish/02-06-2023 - Socratic Seminar Parte 1.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/2-7 Unit 5 Lesson 11.md",
+    "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
+    "Spanish/Final 2022/Notas Finales de la Cuento.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/2-3 Unit 5 Lesson 10.md",
-    "README.md",
-    "Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
-    "Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
-    "Tanzania Prep/11-30-2022 Call with almost everyone.md",
-    "Tanzania Prep/Marketing PDF.md"
+    "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/2-1 - Unit 5 Lesson 9.md",
+    "College Couseling/2-2-2023 College Counseling.md",
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
+    "English/Unit 2/The Great Gatsby/Journal ch 5.md",
+    "Recording 20230201212009.webm"
   ]
 }
