@@ -1,7 +1,4 @@
-[![Page semi-protected](https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png)](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi "This article is semi-protected due to vandalism")
-
-From Wikipedia, the free encyclopedia
-
+-tx-
 | 
 [Sir](https://en.wikipedia.org/wiki/Sir "Sir")
 

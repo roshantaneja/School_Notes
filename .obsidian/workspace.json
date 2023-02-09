@@ -136,12 +136,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,7 +152,7 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "05c681175a8d4edc",
+  "active": "05eb335924ddae2a",
   "lastOpenFiles": [
     "History/Research Project/Research Project - Sir Tim Berners-Lee.md",
     "conflict-files-obsidian-git.md",
