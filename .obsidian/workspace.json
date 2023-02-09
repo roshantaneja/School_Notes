@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "159f8b805c2d4fff",
+        "id": "7b076cdd65cc2320",
         "type": "tabs",
         "children": [
           {
-            "id": "00653145ea88a78f",
+            "id": "cbb2847ae82c3829",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Research Project/Research Project - Sir Tim Berners-Lee.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05c681175a8d4edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Research Project/Tim Berners-Lee Wikipedia.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Research Project/Tim Berners-Lee Wikipedia.md"
+              }
             }
           },
           {
@@ -119,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -131,10 +153,10 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "05c681175a8d4edc",
   "lastOpenFiles": [
+    "History/Research Project/Research Project - Sir Tim Berners-Lee.md",
     "conflict-files-obsidian-git.md",
-    "History/Research Project/Untitled.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
     "History/Unit 3/Part 2 - Historical Analysis.md",
     "History/Unit 3/Final Writing Assignment.md",
