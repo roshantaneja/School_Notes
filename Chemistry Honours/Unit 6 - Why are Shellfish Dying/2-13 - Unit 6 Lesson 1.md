@@ -12,7 +12,7 @@
 
 ### OYSTERS AND SEA CHANGE/CLIMATE CHANGE AND OCEANS
 
-2. While we watch the next two videos,‘What Oysters Reveal about Sea Change?' and 'How is Climate Change Affecting Oceans in Native American Lands?’ record your notice and wonderings from those videos as well as patterns that you notice throughout all three of the videos.
+2. While we watch the next two videos, 'What Oysters Reveal about Sea Change?' and 'How is Climate Change Affecting Oceans in Native American Lands?' record your notice and wonderings from those videos as well as patterns that you notice throughout all three of the videos.
 
 <iframe title="What Oysters Reveal about Sea Change" src="https://www.youtube.com/embed/H5tHyKBHH-4?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 <iframe title="How Is Climate Change Affecting Oceans in Native American Lands?" src="https://www.youtube.com/embed/uZexlPneYDI?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe> 
@@ -37,7 +37,9 @@ Another organism that is negatively impacted by a changing environment are panda
 
 5. Using our model as a guide, what questions do we need to answer to solve our problem of why oysters are dying? Record those below.
 
-
+How can we reduce the acidity of the ocean?
+How can we reduce the temperature of the ocean?
+What shellfish are able to survive in these conditions? Why?
 
 ### NEXT STEPS:
 
