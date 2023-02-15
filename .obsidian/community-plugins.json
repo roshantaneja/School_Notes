@@ -17,5 +17,6 @@
   "text-extractor",
   "omnisearch",
   "lapel",
-  "obsidian-doubleshift"
+  "obsidian-doubleshift",
+  "convert-url-to-iframe"
 ]
