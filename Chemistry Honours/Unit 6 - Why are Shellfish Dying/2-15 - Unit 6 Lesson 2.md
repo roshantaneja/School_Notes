@@ -1,0 +1,262 @@
+**Lesson 6.2: How is dissolved carbon dioxide and pH related? 
+
+# REVIEW
+
+1. Use our models from last class to give a brief review of what we discovered last lesson.
+
+Oysters are dying because of ocean acidification, which is due to carbon emissions in the ocean. 
+  
+  
+
+2.  Last class, what question(s) did we decide to prioritize investigating?
+
+  
+  
+  
+
+### TODAY’S QUESTION/CHALLENGE
+
+3. Why is answering today’s question important? How will it help us in determining what is happening to shellfish?
+
+  
+  
+  
+  
+  
+  
+
+### INVESTIGATION IDEAS
+
+4. Record your ideas for investigations we could do in our class to determine if carbon dioxide is really going into the ocean. What are some ways that carbon dioxide is produced? 
+
+  
+  
+  
+  
+  
+  
+  
+
+### INVESTIGATING CARBON DIOXIDE AND WATER
+
+  
+
+5. Watch the following videos and complete the table. 
+
+  
+
+  
+
+Observations: What did you notice?
+
+What does this tell us about the interaction of carbon dioxide and water? 
+
+[Video #1](https://www.youtube.com/watch?v=9NpMj6ekcP4)  Acid w/BTB
+
+  
+
+  
+
+[Video # 2](https://youtu.be/UPIwkeDNIHo)
+
+Breath w/BTB (stop  at 0:22)
+
+  
+
+  
+
+[Video #3](https://youtu.be/AtvjUUSI3q0)
+
+CO2 over water no indicator
+
+  
+
+  
+
+[Video #4](https://youtu.be/j5RkRJriGng)
+
+CO2 over water w/BTB
+
+  
+
+  
+
+  
+  
+
+SO WHAT?
+
+6. What evidence shows that carbon dioxide is going from the air into the water and making it more acidic? 
+
+  
+  
+  
+  
+
+7. What ideas did we develop today that could be helpful for answering our questions? What else do we need to know about acidity?
+
+  
+  
+  
+
+### INVESTIGATING ACIDS AND BASES - Wear Safety Glasses!!
+
+Part 1: Known Aqueous Acids and Bases (acids and bases in a water solution)
+
+Materials:  Well plate, Pipette with solutions, pH paper, Safety glasses
+
+Procedure: 
+
+1.  Each group will have a well plate, pH papers and a pH tube with color charts to compare. 
+    
+2.  Place a drop or two of each aqueous solution (from up front) into your well plate. 
+    
+3.  Test the solution at your lab table with a small piece of pH paper.  
+    
+4.  Record the color, the numerical value of the pH strip and any other observations in the Data Table below. 
+    
+5.  After all of the listed substances have been tested, throw away your pH strips and rinse your well plate with water. 
+    
+6.  Wash hands and put away your googles.
+    
+
+  
+
+Data Table:
+
+Chemical Formula and Name
+
+pH Strip COLOR 
+
+pH Strip NUMBER
+
+Observations
+
+NaOH [sodium hydroxide]
+
+  
+
+  
+
+  
+
+KOH [potassium hydroxide]
+
+  
+
+  
+
+  
+
+HCl [hydrochloric acid]
+
+  
+
+  
+
+  
+
+HC2H3O2 [acetic acid]
+
+  
+
+  
+
+  
+
+Ca(OH)2 [calcium hydroxide]
+
+  
+
+  
+
+  
+
+HNO3 [nitric acid]
+
+  
+
+  
+
+  
+
+  
+
+7.  What patterns are there in this data? Consider the testing results as well as the names and formulas in determining patterns.
+    
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+### MEASURING ACIDITY
+
+Read the [article on pH](https://drive.google.com/file/d/16PfmvoFBjoxEJQyanHKQPIc9H6f8x0CL/view?usp=sharing) about how acidity is measured. 
+
+8. What does the pH scale measure? 
+
+  
+  
+
+9.What is a logarithmic scale? 
+
+  
+  
+
+10. What is the range of the pH scale? 
+
+  
+  
+
+11. Complete the following table on acids and bases. 
+
+  
+
+pH Range
+
+Characteristics
+
+THREE Examples
+
+Acidic
+
+  
+
+  
+
+  
+
+Basic (alkaline)
+
+  
+
+  
+
+  
+
+  
+
+### MODELS
+
+12. In the space below, update our model to show what we learned today about the interactions between carbon dioxide and water. 
+
+  
+  
+  
+  
+  
+  
+  
+
+### NEXT STEPS:
+
+1.  Reflect on today’s question: How is dissolved carbon dioxide and pH related?
+    
+2.  Open up the IMT for this unit, complete all boxes for lesson 2 and make sure all parts of the L6.2 student sheet are complete. 
+    
+3.  Complete the [L6.2 HW - pH reading guide](https://docs.google.com/document/d/1cbKlD6p7CwzteBtITEVzjo9KM35Dp2Dn/edit?usp=sharing&ouid=102689172288523539314&rtpof=true&sd=true) then submit completed reading to schoology assignment post.**
