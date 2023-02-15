@@ -118,14 +118,14 @@ Procedure: 
 
 Data Table:
 
-| Chemical Formula and Name   | pH Strip COLOR  | pH Strip NUMBER | Observations |
-| --------------------------- | --------------- | --------------- | ------------ |
-| NaOH [sodium hydroxide]     | Dark Green      | 9.0             | Basic        |
-| KOH [potassium hydroxide]   | Dark Blue       | 11.0            | Basic        |
-| HCl [hydrochloric acid]     | Red             | 3.0             | Acid         |
-| HC2H3O2 [acetic acid]       | Orange          | 5.0             | Acid         |
-| Ca(OH)2 [calcium hydroxide] | Dark Blue/Black | 11.0            | Basic        |
-| HNO3 [nitric acid]          | Very Red        | 1.0             | Acid         |
+| Chemical Formula and Name        | pH Strip COLOR  | pH Strip NUMBER | Observations |
+| -------------------------------- | --------------- | --------------- | ------------ |
+| $NaOH$ [sodium hydroxide]        | Dark Green      | 9.0             | Basic        |
+| $KOH$ [potassium hydroxide]      | Dark Blue       | 11.0            | Basic        |
+| $HCl$ [hydrochloric acid]        | Red             | 3.0             | Acid         |
+| $HC_{2}H_{3}O_{2}$ [acetic acid] | Orange          | 5.0             | Acid         |
+| $Ca(OH)_{2}$ [calcium hydroxide] | Dark Blue/Black | 11.0            | Basic        |
+| $HNO3$ [nitric acid]             | Very Red        | 1.0             | Acid         |
 
 
 
@@ -163,13 +163,8 @@ The pH Scale can go from 0 to 14
 
 12. In the space below, update our model to show what we learned today about the interactions between carbon dioxide and water. 
 
-  
-  
-  
-  
-  
-  
-  
+Carbon Dioxide and water react to form Carbonic Acid.
+
 
 ### NEXT STEPS:
 
