@@ -10,7 +10,7 @@ Oysters are dying because of ocean acidification, which is due to carbon emissio
 
 2.  Last class, what question(s) did we decide to prioritize investigating?
 
-  
+We decided to prioritize investigating the acidification of the ocean because it seems the most likely.
   
   
 
@@ -18,9 +18,8 @@ Oysters are dying because of ocean acidification, which is due to carbon emissio
 
 3. Why is answering today’s question important? How will it help us in determining what is happening to shellfish?
 
-  
-  
-  
+
+What makes something acidic or basic?
   
   
   
@@ -30,10 +29,8 @@ Oysters are dying because of ocean acidification, which is due to carbon emissio
 4. Record your ideas for investigations we could do in our class to determine if carbon dioxide is really going into the ocean. What are some ways that carbon dioxide is produced? 
 
   
-  
-  
-  
-  
+
+We could use Universal Indicators to identify if a solution is an acid or a base.
   
   
 
@@ -53,7 +50,7 @@ What does this tell us about the interaction of carbon dioxide and water? 
 
 [Video #1](https://www.youtube.com/watch?v=9NpMj6ekcP4)  Acid w/BTB
 
-  
+It shows that when something becomes more acidic, the universal indicator turned yellow. In the case of btb, the indicator was already in the solution, so when the vinegar was dropped in the solution, it became yellow.
 
   
 
@@ -61,8 +58,7 @@ What does this tell us about the interaction of carbon dioxide and water? 
 
 Breath w/BTB (stop  at 0:22)
 
-  
-
+When the instructor breathed into the tube that led into the btb, it also turned yellow. This shows us that gaseous Carbon Dioxide can still be present in a liquid and increase the acidity of the liquid.
   
 
 [Video #3](https://youtu.be/AtvjUUSI3q0)
@@ -70,16 +66,14 @@ Breath w/BTB (stop  at 0:22)
 CO2 over water no indicator
 
   
-
+Even if the CO2 was going into the ocean, we wouldnt be able to tell because there was no change of visual properties. The water that was surrounded by CO2 looked exactly the same as before the experiment.
   
 
 [Video #4](https://youtu.be/j5RkRJriGng)
 
 CO2 over water w/BTB
 
-  
-
-  
+Now that the water has BTB in it, it shows how much carbon dioxide actually went into the water. This shows that CO2 can combine with H2) even when one is a gas and the other is a Liquid.
 
   
   
