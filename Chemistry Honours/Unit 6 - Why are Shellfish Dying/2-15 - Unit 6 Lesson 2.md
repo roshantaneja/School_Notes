@@ -118,74 +118,21 @@ Procedure: 
 
 Data Table:
 
-Chemical Formula and Name
+| Chemical Formula and Name   | pH Strip COLOR  | pH Strip NUMBER | Observations |
+| --------------------------- | --------------- | --------------- | ------------ |
+| NaOH [sodium hydroxide]     | Dark Green      | 9.0             | Basic        |
+| KOH [potassium hydroxide]   | Dark Blue       | 11.0            | Basic        |
+| HCl [hydrochloric acid]     | Red             | 3.0             | Acid         |
+| HC2H3O2 [acetic acid]       | Orange          | 5.0             | Acid         |
+| Ca(OH)2 [calcium hydroxide] | Dark Blue/Black | 11.0            | Basic        |
+| HNO3 [nitric acid]          | Very Red        | 1.0             | Acid         |
 
-pH Strip COLOR 
 
-pH Strip NUMBER
-
-Observations
-
-NaOH [sodium hydroxide]
-
-  
-
-  
-
-  
-
-KOH [potassium hydroxide]
-
-  
-
-  
-
-  
-
-HCl [hydrochloric acid]
-
-  
-
-  
-
-  
-
-HC2H3O2 [acetic acid]
-
-  
-
-  
-
-  
-
-Ca(OH)2 [calcium hydroxide]
-
-  
-
-  
-
-  
-
-HNO3 [nitric acid]
-
-  
-
-  
-
-  
-
-  
 
 7.  What patterns are there in this data? Consider the testing results as well as the names and formulas in determining patterns.
     
 
-  
-  
-  
-  
-  
-  
-  
+
   
 
 ### MEASURING ACIDITY
@@ -194,46 +141,23 @@ Read the [article on pH](https://drive.google.com/file/d/16PfmvoFBjoxEJQyanHKQPI
 
 8. What does the pH scale measure? 
 
-  
-  
+Power of Hydrogen
 
-9.What is a logarithmic scale? 
+9. What is a logarithmic scale? 
 
-  
-  
+A scale that gets larger in bases of 10, or whatever base you specify.
 
 10. What is the range of the pH scale? 
 
-  
-  
+The pH Scale can go from 0 to 14
 
 11. Complete the following table on acids and bases. 
 
-  
+|                  | pH Range | Characteristics              | THREE Examples       |
+| ---------------- | -------- | ---------------------------- | -------------------- |
+| Acidic           | 0-6      | Acids generally taste sour   | HCl<br>Cola<br>Wine  |
+| Basic (alkaline) | 8-14     | Bases generally taste bitter | Soap<br>Milk<br>NaOH | 
 
-pH Range
-
-Characteristics
-
-THREE Examples
-
-Acidic
-
-  
-
-  
-
-  
-
-Basic (alkaline)
-
-  
-
-  
-
-  
-
-  
 
 ### MODELS
 
