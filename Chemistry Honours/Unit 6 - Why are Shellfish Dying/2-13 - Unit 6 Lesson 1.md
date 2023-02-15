@@ -17,10 +17,6 @@
 <iframe title="What Oysters Reveal about Sea Change" src="https://www.youtube.com/embed/H5tHyKBHH-4?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 <iframe title="How Is Climate Change Affecting Oceans in Native American Lands?" src="https://www.youtube.com/embed/uZexlPneYDI?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe> 
 
-| Noticing | Wondering | Patterns |
-| -------- | --------- | -------- |
-|          |           |          |
-
 ### INITIAL MODEL OF INTERACTIONS BETWEEN OYSTERS AND OCEAN
 
 3. My initial model of what I think is happening between oysters and the ocean:
