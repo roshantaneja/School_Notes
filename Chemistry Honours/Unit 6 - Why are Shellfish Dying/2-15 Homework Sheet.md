@@ -105,4 +105,4 @@ An indicator can be use to measure the pH of a solution
 | g.  | $1 x10^{-6} M$   | 6   | acid                    |
 | h.  | $1 x 10^{-14} M$ | 14  | base                    |
 | i.  | $1 x 10^{-1} M$  | 1   | acid                    |
-| j.  | $1 x10^{-4} M$   | 4   | acid                    | 
+| j.  | $1 x10^{-4} M$   | 4   | acid                    |
