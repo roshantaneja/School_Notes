@@ -37,9 +37,7 @@ Questions:
 3.  What is a neutral solution?  
     
 
-- Soln that contains equal concentrations of acids and bases.
-  
-  
+- Solution that contains equal concentrations of acids and bases.
 
 4.  What is pH?
     
