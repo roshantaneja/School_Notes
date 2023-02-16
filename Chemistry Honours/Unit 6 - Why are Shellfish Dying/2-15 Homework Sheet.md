@@ -38,6 +38,7 @@ Questions:
     
 
 - Solution that contains equal concentrations of acids and bases.
+- When the pH is 7 and the pOH is also 7
 
 4.  What is pH?
     
