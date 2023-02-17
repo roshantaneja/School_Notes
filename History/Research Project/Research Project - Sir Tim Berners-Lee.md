@@ -6,9 +6,6 @@ Put the name of the person you want to research in the box. Write a sentence or 
 
   
 Sir Tim Berners-Lee: He created the first world wide network for the purpose of sharing medical documents with 
-  
-
-  
 
 Step 1: Organize Your Noodle Tools (In Class)
 
@@ -23,9 +20,6 @@ Step 4: Develop an Angle and Research Questions (In Class + HW) 
 You can see a model of what your final Research Assignment 1 should look like here: 
 
 [Mildred Lewis Rutherford Research Assignment 1](https://docs.google.com/document/u/0/d/1DO48JytR9v4m3F5qKAt7bDvYwRQKS5V8Fmzv08pCkd4/edit). 
-
-  
-  
 
 Step 1: Organize Your NoodleTools (In Class) 
 
@@ -121,16 +115,19 @@ Step 3: Take Research Notes (Begin In Class, Complete for HW) 
 If you would like to see a model of strong research notes vs. not sufficient research notes, you can check that out here: [Models of Research Notes](https://docs.google.com/document/d/1i9UOaxbd6wT2jjSGUWqpmPtdlOOMnE6_xrXcD_JUmQo/edit?usp=sharing). 
 
   
-
+---
 Notes from Research Starter Source: (PUT YOUR IN-TEXT CITATION HERE) (Finkleman)
+
 
 Now, read and take notes about your person! Focus on the parts of their life that you find most interesting. You do not need to write down everything, but you should start to capture a clear timeline of their life and a substantial number of specific historical details that you may want to use later. Online sources rarely have page numbers, but if yours does, write down the page numbers for future in-text citations. 
 
   
+<center>Works Cited</center>
 
-  
+"Tim Berners-Lee." Wikipedia, en.wikipedia.org/wiki/Tim_Berners-Lee. Accessed 9 Feb. 2023.
 
-  
+---
+
 
 Narrowing Your Topic:
 
@@ -138,11 +135,11 @@ List 2-3 things about your person that you find especially intriguing and that y
 
   
 
-1. 
+1.  Educated at "The queens college, Oxford"
 
   
 
-2. 
+2.   
 
   
 
