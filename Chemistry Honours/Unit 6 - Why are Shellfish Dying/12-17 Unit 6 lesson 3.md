@@ -190,5 +190,3 @@ Open [Changes in ocean water and how it affects seashells investigation](https:/
 
 12.  Complete IMT for Lesson 3.
     
-
-**
