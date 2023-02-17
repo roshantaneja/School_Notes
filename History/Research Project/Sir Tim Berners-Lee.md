@@ -24,15 +24,17 @@ List 2-3 things about your person that you find especially intriguing and that y
 
   
 
-1.  Educated at "The queens college, Oxford"
+1. Educated at "The queens college, Oxford"
 
   
 
-2.   Wrote the whole program at CERN on NeXTSTEP, and created the first HTTPd protocol
+2. Wrote the whole program at CERN on NeXTSTEP, and created the first HTTPd protocol
 
   
 
-3.  Was knighted by queen Elizabeth for "inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale"
+3. Was knighted by queen Elizabeth for "inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale"
+
+
 ---
 Notes from Wikipedia Article: (PUT YOUR IN-TEXT CITATION HERE) (“Jackie Robinson”)
 
@@ -46,94 +48,16 @@ Take some additional notes to record these facts. Focus on getting new, specific
 
 Part 2:
 
-While working at CERN, Tim BL Unders
+While working at CERN, Tim BL Understood the importance of communication throughout the company. He found it tiresome to transfer files physically to look at documents on his computer through hypertext. So as a result of his necessity, he created a program that uses Secure tunneling to access hypertext files from a server and read them remotely. This was the first user-to-website interaction. After that, the program expanded throughout CERN to store files on the server system, eventually becoming a global network of files for researchers to access.
 
 
-
-  
-
-  
-
-Step 4: Develop an Angle and Research Questions (Complete for HW) 
-
-Now, it’s time to narrow down your focus and develop a research question to guide your project. 
-
-  
-
-Some tips for writing a sound question: 
-
--   Your research question should begin with how or why. 
-    
--   Your research question should be specific, not broad or vague.  
-    
--   Your research question should ask for an evidence-based historical argument, not an opinion. 
-    
--   You should be able to explain why your question is historically significant.
-    
-
-  
-
- Here are some examples of approved research questions from previous years:
-
--   Why did George Washington appoint Hamilton as the First Treasury Secretary?
-    
--   How did Andrew Carnegie's experiences as a railroad employee pave the way for his  later success as an industrialist?
-    
--   How did John Brown organize the raid on Harpers Ferry in 1859?
-    
--   How did Louise Brooks personify the flapper feminism of the 1920s?
-    
--   How did Margaret Sanger work with black leaders and institutions to advance the cause of birth control?
-    
--   How did Josephine Baker’s move to France in 1925 transform her career?
-    
--   Why did Edward Teller become known as “the father of the hydrogen bomb”?
-    
--   Why did Hans Ziegler advocate for the use of solar cells in satellites?
-    
-
-  
-
-Read back over your notes, and think about what you want to research more deeply. What lingering questions do you have? What are you curious about? 
-
-  
 
 Then, come up with two possible research questions that start with how or why. After you submit this assignment, I will help you fine-tune the language and decide on one final research question. 
 
-  
-  
-
 Question Option 1 
 
-  
-  
+Why did TBL write ENQUIRE? How was it different from other secure protocols?
 
 Question Option 2
 
-  
-  
-
-  
-
-Works Cited
-
-  
-
-Copy and paste the entries you exported to your Noodle Tools onto this page. 
-
-  
-
-Works Cited
-
-Finkelman, Paul. "Jackie Robinson." , Salem Press, 2022. Research Starters, search.ebscohost.com/login.aspx?direct=true&db=ers&AN=88826553&site=eds-live&custid=s2160156.
-
----. "Jackie Robinson." , Salem Press, 2022. Research Starters, search.ebscohost.com/login.aspx?direct=true&db=ers&AN=88826553&site=eds-live&custid=s2160156.
-
-"Jackie Robinson." Wikipedia, en.wikipedia.org/wiki/Jackie_Robinson. Accessed 9 Feb. 2023.
-
-  
-  
-  
-  
-  
-**
+In 1994, Berners-Lee founded the W3C at the Massachusetts Institute of Technology. It comprised various companies that were willing to create standards and recommendations to improve the quality of the Web. Berners-Lee made his idea available freely, with no patent and no royalties due. Why would TBL have founded the web on the ideas of royalty-free technology, and how would this effect the growth of the internet in decades to come?
