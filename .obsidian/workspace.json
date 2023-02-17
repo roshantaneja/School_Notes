@@ -4,71 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7b076cdd65cc2320",
+        "id": "4634bb4d896f98c3",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb2847ae82c3829",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "05c681175a8d4edc",
+            "id": "ec0b97235796cbe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Research Project/Tim Berners-Lee Wikipedia.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f2cdfee74c987409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
+                "file": "History/Research Project/Sir Tim Berners-Lee.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "188d4bbce850a206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "799f490e6b9b508e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md"
+                "file": "History/Research Project/Sir Tim Berners-Lee.md"
               }
             }
           },
@@ -151,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,15 +113,15 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "obsidian-advanced-slides:Show Slide Preview": true
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "61289bd2e5e2d27f",
+  "active": "ec0b97235796cbe4",
   "lastOpenFiles": [
+    "History/Research Project/Tim Berners-Lee Wikipedia.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
-    "History/Research Project/Tim Berners-Lee Wikipedia.md",
     "History/Research Project/Research Project - Sir Tim Berners-Lee.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/Part 3 - Historical Reflection.md",
