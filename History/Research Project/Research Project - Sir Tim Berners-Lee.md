@@ -139,11 +139,11 @@ List 2-3 things about your person that you find especially intriguing and that y
 
   
 
-2.   
+2.   Wrote the whole program at CERN on NeXTSTEP, and created the first HTTPd protocol
 
   
 
-3. 
+3.  Was knighted by queen Elizabeth for "inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale"
 
   
 
@@ -154,11 +154,15 @@ Notes from Wikipedia Article: (PUT YOUR IN-TEXT CITATION HERE) (“Jackie Robins
 
 Now, go to the Wikipedia article that you have open. Try to find at least one section (perhaps 1-3 paragraphs) that give more, or new details, about one of the topics you have listed above. 
 
-  
+<center>Works Cited</center>
+
+"Tim Berners-Lee." Wikipedia, en.wikipedia.org/wiki/Tim_Berners-Lee. Accessed 9 Feb. 2023.
 
 Take some additional notes to record these facts. Focus on getting new, specific historical evidence into your notes -- dates, events, important people, organizations, accomplishments, and so on. 
 
-  
+Part 2:
+
+While working at CERN, Tim BL Understood that he would not be able to share
 
   
 
