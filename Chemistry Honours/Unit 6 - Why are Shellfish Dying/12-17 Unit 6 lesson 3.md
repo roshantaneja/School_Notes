@@ -150,10 +150,7 @@ Need to be dissociated in the water for the pH paper to identify the ions.
 
 ![](https://lh4.googleusercontent.com/xFeJfXBfhOjqhl6KXi_Yj8TgtCQviQ5peVVWN4iF4lIGLCn4XxglqQPiBYVhnD_LmQdaFK6S5EK-JY59kvp2tfDauO_GzcRNGV_U21VJRYjTePiYx2q00jdf9oVRXWCOswIi0CY4qYN9OV_leWaaeA)
 
-  
-  
-  
-  
+
 
 Hydronium ion with covalent bonds
 
