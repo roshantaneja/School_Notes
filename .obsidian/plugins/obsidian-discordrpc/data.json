@@ -3,7 +3,7 @@
   "showCurrentFileName": true,
   "showPopups": true,
   "customVaultName": "",
-  "showFileExtension": false,
+  "showFileExtension": true,
   "useLoadedTime": true,
   "connectOnStart": true,
   "autoHideStatusBar": false
