@@ -38,7 +38,6 @@
     
 2.  How many carbon atoms are in a mole of methane? How many hydrogen atoms are in a mole of methane? 
     
-
   
 
 3.  How many particles are found in 1 mole of methane?

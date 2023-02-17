@@ -46,17 +46,17 @@ Questions:
 A logarithmic Scale of Acidity, measuring the power of hydrogen concentration in the water.
   
 
-5.  What is the numerical value of the pH for a neutral solution?  pH = _________
+5.  What is the numerical value of the pH for a neutral solution?
     
 
 - 7
 
-6.  What is the numerical range of the pH for an acidic solution?  pH = _________
+6.  What is the numerical range of the pH for an acidic solution?
     
 
 - 0-6
 
-7.  What is the numerical range of the pH for a basic solution?  pH = _________
+7.  What is the numerical range of the pH for a basic solution?
     
 
 - 8-14
