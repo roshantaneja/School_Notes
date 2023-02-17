@@ -81,12 +81,12 @@ Procedure: 
 | ----------------- | ---------------- | ---------------------------- | ----------- | ------------- |
 | Citric solid      | $HC6H7O7$        | <7                           | 2.0         | A             |
 | Lactic solid      | $HC3H4O3$        | <7                           | 2.0         | A             |
-| Sodium Chloride   | $NaCl$           | =7                           | 5.0         | Acid? Wtf     |
-| Epsom Salt        | $MgSO4$          | =7                           | 7           | Neutral       |
+| Sodium Chloride   | $NaCl$           | =7                           | No [H+]     | Neutal        |
+| Epsom Salt        | $MgSO4$          | =7                           | No [H+]     | Neutral       |
 | Vitamin C         | $HC6H7O6$        | <7                           | 2.0         | Acid          |
 | Cream of Tartar   | $HC4H5O6$        | <7                           | 4.0         | Acid          |
-| Calcium Hydroxide | $Ca(OH)2$        | >7                           | 11.0        | Basic         |
-| Sugar             | $C12H22O11$      | =7                           | 5.0         | Acid          | 
+| Calcium Hydroxide | $Ca(OH)2$        | >7                           | 11.0        | Basic         | 
+| Sugar             | $C12H22O11$      | =7                           | No [H+]     | Neutral       |
 
 
 
@@ -98,7 +98,7 @@ Procedure: 
 5.  Using your observations from the two investigations today (data in Tables 1 and 2), what can we say we have figured out about acids?
     
 
-The Acids need to be part of te
+The Acids need to be aqueous to be identifiable by universal indicators.
 
 
 Need to be dissociated in the water for the pH paper to identify the ions.
@@ -123,9 +123,8 @@ Need to be dissociated in the water for the pH paper to identify the ions.
 1.  Explain the reasoning for your choice.
     
 
-  
-  
-  
+
+
 
 2.  What will happen to the HCl when the acid dissociates?
     
