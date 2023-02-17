@@ -87,7 +87,7 @@ When Mrs Beck breathes into the water, the carbon dioxide goes into the water an
 
 7. What ideas did we develop today that could be helpful for answering our questions? What else do we need to know about acidity?
 
-We need to know what kinds of compounds are acids and what are bases. I wish that the next section would help me figure out which is which.
+We need to know what kinds of compounds are acids and what are bases. `I sure wish that the next section would help me figure out which is which.`
 
 ---
 
