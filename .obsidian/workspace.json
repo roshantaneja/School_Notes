@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.50043487548828
+    "width": 213.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md"
               }
             }
           },
@@ -126,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,15 +142,15 @@
   },
   "active": "567ecc7a29836252",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
+    "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
     "Spanish/02-06-2023 - Socratic Seminar Parte 1.md",
     "Spanish/Unit 3/CW Grabación Creative writing piece (preterite).md",
-    "Spanish/Final 2022/Notas Finales de la Cuento.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/2-3 Unit 5 Lesson 10.md"
+    "Spanish/Final 2022/Notas Finales de la Cuento.md"
   ]
 }

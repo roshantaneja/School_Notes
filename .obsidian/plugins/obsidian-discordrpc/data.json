@@ -6,5 +6,5 @@
   "showFileExtension": false,
   "useLoadedTime": true,
   "connectOnStart": true,
-  "autoHideStatusBar": true
+  "autoHideStatusBar": false
 }

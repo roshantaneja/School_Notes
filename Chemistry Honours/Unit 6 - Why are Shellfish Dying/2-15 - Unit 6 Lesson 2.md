@@ -12,7 +12,7 @@ Oysters are dying because of ocean acidification, which is due to carbon emissio
 
 We decided to prioritize investigating the acidification of the ocean because it seems the most likely.
   
-  
+---
 
 ### TODAY’S QUESTION/CHALLENGE
 
@@ -20,9 +20,10 @@ We decided to prioritize investigating the acidification of the ocean because it
 
 
 What makes something acidic or basic?
-  
-  
-  
+
+The concentration of hydroxide or hydrogen ions in a solution.
+
+---
 
 ### INVESTIGATION IDEAS
 
@@ -33,7 +34,7 @@ What makes something acidic or basic?
 We could use Universal Indicators to identify if a solution is an acid or a base.
   
   
-
+---
 ### INVESTIGATING CARBON DIOXIDE AND WATER
 
   
@@ -82,18 +83,17 @@ SO WHAT?
 
 6. What evidence shows that carbon dioxide is going from the air into the water and making it more acidic? 
 
-  
-  
-  
-  
+When Mrs Beck breathes into the water, the carbon dioxide goes into the water and the universal indicator indicates that it is becoming more acidic.
 
 7. What ideas did we develop today that could be helpful for answering our questions? What else do we need to know about acidity?
 
-  
-  
-  
+We need to know what kinds of compounds are acids and what are bases. I wish that the next section would help me figure out which is which.
+
+---
 
 ### INVESTIGATING ACIDS AND BASES - Wear Safety Glasses!!
+
+`oh wow look at that, my wish came true!`
 
 Part 1: Known Aqueous Acids and Bases (acids and bases in a water solution)
 
@@ -132,8 +132,9 @@ Data Table:
 7.  What patterns are there in this data? Consider the testing results as well as the names and formulas in determining patterns.
     
 
+words that have "acid" in them tend to be acids, and words with "Hydroxide" in them tend to be bases.
 
-  
+---
 
 ### MEASURING ACIDITY
 
@@ -158,6 +159,7 @@ The pH Scale can go from 0 to 14
 | Acidic           | 0-6      | Acids generally taste sour   | HCl<br>Cola<br>Wine  |
 | Basic (alkaline) | 8-14     | Bases generally taste bitter | Soap<br>Milk<br>NaOH | 
 
+---
 
 ### MODELS
 
@@ -165,6 +167,7 @@ The pH Scale can go from 0 to 14
 
 Carbon Dioxide and water react to form Carbonic Acid.
 
+---
 
 ### NEXT STEPS:
 
