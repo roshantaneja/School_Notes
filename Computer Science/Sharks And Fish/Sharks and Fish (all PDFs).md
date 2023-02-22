@@ -103,6 +103,7 @@ public class Shark extends Critter
 ```
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Fish.java
 
@@ -151,6 +152,7 @@ public class Fish extends Critter
 ```
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## FemaleFish.java
 
