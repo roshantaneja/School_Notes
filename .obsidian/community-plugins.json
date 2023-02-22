@@ -9,7 +9,6 @@
   "table-extended",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
-  "cm-editor-syntax-highlight-obsidian",
   "numerals",
   "obsidian-dynamic-toc",
   "better-word-count",
@@ -19,5 +18,7 @@
   "lapel",
   "obsidian-doubleshift",
   "convert-url-to-iframe",
-  "obsidian-timestamper"
+  "obsidian-timestamper",
+  "cm-editor-syntax-highlight-obsidian",
+  "webpage-html-export"
 ]
