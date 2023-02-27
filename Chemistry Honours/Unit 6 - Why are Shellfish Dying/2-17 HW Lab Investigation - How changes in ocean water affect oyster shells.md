@@ -89,8 +89,8 @@ Data: 
 
 | Readings | Date      | Shell Mass (g) <br>+ Solution Mass w/out Lid | Observations                                          | pH  |
 | --------:| --------- | -------------------------------------------- | ----------------------------------------------------- | --- |
-|        1 | 2-17-2023 | 246.58g                                      | Black shell and shell sinks to the bottom of the jar. | 3.0 | 
-|        2 |           |                                              |                                                       |     |
+|        1 | 2-17-2023 | 246.58g                                      | Black shell and shell sinks to the bottom of the jar. | 3.0 |
+|        2 |           | 246.58                                       |                                                       |     |
 |        3 |           |                                              |                                                       |     |
 |        4 |           |                                              |                                                       |     |
 |        5 |           |                                              |                                                       |     |
