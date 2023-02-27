@@ -20,5 +20,6 @@
   "convert-url-to-iframe",
   "obsidian-timestamper",
   "cm-editor-syntax-highlight-obsidian",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-image-toolkit"
 ]

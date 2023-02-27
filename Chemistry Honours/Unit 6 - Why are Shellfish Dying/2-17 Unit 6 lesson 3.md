@@ -81,7 +81,7 @@ Procedure: 
 | ----------------- | ---------------- | ---------------------------- | ----------- | ------------- |
 | Citric solid      | $HC6H7O7$        | <7                           | 2.0         | A             |
 | Lactic solid      | $HC3H4O3$        | <7                           | 2.0         | A             |
-| Sodium Chloride   | $NaCl$           | =7                           | No [H+]     | Neutal        |
+| Sodium Chloride   | $NaCl$           | =7                           | No [H+]     | Neutral        |
 | Epsom Salt        | $MgSO4$          | =7                           | No [H+]     | Neutral       |
 | Vitamin C         | $HC6H7O6$        | <7                           | 2.0         | Acid          |
 | Cream of Tartar   | $HC4H5O6$        | <7                           | 4.0         | Acid          |
@@ -108,14 +108,15 @@ Need to be dissociated in the water for the pH paper to identify the ions.
 
 
 
-1.  The HCl gas in the air.
+A.  The HCl gas in the air.
     
-2.  The HCl was initially placed in water.
+B.  The HCl was initially placed in water.
     
-3.  The H+ ions and the Cl- ions dissociated in water.
+C.  The H+ ions and the Cl- ions dissociated in water.
     
 
-  
+
+The graph shows (B), where the HCl gas is now in the water, but not yet dissolved.
   
 ![](https://lh3.googleusercontent.com/RKHV9A6AtXwo1zEzppY8vlFrCz9j_S0WBZWqSHmt4L6MCf2anU6juv1ucXOHaIFsyx5GyE97YaO4mIN_xkAt_KDTP_GyiNxFtzCYLRNGH1Q2IImBTOF6Buw7rU7zksRXz_zpM2vwiFelQU1YClufDw)  
   
@@ -123,45 +124,51 @@ Need to be dissociated in the water for the pH paper to identify the ions.
 1.  Explain the reasoning for your choice.
     
 
-
+The HCl particles are still bonded while surrounded by water, therefore they are not dissociated yet, neither are they out of the water, so the answer must be (B)
 
 
 2.  What will happen to the HCl when the acid dissociates?
     
 
-  
+The acid will dissociate into H+ ions and Cl- ions. The water will then surround the ions with either their positive or negative side, depending on the ion, but for the H+ ions, the water bonds with them strongly enough to create H3O+ instead of just being dissolved.
   
 
-7.  Here are a few Lewis structures of the acids we investigated.  Circle or identify the hydrogens that could dissociate from the acid into the water.![](https://lh3.googleusercontent.com/j5zQlVdKGUoXVd3ZfuQMMdL2EyrfCVflXypqmQWI_Lynyy8GcjflLVHhS5unEmT5jKTvn5BtkqiPu_mdpq2Ms-A006LHzxpex8tOV7lOmBC13vLlM9U-tYSX8AMP2X0d_zThq__Cx0FJbb_K2flWMQ)![](https://lh5.googleusercontent.com/_ArDgFkM5N-7tPRuRWVTR1oNKGka2-3dU8IJjV2xKTaBT8YXz-ibRFF4FkvARav_FW9xHIEj7NfC0i3CbabSXdnfqnO5ehTZCXWZ1qYCo59iIP_EmoaKpvqacsZ6aUWsjrCcro6DUcgMzc4DlhokmQ)
+7.  Here are a few Lewis structures of the acids we investigated.  Circle or identify the hydrogens that could dissociate from the acid into the water.
+![](https://lh3.googleusercontent.com/j5zQlVdKGUoXVd3ZfuQMMdL2EyrfCVflXypqmQWI_Lynyy8GcjflLVHhS5unEmT5jKTvn5BtkqiPu_mdpq2Ms-A006LHzxpex8tOV7lOmBC13vLlM9U-tYSX8AMP2X0d_zThq__Cx0FJbb_K2flWMQ)![](https://lh5.googleusercontent.com/_ArDgFkM5N-7tPRuRWVTR1oNKGka2-3dU8IJjV2xKTaBT8YXz-ibRFF4FkvARav_FW9xHIEj7NfC0i3CbabSXdnfqnO5ehTZCXWZ1qYCo59iIP_EmoaKpvqacsZ6aUWsjrCcro6DUcgMzc4DlhokmQ)
     
 
   
 ![](https://lh5.googleusercontent.com/E7tDqAJvL9QFECZ681Y4Z9hn9RjejheqGPpRi6Bgc6aXquM_XVXwCnFSe3K0-SQ4IfeFAREjWI4b_2Je-VjDGKUtFWgu64YmfSnCDYfXaOKXtIl1Us9vj9dwB6BPfTcUjQvLo-NXNxMQqqmB8uAgYQ)  
   
-  
-  
-  
-  
-  
-  
 
 8.  The hydrogen ion, H+, interacts with water to create the hydronium ion.  The Lewis structure of the reaction is modeled below. Draw the hydronium ion using lines for the covalent bonds in the box provided. Include the bracket and charge in your answer. 
-    
+
+
 
 ![](https://lh4.googleusercontent.com/xFeJfXBfhOjqhl6KXi_Yj8TgtCQviQ5peVVWN4iF4lIGLCn4XxglqQPiBYVhnD_LmQdaFK6S5EK-JY59kvp2tfDauO_GzcRNGV_U21VJRYjTePiYx2q00jdf9oVRXWCOswIi0CY4qYN9OV_leWaaeA)
 
 
 
 Hydronium ion with covalent bonds
-
-  
+```
+_____________
+|    H      |
+|    |      |
+| H - O - H |
+-------------
+```
 
 9.  Using what we have figured out today about acids and remembering the polarity of water, create a model that shows the dissociation of HCl in water.  Draw three solo water molecules, one H+ as a hydronium ion and one Cl- ion.
     
 
-  
-  
-  
+```
+ _______________________________
+|                               |
+| HCl ->   H+   +   Cl-  H - O  |
+|          |                 |  |
+|      H - O - H             H  |
+ -------------------------------
+```
   
   
 

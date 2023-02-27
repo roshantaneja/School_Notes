@@ -37,9 +37,12 @@
             "id": "055e9291ec4577e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md"
               }
             }
           },
