@@ -26,15 +26,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Test Corrections.md",
+                "file": "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd464346a8cdd58",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hebrew Scriptures/Christian Scripture/January/Test Corrections.md"
+                "file": "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CHRIST IN THE REFUGEE - MATTHEW 2.1-23.md"
               }
             }
           },
@@ -117,10 +127,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "omnisearch:Omnisearch": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
@@ -129,8 +141,9 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "a2537c071426370b",
+  "active": "5dd464346a8cdd58",
   "lastOpenFiles": [
+    "Hebrew Scriptures/Christian Scripture/January/Test Corrections.md",
     "History/Research Project/Sir Tim Berners-Lee.md",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
@@ -139,7 +152,6 @@
     "Chemistry Honours/Unit 5 - Properties of Elements/2-7 Unit 5 Lesson 11.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/2-3 Unit 5 Lesson 10.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
+    "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md"
   ]
 }
