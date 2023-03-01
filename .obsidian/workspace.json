@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
+                "file": "English/Essay/The great gatsby.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828
+    "width": 215.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md"
+                "file": "English/Essay/The great gatsby.md"
               }
             }
           },
@@ -172,8 +173,8 @@
   },
   "active": "5a94c0f048ced25b",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
     "conflict-files-obsidian-git.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
