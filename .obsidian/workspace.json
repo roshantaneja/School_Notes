@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5e1bc59bf0d51279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md"
               }
             }
           },
@@ -145,11 +158,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "31c9c632aae521d7",
+  "active": "5e1bc59bf0d51279",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
     "English/Essay/The great gatsby.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
     "English/Essay",
