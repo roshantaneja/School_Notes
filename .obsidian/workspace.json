@@ -68,12 +68,15 @@
             }
           },
           {
-            "id": "ba4772c57447eec6",
+            "id": "be7b7540117af401",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "History/Unit 3/Cold War prompt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -128,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828,
-    "collapsed": true
+    "width": 215.50043487548828
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -144,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Unit 3/Cold War prompt.md"
+              }
             }
           },
           {
@@ -174,8 +178,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ba4772c57447eec6",
+  "active": "be7b7540117af401",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "History/Unit 3/Cold War prompt.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "conflict-files-obsidian-git.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
