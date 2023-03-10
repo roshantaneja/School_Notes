@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "eb1a684c22ff9964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md"
               }
             }
           },
@@ -118,13 +132,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "227f43a43056ad59",
+  "active": "eb1a684c22ff9964",
   "lastOpenFiles": [
+    "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
     "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Sir Tim Berners-Lee.md",
-    "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",
     "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
     "conflict-files-obsidian-git.md",
