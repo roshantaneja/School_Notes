@@ -1,7 +1,10 @@
 {
   "baseFontSize": 10,
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Gadugi",
-  "monospaceFontFamily": "Comic Mono",
-  "accentColor": ""
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": "",
+  "cssTheme": "Shiba Uni",
+  "nativeMenus": false,
+  "translucency": true
 }

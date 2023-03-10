@@ -7,31 +7,12 @@ Research Question
 
 
 
-
-	
-
-
-
-Topics and Terms to Explore
-
-
-Think about what you’ve learned so far in your Research 1 and Research 2 assignments. What are some topics related to your research that you would like to find out more about? 
-
-
-Ronald Reagan had cancer surgery around the time of the Iran Contra Scandal. Later he claimed he couldn’t remember the orders he gave at the time.
-
-
-What are some very specific people, places, events, organizations, or dates that you think might help you locate an article that will help you? 
-
-
-Ronald Reagan, Iran Contra, Cancer, 1985, 25th amendment, memory
-
-
-
-
-	
-
-
+| Topics and Terms to Explore                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Think about what you’ve learned so far in your Research 1 and Research 2 assignments. What are some topics related to your research that you would like to find out more about? |
+| Ronald Reagan had cancer surgery around the time of the Iran Contra Scandal. Later he claimed he couldn’t remember the orders he gave at the time.                              |
+| What are some very specific people, places, events, organizations, or dates that you think might help you locate an article that will help you?                                 |
+| Ronald Reagan, Iran Contra, Cancer, 1985, 25th amendment, memory                                                                                                                |
 
 IN THE LIBRARY
 

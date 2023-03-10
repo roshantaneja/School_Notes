@@ -489,9 +489,8 @@ body {
 }
 
 /* Cursor */
-.CodeMirror-cursor,
-.cm-s-obsidian .cm-cursor {
-  border-left: 0.7em solid var(--the-color);
+.cm-focused .cm-vimCursorLayer .cm-fat-cursor.cm-fat-cursor.cm-fat-cursor {
+	background-color: var(--the-color);
 }
 
 /* Headers */
@@ -1164,6 +1163,16 @@ span.internal-embed.file-embed.mod-empty.is-loaded {
   border-left-width: 1px;
   margin: -1px 0;
   padding: calc(var(--editor-line-height) * var(--the-font-size)) calc(2 * var(--char-width));
+}
+
+/*.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before {*/
+    /*left: unset;*/
+/*}*/
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before, .markdown-source-view.mod-cm6 .cm-blockquote-border:before {
+    /*content: "|";*/
+    /*color: var(--the-color);*/
+    /*border: none;*/
+    border-color: var(--the-color);
 }
 
 /* Code block */
