@@ -1,7 +1,9 @@
 Research Question
 
 
-Type your approved research question in this box. 
+| Type your approved research question in this box.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| In 1994, Berners-Lee founded the W3C at the Massachusetts Institute of Technology. It comprised various companies that were willing to create standards and recommendations to improve the quality of the Web. Berners-Lee made his idea available freely, with no patent and no royalties due. Why would TBL have founded the web on the ideas of royalty-free technology, and how would this effect the growth of the internet in decades to come? | 
 
 
 
