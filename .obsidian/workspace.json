@@ -11,9 +11,12 @@
             "id": "227f43a43056ad59",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf"
+                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -67,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5004348754883
+    "width": 259.5004348754883
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -83,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf"
+                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md"
               }
             }
           },
@@ -100,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -116,13 +120,13 @@
   },
   "active": "227f43a43056ad59",
   "lastOpenFiles": [
+    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
+    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
+    "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Sir Tim Berners-Lee.md",
     "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",
-    "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
-    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
-    "The Internet, Innovation, and Intellectual Property Policy.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/Cold War prompt.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
