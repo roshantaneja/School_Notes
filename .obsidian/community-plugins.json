@@ -5,14 +5,12 @@
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-excel-to-markdown-table",
-  "table-editor-obsidian",
   "table-extended",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
   "numerals",
   "obsidian-dynamic-toc",
   "better-word-count",
-  "obsidian-advanced-slides",
   "text-extractor",
   "omnisearch",
   "lapel",
@@ -21,5 +19,6 @@
   "obsidian-timestamper",
   "cm-editor-syntax-highlight-obsidian",
   "webpage-html-export",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "table-editor-obsidian"
 ]

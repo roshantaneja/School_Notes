@@ -1,4 +1,4 @@
-Research Question
+## Research Question
 
 
 | Type your approved research question in this box.                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -14,7 +14,7 @@ Research Question
 | What are some very specific people, places, events, organizations, or dates that you think might help you locate an article that will help you?                                 |
 | Ronald Reagan, Iran Contra, Cancer, 1985, 25th amendment, memory                                                                                                                |
 
-IN THE LIBRARY
+## IN THE LIBRARY
 
 
 There are four steps to this assignment (the same steps as your book assignment): 
@@ -23,15 +23,10 @@ Step 2: Add Your Journal Article Source to Noodle Tools
 Step 3: Read and Take Notes 
 Step 4: Write about Your Evidence   
 
-
-
-
-
-
 ________________
 
 
-STEP 1: CHOOSE A JOURNAL ARTICLE 
+## STEP 1: CHOOSE A JOURNAL ARTICLE 
 
 
 Journal articles are written by scholars who are experts in their field of research. They are a high-quality source of information because they are authored by experts and reviewed by other scholars before publication. (This is what we mean by a “peer-reviewed” source.) Your task is to find ONE good article that helps you answer your research question. 
@@ -63,7 +58,7 @@ Think carefully about which article will be helpful for your particular research
 ________________
 
 
-STEP 2: ADD YOUR SOURCE TO NOODLE TOOLS.
+## STEP 2: ADD YOUR SOURCE TO NOODLE TOOLS.
 Open your Noodle Tools project in a separate tab. In most cases, you should be able to export your citation directly from the article database to your Noodle Tools project. 
 
 
@@ -75,7 +70,7 @@ If you do need to enter the citation yourself, you should click on “+ New Sour
 ________________
 
 
-STEP 3: TAKE NOTES ON YOUR JOURNAL ARTICLE. 
+## STEP 3: TAKE NOTES ON YOUR JOURNAL ARTICLE. 
 
 
 Once you have selected an article, you’ll need to read and take notes, just as you did with your book source. 
@@ -98,7 +93,7 @@ Write your notes here. Include your in-text citations with page numbers.
 ________________
 
 
-STEP 4: WRITE ABOUT YOUR JOURNAL ARTICLE. 
+## STEP 4: WRITE ABOUT YOUR JOURNAL ARTICLE. 
 
 
 Now that you have collected a lot of facts, start to write about your research question in 1-2 typed pages (12 point font, double-spaced). You should write about some of the most interesting, relevant evidence that you discovered in your book. 
@@ -112,7 +107,7 @@ Please write in complete sentences and paragraphs. At this stage, it is fine if 
 
 
 
-TWO TIPS FOR SUCCESS: 
+## TWO TIPS FOR SUCCESS: 
 
 
 * Avoid writing general “background information” or information that is peripheral to your research question. Instead, write about specific facts that go to the heart of your research question.
@@ -122,3 +117,4 @@ TWO TIPS FOR SUCCESS:
 
 
 Journal Article Writing:
+
