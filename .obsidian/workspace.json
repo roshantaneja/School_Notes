@@ -11,12 +11,9 @@
             "id": "227f43a43056ad59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "History/Research Project/PREPARING FOR RESEARCH.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/PREPARING FOR RESEARCH.md"
+                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
           },
@@ -120,8 +117,12 @@
   },
   "active": "227f43a43056ad59",
   "lastOpenFiles": [
-    "History/Research Project/PREPARING FOR RESEARCH.md",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
+    "The Internet, Innovation, and Intellectual Property Policy.md",
+    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
+    "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
+    "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
+    "History/Research Project/PREPARING FOR RESEARCH.md",
     "History/Research Project/Sir Tim Berners-Lee.md",
     "conflict-files-obsidian-git.md",
     "History/Unit 3/Cold War prompt.md",
@@ -144,8 +145,6 @@
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
     "Robotics/2022-2023/16887.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
-    "History/Research Project/Research Project - Sir Tim Berners-Lee.md"
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md"
   ]
 }
