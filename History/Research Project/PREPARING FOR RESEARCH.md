@@ -23,7 +23,7 @@ Step 2: Add Your Journal Article Source to Noodle Tools
 Step 3: Read and Take Notes 
 Step 4: Write about Your Evidence   
 
-________________
+___
 
 
 ## STEP 1: CHOOSE A JOURNAL ARTICLE 
@@ -55,7 +55,7 @@ Think carefully about which article will be helpful for your particular research
 
 
 
-________________
+___
 
 
 ## STEP 2: ADD YOUR SOURCE TO NOODLE TOOLS.
@@ -67,7 +67,7 @@ If you do need to enter the citation yourself, you should click on “+ New Sour
 
   
 
-________________
+___
 
 
 ## STEP 3: TAKE NOTES ON YOUR JOURNAL ARTICLE. 
@@ -88,10 +88,11 @@ Write your notes here. Include your in-text citations with page numbers.
 (only relevant information on pg 886)
 
 Direct Section: 
->With the development of the IoT(Internet of Things) platform, where each platform has its own mechanism, without interaction with other platforms, we will take a step backwards compared to the initial idea that Tim Berners-Lee had when designing the Web. The problem of the development of royalty-free and platform-independent standards has been discovered and there are currently working groups under the World Wide Web Consortium (W3C) that deal with the standardization and development of the WoT(Web of Things) API since 2015 (White Paper for the Web of Things, 2016)
+
+>With the development of the IoT(Internet of Things) platform, where each platform has its own mechanism, without interaction with other platforms, we will take a step backwards compared to the initial idea that Tim Berners-Lee had when designing the Web. The problem of the development of royalty-free and platform-independent standards has been discovered and there are currently working groups under the World Wide Web Consortium (W3C) that deal with the standardization and development of the WoT(Web of Things) API since 2015 (White Paper for the Web of Things, 2016) (Tot 886)
 
 
-________________
+___
 
 
 ## STEP 4: WRITE ABOUT YOUR JOURNAL ARTICLE. 
