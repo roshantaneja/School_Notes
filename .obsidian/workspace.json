@@ -19,8 +19,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45b4f3fd79eb15fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f9770c92c56d00c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/Research Project/PREPARING FOR RESEARCH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,10 +134,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "227f43a43056ad59",
+  "active": "45b4f3fd79eb15fa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "History/Research Project/PREPARING FOR RESEARCH.md",
+    "conflict-files-obsidian-git.md",
     "History/Unit 3/Cold War prompt.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
