@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
-                "mode": "preview",
+                "file": "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5004348754883
+    "width": 215.50043487548828
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md"
+                "file": "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md"
               }
             }
           },
@@ -120,8 +120,8 @@
   },
   "active": "227f43a43056ad59",
   "lastOpenFiles": [
-    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
+    "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Sir Tim Berners-Lee.md",
     "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",

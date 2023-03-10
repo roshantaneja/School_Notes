@@ -60,9 +60,6 @@ Open your Noodle Tools project in a separate tab. In most cases, you should be a
 
 If you do need to enter the citation yourself, you should click on “+ New Source.” Then select “Database” and “Journal,” and enter the fields required. 
 
-
-  
-
 ___
 
 
@@ -87,6 +84,7 @@ Direct Section:
 
 >With the development of the IoT(Internet of Things) platform, where each platform has its own mechanism, without interaction with other platforms, we will take a step backwards compared to the initial idea that Tim Berners-Lee had when designing the Web. The problem of the development of royalty-free and platform-independent standards has been discovered and there are currently working groups under the World Wide Web Consortium (W3C) that deal with the standardization and development of the WoT(Web of Things) API since 2015 (White Paper for the Web of Things, 2016) (Tot 886)
 
+Even though the internet was initially founded as a localize 
 
 ___
 
