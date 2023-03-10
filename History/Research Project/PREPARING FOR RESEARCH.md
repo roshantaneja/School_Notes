@@ -52,11 +52,7 @@ Think carefully about which article will be helpful for your particular research
 
 
 
-
-
-
 ___
-
 
 ## STEP 2: ADD YOUR SOURCE TO NOODLE TOOLS.
 Open your Noodle Tools project in a separate tab. In most cases, you should be able to export your citation directly from the article database to your Noodle Tools project. 
