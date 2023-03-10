@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md"
               }
             }
           },
@@ -148,8 +147,9 @@
   },
   "active": "ba2faca9b6247718",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
     "History/Research Project/PREPARING FOR RESEARCH (Pt 3).md",
     "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/The Internet, Innovation, and Intellectual Property Policy.pdf",
@@ -160,7 +160,6 @@
     "conflict-files-obsidian-git.md",
     "History/Unit 3/Cold War prompt.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
     "English/Essay/The great gatsby.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",

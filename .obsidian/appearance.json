@@ -4,7 +4,8 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "nativeMenus": false,
-  "translucency": true
+  "translucency": false,
+  "theme": "obsidian"
 }
