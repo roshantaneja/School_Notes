@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +179,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "037254b360d81d52",
+  "active": "61289bd2e5e2d27f",
   "lastOpenFiles": [
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",

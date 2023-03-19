@@ -28,7 +28,29 @@ Calculate the molarities of the following solutions:
 
 7) What is the concentration of a 450. mL solution that contains 200. grams of iron (II) chloride?
 
-
+2.74 M
 
 8) What is the concentration of a solution that has a volume of 2.5 L and contains 660. grams of calcium phosphate?
+
+0.85 M
+
+---
+
+1) 1.0 moles of potassium fluoride is dissolved to make 0.10 L of solution.
+
+0.1 M
+
+2) 1.0 grams of potassium fluoride is dissolved to make 0.10 L of solution. 
+
+0.17 M
+
+3) 1.0 grams of potassium fluoride is dissolved to make 0.10 mL of solution. 
+
+1721.467 M
+
+4) 952 grams of ammonium carbonate are dissolved to make 1750 mL of solution. 
+
+5.661
+
+5) 9.82 grams of lead (IV) nitrate are dissolved to make 465 mL of solution.
 
