@@ -37,14 +37,14 @@ Data Table 1:
 
 | Substance         | Chemical Formula | pH Prediction <7 or =7 or >7 | Test 1 - pH | ACID or BASE? |
 | ----------------- | ---------------- | ---------------------------- | ----------- | ------------- |
-| Citric solid      | $HC6H7O7$        | <7                           | None        | N/A           |
-| Lactic solid      | $HC3H4O3$        | <7                           | None        | N/A           |
-| Sodium Chloride   | $NaCl$           | =7                           | None        | N/A           |
-| Epsom Salt        | $MgSO4$          | =7                           | None        | N/A           |
-| Vitamin C         | $HC6H7O6$        | <7                           | None        | N/A           |
-| Cream of Tartar   | $HC4H5O6$        | <7                           | None        | N/A           |
-| Calcium Hydroxide | $Ca(OH)2$        | >7                           | None        | N/A           |
-| Sugar             | $C12H22O11$      | =7                           | None        | N/A           | 
+| Citric solid      | $HC6H7O7$        | `<7`                           | None        | N/A           |
+| Lactic solid      | $HC3H4O3$        | `<7`                           | None        | N/A           |
+| Sodium Chloride   | $NaCl$           | `=7`                           | None        | N/A           |
+| Epsom Salt        | $MgSO4$          | `=7`                           | None        | N/A           |
+| Vitamin C         | $HC6H7O6$        | `<7`                           | None        | N/A           |
+| Cream of Tartar   | $HC4H5O6$        | `<7`                           | None        | N/A           |
+| Calcium Hydroxide | $Ca(OH)2$        | `>7`                           | None        | N/A           |
+| Sugar             | $C12H22O11$      | `=7`                           | None        | N/A           | 
   
 
   
@@ -79,14 +79,14 @@ Procedure: 
   
 | Substance         | Chemical Formula | pH Prediction <7 or =7 or >7 | Test 1 - pH | ACID or BASE? |
 | ----------------- | ---------------- | ---------------------------- | ----------- | ------------- |
-| Citric solid      | $HC6H7O7$        | <7                           | 2.0         | A             |
-| Lactic solid      | $HC3H4O3$        | <7                           | 2.0         | A             |
-| Sodium Chloride   | $NaCl$           | =7                           | No [H+]     | Neutral        |
-| Epsom Salt        | $MgSO4$          | =7                           | No [H+]     | Neutral       |
-| Vitamin C         | $HC6H7O6$        | <7                           | 2.0         | Acid          |
-| Cream of Tartar   | $HC4H5O6$        | <7                           | 4.0         | Acid          |
-| Calcium Hydroxide | $Ca(OH)2$        | >7                           | 11.0        | Basic         | 
-| Sugar             | $C12H22O11$      | =7                           | No [H+]     | Neutral       |
+| Citric solid      | $HC6H7O7$        | `<7`                         | 2.0         | A             |
+| Lactic solid      | $HC3H4O3$        | `<7`                         | 2.0         | A             |
+| Sodium Chloride   | $NaCl$           | `=7`                         | No [H+]     | Neutral       |
+| Epsom Salt        | $MgSO4$          | `=7`                         | No [H+]     | Neutral       |
+| Vitamin C         | $HC6H7O6$        | `<7`                         | 2.0         | Acid          |
+| Cream of Tartar   | $HC4H5O6$        | `<7`                         | 4.0         | Acid          |
+| Calcium Hydroxide | $Ca(OH)2$        | `>7`                         | 11.0        | Basic         |
+| Sugar             | $C12H22O11$      | `=7`                         | No [H+]     | Neutral       |
 
 
 
