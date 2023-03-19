@@ -54,4 +54,6 @@ Calculate the molarities of the following solutions:
 
 5) 9.82 grams of lead (IV) nitrate are dissolved to make 465 mL of solution.
 
-0.064 M
+0.004 M
+
+---
