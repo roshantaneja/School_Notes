@@ -24,7 +24,7 @@ Calculate the molarities of the following solutions:
 
 6) How many liters of 4.0 M solution can be made using 100. grams of lithium bromide?
 
-
+0.288 mL
 
 7) What is the concentration of a 450. mL solution that contains 200. grams of iron (II) chloride?
 
