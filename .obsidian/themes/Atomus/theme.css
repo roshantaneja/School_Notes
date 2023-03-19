@@ -12,19 +12,16 @@
   --background-modifier-error: #3d0000;
   --background-modifier-error-rgb: 61, 0, 0;
   --background-modifier-error-hover: #470000;
-  --background-modifier-cover: rgba(0, 0, 0, 0.6);
   --accent-h: 219;
   --accent-s: 56%;
   --accent-d: 55%;
   --accent-l: 58%;
-  --text-accent: #61afef;
-  --text-accent-hover: #69bafd;
   --text-normal: #dcddde;
   --text-muted: #888;
   --text-faint: rgb(81, 86, 99);
   --text-error: #e16d76;
   --text-error-hover: #c9626a;
-  --text-highlight-bg: rgba(255, 255, 0, 0.4);
+  --text-highlight-bg: rgba(189, 195, 199, 0.1);
   --text-selection: rgba(0, 122, 255, 0.2);
   --text-on-accent: #dcddde;
   --interactive-normal: #20242b;
@@ -49,7 +46,7 @@
   --table-header-background: var(--background-secondary-alt);
   --table-header-background-hover: var(--background-secondary-alt);
   --table-row-alt-background: var(--background-secondary);
-  --table-row-background-hover: #36454f;
+  --table-row-background-hover: rgba(54, 69, 79, 0.4);
   --table-border-color: var(--gray-1);
   --table-header-border-color: var(--gray-1);
 }
@@ -58,6 +55,27 @@ body {
   -webkit-font-smoothing: auto;
   --darker-graph-line: hsl(var(--accent-h), var(--accent-s), 30%);
   --graph-line: var(--darker-graph-line);
+
+  --text-accent-h: calc(var(--accent-h) - 12);
+  --text-accent-s: calc(var(--accent-s) + 26%);
+  --text-accent-l: calc(var(--accent-l) + 8%);
+  --text-accent-color: hsl(
+    var(--text-accent-h),
+    var(--text-accent-s),
+    var(--text-accent-l)
+  );
+
+  --text-accent-hover-h: calc(var(--accent-h) - 12);
+  --text-accent-hover-s: calc(var(--accent-s) + 41%);
+  --text-accent-hover-l: calc(var(--accent-l) + 12%);
+  --text-accent-hover-color: hsl(
+    var(--text-accent-hover-h),
+    var(--text-accent-hover-s),
+    var(--text-accent-hover-l)
+  );
+
+  --text-accent: var(--text-accent-color);
+  --text-accent-hover: var(--text-accent-hover-color);
 }
 
 .titlebar {
@@ -133,7 +151,7 @@ a.tag:hover {
 }
 
 .markdown-preview-view .task-list-item-checkbox:hover {
-  background-color: var(--gray-2);
+  background-color: rgba(171, 178, 191, 0.3);
 }
 
 .task-list-item-checkbox::after {
@@ -359,6 +377,7 @@ a:hover,
 .file-embed-link {
   left: 8px;
   right: unset;
+  color: var(--text-error);
 }
 
 code[class*="language-"],
@@ -512,10 +531,72 @@ pre.line-numbers > code {
 }
 
 .workspace-leaf-resize-handle {
-  opacity: 0;
+  opacity: 0 !important;
 }
 
 .tasks-modal .with-accesskeys .accesskey-first::first-letter,
 .tasks-modal .with-accesskeys .accesskey {
   text-decoration: none;
+}
+
+/* Full Calendar plugin */
+
+.fc {
+  --fc-now-indicator-color: var(--text-accent);
+  --fc-today-bg-color: rgba(10, 10, 10, 0.3);
+}
+
+.fc-event-main {
+  background-color: var(--interactive-accent);
+}
+.fc-timegrid-event.fc-v-event.fc-timegrid-event-short.fc-event.fc-event-draggable.fc-event-resizable.fc-event-start.fc-event-end.fc-event-past.fc-event-today,
+.fc-timegrid-event.fc-v-event.fc-timegrid-event-short.fc-event.fc-event-draggable.fc-event-resizable.fc-event-start.fc-event-end.fc-event-future,
+.fc-timegrid-event.fc-v-event.fc-timegrid-event-short.fc-event.fc-event-draggable.fc-event-resizable.fc-event-start.fc-event-end.fc-event-past {
+  background-color: var(--interactive-accent) !important;
+  border-color: var(--interactive-accent) !important;
+}
+
+.fc-timegrid-event.fc-v-event.fc-timegrid-event-short.fc-event.fc-event-draggable.fc-event-resizable.fc-event-start.fc-event-end.fc-event-today {
+  background-color: var(--interactive-accent) !important;
+  border-color: var(--text-accent-hover) !important;
+}
+.fc-daygrid-event-dot,
+.fc-list-event-dot {
+  border-color: var(--interactive-accent) !important;
+}
+
+body
+  > div.modal-container.mod-dim
+  > div.modal
+  > div.modal-content
+  > form
+  > p:nth-child(7)
+  > span
+  > button {
+  background-color: hsl(0, 98%, 69%) !important;
+  color: #fefdff !important;
+  border-color: hsl(0, 98%, 69%) !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+}
+
+body
+  > div.modal-container.mod-dim
+  > div.modal
+  > div.modal-content
+  > form
+  > p:nth-child(7)
+  > span
+  > button:hover {
+  background-color: hsl(0, 98%, 75%) !important;
+  color: #fefdff !important;
+  border-color: hsl(0, 98%, 75%) !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+}
+
+/* --- */
+
+.heading-collapse-indicator.collapse-indicator.collapse-icon::before {
+  color: var(--interactive-accent);
 }

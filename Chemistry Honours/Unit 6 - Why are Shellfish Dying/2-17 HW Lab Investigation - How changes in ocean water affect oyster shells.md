@@ -84,19 +84,17 @@ Data: 
 
 
 
--   Reading 1: Initial Shell Mass 2.99g
+-   Reading 1: Initial Shell Mass 4.10g
     
 
 | Readings | Date      | Shell Mass (g) <br>+ Solution Mass w/out Lid | Observations                                          | pH  |
 | --------:| --------- | -------------------------------------------- | ----------------------------------------------------- | --- |
 |        1 | 2-17-2023 | 246.58g                                      | Black shell and shell sinks to the bottom of the jar. | 3.0 |
-|        2 |           | 246.58                                       |                                                       |     |
-|        3 |           |                                              |                                                       |     |
-|        4 |           |                                              |                                                       |     |
-|        5 |           |                                              |                                                       |     |
+|        2 | 2-27-2023 | 244.44                                       | Kinda white spots around the shell surface            |     |
+|        3 | 3-10-2023 | 244.03                                       | White Shell                                           |     |
 
 
--   Reading 5: Final Shell Mass _____________
+-   Reading 5: Final Shell Mass 4.10
     
 
   

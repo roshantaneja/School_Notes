@@ -1,7 +1,11 @@
 {
   "baseFontSize": 10,
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Gadugi",
-  "monospaceFontFamily": "Comic Mono",
-  "accentColor": ""
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": "",
+  "cssTheme": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "theme": "obsidian"
 }
