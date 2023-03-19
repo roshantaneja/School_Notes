@@ -38,7 +38,7 @@ Calculate the molarities of the following solutions:
 
 1) 1.0 moles of potassium fluoride is dissolved to make 0.10 L of solution.
 
-0.1 M
+10 M
 
 2) 1.0 grams of potassium fluoride is dissolved to make 0.10 L of solution. 
 
@@ -50,7 +50,8 @@ Calculate the molarities of the following solutions:
 
 4) 952 grams of ammonium carbonate are dissolved to make 1750 mL of solution. 
 
-5.661
+5.661 M 
 
 5) 9.82 grams of lead (IV) nitrate are dissolved to make 465 mL of solution.
 
+0.064 M
