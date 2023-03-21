@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Research Project/Outline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/Outline.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -118,13 +117,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c59dd7114ff8d40",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
-    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Outline.md",
+    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
+    "conflict-files-obsidian-git.md",
+    "Computer Science/Asteroids.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Part 1.md",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
-    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "Untitled.md",
     "History/Research Project/Pt 3.md",
@@ -135,7 +137,6 @@
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
-    "conflict-files-obsidian-git.md",
     "History/Unit 3/Cold War prompt.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "English/Essay/The great gatsby.md",
@@ -147,8 +148,6 @@
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CW World of Jesus.md",
     "English/Essay",
     "English/Unit 2/The Great Gatsby/Journal ch 5.md",
-    "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
-    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
-    "English/Unit 2/Podcast Prep/Beatsheet.md"
+    "English/Unit 2/The Great Gatsby/Journal Ch 4.md"
   ]
 }
