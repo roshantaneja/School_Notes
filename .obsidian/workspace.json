@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46693ecbd848e1dc",
+        "id": "5f87db1563eca316",
         "type": "tabs",
         "children": [
           {
-            "id": "620c3ee359a01547",
+            "id": "abb524b55395572b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf"
+                "file": "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf"
+                "file": "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
           },
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -114,17 +115,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad48e22834763be0",
+  "active": "abb524b55395572b",
   "lastOpenFiles": [
-    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
-    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
-    "conflict-files-obsidian-git.md",
+    "History/Research Project/Research Project Canvas Board.canvas",
+    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Outline.md",
+    "History/Research Project/Part 1.md",
+    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Asteroids.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
-    "History/Research Project/Part 1.md",
     "Untitled.md",
     "History/Research Project/Pt 3.md",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
