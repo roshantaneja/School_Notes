@@ -15,7 +15,7 @@ II. Historical context
     -   The potential for proprietary technologies to fragment the web and make it more difficult to access information
 
 III. Berners-Lee's motivations for royalty-free technology
-
+ 
 -   Examination of Berners-Lee's beliefs and values regarding the web and its potential
     -   Berners-Lee's vision for a decentralized and open web that is accessible to all
     -   Berners-Lee's belief in the power of collaboration and the importance of community in the development of the web

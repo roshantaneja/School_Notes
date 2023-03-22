@@ -11,9 +11,12 @@
             "id": "abb524b55395572b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
+                "file": "History/Research Project/Outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
+                "file": "History/Research Project/Outline.md"
               }
             }
           },
@@ -117,6 +120,8 @@
   },
   "active": "abb524b55395572b",
   "lastOpenFiles": [
+    "History/Research Project/Tim Berners-Lee Wikipedia.md",
+    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
@@ -126,10 +131,8 @@
     "conflict-files-obsidian-git.md",
     "Computer Science/Asteroids.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
-    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "Untitled.md",
     "History/Research Project/Pt 3.md",
-    "History/Research Project/Tim Berners-Lee Wikipedia.md",
     "History/Research Project/Source Documents.md",
     "History/Research Project/Source Documents",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
