@@ -4,97 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4634bb4d896f98c3",
+        "id": "d93b08382084f332",
         "type": "tabs",
         "children": [
           {
-            "id": "99223ab89ac87d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "055e9291ec4577e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f470508cefce63b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "80a71a4441fe1b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "be7b7540117af401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "037254b360d81d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "78bf23e795b44c5a",
+            "id": "62696f07c821cf75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Asteroids.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,39 +118,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "78bf23e795b44c5a",
+  "active": "62696f07c821cf75",
   "lastOpenFiles": [
-    "History/Research Project/Research Project Canvas Board.canvas",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
-    "Computer Science/Asteroids.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
-    "conflict-files-obsidian-git.md",
+    "English/Unit 2/Podcast Prep/Beatsheet.md",
+    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
+    "English/Unit 2/The Great Gatsby/Journal Ch 1.md",
+    "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
+    "English/Unit 2/The Great Gatsby/Journal ch 5.md",
+    "English/Essay/The great gatsby.md",
+    "History/Research Project/Research Project Canvas Board.canvas",
+    "History/Research Project/Outline.md",
+    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
-    "History/Research Project/Source Documents",
     "History/Research Project/Pt 3.md",
     "History/Research Project/Part 1.md",
-    "History/Research Project/Outline.md",
+    "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
-    "History/Unit 3/Cold War prompt.md",
-    "Untitled.canvas",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
-    "English/Essay/The great gatsby.md",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
+    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+    "History/Research Project/Source Documents",
+    "Untitled.canvas",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Gospels of christ.md",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Gospel Authorship.md",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/CW World of Jesus.md",
-    "English/Essay",
-    "English/Unit 2/The Great Gatsby/Journal ch 5.md",
-    "English/Unit 2/The Great Gatsby/Journal Ch 4.md",
-    "English/Unit 2/Podcast Prep/Notes for Podcast.md",
-    "English/Unit 2/Podcast Prep/Beatsheet.md"
+    "English/Essay"
   ]
 }
