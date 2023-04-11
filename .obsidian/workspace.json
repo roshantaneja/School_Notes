@@ -11,14 +11,12 @@
             "id": "abb524b55395572b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "History/Research Project/Research Project Canvas Board.canvas",
-                "viewState": {
-                  "x": 213.08163396993538,
-                  "y": -460.616276451953,
-                  "zoom": -1.3445266468591832
-                }
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -72,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -89,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf"
+                "file": "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md"
               }
             }
           },
@@ -122,9 +119,11 @@
   },
   "active": "abb524b55395572b",
   "lastOpenFiles": [
+    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "College Couseling/2-2-2023 College Counseling.md",
+    "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/rough draft.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
@@ -138,7 +137,6 @@
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/Outline.md",
     "History/Research Project/Tim Berners-Lee Wikipedia.md",
-    "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "conflict-files-obsidian-git.md",
@@ -152,7 +150,6 @@
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Gospels of christ.md",
     "English/Essay"
   ]
 }
