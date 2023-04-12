@@ -143,8 +143,6 @@ Your Research Citation:  
 2.  1930 and 1950?  _________
     
 
-  
-
 5.  What is the approximate average rate of increase in sea level rise between 1970 and 2000?   ________________
     
 6.  By how many millimeters did the sea level rise between the first measurement obtained in January 1993 and the first measurement obtained in January 2013?
