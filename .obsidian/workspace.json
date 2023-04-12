@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -173,8 +174,9 @@
   },
   "active": "93c3c16f95af227e",
   "lastOpenFiles": [
-    "Computer Science/Testing Latex.md",
+    "English/Unit 2/The Great Gatsby/Journal Ch 1.md",
     "Precalc BC Honours/CH 2 Calc/Hw 23.md",
+    "Computer Science/Testing Latex.md",
     "Precalc BC Honours/CH 2 Calc",
     "Precalc BC Honours",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
@@ -201,7 +203,6 @@
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
