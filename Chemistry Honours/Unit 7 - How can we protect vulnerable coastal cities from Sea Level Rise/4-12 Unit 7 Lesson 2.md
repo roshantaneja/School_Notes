@@ -70,7 +70,7 @@ the freshwater will mix with the saltwater in the ocean, rendering it unusable.
 |                                   | SEA ICE | LAND ICE |
 | --------------------------------- | ------- | -------- |
 | Initial Volume, Vi                | 79.5 mL | 71.0 mL  |
-| Final Volume, Vf                  |         |          | 
+| Final Volume, Vf                  | 79.5 mL |          |
 | Change in Volume, dV              |         |          |
 | Observations of Melted Blue Water |         |          |
 
@@ -224,30 +224,12 @@ DATA TABLE PART 2: VOLUME OF HEATED WATER
 | 9       | 45 C                | 2.10 mL                |
 | 10      | 51 C                | 2.55 mL                | 
 
-  
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+```chart
+	type: ""
+	Labels: ""
+```
   
 
 4.  Create a scatterplot graph with a trendline where you compare volume and temperature where temperature is your independent variable.  Make sure your graph has a title and axes are labeled with the correct unit. (insert below)
