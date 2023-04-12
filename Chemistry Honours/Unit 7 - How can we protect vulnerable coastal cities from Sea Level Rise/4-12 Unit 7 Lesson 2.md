@@ -90,22 +90,12 @@ There are two types of ice in the cryosphere: land ice and sea ice. Land ice is 
   
   
 
-Land ice in Greenland
+| Land ice in Greenland                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Sea Ice: Arctic (top) & Antarctica (bottom)                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![A new NASA-funded study has identified which glaciers in West Greenland are most susceptible to thinning in the coming decades by analyzing how they’re shaped. The research could help predict how much the Greenland Ice Sheet will contribute to future sea level rise in the next century, a number that currently ranges from inches to feet. “There are glaciers that popped up in our study that flew under the radar until now,” said lead author Denis Felikson, a graduate research assistant at The University of Texas Institute for Geophysics (UTIG) and a Ph.D. student in The University of Texas Department of Aerospace Engineering and Engineering Mechanics. Felikson’s study was published in Nature Geoscience on April 17. Read more: <a href="https://go.nasa.gov/2pJJwNA" rel="nofollow">go.nasa.gov/2pJJwNA</a> Caption: Terminus of Kangerlugssuup Sermerssua glacier in west Greenland Photo credit: Denis Felikson, Univ. of Texas <b><a href="http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html" rel="nofollow">NASA image use policy.</a></b> <b><a href="http://www.nasa.gov/centers/goddard/home/index.html" rel="nofollow">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission. <b>Follow us on <a href="http://twitter.com/NASAGoddardPix" rel="nofollow">Twitter</a></b> <b>Like us on <a href="http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd" rel="nofollow">Facebook</a></b> <b>Find us on <a href="http://instagrid.me/nasagoddard/?vm=grid" rel="nofollow">Instagram</a></b>](https://lh5.googleusercontent.com/wNDDhz20W0145araVk8hTqNJJj9Rpw2qKD7pepPW4Pt06aO7gyY8iyJUgaDl8AUAN-Pkp25gpae65oh73fqlxbzp0MntDq0JNVun6O7bufdYEcKsjKcbOgf1X6TxW3H3zlF0ksw_bbK4DuGZ1fD7iQ) | ![](https://lh4.googleusercontent.com/o2l95UQIcQqEmZXVFSysxXUVR-gYSZwvsUE5WxMO4m9OAURP9Bgiu1UsdbimPyrLfPexg8aantFHURBDJjQyDC7Ykyew0WLe66fqJTTw-FzMpk_fO2YXgIlAq61ZIi_Fq5iWIBHEzRZq79S3fNl4pA) | 
 
-Sea Ice: Arctic (top) & Antarctica (bottom)
 
-![A new NASA-funded study has identified which glaciers in West Greenland are most susceptible to thinning in the coming decades by analyzing how they’re shaped. The research could help predict how much the Greenland Ice Sheet will contribute to future sea level rise in the next century, a number that currently ranges from inches to feet.
-“There are glaciers that popped up in our study that flew under the radar until now,” said lead author Denis Felikson, a graduate research assistant at The University of Texas Institute for Geophysics (UTIG) and a Ph.D. student in The University of Texas Department of Aerospace Engineering and Engineering Mechanics. Felikson’s study was published in Nature Geoscience on April 17.
-Read more: <a href="https://go.nasa.gov/2pJJwNA" rel="nofollow">go.nasa.gov/2pJJwNA</a>
-Caption: Terminus of Kangerlugssuup Sermerssua glacier in west Greenland
-Photo credit: Denis Felikson, Univ. of Texas
-<b><a href="http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html" rel="nofollow">NASA image use policy.</a></b>
-<b><a href="http://www.nasa.gov/centers/goddard/home/index.html" rel="nofollow">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission.
-<b>Follow us on <a href="http://twitter.com/NASAGoddardPix" rel="nofollow">Twitter</a></b>
-<b>Like us on <a href="http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd" rel="nofollow">Facebook</a></b>
-<b>Find us on <a href="http://instagrid.me/nasagoddard/?vm=grid" rel="nofollow">Instagram</a></b>](https://lh5.googleusercontent.com/wNDDhz20W0145araVk8hTqNJJj9Rpw2qKD7pepPW4Pt06aO7gyY8iyJUgaDl8AUAN-Pkp25gpae65oh73fqlxbzp0MntDq0JNVun6O7bufdYEcKsjKcbOgf1X6TxW3H3zlF0ksw_bbK4DuGZ1fD7iQ)
 
-![](https://lh4.googleusercontent.com/o2l95UQIcQqEmZXVFSysxXUVR-gYSZwvsUE5WxMO4m9OAURP9Bgiu1UsdbimPyrLfPexg8aantFHURBDJjQyDC7Ykyew0WLe66fqJTTw-FzMpk_fO2YXgIlAq61ZIi_Fq5iWIBHEzRZq79S3fNl4pA)
 
   
 
@@ -331,25 +321,24 @@ Use the equation:  % error = expermental value - actual valueactual value x 100
 
   
 
-6.  # Part 3 - Analysis Questions
-    
+# Part 3 - Analysis Questions
 
-1.  # Consider the water in the Erlenmeyer flask, what was held constant - mass, volume, number of particles, density? 
-    
-
-  
-
-2.  # What was the total change in volume in pipette?
+1.  Consider the water in the Erlenmeyer flask, what was held constant - mass, volume, number of particles, density? 
     
 
   
 
-3.  # What was the total change in temperature?
+2.  What was the total change in volume in pipette?
     
 
   
 
-4.  # What is the relationship between volume and temperature in this experiment?
+3.  What was the total change in temperature?
+    
+
+  
+
+4.  What is the relationship between volume and temperature in this experiment?
     
 
   
@@ -359,7 +348,7 @@ Use the equation:  % error = expermental value - actual valueactual value x 100
 
   
 
-6.  # This experiment shows thermal expansion of water.  We draw water molecule showing covalent bonds and lone pairs the same way whether water is a solid, liquid or gas.  The structure of the molecules do not change.  What is happening when water molecules are heated to result in this expansion of volume?![How is water represented using a Lewis dot diagram? | Socratic](https://lh4.googleusercontent.com/GA4er6qmrQNtOY7O3UyA2myJ5EYIcPQ7lQFIOTJq6obSrou_akncOwrJMaNlG3sjV3LjFjITCm_XjlRViRAumy-NYc6zl6Xm9jeQLOnuo0ZbWe1MIlvOlsHLjhrm7DTk7QcSbQhLtLjnV5wRQ6gpFA)
+6.  This experiment shows thermal expansion of water.  We draw water molecule showing covalent bonds and lone pairs the same way whether water is a solid, liquid or gas.  The structure of the molecules do not change.  What is happening when water molecules are heated to result in this expansion of volume?![How is water represented using a Lewis dot diagram? | Socratic](https://lh4.googleusercontent.com/GA4er6qmrQNtOY7O3UyA2myJ5EYIcPQ7lQFIOTJq6obSrou_akncOwrJMaNlG3sjV3LjFjITCm_XjlRViRAumy-NYc6zl6Xm9jeQLOnuo0ZbWe1MIlvOlsHLjhrm7DTk7QcSbQhLtLjnV5wRQ6gpFA)
     
 
   
