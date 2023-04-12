@@ -99,8 +99,6 @@ Your Research Citation:  
 6.  Come to consensus in your group about what you think is happening to all the people in the videos or articles. 
     
 
-  
-  
 
 7.  Why are these people often called Climate migrants or climate refugees? 
     
