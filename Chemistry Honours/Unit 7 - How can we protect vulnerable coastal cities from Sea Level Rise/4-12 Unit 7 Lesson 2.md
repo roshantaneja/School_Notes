@@ -211,11 +211,18 @@ PROCEDURE:
 
 DATA TABLE PART 2: VOLUME OF HEATED WATER
 
-Readings
-
-Temperature (oC), T
-
-Pipette Volume (mL), V
+| Reading | Temperature (oC), T | Pipette Volume (mL), V |
+| ------- | ------------------- | ---------------------- |
+| 1       | 22 C                | 1.30 mL                |
+| 2       | 25 C                | 1.35 mL                |
+| 3       | 28 C                | 1.40 mL                |
+| 4       | 30 C                | 1.45 mL                |
+| 5       | 32 C                | 1.50 mL                |
+| 6       | 36 C                | 1.60 mL                |
+| 7       | 38 C                | 1.65 mL                |
+| 8       | 41 C                | 1.90 mL                |
+| 9       | 45 C                | 2.10 mL                |
+| 10      |                     |                        |
 
   
 
