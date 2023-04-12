@@ -211,22 +211,51 @@ PROCEDURE:
 
 DATA TABLE PART 2: VOLUME OF HEATED WATER
 
-| Reading | Temperature (oC), T | Pipette Volume (mL), V |
-| ------- | ------------------- | ---------------------- |
-| 1       | 22 C                | 1.30 mL                |
-| 2       | 25 C                | 1.35 mL                |
-| 3       | 28 C                | 1.40 mL                |
-| 4       | 30 C                | 1.45 mL                |
-| 5       | 32 C                | 1.50 mL                |
-| 6       | 36 C                | 1.60 mL                |
-| 7       | 38 C                | 1.65 mL                |
-| 8       | 41 C                | 1.90 mL                |
-| 9       | 45 C                | 2.10 mL                |
-| 10      | 51 C                | 2.55 mL                | 
+| Temperature (oC), T | Pipette Volume (mL), V |
+| ------------------- | ---------------------- |
+| 22 C                | 1.30 mL                |
+| 25 C                | 1.35 mL                |
+| 28 C                | 1.40 mL                |
+| 30 C                | 1.45 mL                |
+| 32 C                | 1.50 mL                |
+| 36 C                | 1.60 mL                |
+| 38 C                | 1.65 mL                |
+| 41 C                | 1.90 mL                |
+| 45 C                | 2.10 mL                |
+| 51 C                | 2.55 mL                |
+^volHeatedWater
 
+```chart
+type: line
+id: volHeatedWater
+layout: rows
+tension: 0.59
+width: 100%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: true
+bestFitTitle: trend
+bestFitNumber: 1
+```
+
+```chart
+type: line
+labels: [22, 25, 28, 31, 33, 35, 37]
+series:
+  - title: 
+    data: [1.1, 1.5, 1.3, 1.2, 1.8, 2.1]
+tension: 0.59
+width: 100%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: true
+bestFitTitle: Best Fit
+bestFitNumber: 1
+```
 
 ![[Chart Wed Apr 12 2023.png]]
-  
 
 4.  Create a scatterplot graph with a trendline where you compare volume and temperature where temperature is your independent variable.  Make sure your graph has a title and axes are labeled with the correct unit. (insert below)
     
