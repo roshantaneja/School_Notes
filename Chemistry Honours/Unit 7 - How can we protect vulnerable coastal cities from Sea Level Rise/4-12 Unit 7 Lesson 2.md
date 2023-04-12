@@ -71,7 +71,7 @@ the freshwater will mix with the saltwater in the ocean, rendering it unusable.
 | --------------------------------- | ------- | -------- |
 | Initial Volume, Vi                |         |          |
 | Final Volume, Vf                  |         |          |
-| Change in Volume, ᐃV              |         |          |
+| Change in Volume, dV              |         |          |
 | Observations of Melted Blue Water |         |          |
 
   
