@@ -225,7 +225,7 @@ DATA TABLE PART 2: VOLUME OF HEATED WATER
 | 10      | 51 C                | 2.55 mL                | 
 
 
-
+![[Chart Wed Apr 12 2023.png]]
   
 
 4.  Create a scatterplot graph with a trendline where you compare volume and temperature where temperature is your independent variable.  Make sure your graph has a title and axes are labeled with the correct unit. (insert below)
