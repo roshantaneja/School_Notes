@@ -58,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "93c3c16f95af227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precalc BC Honours/CH 2 Calc/Hw 23.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Testing Latex.md"
+                "file": "Precalc BC Honours/CH 2 Calc/Hw 23.md"
               }
             }
           },
@@ -158,10 +171,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2e9ec235ccc9ddab",
+  "active": "93c3c16f95af227e",
   "lastOpenFiles": [
-    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Computer Science/Testing Latex.md",
+    "Precalc BC Honours/CH 2 Calc/Hw 23.md",
+    "Precalc BC Honours/CH 2 Calc",
+    "Precalc BC Honours",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Chart Wed Apr 12 2023.png",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
@@ -186,7 +202,6 @@
     "Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
-    "Chemistry Honours/Unit 5 - Properties of Elements/1-6 - Unit 5 Lesson 1.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
