@@ -222,7 +222,7 @@ DATA TABLE PART 2: VOLUME OF HEATED WATER
 | 7       | 38 C                | 1.65 mL                |
 | 8       | 41 C                | 1.90 mL                |
 | 9       | 45 C                | 2.10 mL                |
-| 10      |                     |                        |
+| 10      | 51 C                | 2.55 mL                | 
 
   
 
