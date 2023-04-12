@@ -69,8 +69,8 @@ the freshwater will mix with the saltwater in the ocean, rendering it unusable.
 
 |                                   | SEA ICE | LAND ICE |
 | --------------------------------- | ------- | -------- |
-| Initial Volume, Vi                |         |          |
-| Final Volume, Vf                  |         |          |
+| Initial Volume, Vi                | 79.5 mL | 71.0 mL  |
+| Final Volume, Vf                  |         |          | 
 | Change in Volume, dV              |         |          |
 | Observations of Melted Blue Water |         |          |
 
