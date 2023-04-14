@@ -339,7 +339,7 @@ Use the equation:  % error = expermental value - actual valueactual value x 100
 
 1.  Consider the water in the Erlenmeyer flask, what was held constant - mass, volume, number of particles, density? 
     
-
+number of particles
   
 
 2.  What was the total change in volume in pipette?
@@ -362,13 +362,15 @@ Use the equation:  % error = expermental value - actual valueactual value x 100
 
   
 
-6.  This experiment shows thermal expansion of water.  We draw water molecule showing covalent bonds and lone pairs the same way whether water is a solid, liquid or gas.  The structure of the molecules do not change.  What is happening when water molecules are heated to result in this expansion of volume?![How is water represented using a Lewis dot diagram? | Socratic](https://lh4.googleusercontent.com/GA4er6qmrQNtOY7O3UyA2myJ5EYIcPQ7lQFIOTJq6obSrou_akncOwrJMaNlG3sjV3LjFjITCm_XjlRViRAumy-NYc6zl6Xm9jeQLOnuo0ZbWe1MIlvOlsHLjhrm7DTk7QcSbQhLtLjnV5wRQ6gpFA)
+6.  This experiment shows thermal expansion of water.  We draw water molecule showing covalent bonds and lone pairs the same way whether water is a solid, liquid or gas.  The structure of the molecules do not change.  What is happening when water molecules are heated to result in this expansion of volume?
+
+![How is water represented using a Lewis dot diagram? | Socratic](https://lh4.googleusercontent.com/GA4er6qmrQNtOY7O3UyA2myJ5EYIcPQ7lQFIOTJq6obSrou_akncOwrJMaNlG3sjV3LjFjITCm_XjlRViRAumy-NYc6zl6Xm9jeQLOnuo0ZbWe1MIlvOlsHLjhrm7DTk7QcSbQhLtLjnV5wRQ6gpFA)
     
 
   
   
 
-7.  # Using your knowledge of the structure of water molecules, draw a model of 5 water molecules at room temperature and water at a warmer temperature. 
+7.  Using your knowledge of the structure of water molecules, draw a model of 5 water molecules at room temperature and water at a warmer temperature. 
     
 
 Model of 5 Water Molecules at room temperature
@@ -384,7 +386,7 @@ Model of 5 Water Molecules at higher temperature
 
 # Concluding Thoughts: 
 
-7.  # Melting land ice accounts for 40% of the rising sea level.  Thermal expansion of water accounts for 60% of the rising sea level.  In your own words, why is there an increase in the sea level? 
+7.  Melting land ice accounts for 40% of the rising sea level.  Thermal expansion of water accounts for 60% of the rising sea level.  In your own words, why is there an increase in the sea level? 
     
 
   
