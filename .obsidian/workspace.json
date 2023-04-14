@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "3d20d18adcd7b209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dec0ab2feef9218a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 4 - Combustion/README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d6ce66e11bcda20c",
             "type": "leaf",
             "state": {
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Asteroids.md"
+                "file": "Chemistry Honours/Unit 4 - Combustion/README.md"
               }
             }
           },
@@ -130,8 +157,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a64fc0ab6fdd8ff5",
+  "active": "dec0ab2feef9218a",
   "lastOpenFiles": [
+    "Chemistry Honours/README.md",
+    "Chemistry Honours/Unit 4 - Combustion/README.md",
+    "Computer Science/Asteroids.md",
     "Computer Science/Testing Latex.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Precalc BC Honours/CH 2 Calc/Hw 23.md",
@@ -164,8 +194,6 @@
     "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
     "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
-    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
