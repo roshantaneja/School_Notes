@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Research Project/pt 4.md",
+                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46a908b0087eaed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5110321044922,
-    "collapsed": true
+    "width": 310.5110321044922
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Research Project/pt 4.md"
+                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
               }
             }
           },
@@ -121,10 +134,13 @@
       "publish:Publish changes": false
     }
   },
-  "active": "3d21c8d11ccb31ce",
+  "active": "46a908b0087eaed9",
   "lastOpenFiles": [
-    "History/Research Project/pt 4.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "Chemistry Honours/README.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
+    "History/Research Project/pt 4.md",
     "Chemistry Honours/Unit 4 - Combustion.md",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
@@ -136,7 +152,6 @@
     "README.md",
     "Computer Science/Asteroids.md",
     "Computer Science/Testing Latex.md",
-    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Precalc BC Honours/CH 2 Calc/Hw 23.md",
     "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger_published_as_St._Albans_Messenger___March_26_1997__p20 1.pdf",
@@ -152,13 +167,11 @@
     "English/Unit 2/The Great Gatsby/Journal Ch 1.md",
     "Precalc BC Honours/CH 2 Calc",
     "Precalc BC Honours",
-    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents",
