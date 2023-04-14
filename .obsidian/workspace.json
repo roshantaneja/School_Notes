@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -103,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,7 +119,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad48e22834763be0",
+  "active": "3d21c8d11ccb31ce",
   "lastOpenFiles": [
     "simple mafs.md",
     "English/Unit 2/Short Story.md",
