@@ -11,9 +11,8 @@ Source 1:  Paula Ancona, Looking for a Job? Use your computer, Tuesday, December
 
 Context: List several facts about the source that you’d want to include in your writing -- what IS the source? who produced it? what was happening at the time? what’s the purpose of the source? etc.
 
-  
-  
-  
+	This article was created as an effort to get people interested in the business aspect of the internet. It shows that through electronic-mail and resume servers, its possible to get hired to positions that others (who dont use the internet) wouldnt be able to get into.
+	It also says that other tools like software, fax machines, and cellular telephones will help organize and complete standard job-hunting tasks more efficently than traditional methods.
 
 Main Ideas. Explain in your own words some of the main ideas of the source. Explain in 1-2 sentences how it answers your research question. 
 
@@ -57,8 +56,7 @@ Source 3:  Author, Title, Date. 
 
 Context: List several facts about the source that you’d want to include in your writing -- what IS the source? who produced it? what was happening at the time? what’s the purpose of the source? etc.
 
-  
-  
+
   
 
 Main Ideas. Explain in your own words some of the main ideas of the source. Explain in 1-2 sentences how it answers your research question. 
