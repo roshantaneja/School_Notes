@@ -154,39 +154,53 @@ DATA VISUALIZATION 
 
 1.  Plot the time-temperature data for your investigation with time on the horizontal axis and temperature on the vertical axis.  Label your axes, and arrange the scales so the graph nearly fills the space available. 
     
-| Time (min) | Temp ($\textdegree C$) | Observations |
-| ---------- | ---------------------- | ------------ |
-| 1          |                        |              |
-| 2          |                        |              |
-| 3          |                        |              |
-| 4          |                        |              |
-| 5          |                        |              |
-| 6          |                        |              |
-| 7          |                        |              |
-| 8          |                        |              |
-| 9          |                        |              |
-| 10         |                        |              |
-| 11         |                        |              |
-| 12         |                        |              |
-| 13         |                        |              |
-| 14         |                        |              |
-| 15         |                        |              |
-| 16         |                        |              |
-| 17         |                        |              |
-| 18         |                        |              |
-| 19         |                        |              |
-| 20         |                        |              |
-| 21         |                        |              |
-| 22         |                        |              |
-| 23         |                        |              |
-| 24         |                        |              |
-| 25         |                        |              |
-| 26         |                        |              |
-| 27         |                        |              |
-| 28         |                        |              |
-| 29         |                        |              |
-| 30         |                        |              |
-  
+| Time (min) | Temp ($\textdegree C$) |
+| ---------- | ---------------------- |
+| 1          | -3                     |
+| 2          | -3.5                   |
+| 3          | -4                     |
+| 4          | -4                     |
+| 5          | -3                     |
+| 6          | -2                     |
+| 7          | -2                     | 
+| 8          |                        |
+| 9          |                        |
+| 10         |                        |
+| 11         |                        |
+| 12         |                        |
+| 13         |                        |
+| 14         |                        |
+| 15         |                        |
+| 16         |                        |
+| 17         |                        |
+| 18         |                        |
+| 19         |                        |
+| 20         |                        |
+| 22         |                        |
+| 23         |                        |
+| 24         |                        |
+| 25         |                        |
+| 26         |                        |
+| 27         |                        |
+| 28         |                        |
+| 29         |                        |
+| 30         |                        |
+^temps
+
+```chart
+type: line
+id: temps
+layout:rows
+tension: 0.2
+width: 80%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: true
+bestFitTitle: undefined
+bestFitNumber: 0
+```
+
 
 HEATING CURVE OF WATER
 
