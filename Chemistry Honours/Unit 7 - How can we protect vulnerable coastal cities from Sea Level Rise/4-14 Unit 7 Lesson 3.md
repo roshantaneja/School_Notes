@@ -137,16 +137,13 @@ PROCEDURE:
     
 15.  Clean up your lab area, return your goggles and apron. Wash your hands.
     
-
-  
-  
   
 
-| DATA TABLE 1: Mass of Ice   |     |
-| --------------------------- | --- |
-| Mass of 100-mL Beaker       |     |
-| Mass of 100-mL Beaker + ice |     |
-| Calculated Mass of ice      |     |
+| DATA TABLE 1: Mass of Ice   |        |
+| --------------------------- | ------ |
+| Mass of 100-mL Beaker       | 66.4   |
+| Mass of 100-mL Beaker + ice | 140.42 | 
+| Calculated Mass of ice      |  74.02      |
 
 
 DATA TABLE 2: Heating of Water
