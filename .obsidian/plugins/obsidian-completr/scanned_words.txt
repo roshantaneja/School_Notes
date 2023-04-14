@@ -4,6 +4,7 @@ How
 Hot
 HEATED
 Hint
+Honours
 Lesson
 Label
 LAND
@@ -18,6 +19,7 @@ While
 What
 WATER
 We
+Welcome
 is
 increase
 in
@@ -361,6 +363,7 @@ Clean
 Create
 Consider
 Concluding
+Chemistry
 Using
 Use
 Stir
