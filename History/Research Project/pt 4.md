@@ -17,7 +17,8 @@ Context: List several facts about the source that you’d want to include in you
 Main Ideas. Explain in your own words some of the main ideas of the source. Explain in 1-2 sentences how it answers your research question. 
 
   
-  
+	  - The internet can be a place for business opportunities as well, not only a place for researchers.
+	  - The internet provided many people with tools that 
   
 
 Powerful Language + IN-TEXT CITATIONS. Drop in any direct quotes that you might want to include in your paper. It’s probably best to include too much, rather than too little, at this point. Put quotation marks around the quotes, and include the in-text citations. 
