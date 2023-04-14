@@ -13,8 +13,21 @@ Water can change in volume by a lot because there's a lot of water in the ocean?
 2.  In this lesson, we will investigate the energy it takes to melt a glacier. How would you model this process in the chemistry lab?  What supplies and materials would you need? 
 
 
-  
-  
+$$
+\begin{equation*}
+
+q = m c \Delta T
+
+,
+
+c = specific heat capacity
+
+,
+
+m = mass
+\end{equation*}
+$$
+	  
 
 3.  # In the boxes below, 
     
@@ -26,22 +39,21 @@ Water can change in volume by a lot because there's a lot of water in the ocean?
 
 4. List all of the phase change processes that involve the transfer of heat energy.
 
-  
-  
+| *Solid* | =>  | melting  | =>  | *Liquid* | =>  | boiling    | =>  | *Gas* |
+| ------- | --- | -------- | --- | -------- | --- | ---------- | --- | ----- |
+| *Solid* | <=  | freezing | <=  | *Liquid* | <=  | condensing | <=  | *Gas* |
   
 
 5. If the water molecules are the ‘system’, list the phase change processes that involve heat energy being transferred into or added to the system.
 
   
-  
+  Melting
   
 
 6. If the water molecules are the ‘system’, list the phase change processes that involve heat energy being transferred out of or released from the system
 
   
-  
-  
-
+  Freezing
   
 
 Investigation: What happens when heat is added to ice?
@@ -75,7 +87,13 @@ Read the lab procedures below and answer the following question.
 
 7. What will your graph look like? Circle the sketch that fits with your idea of what will happen.Hint: Time is the independent variable(x-axis), Temperature is the dependent variable (y axis)
 
-  
+```
+...../
+........./
+......../
+_______/
+```
+
   
 
 8.  Why did you choose this graph?  How will it relate to your measurements? 
@@ -139,23 +157,38 @@ DATA VISUALIZATION 
 
 1.  Plot the time-temperature data for your investigation with time on the horizontal axis and temperature on the vertical axis.  Label your axes, and arrange the scales so the graph nearly fills the space available. 
     
-| Time (min) | Temp (oC) | Observations | Time (min) | Temp (oC) | Observations |
-| ---------- | --------- | ------------ | ---------- | --------- | ------------ |
-| 1          |           |              | 16         |           |              |
-| 2          |           |              | 17         |           |              |
-| 3          |           |              | 18         |           |              |
-| 4          |           |              | 19         |           |              |
-| 5          |           |              | 20         |           |              |
-| 6          |           |              | 21         |           |              |
-| 7          |           |              | 22         |           |              |
-| 8          |           |              | 23         |           |              |
-| 9          |           |              | 24         |           |              |
-| 10         |           |              | 25         |           |              |
-| 11         |           |              | 26         |           |              |
-| 12         |           |              | 27         |           |              |
-| 13         |           |              | 28         |           |              |
-| 14         |           |              | 29         |           |              |
-| 15         |           |              | 30         |           |              |
+| Time (min) | Temp ($\textdegree C$) | Observations |
+| ---------- | ---------------------- | ------------ |
+| 1          |                        |              |
+| 2          |                        |              |
+| 3          |                        |              |
+| 4          |                        |              |
+| 5          |                        |              |
+| 6          |                        |              |
+| 7          |                        |              |
+| 8          |                        |              |
+| 9          |                        |              |
+| 10         |                        |              |
+| 11         |                        |              |
+| 12         |                        |              |
+| 13         |                        |              |
+| 14         |                        |              |
+| 15         |                        |              |
+| 16         |                        |              |
+| 17         |                        |              |
+| 18         |                        |              |
+| 19         |                        |              |
+| 20         |                        |              |
+| 21         |                        |              |
+| 22         |                        |              |
+| 23         |                        |              |
+| 24         |                        |              |
+| 25         |                        |              |
+| 26         |                        |              |
+| 27         |                        |              |
+| 28         |                        |              |
+| 29         |                        |              |
+| 30         |                        |              |
   
 
 HEATING CURVE OF WATER
