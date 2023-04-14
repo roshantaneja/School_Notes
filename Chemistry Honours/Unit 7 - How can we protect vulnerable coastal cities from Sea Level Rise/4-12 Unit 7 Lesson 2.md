@@ -269,43 +269,7 @@ $error = \frac{30.16 - }{}$
 4.  What can you account for the experiment error?  (Hint- Please do not use human error as your explanation.  Think about the error that is intrinsic to the lab setup).
     
 
-  
-  
-  
-
-5.  Part 1 - Analysis Questions
-    
-
-1.  What evidence did you gather to support or revoke your claim?
-    
-
-  
-
-2.  What is the reasoning behind the evidence that you gathered?
-    
-3.  Calculate the density of ocean water and saltwater.
-    
-
-1.  For a 50 mL volume of ocean water, the mass is 51.3 g.  What is the density of ocean water?
-    
-
-  
-  
-
-2.  For a 50.0 mL volume of freshwater, the mass is 50.0 g.  What is the density of freshwater?
-    
-
-  
-  
-
-4.  Explain the reason for the position of the melted blue water in the graduated cylinder.
-    
-
-  
-  
-
-5.  What happens in the ocean to mix melted freshwater? 
-    
+	we didnt use pure water, instead we used tap water which can vary in expansion cooeficients. our Erlenmeyer flask may have not been perfectly watertight, resulting in incorrect results
 
   
 
@@ -323,33 +287,33 @@ number of particles
 
 3.  What was the total change in temperature?
     
-
+29 C
   
 
 4.  What is the relationship between volume and temperature in this experiment?
     
-
+direct
   
 
 5.  Is the density of water always 1g/mL? Support your answer with evidence.
     
-
-  
+no, due to variances in temperature, water is not always 1g/mL
 
 6.  This experiment shows thermal expansion of water.  We draw water molecule showing covalent bonds and lone pairs the same way whether water is a solid, liquid or gas.  The structure of the molecules do not change.  What is happening when water molecules are heated to result in this expansion of volume?
 
 ![How is water represented using a Lewis dot diagram? | Socratic](https://lh4.googleusercontent.com/GA4er6qmrQNtOY7O3UyA2myJ5EYIcPQ7lQFIOTJq6obSrou_akncOwrJMaNlG3sjV3LjFjITCm_XjlRViRAumy-NYc6zl6Xm9jeQLOnuo0ZbWe1MIlvOlsHLjhrm7DTk7QcSbQhLtLjnV5wRQ6gpFA)
     
-
+the water molecules get farther apart because they are moving faster
   
   
 
 7.  Using your knowledge of the structure of water molecules, draw a model of 5 water molecules at room temperature and water at a warmer temperature. 
-    
 
-Model of 5 Water Molecules at room temperature
 
-Model of 5 Water Molecules at higher temperature
+
+| Model of 5 Water Molecules at room temperature | Model of 5 Water Molecules at higher temperature |
+| ---------------------------------------------- | ------------------------------------------------ |
+|                                                |                                                  |
 
   
 
