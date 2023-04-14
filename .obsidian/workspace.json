@@ -24,11 +24,17 @@
             "id": "a4af5235afb9ebaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "simple mafs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -94,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Unit 2/Short Story.md"
+                "file": "simple mafs.md"
               }
             }
           },
@@ -111,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,8 +133,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d21c8d11ccb31ce",
+  "active": "a4af5235afb9ebaf",
   "lastOpenFiles": [
+    "simple mafs.md",
     "English/Unit 2/Short Story.md",
     "README.md",
     "Chemistry Honours/Unit 4 - Combustion/README.md",
@@ -161,7 +170,6 @@
     "Chemistry Honours/Unit 4 - Combustion/11-18 - Unit 4 Lesson 6.md",
     "Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
-    "Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
