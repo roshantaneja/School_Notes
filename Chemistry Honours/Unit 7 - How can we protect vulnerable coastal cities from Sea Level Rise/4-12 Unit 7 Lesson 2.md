@@ -211,84 +211,58 @@ PROCEDURE:
 
 DATA TABLE PART 2: VOLUME OF HEATED WATER
 
-| Temperature (oC), T | Pipette Volume (mL), V |
-| ------------------- | ---------------------- |
-| 22 C                | 1.30 mL                |
-| 25 C                | 1.35 mL                |
-| 28 C                | 1.40 mL                |
-| 30 C                | 1.45 mL                |
-| 32 C                | 1.50 mL                |
-| 36 C                | 1.60 mL                |
-| 38 C                | 1.65 mL                |
-| 41 C                | 1.90 mL                |
-| 45 C                | 2.10 mL                |
-| 51 C                | 2.55 mL                |
+| Temperature (C), T | Pipette Volume (mL), V |
+| ------------------ | ---------------------- |
+| 22                 | 1.30                   |
+| 25                 | 1.35                   |
+| 28                 | 1.40                   |
+| 30                 | 1.45                   |
+| 32                 | 1.50                   |
+| 36                 | 1.60                   |
+| 38                 | 1.65                   |
+| 41                 | 1.90                   |
+| 45                 | 2.10                   |
+| 51                 | 2.55                   |
 ^volHeatedWater
 
-```chart
-type: line
-id: volHeatedWater
-layout: rows
-tension: 0.59
-width: 100%
-labelColors: false
-fill: false
-beginAtZero: false
-bestFit: true
-bestFitTitle: trend
-bestFitNumber: 1
-```
 
-```chart
-type: line
-labels: [22, 25, 28, 31, 33, 35, 37]
-series:
-  - title: 
-    data: [1.1, 1.5, 1.3, 1.2, 1.8, 2.1]
-tension: 0.59
-width: 100%
-labelColors: false
-fill: false
-beginAtZero: false
-bestFit: true
-bestFitTitle: Best Fit
-bestFitNumber: 1
-```
 
-![[Chart Wed Apr 12 2023.png]]
 
 4.  Create a scatterplot graph with a trendline where you compare volume and temperature where temperature is your independent variable.  Make sure your graph has a title and axes are labeled with the correct unit. (insert below)
     
 
-  
-  
-  
-  
-  
-  
-  
-  
+```chart
+type: line
+labels: [22,25,28,30,32,36,38,41,45,51]
+series:
+  - title: Pipette Volume (mL), V
+    data: [1.30,1.35,1.40,1.45,1.50,1.60,1.65,1.90,2.10,2.55]
+width: 80%
+beginAtZero: true
+bestFit: true
+bestFitTitle: Line of Best Fit
+bestFitNumber: 0
+```
 
 1.  What is the relationship (direct and inverse) between volume and temperature?  Explain using the data from the graph.  
-    
-
-  
-  
+Volume is directly related to temperature
   
 
 2.  Using the equation ΔV = βV0ΔT where your initial volume is 150 mL and using your data from above, calculate the thermal volume expansion coefficient, β.
     
 
-  
-  
-  
+$$\Delta v = 1.25$$
+$$\Delta t = 29$$
+$$1.25 = \beta * 1.30 * 29$$
+$$\beta = \frac{1.30*29}{1.25}$$
+$$\beta = 30.16$$
 
 3.  If the thermal volume expansion coefficient, β for water is 2.10 x 10-4 oC–1 at 20oC, then what is your experimental error?
     
 
 Use the equation:  % error = expermental value - actual valueactual value x 100
 
-  
+$error = \frac{30.16 - }{}$
   
   
 
@@ -344,7 +318,7 @@ number of particles
 
 2.  What was the total change in volume in pipette?
     
-
+0.4 mm
   
 
 3.  What was the total change in temperature?
