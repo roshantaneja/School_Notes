@@ -128,6 +128,7 @@ whether
 warmer
 words
 why
+ways
 Part
 PROCEDURE
 Place
@@ -177,6 +178,8 @@ constant
 covalent
 complete
 check
+could
+computer
 sea
 stating
 saltwater
@@ -209,6 +212,10 @@ showing
 same
 structure
 student
+so
+school
+sometimes
+someone
 level
 learned
 land
@@ -223,6 +230,8 @@ labeled
 lab
 lone
 lesson
+lmao
+laptop
 rise
 rendering
 read
@@ -239,6 +248,7 @@ reason
 result
 room
 rising
+repo
 From
 Funnel
 Final
@@ -246,6 +256,7 @@ Freshwater
 Flask
 Fill
 For
+Forgotten
 Edpuzzle
 Earth
 Erylenmeyer
@@ -277,6 +288,7 @@ hot
 human
 happening
 higher
+here
 freshwater
 for
 funnel
@@ -295,6 +307,10 @@ fresh
 fine
 flask
 first
+forget
+feel
+forgetting
+find
 melts
 model
 mix
@@ -312,12 +328,18 @@ materials
 mass
 molecule
 molecules
+made
+my
+motivated
+makes
+much
 unusable
 using
 up
 unit
 use
 understanding
+updating
 MATERIALS
 Make
 Mass
@@ -346,6 +368,7 @@ NaCl
 National
 NSIDC
 NEXT
+Notes
 graduated
 gas
 glaciers
@@ -353,6 +376,7 @@ glass
 graph
 gather
 gathered
+go
 Colored
 Cubes
 Cryosphere
@@ -365,6 +389,7 @@ Create
 Consider
 Concluding
 Chemistry
+Counter
 Using
 Use
 Stir
@@ -379,6 +404,7 @@ Support
 STEPS
 Schoology
 Ship
+School
 dissolve
 dV
 designation
@@ -391,6 +417,7 @@ do
 did
 density
 draw
+days
 each
 enter
 equation
@@ -403,12 +430,16 @@ expermental
 experiment
 explanation
 evidence
+easier
+elses
 You
 need
 nearly
 not
 notice
 number
+notes
+now
 pieces
 position
 percent
@@ -420,6 +451,8 @@ print
 particles
 pairs
 parts
+private
+phone
 Record
 Read
 Readings
@@ -463,5 +496,7 @@ Open
 Greenland
 kilometers
 knowledge
+keep
+know
 Questions
 java
