@@ -17,7 +17,25 @@
       }
     }
   ],
-  "altBar": [],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": "words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "characters",
+      "metric": {
+        "type": 2,
+        "counter": 1
+      }
+    }
+  ],
   "countComments": false,
-  "collectStats": false
+  "collectStats": false,
+  "pageWords": 300
 }

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47b3eda5463bc40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "3d21c8d11ccb31ce",
             "type": "leaf",
             "state": {
@@ -32,9 +19,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a4af5235afb9ebaf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +129,8 @@
   },
   "active": "3d21c8d11ccb31ce",
   "lastOpenFiles": [
-    "README.md",
     "English/Unit 2/Short Story.md",
+    "README.md",
     "Chemistry Honours/Unit 4 - Combustion/README.md",
     "Computer Science/Asteroids.md",
     "Chemistry Honours/README.md",
