@@ -87,19 +87,7 @@ Read the lab procedures below and answer the following question.
 
 7. What will your graph look like? Circle the sketch that fits with your idea of what will happen.Hint: Time is the independent variable(x-axis), Temperature is the dependent variable (y axis)
 
-```
-...../
-........./
-......../
-_______/
-```
-
-  
-
 8.  Why did you choose this graph?  How will it relate to your measurements? 
-
-  
-  
   
 
 PROCEDURE:
