@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5110321044922
+    "width": 310.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -116,14 +117,15 @@
       "webpage-html-export:Export Vault to HTML": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "publish:Publish changes": false
     }
   },
   "active": "3d21c8d11ccb31ce",
   "lastOpenFiles": [
+    "History/Research Project/pt 4.md",
     "Chemistry Honours/README.md",
     "Chemistry Honours/Unit 4 - Combustion.md",
-    "History/Research Project/pt 4.md",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",

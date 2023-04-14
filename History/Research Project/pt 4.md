@@ -18,7 +18,9 @@ Main Ideas. Explain in your own words some of the main ideas of the source. Expl
 
   
 	  - The internet can be a place for business opportunities as well, not only a place for researchers.
-	  - The internet provided many people with tools that 
+	  - The internet provided many people with tools that allowed them to communicate with people all over the world, through fax machines and email.
+	  - 
+	  - 
   
 
 Powerful Language + IN-TEXT CITATIONS. Drop in any direct quotes that you might want to include in your paper. It’s probably best to include too much, rather than too little, at this point. Put quotation marks around the quotes, and include the in-text citations. 

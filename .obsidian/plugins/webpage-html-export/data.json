@@ -3,7 +3,7 @@
   "inlineJS": true,
   "inlineImages": true,
   "makeNamesWebStyle": true,
-  "includePluginCSS": "obsidian-git\nobsidian-focus-mode\nquick-latex\nobsidian-latex-suite\nobsidian-dynamic-toc\nnumerals\nobsidian-excel-to-markdown-table\nbetter-word-count\nomnisearch\nlapel\nconvert-url-to-iframe\ntable-editor-obsidian\nobsidian-image-toolkit\ncm-editor-syntax-highlight-obsidian\nobsidian-timestamper",
+  "includePluginCSS": "obsidian-git\nobsidian-focus-mode\nquick-latex\nobsidian-excel-to-markdown-table\nnumerals\nobsidian-dynamic-toc\nbetter-word-count\nomnisearch\nconvert-url-to-iframe\ncm-editor-syntax-highlight-obsidian\nobsidian-image-toolkit\ntable-editor-obsidian\nobsidian-latex-suite\nobsidian-charts\nobsidian-completr",
   "addDarkModeToggle": true,
   "includeOutline": true,
   "customLineWidth": 0,
