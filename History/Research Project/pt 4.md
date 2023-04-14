@@ -7,7 +7,7 @@ If you finish finding three good primary sources during class, you can start wor
 
   
 
-Source 1:  
+Source 1:  Paula Ancona, Looking for a Job? Use your computer, Tuesday, December 13th, 1994
 
 Context: List several facts about the source that you’d want to include in your writing -- what IS the source? who produced it? what was happening at the time? what’s the purpose of the source? etc.
 
