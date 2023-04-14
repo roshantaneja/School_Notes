@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "a4af5235afb9ebaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "simple mafs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -101,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "simple mafs.md"
+                "file": "English/Unit 2/Short Story.md"
               }
             }
           },
@@ -118,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,7 +117,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a4af5235afb9ebaf",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
     "simple mafs.md",
     "English/Unit 2/Short Story.md",
