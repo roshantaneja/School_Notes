@@ -19,7 +19,9 @@ But as Emily grew older, she learned that addiction was a monster that didn't go
 One day, when Emily was fifteen, her father came home from a bar in a drunken stupor. He stumbled into Emily's room, and without warning, he hit her with a bottle. Emily fell to the ground, clutching her thigh, blood spilling out of the wound. "I hate you!" Emily screamed as her father ran out of the house. "I wish you were dead!" 
 
 Emily's mother rushed her to the hospital, and the doctors stitched up her wound. When her father didn't come home, they assumed he had passed out somewhere. But the next morning, they learned that he had died in a motorcycle accident. The news left Emily feeling numb. Despite everything, he was still her father. 
+
 Years passed, and Emily grew up, but the scar on her thigh remained. It was a reminder of her past, of the loss of innocence and the pain that came with it. But she had learned to live with it, to accept that sometimes, scars are a part of life. 
+
 As Emily sat in the bank lobby, waiting for the loan officer to call her, she thought about her father. She wondered what he would think of her now, of the woman she had become. She wondered if he would be proud of her or if he would have been disappointed that she hadn't followed in his footsteps. But Emily knew that her father's addiction was not her burden to bear. She had come a long way from the scared little girl who had been hit with a bottle. She had worked hard to build a life for herself, to make something of herself despite the odds. She had found her strength in the midst of the chaos and had become the woman she was today. As the loan officer called her name, Emily stood up and walked towards his office, her hand rubbing over the scar on her thigh. She was ready to take the next step in her life, to move forward and leave the past behind.
 
 
