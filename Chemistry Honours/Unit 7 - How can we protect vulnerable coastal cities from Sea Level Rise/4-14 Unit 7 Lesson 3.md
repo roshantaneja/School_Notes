@@ -155,807 +155,77 @@ DATA VISUALIZATION 
 1.  Plot the time-temperature data for your investigation with time on the horizontal axis and temperature on the vertical axis.  Label your axes, and arrange the scales so the graph nearly fills the space available. 
     
 | Time (min) | Temp ($\textdegree C$) |
-| ---------- | ---------------------- |
-| 1          | -3                     |
-| 2          | -3.5                   |
-| 3          | -4                     |
-| 4          | -4                     |
-| 5          | -3                     |
-| 6          | -2                     |
-| 7          | -2                     | 
-| 8          |                        |
-| 9          |                        |
-| 10         |                        |
-| 11         |                        |
-| 12         |                        |
-| 13         |                        |
-| 14         |                        |
-| 15         |                        |
-| 16         |                        |
-| 17         |                        |
-| 18         |                        |
-| 19         |                        |
-| 20         |                        |
-| 22         |                        |
-| 23         |                        |
-| 24         |                        |
-| 25         |                        |
-| 26         |                        |
-| 27         |                        |
-| 28         |                        |
-| 29         |                        |
-| 30         |                        |
+| ----------:| ---------------------- |
+|          1 | -3                     |
+|          2 | -3.5                   |
+|          3 | -4                     |
+|          4 | -4                     |
+|          5 | -3                     |
+|          6 | -2                     |
+|          7 | -2                     |
+|          8 | 0                      |
+|          9 | 5.5                    |
+|         10 | 9                      |
+|         11 | 24                     |
+|         12 | 34                     |
+|         13 | 43                     |
+|         14 | 52                     |
+|         15 | 61                     |
+|         16 | 67                     |
+|         17 | 72                     |
+|         18 | 77                     |
+|         19 | 81.5                   |
+|         20 | 85                     |
+|         22 | 88                     |
+|         23 | 90                     |
+|         24 | 91                     |
+|         25 | 92                     |
+|         26 | 92                     |
+|         27 | 92                     |
+|         28 | 91                     |
+|         29 | 94                     |
+|         30 | 94                     |
+|         31 | 94.5                   |
+|         32 | 94.5                   |
+|         33 | 94                     |
+|         34 | 94                     |
+|         35 | 93                     |
+|         36 | 97                     |
+|         37 | 98                     |
+|         38 | 99                     |
+|         39 | 100                    |
+|         40 | 100                    | 
 ^temps
 
 ```chart
 type: line
 id: temps
-layout:rows
+layout: cols
 tension: 0.2
-width: 80%
-labelColors: false
-fill: false
+width: 100%
 beginAtZero: false
-bestFit: true
-bestFitTitle: undefined
-bestFitNumber: 0
 ```
-
 
 HEATING CURVE OF WATER
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-2.  Label the points on your graph at which ice begins to melt (1) and had completely melted (2).
-    
-3.  Indicate the point on your graph at which water began to boil.
-    
-4.  Draw a curve through your plotted points. 
-    
-
-ANALYSIS QUESTIONS
-
-5.  What do you notice about your graph?
-    
-
-  
-
-6.   Consider the phase change from H2O (s) to H2O (l):
-    
-
-1.  What is the name of this phase change?
-    
-
-  
-
-2.  What do your observations tell you about this phase change?
-    
-
-  
-
-3.  What do the data, that is, the temperature measurements, tell you about the energy of this phase change?
+energy of this phase change?
     
 
   
 
 4.  Where is the energy going during the phase change?
     
-
-  
-
-7.  Consider the phase change from H2O (l) to H2O (g):
-    
-
-1.  What is the name of this phase change?
-    
-
-  
-
-2.  What do your observations tell you about this phase change?
-    
-
-  
-
-3.  What do the data, that is, the temperature measurements, tell you about the energy of this phase change?
-    
-
-  
-
-4.  Where is the energy going during the phase change?
-    
-
+into the particles, changing their kinetic energy and making them move faster
   
 
 8.   What happens to the temperature of a substance as it undergoes a phase change?
     
-
-  
+the temperature drops a little as it starts to
 
 9.  Why are phase changes considered physical changes?
     
-
+the matter is changing from separate states of interaction. The phase of matter is a property of the mater
   
 
 10.  Energy is being taken in by the system when the temperature rises from 40oC to 50oC.
@@ -973,7 +243,7 @@ ANALYSIS QUESTIONS
 
 3.  Is thermal expansion occurring? Support your answer.
     
-
+yes, because 
   
 
 11.  If a student measured the mass of water in the beaker at 70oC, it would be the same as the mass of ice at the beginning of the experiment.  Why is this so?
@@ -1062,9 +332,3 @@ f. Total heat needed.
   
 
 15.  The average iceberg weight for the Grand Banks area is 150,000 tonnes.  (1 ton = 907.2 kg).  The average temperature of an iceberg is -15O C.  How much energy would it take to melt an iceberg from the Grand Banks area in kilojoules?
-    
-
-  
-
-  
-**
