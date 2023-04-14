@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Precalc BC Honours/CH 2 Calc/Hw 23.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
