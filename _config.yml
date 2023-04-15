@@ -1,8 +1,0 @@
-lang: en-US
-title: My School Notes
-theme: jekyll-theme-basically-basic
-plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
