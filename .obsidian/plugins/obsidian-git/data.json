@@ -9,8 +9,8 @@
   "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": true,
-  "showStatusBar": false,
-  "updateSubmodules": false,
+  "showStatusBar": true,
+  "updateSubmodules": true,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
@@ -25,6 +25,5 @@
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": true,
   "autoCommitMessage": "auto vault backup: {{date}} - changed: {{numFiles}} - by: {{hostname}}"
 }
