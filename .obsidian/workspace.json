@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
+                "file": "README.md"
               }
             }
           },
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,11 +124,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
-      "publish:Publish changes": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "403fbab0aade5098",
+  "active": "ad48e22834763be0",
   "lastOpenFiles": [
+    "Chemistry Honours/README.md",
+    "_config.yml.md",
+    "_config.yml",
+    "Chemistry Honours/Unit 4 - Combustion/README.md",
+    "Daily Notes/2023-04-14.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
+    "Daily Notes",
     "conflict-files-obsidian-git.md",
     "Computer Science/Asteroids.md",
     "History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
@@ -141,12 +149,9 @@
     "History/Research Project/Source Documents/Primary Sources",
     "English/Unit 2/Short Story.md",
     "Computer Science/Testing Latex.md",
-    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
-    "Chemistry Honours/Unit 4 - Combustion/README.md",
-    "Chemistry Honours/README.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "English/Unit 2/Podcast Prep/Beatsheet.md",
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
@@ -157,14 +162,9 @@
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "Chemistry Honours/Unit 4 - Combustion/README.md",
     "History/Research Project/Source Documents/Tim Berners-Lee Wikipedia.md",
     "English/Unit 2/Short Story.md",
-    "simple mafs.md",
-    "README.md",
     "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
-    "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger_published_as_St._Albans_Messenger___March_26_1997__p20 1.pdf",
-    "History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Chart Wed Apr 12 2023.png",
     "Chart Wed Apr 12 2023.png",
     "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas"
