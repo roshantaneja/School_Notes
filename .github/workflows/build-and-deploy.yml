@@ -12,6 +12,4 @@
 
 on:
   push:
-    branches: [ main ]
-
-jobs:
+    branches: [ main }
