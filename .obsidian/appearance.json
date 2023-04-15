@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 30,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "#ef6bb8",
+  "accentColor": "#04baf6",
   "cssTheme": "Origami",
   "nativeMenus": true,
   "translucency": false,

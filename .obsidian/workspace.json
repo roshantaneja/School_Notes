@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5110321044922
+    "width": 279.5004348754883
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -97,13 +97,20 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6cdfe1ae042f550f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {

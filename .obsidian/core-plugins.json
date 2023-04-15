@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "canvas",
+  "daily-notes",
   "note-composer",
   "command-palette",
   "slash-command",
@@ -11,6 +12,5 @@
   "starred",
   "markdown-importer",
   "outline",
-  "slides",
-  "publish"
+  "slides"
 ]
