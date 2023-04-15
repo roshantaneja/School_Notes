@@ -18,9 +18,8 @@ jobs:
     
     - name: Install obsidian-html
       run: |
-        # pip install --upgrade pip
         python -m pip install --upgrade pip
-        pip install git+https://github.com/kmaasrud/obsidian-html.git
+        pip install git+https://github.com/krissex/obsidian-html.git
     
     - name: Generate HTML through obsidian-html
       run: obsidian-html ./vault -o ./out -t ./template.html -d daily
