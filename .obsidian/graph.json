@@ -27,18 +27,39 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Spanish",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.58860338983051,
-  "lineSizeMultiplier": 0.653450847457627,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.717309064953605,
+  "lineSizeMultiplier": 0.969129193433262,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.834047109207709,
   "repelStrength": 20,
-  "linkStrength": 0,
+  "linkStrength": 0.896859386152748,
   "linkDistance": 30,
-  "scale": 0.6316046762907493,
-  "close": false
+  "scale": 0.17373533744704497,
+  "close": true
 }

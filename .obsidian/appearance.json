@@ -1,11 +1,11 @@
 {
-  "baseFontSize": 10,
+  "baseFontSize": 17,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "",
-  "cssTheme": "",
-  "nativeMenus": false,
+  "accentColor": "#ef6bb8",
+  "cssTheme": "Origami",
+  "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

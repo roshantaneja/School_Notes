@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d93b08382084f332",
+        "id": "b738681e89dcb6fb",
         "type": "tabs",
         "children": [
           {
-            "id": "62696f07c821cf75",
+            "id": "403fbab0aade5098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Asteroids.md",
+                "file": "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd88e44ec9e05b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828
+    "width": 310.5110321044922
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Asteroids.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -103,22 +117,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas:Create new canvas": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
+      "canvas:Create new canvas": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "publish:Publish changes": false
     }
   },
-  "active": "62696f07c821cf75",
+  "active": "dd88e44ec9e05b61",
   "lastOpenFiles": [
+    "Computer Science/Asteroids.md",
+    "conflict-files-obsidian-git.md",
+    "History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
+    "Precalc BC Honours/CH 2 Calc/Hw 23.md",
+    "Precalc BC Honours/CH 2 Calc",
+    "Precalc BC Honours",
+    "History/Research Project/rough draft.md",
+    "History/Research Project/pt 4.md",
+    "History/Research Project/Source Documents/Tim Berners-Lee Wikipedia.md",
+    "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
+    "History/Research Project/Source Documents/Primary Sources",
+    "English/Unit 2/Short Story.md",
+    "Computer Science/Testing Latex.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
+    "Chemistry Honours/Unit 4 - Combustion/README.md",
+    "Chemistry Honours/README.md",
     "Computer Science/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "English/Unit 2/Podcast Prep/Beatsheet.md",
     "English/Unit 2/Podcast Prep/Notes for Podcast.md",
@@ -127,30 +163,32 @@
     "English/Unit 2/The Great Gatsby/Journal ch 5.md",
     "English/Essay/The great gatsby.md",
     "History/Research Project/Research Project Canvas Board.canvas",
-    "History/Research Project/Outline.md",
-    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
-    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
+    "Chemistry Honours/Unit 4 - Combustion/README.md",
+    "History/Research Project/Source Documents/Tim Berners-Lee Wikipedia.md",
+    "English/Unit 2/Short Story.md",
+    "simple mafs.md",
+    "README.md",
+    "Computer Science/Asteroids.md",
+    "Computer Science/Testing Latex.md",
+    "Precalc BC Honours/CH 2 Calc/Hw 23.md",
+    "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
+    "History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger_published_as_St._Albans_Messenger___March_26_1997__p20 1.pdf",
+    "History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Chart Wed Apr 12 2023.png",
+    "Chart Wed Apr 12 2023.png",
+    "History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "History/Research Project/Pt 3.md",
     "History/Research Project/Part 1.md",
     "Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 - Unit 6 Lesson 2.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-15 Homework Sheet.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 HW Lab Investigation - How changes in ocean water affect oyster shells.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-17 Unit 6 lesson 3.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-26 HW Acids and Bases in Aqueous solutions.md",
-    "Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
     "Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
+    "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
+    "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "History/Research Project/Source Documents",
-    "Untitled.canvas",
-    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
-    "English/Essay"
+    "Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas"
   ]
 }

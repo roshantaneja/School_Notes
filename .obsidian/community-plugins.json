@@ -3,7 +3,6 @@
   "obsidian-focus-mode",
   "obsidian-grandfather",
   "quick-latex",
-  "obsidian-latex-suite",
   "obsidian-excel-to-markdown-table",
   "table-extended",
   "obsidian-discordrpc",
@@ -13,11 +12,12 @@
   "better-word-count",
   "text-extractor",
   "omnisearch",
-  "lapel",
   "convert-url-to-iframe",
-  "obsidian-timestamper",
   "cm-editor-syntax-highlight-obsidian",
   "webpage-html-export",
   "obsidian-image-toolkit",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-charts",
+  "obsidian-completr",
+  "obsidian-latex-suite"
 ]

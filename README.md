@@ -6,3 +6,20 @@ There are easier ways to take notes, i know but i also keep forgetting my laptop
 ### Counter of Forgotten laptop days (updating):
 
 #### 11
+
+now theres a live site hosted through gh-pages
+
+[daroshi11260.github.io/School_Notes/](https://daroshi11260.github.io/School_Notes/ "https://daroshi11260.github.io/School_Notes/")
+
+still working on styling and stuff but hopefully this should be good
+
+
+### ToDo List:
+
+|                                                                    |
+| ------------------------------------------------------------------ |
+| maintainance/upkeep                                                |
+| make gh-workflow that uses html files by parsing in obsidian first |
+| maybe a jekyll theme?                                              |
+| add links to readme to nav site                                    |
+| link notes together somehow                                        | 

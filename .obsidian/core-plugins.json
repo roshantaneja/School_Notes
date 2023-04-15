@@ -2,6 +2,7 @@
   "file-explorer",
   "global-search",
   "switcher",
+  "graph",
   "canvas",
   "note-composer",
   "command-palette",
@@ -10,5 +11,6 @@
   "starred",
   "markdown-importer",
   "outline",
-  "slides"
+  "slides",
+  "publish"
 ]

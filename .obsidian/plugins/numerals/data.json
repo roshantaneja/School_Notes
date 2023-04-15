@@ -1,8 +1,19 @@
 {
   "resultSeparator": " → ",
-  "layoutStyle": "AnswerInline",
+  "layoutStyle": "TwoPanes",
   "alternateRowColor": true,
-  "defaultRenderStyle": "Plain",
+  "defaultRenderStyle": "TeX",
   "hideLinesWithoutMarkupWhenEmitting": true,
-  "hideEmitterMarkupInInput": true
+  "hideEmitterMarkupInInput": true,
+  "dollarSymbolCurrency": {
+    "symbol": "$",
+    "currency": "USD"
+  },
+  "yenSymbolCurrency": {
+    "symbol": "¥",
+    "currency": "JPY"
+  },
+  "provideSuggestions": true,
+  "suggestionsIncludeMathjsSymbols": false,
+  "numberFormat": "System"
 }
