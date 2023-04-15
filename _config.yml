@@ -1,6 +1,8 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-theme: hacker
+lang: en-US
+title: My School Notes
+theme: jekyll-theme-basically-basic
+plugins: # previsously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
