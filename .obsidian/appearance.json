@@ -1,10 +1,10 @@
 {
-  "baseFontSize": 30,
+  "baseFontSize": 21,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "#e0ef6b",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Terminal",
   "nativeMenus": true,
   "translucency": false,
   "theme": "obsidian"
