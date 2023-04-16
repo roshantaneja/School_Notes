@@ -3,8 +3,8 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "#e0ef6b",
-  "cssTheme": "Terminal",
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
   "theme": "obsidian"
