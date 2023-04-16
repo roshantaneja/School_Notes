@@ -3,9 +3,9 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "accentColor": "#04baf6",
-  "cssTheme": "Origami",
+  "accentColor": "#e0ef6b",
+  "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "obsidian"
 }

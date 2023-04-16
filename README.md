@@ -20,6 +20,6 @@ still working on styling and stuff but hopefully this should be good
 | ------------------------------------------------------------------ |
 | maintainance/upkeep                                                |
 | make gh-workflow that uses html files by parsing in obsidian first |
-| maybe a jekyll theme?                                              |
+| maybe a jekyll theme?                                              | 
 | add links to readme to nav site                                    |
-| link notes together somehow                                        | 
+| link notes together somehow                                        |
