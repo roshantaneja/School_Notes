@@ -19,7 +19,12 @@ still working on styling and stuff but hopefully this should be good
 |                                                                    |
 | ------------------------------------------------------------------ |
 | maintainance/upkeep                                                |
+<<<<<<< Updated upstream
 | make gh-workflow that uses html files by parsing in obsidian first |
 | maybe a jekyll theme?                                              | 
+=======
+| make gh-workflow that uses html files by parsing in obsidian first | 
+| maybe a jekyll theme?                                              |
+>>>>>>> Stashed changes
 | add links to readme to nav site                                    |
 | link notes together somehow                                        |

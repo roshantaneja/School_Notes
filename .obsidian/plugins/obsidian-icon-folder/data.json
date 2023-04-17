@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCollage-fill",
+      "IbCalendar",
+      "IbCalculator",
+      "RiWater-flash-line",
+      "FasLanguage"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Chemistry Honours": "SiMoleculer",
+  "Computer Science": "FabJava",
+  "English": "FasBook",
+  "Hebrew Scriptures": "FasCross",
+  "History": "FasEarth-americas",
+  "Robotics": "FasRobot",
+  "Spanish": "FasLanguage",
+  "Tanzania Prep": "RiWater-flash-line",
+  "Precalc BC Honours": "IbCalculator",
+  "Daily Notes": "IbCalendar",
+  "College Couseling": "RiCollage-fill"
+}

@@ -8,17 +8,16 @@
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
   "numerals",
-  "obsidian-dynamic-toc",
   "better-word-count",
   "text-extractor",
   "omnisearch",
   "convert-url-to-iframe",
   "cm-editor-syntax-highlight-obsidian",
   "webpage-html-export",
-  "obsidian-image-toolkit",
   "table-editor-obsidian",
   "obsidian-charts",
   "obsidian-completr",
   "obsidian-latex-suite",
-  "calendar"
+  "calendar",
+  "obsidian-icon-folder"
 ]
