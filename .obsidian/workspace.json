@@ -11,8 +11,15 @@
             "id": "ffeda860e6c70bd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "docs/History/Research Project/Research Project Canvas Board.canvas",
+                "viewState": {
+                  "x": 389.36506566140383,
+                  "y": -84.75403583717849,
+                  "zoom": -2.3333333333333326
+                }
+              }
             }
           }
         ]
@@ -61,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md"
+              }
             }
           },
           {
@@ -112,10 +120,17 @@
       "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "f6a53e84beb7f866",
+  "active": "ffeda860e6c70bd9",
   "lastOpenFiles": [
-    "docs/Daily Notes/2023-04-14.md",
+    "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Outline.md",
+    "docs/History/Research Project/Research Project Canvas Board.canvas",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/English/Unit 2/Short Story.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
+    "docs/Daily Notes/2023-04-14.md",
     "README.md",
     "docs/README.md",
     "docs/Chemistry Honours/README.md",
