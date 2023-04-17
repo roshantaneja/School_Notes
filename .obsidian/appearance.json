@@ -1,11 +1,11 @@
 {
-    "baseFontSize": 18,
-    "interfaceFontFamily": "",
-    "textFontFamily": "",
-    "monospaceFontFamily": "IBM Plex Mono",
-    "accentColor": "#04baf6",
-    "cssTheme": "Origami",
-    "nativeMenus": true,
-    "translucency": false,
-    "theme": "obsidian"
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "accentColor": "#04baf6",
+  "cssTheme": "Origami",
+  "nativeMenus": true,
+  "translucency": false,
+  "theme": "obsidian"
 }
