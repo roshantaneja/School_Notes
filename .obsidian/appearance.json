@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 18,
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "IBM Plex Mono",
+  "baseFontSize": 10,
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "DejaVu Sans Mono",
+  "monospaceFontFamily": "IBM Plex Mono,VCR OSD Mono",
   "accentColor": "",
   "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
