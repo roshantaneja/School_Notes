@@ -3,8 +3,8 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "IBM Plex Mono",
-  "accentColor": "#04baf6",
-  "cssTheme": "Origami",
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
   "theme": "obsidian"

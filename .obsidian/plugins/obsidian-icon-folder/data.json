@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiCollage-fill",
-      "IbCalendar",
-      "IbCalculator",
-      "RiWater-flash-line",
-      "FasLanguage"
+      "FasWater",
+      "RiTranslate",
+      "FasRobot",
+      "IbGraphLineUp",
+      "FasFlagUsa"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,6 +30,16 @@
   "Spanish": "FasLanguage",
   "Tanzania Prep": "RiWater-flash-line",
   "Precalc BC Honours": "IbCalculator",
-  "Daily Notes": "IbCalendar",
-  "College Couseling": "RiCollage-fill"
+  "College Couseling": "RiCollage-fill",
+  "docs/Chemistry Honours": "SiMoleculer",
+  "docs/College Couseling": "RiCollageFill",
+  "docs/Computer Science": "RiComputerFill",
+  "docs/Daily Notes": "FasCalendar",
+  "docs/English": "FasBook",
+  "docs/Hebrew Scriptures": "FasCross",
+  "docs/History": "FasFlagUsa",
+  "docs/Precalc BC Honours": "IbGraphLineUp",
+  "docs/Robotics": "FasRobot",
+  "docs/Spanish": "RiTranslate",
+  "docs/Tanzania Prep": "FasWater"
 }
