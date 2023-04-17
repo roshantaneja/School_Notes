@@ -11,13 +11,8 @@
             "id": "ffeda860e6c70bd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,9 +81,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "a8de5dda15bc2915",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
             }
           }
         ]
@@ -105,12 +107,16 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "ffeda860e6c70bd9",
+  "active": "f6a53e84beb7f866",
   "lastOpenFiles": [
+    "docs/Daily Notes/2023-04-14.md",
+    "docs/English/Unit 2/Short Story.md",
+    "README.md",
     "docs/README.md",
     "docs/Chemistry Honours/README.md",
     "Daily Notes/2023-04-15.md"
