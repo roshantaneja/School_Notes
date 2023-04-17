@@ -5,7 +5,7 @@ There are easier ways to take notes, i know but i also keep forgetting my laptop
 
 ### Counter of Forgotten laptop days (updating):
 
-#### 21
+#### 20
 
 now theres a live site hosted through gh-pages
 
