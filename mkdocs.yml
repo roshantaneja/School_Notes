@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: my school notes
 
 theme:
     name: 'material'
@@ -28,9 +28,9 @@ markdown_extensions:
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
