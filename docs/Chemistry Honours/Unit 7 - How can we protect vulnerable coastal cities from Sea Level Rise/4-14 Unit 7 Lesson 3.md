@@ -1,8 +1,3 @@
----
-tags: 
-  - chemistry
-title: L7.3
----
 **Lesson 7.3 : How much energy does it take to melt a glacier?                      
 
 # Review
@@ -19,7 +14,18 @@ Water can change in volume by a lot because there's a lot of water in the ocean?
 
 
 $$
+\begin{equation*}
+
 q = m c \Delta T
+
+,
+
+c = specific heat capacity
+
+,
+
+m = mass
+\end{equation*}
 $$
 	  
 
@@ -125,7 +131,7 @@ PROCEDURE:
 | --------------------------- | ------ |
 | Mass of 100-mL Beaker       | 66.4   |
 | Mass of 100-mL Beaker + ice | 140.42 |
-| Calculated Mass of ice      | 74.02  |
+| Calculated Mass of ice      | 74.02  | 
 
 
 DATA TABLE 2: Heating of Water
@@ -214,8 +220,9 @@ the matter is changing from separate states of interaction. The phase of matter 
     
 
 1.  How are the molecules using this energy?
+    
 
-increasing in kinetic energy
+  
 
 2.  What is the name given to this form of energy?
     
@@ -230,7 +237,8 @@ yes, because
 11.  If a student measured the mass of water in the beaker at 70oC, it would be the same as the mass of ice at the beginning of the experiment.  Why is this so?
     
 
-yes, the mass isnt changing, only the 
+  
+  
   
 
 12.  If a student measured the volume of the water in the beaker at 70oC, it would not be the same as the volume of the ice at the beginning of the experiment.  Why is this so?

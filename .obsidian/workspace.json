@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4560e639774305c1",
+        "id": "1e9772f2a2ef60f6",
         "type": "tabs",
         "children": [
           {
-            "id": "527a7c5c0edfd694",
+            "id": "8243334e4661558f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,17 +65,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "e41c213b0d633780",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       }
@@ -100,6 +89,17 @@
                 "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
               }
             }
+          },
+          {
+            "id": "7996cdb1adaa92b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -109,40 +109,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "markdown-importer:Open format converter": false,
       "command-palette:Open command palette": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false,
-      "workspaces:Manage workspace layouts": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6a53e84beb7f866",
+  "active": "350df6776f481940",
   "lastOpenFiles": [
-    "docs/College Couseling/2-2-2023 College Counseling.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Untitled.canvas",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
-    "conflict-files-obsidian-git.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/2-1 - Unit 5 Lesson 9.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
-    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
-    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Dilution Problems WS.md",
-    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/2-13 - Unit 6 Lesson 1.md",
-    "docs/History/Research Project/Research Project Canvas Board.canvas",
-    "docs/History/Research Project/rough draft.md",
-    "docs/History/Research Project/Outline.md",
-    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
-    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "docs/English/Unit 2/Short Story.md",
-    "docs/Daily Notes/2023-04-14.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Complete Reaction Sheet.md",
     "README.md",
     "docs/README.md",
     "docs/Chemistry Honours/README.md",
