@@ -14,18 +14,7 @@ Water can change in volume by a lot because there's a lot of water in the ocean?
 
 
 $$
-\begin{equation*}
-
 q = m c \Delta T
-
-,
-
-c = specific heat capacity
-
-,
-
-m = mass
-\end{equation*}
 $$
 	  
 

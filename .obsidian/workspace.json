@@ -11,14 +11,12 @@
             "id": "ffeda860e6c70bd9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/History/Research Project/Research Project Canvas Board.canvas",
-                "viewState": {
-                  "x": 389.36506566140383,
-                  "y": -84.75403583717849,
-                  "zoom": -2.3333333333333326
-                }
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/History/Research Project/Research Project Canvas Board.canvas"
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
               }
             }
           },
@@ -122,9 +120,9 @@
   },
   "active": "ffeda860e6c70bd9",
   "lastOpenFiles": [
+    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Outline.md",
-    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/English/Unit 2/Short Story.md",
