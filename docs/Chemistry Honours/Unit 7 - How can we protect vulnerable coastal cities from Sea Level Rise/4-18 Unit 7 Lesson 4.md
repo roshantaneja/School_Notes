@@ -117,9 +117,9 @@ DATA TABLE 1: Mixing Two Water Samples at Different Volumes and Temperatures
  Sample a     ----------   Sample b
 |         | volume, mL | temp, C | Mass, g | volume, mL | temp, C | Mass, g | predicted temp | measured final temp |
 | ------- | ---------- | ------- | ------- | ---------- | ------- | ------- | -------------- | ------------------- |
-| Trial 1 | 100        | 25      | 106     | 100        |         |         |                |                     |
-| Trial 2 |            |         |         |            |         |         |                |                     |
-| Trial 3 |            |         |         |            |         |         |                |                     |
+| Trial 1 | 100        | 25      | 106     | 100        | 75      | 95      | 48             | 40                  |
+| Trial 2 | 50         | 26      | 50      | 50         | 59      | 48.5    | 42             | 39                  |
+| Trial 3 | 25         | 25      | 24      | 50         | 50      | 48.43   | 37             | 40                  | 
 | Trial 4 |            |         |         |            |         |         |                |                     |
 
   
