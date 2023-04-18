@@ -19,5 +19,6 @@
   "livePreview": false,
   "vimMode": false,
   "tabSize": 4,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }

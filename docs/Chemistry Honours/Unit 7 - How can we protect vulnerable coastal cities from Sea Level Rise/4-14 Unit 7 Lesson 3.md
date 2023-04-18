@@ -1,3 +1,9 @@
+---
+tags:
+- chemistry
+title: L7.3
+---
+
 **Lesson 7.3 : How much energy does it take to melt a glacier?                      
 
 # Review
@@ -113,7 +119,7 @@ PROCEDURE:
 10.  Insert the thermometer into the metal clamp and place the thermometer mid-way into the beaker (see picture). The thermometer should not touch the sides or bottom of the beaker.
     
 
-![](https://lh5.googleusercontent.com/IlSPL8ino0T0ZV16WNMtE__H4i5iM88lJMLgs7XU2aimVFDWYarNxi_zDZJlf4rzcg7xRF2ttf46URe76UvZNlL37c8gHCbOznodi2LfWW3HZvNCTZLiF78OjtfXntYkRouoANqikOo6IBtIk1sdZw)
+![model|200](https://lh5.googleusercontent.com/IlSPL8ino0T0ZV16WNMtE__H4i5iM88lJMLgs7XU2aimVFDWYarNxi_zDZJlf4rzcg7xRF2ttf46URe76UvZNlL37c8gHCbOznodi2LfWW3HZvNCTZLiF78OjtfXntYkRouoANqikOo6IBtIk1sdZw)
 
 11.  Turn the hot plate on to a setting of 4-5; continue to record time, temperature, and observations every minute.
     
@@ -284,7 +290,7 @@ Because the temperature vs time graph is not linear it will help to find the amo
 
 a. Heat the water from -13 °C to 0°C? 
 
-  
+
 
 b. Melt the ice?
 
