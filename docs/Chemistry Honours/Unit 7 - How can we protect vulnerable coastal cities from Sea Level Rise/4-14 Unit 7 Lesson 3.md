@@ -1,3 +1,8 @@
+---
+tags: 
+  - chemistry
+title: L7.3
+---
 **Lesson 7.3 : How much energy does it take to melt a glacier?                      
 
 # Review
@@ -120,7 +125,7 @@ PROCEDURE:
 | --------------------------- | ------ |
 | Mass of 100-mL Beaker       | 66.4   |
 | Mass of 100-mL Beaker + ice | 140.42 |
-| Calculated Mass of ice      | 74.02  | 
+| Calculated Mass of ice      | 74.02  |
 
 
 DATA TABLE 2: Heating of Water
@@ -209,9 +214,8 @@ the matter is changing from separate states of interaction. The phase of matter 
     
 
 1.  How are the molecules using this energy?
-    
 
-  
+i
 
 2.  What is the name given to this form of energy?
     
