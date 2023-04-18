@@ -215,7 +215,7 @@ the matter is changing from separate states of interaction. The phase of matter 
 
 1.  How are the molecules using this energy?
 
-i
+increasing in kinetic energy
 
 2.  What is the name given to this form of energy?
     
