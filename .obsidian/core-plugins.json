@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "canvas",
+  "tag-pane",
   "note-composer",
   "command-palette",
   "slash-command",
@@ -11,5 +12,6 @@
   "starred",
   "markdown-importer",
   "outline",
-  "slides"
+  "slides",
+  "workspaces"
 ]

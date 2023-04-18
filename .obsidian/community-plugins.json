@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian-focus-mode",
   "obsidian-grandfather",
   "quick-latex",
@@ -20,5 +19,6 @@
   "obsidian-latex-suite",
   "obsidian-icon-folder",
   "simple-time-tracker",
-  "obsidian-flexible-pomo"
+  "obsidian-flexible-pomo",
+  "obsidian-git"
 ]
