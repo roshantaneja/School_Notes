@@ -7,5 +7,6 @@
   "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true
 }
