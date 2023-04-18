@@ -114,100 +114,13 @@ PROCEDURE:
 DATA TABLE 1: Mixing Two Water Samples at Different Volumes and Temperatures
 
   
-
-Sample A
-
-Sample B
-
-Predicted Temperature
-
-Measured 
-
-Final Temperature
-
-Volume, mL 
-
-Temp, oC 
-
-Mass, g 
-
-Volume, mL 
-
-Temp, oC 
-
-Mass, g 
-
-Trial 1
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Trial 2
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Trial 3
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Trial 4
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+ Sample a     ----------   Sample b
+|         | volume, mL | temp, C | Mass, g | volume, mL | temp, C | Mass, g | predicted temp | measured final temp |
+| ------- | ---------- | ------- | ------- | ---------- | ------- | ------- | -------------- | ------------------- |
+| Trial 1 |            |         |         |            |         |         |                |                     |
+| Trial 2 |            |         |         |            |         |         |                |                     |
+| Trial 3 |            |         |         |            |         |         |                |                     |
+| Trial 4 |            |         |         |            |         |         |                |                     | 
 
   
 
