@@ -230,8 +230,7 @@ yes, because
 11.  If a student measured the mass of water in the beaker at 70oC, it would be the same as the mass of ice at the beginning of the experiment.  Why is this so?
     
 
-  
-  
+yes, the mass isnt changing, only the 
   
 
 12.  If a student measured the volume of the water in the beaker at 70oC, it would not be the same as the volume of the ice at the beginning of the experiment.  Why is this so?
