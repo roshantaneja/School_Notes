@@ -113,20 +113,20 @@ PROCEDURE:
 
 DATA TABLE 1: Mixing Two Water Samples at Different Volumes and Temperatures
 
-  
- Sample a     ----------   Sample b
+
+----------- Sample a   ------------------------ Sample b
 |         | volume, mL | temp, C | Mass, g | volume, mL | temp, C | Mass, g | predicted temp | measured final temp |
 | ------- | ---------- | ------- | ------- | ---------- | ------- | ------- | -------------- | ------------------- |
 | Trial 1 | 100        | 25      | 106     | 100        | 75      | 95      | 48             | 40                  |
 | Trial 2 | 50         | 26      | 50      | 50         | 59      | 48.5    | 42             | 39                  |
-| Trial 3 | 25         | 25      | 24      | 50         | 50      | 48.43   | 37             | 40                  | 
-| Trial 4 |            |         |         |            |         |         |                |                     |
+| Trial 3 | 25         | 25      | 24      | 50         | 50      | 48.43   | 37             | 40                  |
+| Trial 4 | 25         | 25      | 24      | 100        | 72      | 98      | 61             | 59                  | 
 
-  
+
 
 5. In each trial, how does the final temperature compare to the temperature of the colder sample?
 
-  
+
 
 6. In each trial, how does the final temperature compare to the temperature of the warmer sample?
 
@@ -134,20 +134,19 @@ DATA TABLE 1: Mixing Two Water Samples at Different Volumes and Temperatures
 
 7. In what direction did heat energy flow?
 
-  
+from the hot water to the cold water
 
 8. Would it be possible to have a final temperature after mixing that is colder than the cold sample or a final temperature that is hotter than the hot sample?
 
-  
+no, due to the property of diffusion
 
 9. Imagine that you mix 25 g of water at 25 °C with 25 g of water at 65 °C. Predict the final temperature of the sample.  _________  Explain your answer. 
 
-  
-  
+45?  
 
 10. Suppose you mix 75 g of water at 15°C with 25 g of water at 75°C. Predict the final temperature from the choices. 
 
-1.  30°C B. 45°C C. 60°C
+1.  *30°C* B. 45°C C. 60°C
     
 
 Explain your choice.  
