@@ -42,7 +42,7 @@ Safety: 
 -    **Caution**: Do not place the light directly onto the plastic containers as they will melt and possibly burn. 
     
 
-Procedure:![](https://lh4.googleusercontent.com/OWPuoUab7auPeuYTPX-9AbhbZgI4YCe_BO9ph9ZknFqr1lySJaqVw2iRzuTbVqScXA0Uxx6xhaoTqNPRV1lFjuil5JrLb1WyUL_oGrdCzENV7pjS0ZtSkst5rjHJ42Ts41eOVxd-5Y888JppTMs5UXU)
+Procedure:![|400](https://lh4.googleusercontent.com/OWPuoUab7auPeuYTPX-9AbhbZgI4YCe_BO9ph9ZknFqr1lySJaqVw2iRzuTbVqScXA0Uxx6xhaoTqNPRV1lFjuil5JrLb1WyUL_oGrdCzENV7pjS0ZtSkst5rjHJ42Ts41eOVxd-5Y888JppTMs5UXU)
 
 1.  Place a digital thermometer upside down in a 100mL or 150 mL beaker. Place the beaker and thermometer inside one of the large plastic containers.  Repeat for this procedure for the second container. One of the containers is the control and the other will be filled with CO2. 
     
