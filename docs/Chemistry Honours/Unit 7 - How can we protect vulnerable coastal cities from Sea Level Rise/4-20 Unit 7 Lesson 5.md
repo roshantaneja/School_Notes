@@ -161,7 +161,7 @@ beginAtZero: false
 
 7.   Compare CO2 levels to the [NASA Global Climate Change Global Temperature](https://climate.nasa.gov/vital-signs/global-temperature/).
 
-![](https://lh3.googleusercontent.com/X9OMSa_glKAU_j8ygM8XrUE1Re6GBZavLeFRv6T0oSxavXM41viwBruIK_S_W-NQx3JmVmIUVwSkGLoGcO8ihUFT5B12QIA52BQODTEZnpRB2LW791xcAjuAoLjhK6SShLeLVsiuLdh7WhNL95u_HA) 
+![|400](https://lh3.googleusercontent.com/X9OMSa_glKAU_j8ygM8XrUE1Re6GBZavLeFRv6T0oSxavXM41viwBruIK_S_W-NQx3JmVmIUVwSkGLoGcO8ihUFT5B12QIA52BQODTEZnpRB2LW791xcAjuAoLjhK6SShLeLVsiuLdh7WhNL95u_HA) 
 
 1.  The y-axis is not reporting the outside temperature. What is the y-axis actually reporting? 
     
@@ -191,7 +191,7 @@ beginAtZero: false
 
 8.   Look at the graph of the global ocean heat content below.
 
-![](https://lh3.googleusercontent.com/A2duuzwhp2OhfbXfvmlWPr6-r6jgcSVto1y1Mzr6iDobnrXhYmfc8En4QK3BjJaDPagUWsKRtmHezA9c33KoELdh20xaUBLN_eV-clSyiIjj6lmd_IV271H_SdvEjNlfZ0KhpQ7c8kasDHbSsBu8Cg)
+![|400](https://lh3.googleusercontent.com/A2duuzwhp2OhfbXfvmlWPr6-r6jgcSVto1y1Mzr6iDobnrXhYmfc8En4QK3BjJaDPagUWsKRtmHezA9c33KoELdh20xaUBLN_eV-clSyiIjj6lmd_IV271H_SdvEjNlfZ0KhpQ7c8kasDHbSsBu8Cg)
 
 1.  How would you describe the trend in the heat content of the ocean?
     
