@@ -1,3 +1,20 @@
+---
+tags: [USHISTORY, research]
+title: Research doc history
+---
+
+## Research thesis
+> through the creation of the internet and royalty free technologies, TBL was able to create a system of development that deterred a fragmented, proprietary web interface and promote innovation and competition
+
+## Outline
+
+todo:
+
+- [ ] add citations
+- [x] sub-bullets for claims
+- [x] rewrite conclusion outline
+- [x] include the w3c role in developing standards
+
 I. Introduction
 
 -   Explanation of the significance of the topic
