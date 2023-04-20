@@ -51,7 +51,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.717309064953605,
   "lineSizeMultiplier": 0.969129193433262,

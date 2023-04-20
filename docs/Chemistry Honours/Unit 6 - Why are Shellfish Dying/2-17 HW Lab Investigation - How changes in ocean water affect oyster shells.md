@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - homework
+title: Lab investigation
+---
+
 **Lab: Investigation - How changes in ocean water affect oyster shells 
 
   

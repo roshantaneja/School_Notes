@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L6.2
+---
+
 **Lesson 6.2: How is dissolved carbon dioxide and pH related? 
 
 # REVIEW

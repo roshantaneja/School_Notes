@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - homework
+title: Molarity Calculation
+---
+
 Molarity Calculations
 
 Calculate the molarities of the following solutions:

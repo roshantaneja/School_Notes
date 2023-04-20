@@ -1,6 +1,6 @@
 ---
 tags: [chemistry]
-title: l7.5
+title: L7.5
 ---
 
 **Lesson 7.5 : Where is the heat coming from  to warm the oceans? 

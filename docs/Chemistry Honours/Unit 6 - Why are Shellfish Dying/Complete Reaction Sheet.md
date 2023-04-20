@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - review
+title: reaction sheet
+---
+
 Synthesis
 
 $CO_{2} + H_{2}O \to H_{2}CO_{3}^{-}$
