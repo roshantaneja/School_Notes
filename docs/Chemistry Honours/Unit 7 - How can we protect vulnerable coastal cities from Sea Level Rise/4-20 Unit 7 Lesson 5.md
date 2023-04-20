@@ -84,7 +84,7 @@ Data Table 1- Temperature of Air Samples
 | 8          |                                 |                                 |
 | 9          |                                 |                                 |
 | 10         |                                 |                                 |
-
+^temps
 
   
   
@@ -92,7 +92,14 @@ Data Table 1- Temperature of Air Samples
 Temperature of Air Samples Graph
 
   
-
+```chart
+type: line
+id: temps
+layout: cols
+tension: 0.2
+width: 100%
+beginAtZero: false
+```
   
   
   
@@ -100,50 +107,43 @@ Temperature of Air Samples Graph
 
 # Analysis Questions: 
 
-2.  # What was the overall temperature change for the atmospheric air only container?
+2.  What was the overall temperature change for the atmospheric air only container?
     
 
   
 
-3.  # What was the overall temperature change for the atmospheric carbon dioxide container?
+3.  What was the overall temperature change for the atmospheric carbon dioxide container?
     
 
   
 
-4.  # The diagram shows models and the percent composition of the molecules in the air. 
+4.  The diagram shows models and the percent composition of the molecules in the air. 
     
 
 ![](https://lh4.googleusercontent.com/21r_f2IuZ8gQ3y41PIVaB0UAhcuEdpzetQAOJcMrGXFcSPyWpg2BCMrsQnTZv19ngUANDjQhC9JnfW2zlA-ayRUkv4EtalhY_b2a-m94tMHCMUP_1lzWIyprT8_-deqQkGUogfJS6J_tSGUbbRG4SA)
 
-5.  # Model 1 and Model 2, both currently represent atmospheric air only.  The model of atmospheric air is depicted below where represents the air composition of nitrogen, oxygen, argon, neon, helium, methane, water, and krypton, and represents carbon dioxide (disclaimer - the percentages are not accurate in the model).
+5.  Model 1 and Model 2, both currently represent atmospheric air only.  The model of atmospheric air is depicted below where represents the air composition of nitrogen, oxygen, argon, neon, helium, methane, water, and krypton, and represents carbon dioxide (disclaimer - the percentages are not accurate in the model).
     
 
-1.  # Watch the [NASA Earth Minute Video: The Gas Problem](https://youtu.be/K9kga9c0u2I). The CO2 in the second container represents the layer of greenhouse gases that surround the Earth.
+1.  Watch the [NASA Earth Minute Video: The Gas Problem](https://youtu.be/K9kga9c0u2I). The CO2 in the second container represents the layer of greenhouse gases that surround the Earth.
     
 2.  Revise both models by adding arrows to both models to show the radiant heat in each container.
     
-3.  # Edit/Add to Model 2 to show additional CO2 from the experiment. 
+3.  Edit/Add to Model 2 to show additional CO2 from the experiment. 
     
 4.  In Model 2, place additional arrows to show the radiant heat from the greenhouse gasses.
     
 
   
 
-5.  # Explain in your own words how the CO2 in this experiment as well as that which surrounds the Earth is able to trap heat.  Use the picture below to help you.![](https://lh5.googleusercontent.com/Khj7wZ_zNp6hOe6CfxEk7slakex7Ry_jUp9FSwSvHoOQyy-qgwJW6ytraDz9m3OuQAbpu8lZErzO0p67yS34lsdBz7wgwOlcdsHuhhyBADQWonEDeoXlWSilBq8kak1C3AVFLRJAswDfNDfdpS5MPw)
-    
+5.  # Explain in your own words how the CO2 in this experiment as well as that which surrounds the Earth is able to trap heat.  Use the picture below to help you.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![|400](https://lh5.googleusercontent.com/Khj7wZ_zNp6hOe6CfxEk7slakex7Ry_jUp9FSwSvHoOQyy-qgwJW6ytraDz9m3OuQAbpu8lZErzO0p67yS34lsdBz7wgwOlcdsHuhhyBADQWonEDeoXlWSilBq8kak1C3AVFLRJAswDfNDfdpS5MPw)
 
-6.   Go to the [NASA Global Climate Change, Carbon Dioxide](https://climate.nasa.gov/vital-signs/carbon-dioxide/)![](https://lh4.googleusercontent.com/pxzxF_O6Ejlrtqp1uwb2CoE344p2QM-kSC1jp-oEZ5hFtaDsJNg7qnS2hgY6LnC-DXryxeeN3cnK42x_ueMv92SsiTwvkqwAurF7QIqenjel45PtpMJvZknXGW3azWQigpmHNC9W4wGhrI0fHUeTpAc)
+6.   Go to the [NASA Global Climate Change, Carbon Dioxide](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+   
+
+![|400](https://lh4.googleusercontent.com/pxzxF_O6Ejlrtqp1uwb2CoE344p2QM-kSC1jp-oEZ5hFtaDsJNg7qnS2hgY6LnC-DXryxeeN3cnK42x_ueMv92SsiTwvkqwAurF7QIqenjel45PtpMJvZknXGW3azWQigpmHNC9W4wGhrI0fHUeTpAc)
 
 1.  What is the current CO2 level?
     
@@ -157,13 +157,6 @@ Temperature of Air Samples Graph
 
 3.  How would you describe the trend in CO2 levels in the atmosphere?
     
-
-  
-  
-  
-  
-  
-  
   
 
 7.   Compare CO2 levels to the [NASA Global Climate Change Global Temperature](https://climate.nasa.gov/vital-signs/global-temperature/).
@@ -194,11 +187,6 @@ Temperature of Air Samples Graph
 5.  Can you offer an explanation for the correlation? 
     
 
-  
-  
-  
-  
-  
   
 
 8.   Look at the graph of the global ocean heat content below.
@@ -241,7 +229,6 @@ Temperature of Air Samples Graph
 1.  What is the current CO2 level?
     
 
-  
 
 2.  What is the unit of ppm?
     
@@ -291,6 +278,3 @@ NEXT STEPS:
 
 3.  Make sure all parts of the L7.5 student sheet are complete & complete the check for understanding on Schoology and the PhET assignment.
     
-
-  
-**
