@@ -6912,6 +6912,7 @@ Characteristics
 Cola
 Carbonic
 Caution
+Crist
 Using
 Use
 University
@@ -7326,6 +7327,7 @@ Safety
 Strip
 Soap
 Solutions
+Superstar
 dissolve
 dV
 designation
@@ -10369,6 +10371,7 @@ Journal
 Jung
 Junior
 Joules
+Jesus
 Knight
 Known
 Kingdom
