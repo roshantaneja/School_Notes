@@ -29,11 +29,7 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.superfences:
-    custom_fences:
-      - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.tasklist:
