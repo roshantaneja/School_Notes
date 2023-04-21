@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - homework
+title: dilution
+---
+
 1.  If I have 340 mL of a 0.5 M NaBr solution, what will the concentration be if I add 560 mL more water to it?
 
 $(340 mL)(0.5 M) = (900 mL)(x M)$

@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - homework
+title: Acids and bases
+---
+
 Acids: When water is mixed with an acid, the acid donates an H+ ion to the water creating a hydronium ion (H3O+).  Here is a generic equation where the hydrogen dissociates one at a time where HA is the acid:
 
   

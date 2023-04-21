@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+  - homework
+title: Solutions
+---
+
 **pH Reading Guide
 
   

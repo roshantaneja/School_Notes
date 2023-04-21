@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L6.3
+---
+
 **Lesson 6.3: What is an acid?
 
   
