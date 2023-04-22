@@ -123,6 +123,9 @@ beginAtZero: false
     
 2.  Revise both models by adding arrows to both models to show the radiant heat in each container.
     
+
+
+
 3.  Edit/Add to Model 2 to show additional CO2 from the experiment. 
     
 4.  In Model 2, place additional arrows to show the radiant heat from the greenhouse gasses.
