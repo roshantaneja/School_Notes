@@ -4,9 +4,9 @@
   "textFontFamily": "DejaVu Sans Mono",
   "monospaceFontFamily": "IBM Plex Mono,VCR OSD Mono",
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Origami",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true
 }

@@ -72,13 +72,13 @@ Procedure:![|400](https://lh4.googleusercontent.com/OWPuoUab7auPeuYTPX-9AbhbZgI4
 Data Table 1- Temperature of Air Samples
 
 | Time (min) | Atmospheric Air Temperature, oC | Air + Added CO2 Temperature, oC |
-| ---------- | ------------------------------- | ------------------------------- |
-| 0          | 26.9                            | 28.1                            |
-| 1          | 28.3                            | 30.6                            |
-| 2          | 29.4                            | 33.5                            |
-| 3          | 29.7                            | 34.4                            |
-| 4          | 30                              | 34.8                            |
-| 5          | 30.2                            | 34.9                            | 
+| ----------:| -------------------------------:| -------------------------------:|
+|          0 |                            26.9 |                            28.1 |
+|          1 |                            28.3 |                            30.6 |
+|          2 |                            29.4 |                            33.5 |
+|          3 |                            29.7 |                            34.4 |
+|          4 |                            30.0 |                            34.8 |
+|          5 |                            30.2 |                            34.9 |
 ^temps
 
   
@@ -103,13 +103,12 @@ beginAtZero: false
 # Analysis Questions: 
 
 2.  What was the overall temperature change for the atmospheric air only container?
-    
 
-  
+3.3 degrees
 
 3.  What was the overall temperature change for the atmospheric carbon dioxide container?
     
-
+6.8 degrees
   
 
 4.  The diagram shows models and the percent composition of the molecules in the air. 
