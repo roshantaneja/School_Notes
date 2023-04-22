@@ -2,6 +2,7 @@
 tags: 
   - chemistry
 title: L6.1
+due: 2022-10-25
 ---
 
 **Lesson 6.1: What is happening to oysters on the West Coast?
