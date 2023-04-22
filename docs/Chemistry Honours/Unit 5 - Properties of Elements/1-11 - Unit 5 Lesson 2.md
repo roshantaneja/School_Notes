@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+title: L5.2
+---
+
+
 ## What types of elements are in smartphones and how are they different from each other?
 
 QUESTION: What types of elements are in smartphones and how are they different from each other?

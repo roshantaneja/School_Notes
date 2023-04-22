@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+  - homework
+---
+
 # Homework: Smartphone Infographic 
 
   

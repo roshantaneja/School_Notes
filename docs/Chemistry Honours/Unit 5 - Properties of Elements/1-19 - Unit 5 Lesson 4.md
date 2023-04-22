@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L5.4
+---
+
 ## What reactions created the different elements in a cell phone?
 
 ### Learning Objectives: 

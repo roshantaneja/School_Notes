@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+title: L5.3
+---
+
+
 ## Where do all of the elements from your smartphone come from?
 
 QUESTION: Where do all of the elements in our smartphone come from?

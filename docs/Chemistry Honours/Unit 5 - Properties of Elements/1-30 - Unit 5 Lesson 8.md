@@ -1,3 +1,10 @@
+---
+tags: 
+  - chemistry
+title: L5.8
+---
+
+
 ## L5.8 Student Sheet
 *How many atoms are in your smartphone?
 

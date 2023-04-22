@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+  - homework
+---
+
 # Chem HW - CALCULATIONS OF COPPER CYCLE LABORATORY
 
 #### The Copper Cycle Diagram:  One way to summarize the Copper Cycle Laboratory is to follow the procedure as an actual cycle using this graphic.  Review this cycle and complete the table below.

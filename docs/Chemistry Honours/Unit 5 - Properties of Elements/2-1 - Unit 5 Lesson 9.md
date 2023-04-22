@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L5.9
+---
+
 ```
 Lesson 5.9: How can we extract and purify copper?
 ```

@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L5.10
+---
+
 **Step 1:**  “Colorless nitric acid is added to solid orange-brown copper powder, resulting in a blue-green solution, a brown gas, and liquid water.”
 
 HNO is added to Cu, resulting in Cu(NO<sub>3</sub>)<sub>2</sub>(aq) and NO<sub>2</sub> and H<sub>2</sub>O.

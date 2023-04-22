@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L5.6
+---
+
 ## What's inside a smartphone?
 
 ### Learning Objectives: 

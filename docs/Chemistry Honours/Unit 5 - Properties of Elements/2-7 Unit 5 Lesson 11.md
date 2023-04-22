@@ -1,3 +1,9 @@
+---
+tags: 
+  - chemistry
+title: L5.11
+---
+
 *What should we do at the end of the life of a smartphone? Reuse? Recycle? Dispose of?
 
   
