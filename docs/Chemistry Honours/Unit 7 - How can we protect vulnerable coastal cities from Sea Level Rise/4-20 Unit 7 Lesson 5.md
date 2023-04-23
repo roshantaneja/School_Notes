@@ -199,9 +199,8 @@ $25*10^{22}$
 
 3.  How does the change in CO2 levels from Question #7 and change in temperature in the atmosphere from Question #8 compared to the heat content of the ocean?
     
+The heat content of the ocean is going up at a much faster rate than that of the co2
 
-  
-  
 
 4.  Can you offer an explanation for the correlation? 
     
