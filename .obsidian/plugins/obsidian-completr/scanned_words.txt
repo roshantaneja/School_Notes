@@ -330,6 +330,7 @@ Lead
 Locating
 Luster
 Linear
+Light
 Why
 Which
 Write
@@ -843,6 +844,7 @@ isotopic
 improves
 iodide
 index
+infrared
 there
 the
 type
@@ -1191,6 +1193,7 @@ throwing
 template
 touchscreen
 tin
+trapped
 an
 are
 and
@@ -1630,6 +1633,7 @@ aid
 abbreviation
 antimicrobial
 anomalies
+absorption
 volume
 very
 volHeatedWater
@@ -2428,6 +2432,7 @@ Particle
 PRACTICE
 PROBLEMS
 PbCO
+Phet
 Investigation
 Ice
 ICE
@@ -2637,6 +2642,7 @@ Imagery
 Isotopic
 Isotopes
 Ionic
+Infrared
 contributing
 cryosphere
 claim
@@ -3311,6 +3317,8 @@ corrode
 casings
 corrosion
 cadmium
+click
+categorize
 sea
 stating
 saltwater
@@ -3919,6 +3927,8 @@ stops
 spaces
 screens
 semiconductor
+sunlight
+shooting
 level
 learned
 land
@@ -4184,6 +4194,7 @@ luke
 latex
 longevity
 lightweight
+loaded
 rise
 rendering
 read
@@ -4590,6 +4601,7 @@ reusing
 reused
 resistance
 roman
+reflected
 From
 Funnel
 Final
@@ -5270,6 +5282,8 @@ Beta
 Brittle
 Bromine
 Binary
+Begin
+Being
 happen
 help
 hydrosphere
@@ -5471,6 +5485,7 @@ happiness
 homeland
 holy
 humanize
+hits
 freshwater
 for
 funnel
@@ -6527,6 +6542,7 @@ Metalloid
 Malleable
 Metaloid
 MnI
+Molecule
 beaker
 boat
 blue
@@ -6769,6 +6785,7 @@ bullets
 beta
 blank
 benches
+behavior
 NaCl
 National
 NSIDC
@@ -7494,6 +7511,7 @@ Classify
 Cobalt
 Cation
 Charges
+CCl
 Using
 Use
 University
@@ -8753,6 +8771,7 @@ eis
 enlightening
 empathy
 exponentially
+exposed
 You
 Years
 Your
@@ -8830,6 +8849,7 @@ Yau
 Yes
 YOUR
 Yellow
+YOU
 need
 nearly
 not
@@ -9019,6 +9039,7 @@ nonmetal
 numerals
 numeral
 nitride
+nitrous
 pieces
 position
 percent
@@ -9511,6 +9532,10 @@ phosphorous
 parentheses
 parenthesis
 phosphide
+pass
+photon
+photons
+passes
 Record
 Read
 Readings
@@ -9817,6 +9842,7 @@ Vinegar
 Very
 VIIA
 VII
+Visible
 questions
 quarters
 question
@@ -10099,6 +10125,7 @@ Testing
 Tin
 TIP
 Titanium
+THINK
 After
 AND
 Antarctic
@@ -10343,6 +10370,9 @@ ALL
 Alpha
 Anion
 AgCl
+ACTIVITY
+Argon
+Ar
 DATA
 Doyle
 Data
@@ -10546,6 +10576,7 @@ DISPOSE
 Decide
 Distinguish
 Dust
+Directions
 OF
 Observations
 Oceans
@@ -11218,6 +11249,8 @@ Jazz
 Jesus
 Jamboards
 Jamboard
+Justify
+Justification
 Knight
 Known
 Kingdom

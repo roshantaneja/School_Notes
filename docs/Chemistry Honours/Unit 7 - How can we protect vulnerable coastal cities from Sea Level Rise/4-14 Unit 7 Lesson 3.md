@@ -4,7 +4,7 @@ tags:
 title: L7.3
 ---
 
-**Lesson 7.3 : How much energy does it take to melt a glacier?                      
+*Lesson 7.3 : How much energy does it take to melt a glacier?                      
 
 # Review
 

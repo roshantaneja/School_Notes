@@ -4,7 +4,7 @@ tags:
 title: L7.4
 ---
 
-**Lesson 7.4:  Why does the ocean hold heat so well?
+*Lesson 7.4:  Why does the ocean hold heat so well?
 
 1. What did we learn last class about sea level rise? Complete the IMT for Lesson 3.![graph|400](https://lh3.googleusercontent.com/qtwBm_VZ6SJD9cdyqe4Zk5gqUrlJlGwe_7xL-YqijSR796UhilOS6crnjnD5AOJiSJZQrDNywIR4f_aHiUZtKr-KfB6r038_PvFcUAYB7atawZ4Gq4Rdp3AbrvqXzESCpRTAbNGnEV04)
     

@@ -3,7 +3,7 @@ tags: [chemistry]
 title: L7.5
 ---
 
-**Lesson 7.5 : Where is the heat coming from  to warm the oceans? 
+*Lesson 7.5 : Where is the heat coming from  to warm the oceans? 
 
 1.  What did we learn last class about sea-level rise? Complete the IMT for Lesson 4.
     
