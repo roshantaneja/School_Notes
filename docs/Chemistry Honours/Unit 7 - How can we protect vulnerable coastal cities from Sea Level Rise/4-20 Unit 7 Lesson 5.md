@@ -143,18 +143,16 @@ beginAtZero: false
 ![|400](https://lh4.googleusercontent.com/pxzxF_O6Ejlrtqp1uwb2CoE344p2QM-kSC1jp-oEZ5hFtaDsJNg7qnS2hgY6LnC-DXryxeeN3cnK42x_ueMv92SsiTwvkqwAurF7QIqenjel45PtpMJvZknXGW3azWQigpmHNC9W4wGhrI0fHUeTpAc)
 
 1.  What is the current CO2 level?
-    
 
-  
+420 ppm
 
 2.  What does the unit of ppm mean?
     
-
-  
+parts of carbon dioxide per million parts of "air"
 
 3.  How would you describe the trend in CO2 levels in the atmosphere?
-    
-  
+
+Linear trend upward.
 
 7.   Compare CO2 levels to the [NASA Global Climate Change Global Temperature](https://climate.nasa.gov/vital-signs/global-temperature/).
 
@@ -162,8 +160,7 @@ beginAtZero: false
 
 1.  The y-axis is not reporting the outside temperature. What is the y-axis actually reporting? 
     
-
-  
+Temperature anomalies in the land ocean temp index
 
 2.  How would you describe the trend in atmospheric temperature?
     
@@ -191,15 +188,13 @@ beginAtZero: false
 ![|400](https://lh3.googleusercontent.com/A2duuzwhp2OhfbXfvmlWPr6-r6jgcSVto1y1Mzr6iDobnrXhYmfc8En4QK3BjJaDPagUWsKRtmHezA9c33KoELdh20xaUBLN_eV-clSyiIjj6lmd_IV271H_SdvEjNlfZ0KhpQ7c8kasDHbSsBu8Cg)
 
 1.  How would you describe the trend in the heat content of the ocean?
-    
 
-  
+The trend is increasing exponentially, and is showing a constant growth in rate of change.
   
 
 2.  Based on the data and heat content trend, what do you think the current heat content of the ocean is approximately?
     
-
-  
+$25*10^{22}$
   
 
 3.  How does the change in CO2 levels from Question #7 and change in temperature in the atmosphere from Question #8 compared to the heat content of the ocean?
