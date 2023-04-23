@@ -142,6 +142,7 @@ Highly
 Human
 Hebrew
 Holy
+Horrors
 Lesson
 Label
 LAND
@@ -496,6 +497,7 @@ WORK
 WRITING
 Writing
 WANT
+Wade
 is
 increase
 in
@@ -845,6 +847,11 @@ improves
 iodide
 index
 infrared
+institution
+immorality
+injustice
+inequalities
+injustices
 there
 the
 type
@@ -1194,6 +1201,9 @@ template
 touchscreen
 tin
 trapped
+toll
+texts
+transatlantic
 an
 are
 and
@@ -1634,6 +1644,7 @@ abbreviation
 antimicrobial
 anomalies
 absorption
+abolitionist
 volume
 very
 volHeatedWater
@@ -1769,6 +1780,8 @@ vibrations
 vast
 vault
 vii
+vivid
+victims
 of
 ocean
 one
@@ -2180,6 +2193,7 @@ wealth
 wed
 waste
 wiring
+writer
 Part
 PROCEDURE
 Place
@@ -2433,6 +2447,8 @@ PRACTICE
 PROBLEMS
 PbCO
 Phet
+Passage
+Podcast
 Investigation
 Ice
 ICE
@@ -2643,6 +2659,7 @@ Isotopic
 Isotopes
 Ionic
 Infrared
+Intro
 contributing
 cryosphere
 claim
@@ -3319,6 +3336,7 @@ corrosion
 cadmium
 click
 categorize
+contemporary
 sea
 stating
 saltwater
@@ -3929,6 +3947,13 @@ screens
 semiconductor
 sunlight
 shooting
+slavery
+slave
+sorrow
+songs
+separation
+shedding
+sunken
 level
 learned
 land
@@ -4602,6 +4627,9 @@ reused
 resistance
 roman
 reflected
+rhetorical
+racial
+relevance
 From
 Funnel
 Final
@@ -4786,6 +4814,7 @@ Fission
 Foil
 Formulas
 FeCl
+Frederick
 Edpuzzle
 Earth
 Erylenmeyer
@@ -5284,6 +5313,7 @@ Bromine
 Binary
 Begin
 Being
+Beatsheet
 happen
 help
 hydrosphere
@@ -5486,6 +5516,9 @@ homeland
 holy
 humanize
 hits
+harrowing
+horrors
+horror
 freshwater
 for
 funnel
@@ -5781,6 +5814,8 @@ fleeing
 flight
 footprint
 fiber
+finished
+film
 melts
 model
 mix
@@ -6120,6 +6155,8 @@ manufactured
 metalloid
 manufacturing
 manganese
+music
+movie
 unusable
 using
 up
@@ -6306,6 +6343,7 @@ underbelly
 underprivileged
 unfamiliar
 upward
+unimaginable
 MATERIALS
 Make
 Mass
@@ -6786,6 +6824,8 @@ beta
 blank
 benches
 behavior
+book
+brutalities
 NaCl
 National
 NSIDC
@@ -6927,6 +6967,7 @@ Naming
 Nonmetal
 NonMetal
 Nickel
+Narrative
 graduated
 gas
 glaciers
@@ -7120,6 +7161,7 @@ green
 gray
 gamma
 gold
+glimpse
 Colored
 Cubes
 Cryosphere
@@ -7966,6 +8008,10 @@ SnCl
 Strontium
 Sr
 SrCO
+Slate
+Steal
+Slavery
+Segment
 dissolve
 dV
 designation
@@ -8350,6 +8396,11 @@ disposing
 decay
 discharge
 durability
+deepened
+dehumanizing
+descriptions
+devastating
+denial
 each
 enter
 equation
@@ -8772,6 +8823,13 @@ enlightening
 empathy
 exponentially
 exposed
+enslaved
+expertly
+employs
+emotional
+express
+equitable
+eventual
 You
 Years
 Your
@@ -9040,6 +9098,7 @@ numerals
 numeral
 nitride
 nitrous
+narrative
 pieces
 position
 percent
@@ -9536,6 +9595,12 @@ pass
 photon
 photons
 passes
+podcast
+pathos
+poignant
+persistent
+plague
+portrayal
 Record
 Read
 Readings
@@ -10373,6 +10438,7 @@ AgCl
 ACTIVITY
 Argon
 Ar
+Away
 DATA
 Doyle
 Data
@@ -10577,6 +10643,7 @@ Decide
 Distinguish
 Dust
 Directions
+Douglass
 OF
 Observations
 Oceans
@@ -11160,6 +11227,7 @@ junior
 jars
 jar
 jamboard
+justified
 John
 June
 July
