@@ -223,8 +223,7 @@ The heat content of the ocean is going up at a much faster rate than that of the
 
 2.  What is the unit of ppm?
     
-
-  
+1/1000000
 
 3.  Using today’s current level of CO2, how many kg of CO2 are in the atmosphere (mass of the atmosphere is 5.1480 x 1021g) using the equation
     
