@@ -143,6 +143,7 @@ Human
 Hebrew
 Holy
 Horrors
+Hercules
 Lesson
 Label
 LAND
@@ -332,6 +333,8 @@ Locating
 Luster
 Linear
 Light
+Lin
+Laurens
 Why
 Which
 Write
@@ -498,6 +501,7 @@ WRITING
 Writing
 WANT
 Wade
+War
 is
 increase
 in
@@ -852,6 +856,11 @@ immorality
 injustice
 inequalities
 injustices
+imagery
+ideals
+insight
+imagine
+identification
 there
 the
 type
@@ -1645,6 +1654,13 @@ antimicrobial
 anomalies
 absorption
 abolitionist
+aspirations
+ambition
+allusion
+ambitions
+anaphora
+adversity
+alludes
 volume
 very
 volHeatedWater
@@ -2194,6 +2210,8 @@ wed
 waste
 wiring
 writer
+women
+willingness
 Part
 PROCEDURE
 Place
@@ -3337,6 +3355,8 @@ cadmium
 click
 categorize
 contemporary
+clauses
+compel
 sea
 stating
 saltwater
@@ -3954,6 +3974,15 @@ songs
 separation
 shedding
 sunken
+song
+serves
+striving
+shot
+seize
+scrappy
+successive
+sequel
+showcases
 level
 learned
 land
@@ -4220,6 +4249,7 @@ latex
 longevity
 lightweight
 loaded
+lyrics
 rise
 rendering
 read
@@ -4630,6 +4660,16 @@ reflected
 rhetorical
 racial
 relevance
+revealed
+reinforced
+repetition
+reinforces
+references
+repeated
+rhythm
+restless
+rhyme
+reveals
 From
 Funnel
 Final
@@ -4815,6 +4855,7 @@ Foil
 Formulas
 FeCl
 Frederick
+Furthermore
 Edpuzzle
 Earth
 Erylenmeyer
@@ -5102,6 +5143,7 @@ yes
 younger
 yourself
 yellow
+young
 Both
 Blue
 Beaker
@@ -5519,6 +5561,10 @@ hits
 harrowing
 horrors
 horror
+humble
+himself
+hungry
+hunger
 freshwater
 for
 funnel
@@ -5816,6 +5862,8 @@ footprint
 fiber
 finished
 film
+fight
+fulfill
 melts
 model
 mix
@@ -6157,6 +6205,14 @@ manufacturing
 manganese
 music
 movie
+musical
+minded
+mma
+meter
+multisyllabic
+musicality
+memorable
+multifaceted
 unusable
 using
 up
@@ -6344,6 +6400,8 @@ underprivileged
 unfamiliar
 upward
 unimaginable
+urgency
+unwavering
 MATERIALS
 Make
 Mass
@@ -6581,6 +6639,9 @@ Malleable
 Metaloid
 MnI
 Molecule
+Manuel
+Miranda
+Mulligan
 beaker
 boat
 blue
@@ -6826,6 +6887,7 @@ benches
 behavior
 book
 brutalities
+beginnings
 NaCl
 National
 NSIDC
@@ -7162,6 +7224,9 @@ gray
 gamma
 gold
 glimpse
+gotta
+greatness
+gender
 Colored
 Cubes
 Cryosphere
@@ -8012,6 +8077,7 @@ Slate
 Steal
 Slavery
 Segment
+Shot
 dissolve
 dV
 designation
@@ -8401,6 +8467,8 @@ dehumanizing
 descriptions
 devastating
 denial
+desires
+determination
 each
 enter
 equation
@@ -8830,6 +8898,11 @@ emotional
 express
 equitable
 eventual
+evident
+emphasize
+equality
+energetic
+eagerness
 You
 Years
 Your
@@ -9099,6 +9172,7 @@ numeral
 nitride
 nitrous
 narrative
+nation
 pieces
 position
 percent
@@ -9601,6 +9675,12 @@ poignant
 persistent
 plague
 portrayal
+phrases
+progressive
+paced
+personality
+pointed
+portrays
 Record
 Read
 Readings
@@ -9808,6 +9888,9 @@ Rechargable
 Reduces
 Reasoning
 Radiation
+Repetition
+Revolutionary
+Rhythm
 Vi
 Vf
 VOLUME
@@ -9978,6 +10061,7 @@ quantify
 qualifiers
 quickly
 quotations
+quo
 The
 Types
 TABLE
@@ -10439,6 +10523,8 @@ ACTIVITY
 Argon
 Ar
 Away
+Allusion
+Anaphora
 DATA
 Doyle
 Data
@@ -11319,6 +11405,7 @@ Jamboards
 Jamboard
 Justify
 Justification
+Jefferson
 Knight
 Known
 Kingdom
