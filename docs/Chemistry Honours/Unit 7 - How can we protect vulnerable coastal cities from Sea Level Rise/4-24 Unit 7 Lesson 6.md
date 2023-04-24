@@ -76,7 +76,7 @@ Materials
 
   
 
-Investigation 1: Boyle's Law
+## Investigation 1: Boyle's Law
 
 1.  Grab your syringe and remove the plunger so the plunger and plastic barrel of the syringe are separated.
     
@@ -120,7 +120,7 @@ Data Table - Investigation 1: Boyle's Law
 
   
 
-Investigation 2: Charles’ Law
+## Investigation 2: Charles’ Law
 
 1.  Blow up a balloon to about the diameter of a grapefruit.
     
@@ -141,27 +141,10 @@ Data Table - Investigation 2: Charles Law
 
 
 
-Balloon during heating  & during cooling
-
-Observations of what happened to the balloon.
-
-What variables changed? (Pressure, Volume, Temperature)
-
-Which variable stays constant? (Pressure, Volume, Temperature)
-
-What is the Relationship between the changing variables?  (Direct or Inverse)
-
-At room temperature 
-
-  
-
-  
-
-  
-
-  
-
-During Cooling
+| Balloon during heating  & during cooling | Observations of what happened to the balloon. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
+| ---------------------------------------- | --------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| At room temperature                      |                                               |                                                         |                                                                |                                                                               |
+| During Cooling                           |                                               |                                                         |                                                                |                                                                               |
 
   
 
@@ -173,7 +156,7 @@ During Cooling
 
   
 
-Investigation 3: Gay-Lussac’s Law
+## Investigation 3: Gay-Lussac’s Law
 
 1.  Place the tea light in the middle of the petri dish.
     
@@ -194,27 +177,11 @@ Investigation 3: Gay-Lussac’s Law
 
 Data Table - Investigation 3: Gay-Lussac’s Law
 
-Water Level 
 
-Observations of what happened to the water level.
-
-What variables changed? (Pressure, Volume, Temperature)
-
-Which variable stays constant? (Pressure, Volume, Temperature)
-
-What is the Relationship between the changing variables?  (Direct or Inverse)
-
-After the flame is extinguished
-
-  
-
-  
-
-  
-
-  
-
-After beaker is removed
+| Water Level                     | Observations of what happened to the water level. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
+| ------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| After the flame is extinguished |                                                   |                                                         |                                                                |                                                                               |
+| After beaker is removed         |                                                   |                                                         |                                                                |                                                                               |
 
   
 
@@ -226,7 +193,7 @@ After beaker is removed
 
   
 
-Investigation 4: Avogadro’s Law
+## Investigation 4: Avogadro’s Law
 
 1.  Obtain your empty balloon and scale. 
     
@@ -247,33 +214,12 @@ Investigation 4: Avogadro’s Law
 
 Data Table - Investigation 4: Avogadro’s Law
 
-Blowing up balloon 
 
-Observations of balloon
 
-Mass (g) of balloon
-
-What variables changed? (Mass, Pressure, Volume, Temperature)
-
-What variables stayed constant? 
-
-(Mass, Pressure, Volume, Temperature)
-
-Relationship between the changing variables?  (Direct or Inverse)
-
-Before filled with air 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-After filled with air
+| Blowing up balloon     | Observations of balloon | Mass (g) of balloon | What variables changed? (Mass, Pressure, Volume, Temperature) | What variables stayed constant? (Mass, Pressure, Volume, Temperature) | Relationship between the changing variables?  (Direct or Inverse) |
+| ---------------------- | ----------------------- | ------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Before filled with air |                         |                     |                                                               |                                                                       |                                                                   |
+| After filled with air  |                         |                     |                                                               |                                                                       |                                                                   |
 
   
 
@@ -290,12 +236,12 @@ After filled with air
 Analysis Questions: 
 
 1.  Explain the relationship between pressure and volume using evidence from your investigation.
-    
 
+pressure and volume are inversely related
   
 
 2.  Explain the relationship between temperature and volume using evidence from your investigation.
-    
+
 
   
 
