@@ -142,8 +142,8 @@ Data Table - Investigation 2: Charles Law
 
 | Balloon during heating  & during cooling | Observations of what happened to the balloon. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
 | ---------------------------------------- | --------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| At room temperature                      |                                               |                                                         |                                                                |                                                                               |
-| During Cooling                           |                                               |                                                         |                                                                |                                                                               |
+| At room temperature                      | regular balloon                               | none                                                    | volume, n, temp, pressure                                      | none                                                                          |
+| During Cooling                           | baloon shrank                                 | volume, temp                                            | pressure, n                                                    | temp direct to volume                                                                              |
 
   
 
@@ -179,8 +179,8 @@ Data Table - Investigation 3: Gay-Lussac’s Law
 
 | Water Level                     | Observations of what happened to the water level. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
 | ------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| After the flame is extinguished | water got sucked into the cup                     | pressure, temperature, volume                           | number of particles                                            | pressure inverse to volume, temp direct to pressure and volume.               |
-| After beaker is removed         | water fell out of cup                             | pressure, volume                                        | number of particles, temperature                               |                                                                               |
+| After the flame is extinguished | water got sucked into the beaker                  | pressure, temperature, volume                           | number of particles                                            | pressure inverse to volume, temp direct to pressure and volume.               |
+| After beaker is removed         | water fell out of beaker                          | pressure, volume                                        | number of particles, temperature                               |                                                                               |
 
   
 
@@ -215,39 +215,25 @@ Data Table - Investigation 4: Avogadro’s Law
 
 
 
-| Blowing up balloon     | Observations of balloon | Mass (g) of balloon | What variables changed? (Mass, Pressure, Volume, Temperature) | What variables stayed constant? (Mass, Pressure, Volume, Temperature) | Relationship between the changing variables?  (Direct or Inverse) |
-| ---------------------- | ----------------------- | ------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Before filled with air |                         |                     |                                                               |                                                                       |                                                                   |
-| After filled with air  |                         |                     |                                                               |                                                                       |                                                                   |
+| Blowing up balloon     | Observations of balloon | Mass (g) of balloon | What variables changed? (Mass, Pressure, Volume, Temperature) | What variables stayed constant? (Mass, Pressure, Volume, Temperature) | Relationship between the changing variables?  (Direct or Inverse)                                                    |
+| ---------------------- | ----------------------- | ------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Before filled with air | deflated                | 3.00 g              | none                                                          | none                                                                  |                                                                                                                      |
+| After filled with air  | inflated                | 3.03 g              | mass, n, pressure, volume                                     | temp                                                                  | pressure direct to n, pressure direct to mass, volume direct to n, volume direct to mass, volume inverse to pressure |
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Analysis Questions: 
 
 1.  Explain the relationship between pressure and volume using evidence from your investigation.
 
-pressure and volume are inversely related
-  
+	pressure and volume are inversely related
 
 2.  Explain the relationship between temperature and volume using evidence from your investigation.
 
-
-  
+	temp and volume are directly related
 
 3.  Explain the relationship between pressure and temperature using evidence from your investigation.
-    
 
-  
+	
 
 4.  Which graph best represents the relationships of the gas variables?  *You can delete the option that is not applicable in a, b, and c below.
     
