@@ -179,8 +179,8 @@ Data Table - Investigation 3: Gay-Lussac’s Law
 
 | Water Level                     | Observations of what happened to the water level. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
 | ------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| After the flame is extinguished |                                                   |                                                         |                                                                |                                                                               |
-| After beaker is removed         |                                                   |                                                         |                                                                |                                                                               |
+| After the flame is extinguished | water got sucked into the cup                     | pressure, temperature, volume                           | number of particles                                            | pressure inverse to volume, temp direct to pressure and volume.               |
+| After beaker is removed         | water fell out of cup                             | pressure, volume                                        | number of particles, temperature                               |                                                                               |
 
   
 
