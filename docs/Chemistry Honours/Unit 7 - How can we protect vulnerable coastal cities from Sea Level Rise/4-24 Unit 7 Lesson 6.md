@@ -7,9 +7,9 @@ title: L7.6
 
 1.  Let’s review lesson L 7.4 with a calorimetry problem. Remember q = mC∆T. How much energy, in Joules, would it take to heat 250 mL of water (specific heat water 4.184 J/g°C) from 20°C to 37°C? How much energy in calories (specific heat water 1.00 cal/g°C)
 
-q = 250g * 4.184 * 17 = 17782
+$q_{J} = 250g * 4.184 * 17 = 17782 J$
 
-q_c = 4250
+$q_c = 4250 C$
   
 
 2.  Recalling our previous lesson, [‘Global Warming or None Like it Hot!](https://youtu.be/OqVyRa1iuMc)’ 
