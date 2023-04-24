@@ -84,7 +84,6 @@ Materials
     
 3.  Insert the plunger and push the plunger down to the point where the plunger is slightly touching the marshmallow. 
     
-
 4.  Twist the black cap onto the hub and secure it tightly.
     
 5.  Once the cap is secure, pull up on the plunger while holding the barrel in place.  Make the observations in the table below.
@@ -107,8 +106,8 @@ Data Table - Investigation 1: Boyle's Law
 
 | Plunger Position        | Observations of what happened to the marshmallow. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
 | ----------------------- | ------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Plunger was pulled up   |                                                   |                                                         |                                                                |                                                                               |
-| Plunger was pushed down |                                                   |                                                         |                                                                |                                                                               |
+| Plunger was pulled up   | Expanded                                          | Volume, pressure                                        | Temperature, mass                                              | pressure inverse to volume                                                    |
+| Plunger was pushed down | crumpled                                          | volume, pressure                                        | temperature, mass                                              | Pressure inverse to volume                                                                              |
 
   
 
