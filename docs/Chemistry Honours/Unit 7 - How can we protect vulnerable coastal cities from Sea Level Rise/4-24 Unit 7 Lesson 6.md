@@ -100,39 +100,15 @@ Investigation 1: Boyle's Law
 10.  Complete the questions in the data table below.
     
 
-  
-  
-  
-  
-  
-  
-  
 
 Data Table - Investigation 1: Boyle's Law
 
-Plunger 
 
-Position
 
-Observations of what happened to the marshmallow.
-
-What variables changed? (Pressure, Volume, Temperature)
-
-Which variable stays constant? (Pressure, Volume, Temperature)
-
-What is the Relationship between the changing variables?  (Direct or Inverse)
-
-Plunger was pulled up
-
-  
-
-  
-
-  
-
-  
-
-Plunger was pushed down
+| Plunger Position        | Observations of what happened to the marshmallow. | What variables changed? (Pressure, Volume, Temperature) | Which variable stays constant? (Pressure, Volume, Temperature) | What is the Relationship between the changing variables?  (Direct or Inverse) |
+| ----------------------- | ------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Plunger was pulled up   |                                                   |                                                         |                                                                |                                                                               |
+| Plunger was pushed down |                                                   |                                                         |                                                                |                                                                               |
 
   
 
@@ -162,6 +138,8 @@ Investigation 2: Charles’ Law
   
 
 Data Table - Investigation 2: Charles Law
+
+
 
 Balloon during heating  & during cooling
 
