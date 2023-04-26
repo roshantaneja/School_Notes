@@ -27,24 +27,26 @@ Gas Variable, n: How are the number of particles increasing in the atmosphere?
 
 Let’s review the relationships that we learned last class about how gases behave.
 
-| Gas Law     | Relationship amongst Variables | Equation                                                          |
-| ----------- | ------------------------------ | ----------------------------------------------------------------- |
-| Boyles laws | V ∝ 1P                         | P1V1 = P2V2  where PV = k <br> Moles and Temperature are constant |
-| Charles law | V ∝ T                          | V_1/T_1 = V_2/T_2                                                                  |
+| Gas Law       | Relationship amongst Variables | Equation                                                          |
+| ------------- | ------------------------------ | ----------------------------------------------------------------- |
+| Boyles laws   | V ∝ 1/P                        | P1V1 = P2V2  where PV = k <br> Moles and Temperature are constant |
+| Charles law   | V ∝ T                          | V_1/T_1 = V_2/T_2  <br> Moles and Pressure are constant           |
+| Lussacs Law   | P ∝ T                          | P_1/T_1 = P_2/T_2 <br> Moles and Volume are constant              |
+| Avogadros Law | V ∝ n                          | V_1/n_1 = v_2/n_2 <br>  Pressure and Volume are constant          |
 
-Moles and Pressure are constant
 
-Lussacs Law
-P ∝ T
+
+
+
         , where PT = k
 
-Mol and Volume are constant
 
-Avogadros Law
-V ∝ n
+
+
+
         , where Vn = k
  
-Pressure and Volume are constant
+
 
 
 
@@ -62,18 +64,18 @@ What would be the mathematical relationship if you combined all of the gas laws 
 
 As you can see from the answer to ‘e’, to understand gases, scientists are working with 8 variables. In working with gases, scientists must consider both the initial and final conditions of each of the base variables P, V, n, and T. One way that chemists simplify the calculation and their models are by combining the initial conditions to a set of standard conditions listed here. If n= 1 mole; P= 1 atm; V = 22.4 L; and T = 273 K; what is the numerical value of  PVnT?  Include all units.
 
+R, 0.0821
 
 
+This value is given the variable, R, and is called the Universal Gas Constant. The Universal Gas Constant combines all of the gas laws and can be used to describe the behavior of any gas. We can rewrite your answer to question ‘5e’ to be PV = nRT.  Let’s practice using PV=nRT, where R = 0.0821 Latm/molK
 
-This value is given the variable, R, and is called the Universal Gas Constant. The Universal Gas Constant combines all of the gas laws and can be used to describe the behavior of any gas. We can rewrite your answer to question ‘5e’ to be PV = nRT.  Let’s practice using PV=nRT, where R = 0.0821 LatmmolK
-
- A student last class placed 0.04 moles of air into the balloon that they massed.  At SHP, the air pressure is usually 1.07 atm and the temperature was 297 K (24°C).  What is the volume of the balloon? (R = 0.0821 LatmmolK)
-
+ A student last class placed 0.04 moles of air into the balloon that they massed.  At SHP, the air pressure is usually 1.07 atm and the temperature was 297 K (24°C).  What is the volume of the balloon? (R = 0.0821 Latm/molK)
 
 
+0.921 Liters
 
 
-At the top of Mount Everest, a balloon has a volume of 2.0 L, the air pressure is 0.30 atm, and a temperature of 264 K (-9°C).  How many moles of gas are in the balloon?   (R = 0.0821 LatmmolK)
+At the top of Mount Everest, a balloon has a volume of 2.0 L, the air pressure is 0.30 atm, and a temperature of 264 K (-9°C).  How many moles of gas are in the balloon?   (R = 0.0821 Latm/molK)
 
 
 
