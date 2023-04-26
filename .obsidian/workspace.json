@@ -11,8 +11,13 @@
             "id": "7e9c0bdcd90dfc3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md"
+              }
             }
           },
           {
@@ -134,8 +141,8 @@
   },
   "active": "7e9c0bdcd90dfc3e",
   "lastOpenFiles": [
-    "docs/README.md",
     "docs/English/Hamilton/Paragraph Explication.md",
+    "docs/README.md",
     "docs/English/Hamilton",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
     "docs/Hebrew Scriptures/Christian Scripture/April/Jesus Christ Superstar.md",
@@ -159,9 +166,4 @@
     "docs/javascripts",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Untitled.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "README.md",
-    "docs/Chemistry Honours/README.md",
-    "Daily Notes/2023-04-15.md"
-  ]
-}
+    "docs/Chemistry Honours
