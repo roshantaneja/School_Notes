@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc471bc021eb394",
+        "id": "4d9c3e27310d1bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9c0bdcd90dfc3e",
+            "id": "1d3bf2c81f1b66ef",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0e76ad1c14ce198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md"
+              }
             }
           },
           {
@@ -113,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,21 +143,21 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e9c0bdcd90dfc3e",
+  "active": "b0e76ad1c14ce198",
   "lastOpenFiles": [
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
-    "docs/English/Hamilton/Paragraph Explication.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
     "docs/README.md",
+    "docs/English/Hamilton/Paragraph Explication.md",
     "docs/English/Hamilton",
     "docs/Hebrew Scriptures/Christian Scripture/April/Jesus Christ Superstar.md",
     "docs/Hebrew Scriptures/Christian Scripture/April",
