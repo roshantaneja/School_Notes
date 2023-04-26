@@ -99,12 +99,10 @@ Procedure
 Use a thermometer to take the temperature in the room. Enter in the data table below.
 Calculate the temperature in Kelvin
 
-Temperature data
-Temperature of air (oC)
 
-
-Temperature of air (oK)Kelvin 
-oK = oC + 273
+| Temperature of air (oC)       |     |
+| ----------------------------- | --- |
+| Temperature of air (oK)Kelvin |     |
 
 
 
@@ -120,16 +118,16 @@ With a marking pen or piece of tape, mark the volume of air on the bottle.
 Figure out the volume of the air trapped inside the bottle. Record this volume.  
 Repeat the procedure for each person in the group. Replace the straw for each  new person. 
 Volume data
-Initial Volume of Water (mL)
 
 
-Final Volume of Water (mL)
+| Initial Volume of Water (mL) |     |
+| ---------------------------- | --- |
+| Final Volume of Water (mL)   |     |
 
 
-Volume of Air in 1 breath (mL)
-
-
-Voulme of Air in 1 breath (L)
+| Volume of Air in 1 breath (mL) |     |
+| ------------------------------ | --- |
+| Voulme of Air in 1 breath (L)  |     |
 
 
 
@@ -139,10 +137,9 @@ Use your favorite internet search engine to find the barometric pressure in Athe
 Convert the barometric pressure to atmospheres(atm) using the conversion factor below.
 
 Pressure Data 
-Barometric Pressure (in. Hg)
-
-
-Convert in. of Hg to atm
+| Barometric Pressure (in. Hg) |     |
+| ---------------------------- | --- |
+| Convert in. of Hg to atm     |     | 
 (1atm = 29.92 in. Hg)
 
 
