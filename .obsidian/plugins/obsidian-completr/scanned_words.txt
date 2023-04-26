@@ -218,6 +218,7 @@ HvDpsf
 Hr
 HdXt
 Hrv
+HERE
 Lesson
 Label
 LAND
@@ -477,6 +478,9 @@ LOe
 LdrD
 LTFLgPG
 LAipt
+LIBRARY
+Lucas
+Leaving
 Why
 Which
 Write
@@ -705,6 +709,10 @@ WpNyO
 WgMdjhh
 WHoPea
 Wev
+Wikipedia
+Wrote
+Was
+WRITE
 is
 increase
 in
@@ -1132,6 +1140,8 @@ ikcGdcL
 iyx
 iGkjNNod
 ijB
+interesting
+intriguing
 there
 the
 type
@@ -1547,6 +1557,12 @@ tyUDiErShhX
 tPjzhkBI
 tWWybh
 tNF
+timeline
+topics
+tiresome
+tunneling
+tune
+typed
 an
 are
 and
@@ -2075,6 +2091,10 @@ asUm
 aak
 aO
 aEbEuoaG
+assignments
+accomplishments
+amendment
+authored
 volume
 very
 volHeatedWater
@@ -2817,6 +2837,8 @@ wmCgMCKrcJQlc
 wfo
 wYG
 wMbNvaIJyABwQAAAABJRU
+wikipedia
+wiki
 Part
 PROCEDURE
 Place
@@ -3427,6 +3449,8 @@ IRNuQJJMRDB
 IUFmHxIkaYJBalMu
 IlblOOumkMGTIkJh
 IGIEWI
+Iran
+IDEA
 contributing
 cryosphere
 claim
@@ -4185,6 +4209,9 @@ cQw
 cRtiXjfrag
 czdA
 cuUJ
+closely
+consulting
+chunks
 sea
 stating
 saltwater
@@ -4877,6 +4904,18 @@ sbp
 sfAoUjYy
 sPeXgV
 sVWcP
+scholarly
+secondary
+store
+surgery
+searches
+searching
+searched
+skim
+spinning
+select
+straight
+spaced
 level
 learned
 land
@@ -5205,6 +5244,10 @@ lzzUd
 lS
 lGKlpPW
 landmasses
+locate
+librarians
+librarian
+localize
 rise
 rendering
 read
@@ -5684,6 +5727,9 @@ rjkT
 rdiy
 rBEwAoVDICVjVP
 rpaXfsTV
+reviews
+repeating
+rough
 From
 Funnel
 Final
@@ -5933,6 +5979,9 @@ FHHRUOO
 FFFNEb
 FsgEjH
 FEU
+Finkleman
+Focus
+FACT
 Edpuzzle
 Earth
 Erylenmeyer
@@ -6212,6 +6261,8 @@ ExMxntiz
 EVVZZJTz
 EdwXRTRsAItD
 ErkJggg
+Educated
+EVERY
 you
 your
 years
@@ -6364,6 +6415,7 @@ ywUl
 yTe
 yqziRT
 yFmahdvsskmUWo
+yours
 Both
 Blue
 Beaker
@@ -6640,6 +6692,7 @@ BKIXqA
 BFSiUb
 BAJ
 BPBPLIGPW
+Book
 happen
 help
 hydrosphere
@@ -7267,6 +7320,9 @@ fvDusf
 ftt
 fyjtRimya
 fluctuation
+fewer
+fields
+font
 melts
 model
 mix
@@ -7675,6 +7731,7 @@ moy
 miqNWE
 msIhSWjFs
 muromqG
+medical
 unusable
 using
 up
@@ -7907,6 +7964,7 @@ uMbFNcE
 uMlXRHUrs
 uxNqdrF
 uRKI
+unsuccessful
 MATERIALS
 Make
 Mass
@@ -8216,6 +8274,8 @@ MLvHKf
 MZCdNTRrgx
 MMPh
 MoLAua
+MLA
+MUST
 beaker
 boat
 blue
@@ -8770,6 +8830,9 @@ NkiZ
 NNPbeNo
 NrHWvj
 NRl
+Narrowing
+Noodle
+NOODLE
 graduated
 gas
 glaciers
@@ -9008,6 +9071,8 @@ gde
 gxZ
 gnbbLNNGDhwYHTMInSJ
 gz
+getting
+grab
 Colored
 Cubes
 Cryosphere
@@ -9460,6 +9525,13 @@ CkHkizk
 CSMSQMZ
 CgHua
 CGpt
+CITATION
+Cited
+Contra
+Cancer
+Choose
+CHOOSE
+Capone
 Using
 Use
 University
@@ -10065,6 +10137,13 @@ SteybsSprVYPqNn
 SliTPVO
 ScTXrr
 Sxr
+Starter
+Secure
+Scandal
+Search
+SOURCE
+STATISTIC
+SUCCESS
 dissolve
 dV
 designation
@@ -10531,6 +10610,7 @@ dWl
 dcT
 dXSFw
 dfwhDXpavJ
+dates
 each
 enter
 equation
@@ -11033,6 +11113,7 @@ emc
 euzirHWWkcNfWf
 expelled
 explored
+export
 You
 Years
 Your
@@ -11431,6 +11512,7 @@ nUerPJaz
 nKVzUZEw
 nXfl
 nGq
+necessity
 pieces
 position
 percent
@@ -12023,6 +12105,13 @@ pRmGDCCeMZcPCacIIJ
 pXTv
 pCypdJwY
 popping
+paragraphs
+places
+publication
+peer
+paraphrasing
+plagiarism
+peripheral
 Record
 Read
 Readings
@@ -12291,6 +12380,10 @@ RmBNLxJDz
 RL
 Roh
 Rlz
+Robinson
+Ronald
+Reagan
+REMINDER
 Vi
 Vf
 VOLUME
@@ -12572,6 +12665,8 @@ qOHcVvYZcUSfzglhRJ
 qEcs
 qcxAo
 qVo
+queens
+queen
 The
 Types
 TABLE
@@ -12869,6 +12964,14 @@ TYFzRD
 TdpMxk
 TuKdKErGkZC
 TjN
+Topic
+Try
+Topics
+Tools
+TOOLS
+TAKE
+TIPS
+TWO
 After
 AND
 Antarctic
@@ -13198,6 +13301,10 @@ AzEZNxdvn
 AizvagQ
 AvTjaknEvwPKuRqCdEegO
 AfBr
+Academic
+Ask
+ADD
+Avoid
 DATA
 Doyle
 Data
@@ -13452,6 +13559,7 @@ DQQQeFueeeuyQZp
 DhwwMpMlddddWwwQYbhJdffjnGHV
 DPEICMiQmW
 Dg
+Database
 OF
 Observations
 Oceans
@@ -13662,6 +13770,8 @@ OOPj
 OGvhdPXBBx
 OCD
 Ow
+Option
+ONE
 Greenland
 Geneva
 Gordon
@@ -14391,6 +14501,7 @@ jkae
 jUDbIgCpjgnffN
 jtvH
 jl
+journal
 John
 June
 July
@@ -14549,6 +14660,9 @@ JVqaYVMWuc
 JgvacMMNw
 JsiFw
 JuPe
+Jackie
+JOURNAL
+Journals
 Knight
 Known
 Kingdom

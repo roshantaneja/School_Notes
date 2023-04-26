@@ -50,8 +50,15 @@
             "id": "f105de37e2bedb51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "docs/History/Research Project/Research Project Canvas Board.canvas",
+                "viewState": {
+                  "x": 1190,
+                  "y": -400,
+                  "zoom": -1.562525111601401
+                }
+              }
             }
           }
         ],
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/Research Project Canvas Board.canvas"
+              }
             }
           },
           {
@@ -174,6 +183,10 @@
   },
   "active": "f105de37e2bedb51",
   "lastOpenFiles": [
+    "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/pt 4.md",
+    "docs/History/Research Project/Pt 3.md",
+    "docs/History/Research Project/Part 1.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
@@ -199,10 +212,6 @@
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-11 Unit 7 Lesson 1.md",
     "docs/javascripts/mathjax.js",
     "docs/javascripts",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
-    "Untitled.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "README.md",
-    "docs/Chemistry Honours/README.md"
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md"
   ]
 }

@@ -1,3 +1,7 @@
+---
+tags: [USHISTORY, research]
+---
+
 Welcome to the first phase of the sophomore research paper! Through a series of research assignments this year, you will work closely with your teacher to produce a scholarly research paper of 5-7 pages. You will practice consulting and interpreting a variety of types of primary and secondary sources, and you will also practice using MLA 9 citations correctly. 
 
 Put the name of the person you want to research in the box. Write a sentence or two about why this person is interesting to you. 
