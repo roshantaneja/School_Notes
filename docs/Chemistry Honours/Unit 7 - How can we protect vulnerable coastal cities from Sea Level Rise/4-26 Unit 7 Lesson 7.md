@@ -100,9 +100,9 @@ Use a thermometer to take the temperature in the room. Enter in the data table b
 Calculate the temperature in Kelvin
 
 
-| Temperature of air (oC)       |     |
+| Temperature of air (oC)       | 25  |
 | ----------------------------- | --- |
-| Temperature of air (oK)Kelvin |     |
+| Temperature of air (oK)Kelvin | 298 | 
 
 
 
@@ -120,14 +120,14 @@ Repeat the procedure for each person in the group. Replace the straw for each �
 Volume data
 
 
-| Initial Volume of Water (mL) |     |
-| ---------------------------- | --- |
-| Final Volume of Water (mL)   |     |
+| Initial Volume of Water (mL) | 2000 |
+| ---------------------------- | ---- |
+| Final Volume of Water (mL)   | 0    | 
 
 
-| Volume of Air in 1 breath (mL) |     |
-| ------------------------------ | --- |
-| Voulme of Air in 1 breath (L)  |     |
+| Volume of Air in 1 breath (mL) | 0    |
+| ------------------------------ | ---- |
+| Voulme of Air in 1 breath (L)  | 2000 | 
 
 
 
@@ -137,9 +137,9 @@ Use your favorite internet search engine to find the barometric pressure in Athe
 Convert the barometric pressure to atmospheres(atm) using the conversion factor below.
 
 Pressure Data 
-| Barometric Pressure (in. Hg) |     |
+| Barometric Pressure (in. Hg) |  29.95   |
 | ---------------------------- | --- |
-| Convert in. of Hg to atm     |     | 
+| Convert in. of Hg to atm     |  1   | 
 (1atm = 29.92 in. Hg)
 
 
@@ -149,12 +149,17 @@ Part 3: Data Analysis
 To determine the number of molecules of air in one breath, use the volume you determined from the experiment and the ideal gas,  PV = nRT where R = 0.082 L atm/mol K. 
 Calculating Moles in a Breath at in Atherton at Sea Level. Based on the data collected and the volume of your breath, use the ideal gas law to determine the number of moles of air molecules in one breath.
 
+n = PV/RT
+
+n = 1 * 2000/ 0.0821 * 298
+
+n = 81.74 Moles
 
 
 
-Calculating Moles in a Breath on a Mountaintop. Suppose you take a breath on a mountaintop at an altitude of 10,000 ft where the air pressure is 0.75 atm and the temperature is 20 °C (393 K). Use the ideal gas law to determine the number of moles of air molecules in one breath. 
+Calculating Moles in a Breath on a Mountaintop. Suppose you take a breath on a mountaintop at an altitude of 10,000 ft where the air pressure is 0.75 atm and the temperature is 20 °C (293 K). Use the ideal gas law to determine the number of moles of air molecules in one breath. 
 
-
+n = 0.75 * 2000/ 0.0821 * 293
 
 There are 602 sextillion, or 602,000,000,000,000,000,000,000, gas molecules in 1 mole.
 Calculate the number of gas molecules in a breath at sea level. 
