@@ -27,14 +27,10 @@ Gas Variable, n: How are the number of particles increasing in the atmosphere?
 
 Let’s review the relationships that we learned last class about how gases behave.
 
-| Gas Law     | Relationship amongst Variables | Equation                                                         |
-| ----------- | ------------------------------ | ---------------------------------------------------------------- |
+| Gas Law     | Relationship amongst Variables | Equation                                                          |
+| ----------- | ------------------------------ | ----------------------------------------------------------------- |
 | Boyles laws | V ∝ 1P                         | P1V1 = P2V2  where PV = k <br> Moles and Temperature are constant |
-|             |                                |                                                                  |
-
-Charles law
-V ∝ T
-       , where VT = k
+| Charles law | V ∝ T                          | V_1/T_1 = V_2/T_2                                                                  |
 
 Moles and Pressure are constant
 
