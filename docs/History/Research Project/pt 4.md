@@ -1,4 +1,8 @@
-	HURRAY, I HAVE THREE SOURCES! WHAT DO I DO NOW? 
+---
+tags: [USHISTORY, research]
+---
+ 
+ HURRAY, I HAVE THREE SOURCES! WHAT DO I DO NOW? 
 
 If you finish finding three good primary sources during class, you can start working with your primary sources by reading them carefully and starting your Research Assignment 4 Analyzing Primary Sources assignment. You can find this on Schoology under the Research Project folder.
 

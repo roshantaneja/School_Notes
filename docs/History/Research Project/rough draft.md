@@ -1,3 +1,7 @@
+---
+tags: [USHISTORY, research]
+---
+
 I. Introduction
 
 -   Explanation of the significance of the topic

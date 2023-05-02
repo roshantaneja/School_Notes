@@ -32,9 +32,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbc093b9c529e31d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,11 +162,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b0e76ad1c14ce198",
+  "active": "fbc093b9c529e31d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
     "docs/README.md",
     "docs/English/Hamilton/Paragraph Explication.md",
     "docs/English/Hamilton",
@@ -182,7 +193,6 @@
     "Untitled.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "README.md",
-    "docs/Chemistry Honours/README.md",
-    "Daily Notes/2023-04-15.md"
+    "docs/Chemistry Honours/README.md"
   ]
 }
