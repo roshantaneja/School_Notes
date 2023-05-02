@@ -116,24 +116,24 @@ beginAtZero: false
 
 ![](https://lh4.googleusercontent.com/21r_f2IuZ8gQ3y41PIVaB0UAhcuEdpzetQAOJcMrGXFcSPyWpg2BCMrsQnTZv19ngUANDjQhC9JnfW2zlA-ayRUkv4EtalhY_b2a-m94tMHCMUP_1lzWIyprT8_-deqQkGUogfJS6J_tSGUbbRG4SA)
 
-5.  Model 1 and Model 2, both currently represent atmospheric air only.  The model of atmospheric air is depicted below where represents the air composition of nitrogen, oxygen, argon, neon, helium, methane, water, and krypton, and represents carbon dioxide (disclaimer - the percentages are not accurate in the model).
+5.  Model 1 and Model 2 represent atmospheric air only.  The atmospheric air model is depicted below, representing the air composition of nitrogen, oxygen, argon, neon, helium, methane, water, and krypton, and carbon dioxide (disclaimer - the percentages are not accurate in the model).
     
 
 1.  Watch the [NASA Earth Minute Video: The Gas Problem](https://youtu.be/K9kga9c0u2I). The CO2 in the second container represents the layer of greenhouse gases that surround the Earth.
     
-2.  Revise both models by adding arrows to both models to show the radiant heat in each container.
+2.  Revise both models by adding arrows to show the radiant heat in each container.
     
 
 
 
 3.  Edit/Add to Model 2 to show additional CO2 from the experiment. 
     
-4.  In Model 2, place additional arrows to show the radiant heat from the greenhouse gasses.
+4.  In Model 2, place additional arrows to show the radiant heat from the greenhouse gases.
     
 
   
 
-5.  # Explain in your own words how the CO2 in this experiment as well as that which surrounds the Earth is able to trap heat.  Use the picture below to help you.
+5.  # Explain in your own words how the CO2 in this experiment and that which surrounds the Earth can trap heat.  Use the picture below to help you.
 
 ![|400](https://lh5.googleusercontent.com/Khj7wZ_zNp6hOe6CfxEk7slakex7Ry_jUp9FSwSvHoOQyy-qgwJW6ytraDz9m3OuQAbpu8lZErzO0p67yS34lsdBz7wgwOlcdsHuhhyBADQWonEDeoXlWSilBq8kak1C3AVFLRJAswDfNDfdpS5MPw)
 

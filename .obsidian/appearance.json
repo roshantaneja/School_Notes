@@ -1,12 +1,12 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "interfaceFontFamily": "",
-  "textFontFamily": "DejaVu Sans Mono",
-  "monospaceFontFamily": "IBM Plex Mono,VCR OSD Mono",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true
 }
