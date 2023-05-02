@@ -5881,6 +5881,7 @@ Luke
 Likely
 Losimingori
 Lions
+Long
 Why
 Which
 Write
@@ -8496,6 +8497,7 @@ WHERE
 WHY
 Weeknd
 Were
+Waypoint
 is
 increase
 in
@@ -11274,6 +11276,9 @@ infancy
 illuminates
 identifies
 interviews
+intrigue
+inflection
+ivy
 there
 the
 type
@@ -14258,6 +14263,8 @@ town
 trembled
 tank
 tanks
+turf
+tower
 an
 are
 and
@@ -17427,6 +17434,8 @@ amazed
 aside
 agriculture
 art
+acres
+alluring
 volume
 very
 volHeatedWater
@@ -22788,6 +22797,9 @@ ours
 oil
 outlaw
 offsite
+overwhelming
+opulent
+overlooking
 water
 which
 will
@@ -31088,6 +31100,7 @@ Invite
 Importance
 Innocents
 Ivoire
+Island
 contributing
 cryosphere
 claim
@@ -34629,6 +34642,8 @@ constructing
 consultation
 constructed
 cleaner
+captivating
+cheerful
 sea
 stating
 saltwater
@@ -37914,6 +37929,12 @@ saved
 sessions
 subsidizes
 sifting
+scene
+secrets
+springy
+stretching
+spanking
+swimming
 level
 learned
 land
@@ -40502,6 +40523,8 @@ lowly
 lifting
 liter
 literacy
+lawn
+luxury
 rise
 rendering
 read
@@ -43399,6 +43422,8 @@ recounts
 regulations
 refuge
 remote
+red
+raw
 From
 Funnel
 Final
@@ -48914,6 +48939,7 @@ Eliab
 Exodus
 Ethiopia
 Eritrea
+Egg
 you
 your
 years
@@ -56991,6 +57017,7 @@ hundreds
 homemade
 harvesting
 happy
+hiding
 freshwater
 for
 funnel
@@ -60319,6 +60346,7 @@ funds
 filtration
 fetch
 fun
+forty
 melts
 model
 mix
@@ -63012,6 +63040,8 @@ manger
 modesty
 male
 murdered
+mansion
+marble
 unusable
 using
 up
@@ -65671,6 +65701,7 @@ udIMlKhg
 ukgAJkAAJkAAJkIDFBKT
 unsettling
 undoubtedly
+uncovering
 MATERIALS
 Make
 Mass
@@ -68543,6 +68574,7 @@ Magi
 Maccabean
 Monduli
 Maasai
+Mansion
 beaker
 boat
 blue
@@ -71552,6 +71584,9 @@ bestows
 borders
 begun
 brainstorm
+bay
+beard
+bit
 NaCl
 National
 NSIDC
@@ -77144,6 +77179,11 @@ glowing
 gentile
 gods
 grateful
+grabs
+glamorous
+grand
+garden
+grandeur
 Colored
 Cubes
 Cryosphere
@@ -80268,6 +80308,8 @@ Corrections
 Cox
 CNS
 Commissioner
+Carraway
+Colonial
 Using
 Use
 University
@@ -85389,6 +85431,7 @@ Somalia
 Supporters
 Summit
 Sincerely
+Shellfish
 dissolve
 dV
 designation
@@ -88804,6 +88847,8 @@ desperately
 deserve
 distances
 dance
+drawn
+discomfort
 each
 enter
 equation
@@ -92134,6 +92179,10 @@ elders
 existed
 episode
 enrollment
+excesses
+extravagance
+evokes
+evocative
 You
 Years
 Your
@@ -97368,6 +97417,8 @@ nTHgmQAAmQAAmQAAnYlwAFEPuevV
 nSaBzCcgI
 nationality
 nearby
+narrator
+nervousness
 pieces
 position
 percent
@@ -100247,6 +100298,9 @@ proudly
 pond
 prototyped
 presentation
+piques
+paints
+pink
 Record
 Read
 Readings
@@ -116679,6 +116733,7 @@ Duckwrth
 Disciple
 Dear
 District
+Dying
 OF
 Observations
 Oceans
@@ -122500,6 +122555,7 @@ GONE
 Graded
 Gentile
 Gentiles
+Georgian
 kilometers
 knowledge
 keep
@@ -129830,6 +129886,7 @@ jxFeRAAmQAAmQAAmQAAmQAAmQAAmQAAmQAAmQAAmQAAmQAAn
 jewish
 jurisdiction
 jam
+jazz
 John
 June
 July

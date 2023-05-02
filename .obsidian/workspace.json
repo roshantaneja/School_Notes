@@ -6,7 +6,7 @@
       {
         "id": "5f87db1563eca316",
         "type": "tabs",
-        "dimension": 43.37260677466863,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "53539ea90999d3cf",
@@ -14,27 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/History/Research Project/Outline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "196fde52ee24800b",
-        "type": "tabs",
-        "dimension": 56.62739322533137,
-        "children": [
-          {
-            "id": "dc3891acf0182b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/README.md",
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -42,12 +22,12 @@
             }
           },
           {
-            "id": "b102ee3401a82bbc",
+            "id": "e3c02cd12a3926dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/History/History.md",
+                "file": "docs/Chemistry Honours/Chemistry Honours.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,14 +74,6 @@
             }
           },
           {
-            "id": "dd70368518ef3c77",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "bc5c38f875ffc1b1",
             "type": "leaf",
             "state": {
@@ -113,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 448.5
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -129,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/History/History.md"
+                "file": "docs/Chemistry Honours/Chemistry Honours.md"
               }
             }
           },
@@ -192,12 +164,17 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "b102ee3401a82bbc",
+  "active": "e3c02cd12a3926dd",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Unit 6 - Why are Shellfish Dying.md",
+    "docs/History/Research Project/Outline.md",
+    "docs/English/Unit 2/The Great Gatsby/Journal Ch 1.md",
+    "docs/Chemistry Honours/Unit 5 - Properties of Elements/Unit 5 - Properties of Elements.md",
+    "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/History/History.md",
     "docs/README.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
-    "docs/History/Research Project/Outline.md",
     "docs/Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "docs/Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
     "docs/Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
@@ -215,12 +192,7 @@
     "docs/Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
     "docs/Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
     "docs/Tanzania Prep/11-30-2022 Call with almost everyone.md",
-    "IMG_1271.jpg.md",
-    "docs/History/Research Project/rough draft.md",
-    "docs/History/Unit 2/Final Writing Assignment.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
-    "docs/History/Unit 3/Part 3 - Historical Reflection.md",
-    "docs/History/Unit 3/Final Writing Assignment.md",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Research Project Canvas Board.canvas",
     "History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
