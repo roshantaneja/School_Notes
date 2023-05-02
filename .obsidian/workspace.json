@@ -37,10 +37,12 @@
             "id": "fbc093b9c529e31d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md"
+              }
             }
           },
           {
@@ -164,9 +168,12 @@
   },
   "active": "fbc093b9c529e31d",
   "lastOpenFiles": [
+    "Pasted image 20230501193457.png",
+    "Pasted image 20230501193442.png",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "conflict-files-obsidian-git.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
     "docs/README.md",
     "docs/English/Hamilton/Paragraph Explication.md",
@@ -191,8 +198,6 @@
     "docs/javascripts",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-12 Unit 7 Lesson 2.md",
     "Untitled.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "README.md",
-    "docs/Chemistry Honours/README.md"
+    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md"
   ]
 }
