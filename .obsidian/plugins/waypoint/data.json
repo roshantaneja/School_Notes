@@ -2,9 +2,9 @@
   "waypointFlag": "%% Waypoint %%",
   "stopScanAtFolderNotes": true,
   "showFolderNotes": true,
-  "showNonMarkdownFiles": false,
+  "showNonMarkdownFiles": true,
   "debugLogging": false,
   "useWikiLinks": false,
-  "showEnclosingNote": true,
+  "showEnclosingNote": false,
   "folderNoteType": "INSIDE_FOLDER"
 }
