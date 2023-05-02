@@ -11,8 +11,13 @@
             "id": "48492b84a63eeac9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md"
+              }
             }
           },
           {
@@ -144,6 +152,8 @@
   },
   "active": "48492b84a63eeac9",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
     "docs/docs.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
@@ -159,7 +169,6 @@
     "docs/Tanzania Prep/Tanzania Prep.md",
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Part 1.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
@@ -170,7 +179,6 @@
     "docs/US Literature/Unit 2/The Great Gatsby/Journal Ch 1.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/Unit 5 - Properties of Elements.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
-    "docs/Religion/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Research Project Canvas Board.canvas",
