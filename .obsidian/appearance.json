@@ -1,12 +1,12 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 17,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Atom",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": true
 }

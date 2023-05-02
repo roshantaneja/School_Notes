@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "da73d2ba11f905bf",
+        "id": "4daa63a505e8d817",
         "type": "tabs",
         "children": [
           {
-            "id": "4051f8670d466214",
+            "id": "48492b84a63eeac9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/docs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 273.5
   },
   "right": {
     "id": "0ed70dfa43b080ef",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/docs.md"
+              }
             }
           },
           {
@@ -142,34 +149,35 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "4051f8670d466214",
+  "active": "48492b84a63eeac9",
   "lastOpenFiles": [
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
+    "docs/AP Computer Science A/AP Computer Science A.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
+    "docs/docs.md",
+    "README.md",
+    "docs/README.md",
+    "docs/Spanish 3/Spanish 3.md",
+    "docs/US Literature/US Literature.md",
+    "docs/Robotics/Robotics.md",
+    "docs/Religion/Religion.md",
+    "docs/Religion",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
+    "docs/Precalc BC Honours/Precalc BC Honours.md",
+    "docs/Tanzania Prep/Tanzania Prep.md",
+    "docs/History/Research Project/Outline.md",
+    "docs/History/Research Project/Part 1.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/3-1 Unit 6 Lesson 5.md",
     "docs/History/documentary on notes about.md",
     "docs/History/History.md",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Unit 6 - Why are Shellfish Dying.md",
-    "docs/History/Research Project/Outline.md",
-    "docs/English/Unit 2/The Great Gatsby/Journal Ch 1.md",
+    "docs/US Literature/Unit 2/The Great Gatsby/Journal Ch 1.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/Unit 5 - Properties of Elements.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
-    "docs/README.md",
-    "docs/Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
-    "docs/Tanzania Prep/1-5-2023 Tanzania Project Follow-Up email.md",
-    "docs/Hebrew Scriptures/Christian Scripture/January/Jesus the refugee/Test Corrections.md",
-    "docs/Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
-    "docs/Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
-    "docs/Hebrew Scriptures/Unit 3 Study Guide.md",
-    "docs/Hebrew Scriptures/Unit 5 - Psalms/The Psalms Project.md",
-    "docs/History/Research Project/pt 4.md",
-    "docs/History/Research Project/Part 1.md",
-    "docs/History/Research Project/Pt 3.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
-    "docs/Computer Science/Testing Latex.md",
-    "docs/Tanzania Prep/11-27-2022 Call with Ayushi-Deepak.md",
-    "docs/Tanzania Prep/11-29-2022 Call with Kanishk, Adam, Arhaan.md",
+    "docs/Religion/Christian Scripture/January/Jesus the refugee/Were Jesus, Mary and Joseph refugees - Yes..md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
     "Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise",
     "History/Research Project/Research Project Canvas Board.canvas",
