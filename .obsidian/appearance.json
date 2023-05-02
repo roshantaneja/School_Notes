@@ -1,10 +1,10 @@
 {
   "baseFontSize": 16,
-  "interfaceFontFamily": "Consolas",
+  "interfaceFontFamily": "",
   "textFontFamily": "DejaVu Sans Mono",
   "monospaceFontFamily": "IBM Plex Mono,VCR OSD Mono",
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "nativeMenus": true,
   "translucency": false,
   "theme": "obsidian",
