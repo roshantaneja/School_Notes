@@ -1,18 +1,18 @@
 ---
 tags: [USHISTORY, research]
-title: Research doc history
+title: Research doc history outline
 ---
 
 ## Research thesis
-> through the creation of the internet and royalty free technologies, TBL was able to create a system of development that deterred a fragmented, proprietary web interface and promote innovation and competition
+> Through the creation of the internet and royalty-free technologies, TBL was able to create a system of development that deterred a fragmented, proprietary web interface and promote innovation and competition
 
 ## Outline
 
-todo:
+Todo:
 
 - [ ] add citations
 - [x] sub-bullets for claims
-- [x] rewrite conclusion outline
+- [x] rewrite the conclusion outline
 - [x] include the w3c role in developing standards
 
 I. Introduction
@@ -36,7 +36,7 @@ III. Berners-Lee's motivations for royalty-free technology
 -   Examination of Berners-Lee's beliefs and values regarding the web and its potential
     -   Berners-Lee's vision for a decentralized and open web that is accessible to all
     -   Berners-Lee's belief in the power of collaboration and the importance of community in the development of the web
--   Discussion of his decision to forgo patents and royalties, and how this decision reflects his vision for the web's future
+-   Discussion of his decision to forgo patents and royalties and how this decision reflects his vision for the web's future
     -   The potential impact of patents and royalties on the development and adoption of web technologies
     -   The potential for patents and royalties to create barriers to entry and limit innovation
 

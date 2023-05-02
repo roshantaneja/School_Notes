@@ -1,20 +1,12 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:Unit",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.5,
