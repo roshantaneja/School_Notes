@@ -4,4 +4,6 @@ we have a lot of things to cover here, so get ready!
 
 Check out the nav bar on the right to see my school notes.
 
+%% Error: Cannot create a waypoint in a note that's not the folder note. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
+
 [Wanna know how i made this?](https://github.com/Daroshi11260/School_Notes)
