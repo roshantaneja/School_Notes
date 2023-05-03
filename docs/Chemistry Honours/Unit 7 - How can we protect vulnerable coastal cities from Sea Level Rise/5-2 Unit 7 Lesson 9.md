@@ -124,15 +124,27 @@ Analysis Questions
 
 1.  What volume of carbon dioxide gas was produced from this reaction? 
     
+``` math
+C = 36.5 cm
 
-C = 
+V = (4/3)*pi*(C/(2pi))^3
+
+L = V/1000
+```
   
   
 
 2.  How many moles carbon dioxide gas were produced? Use PV = nRT to calculate. (Temp of the room, and pressure=1 atm)
     
 
-  
+```math
+P = 1
+V = 0.821
+R = 0.0821
+T = 298
+
+n = (P*V)/(R*T)
+```
   
   
   
@@ -141,27 +153,36 @@ C =
 3.  How many moles of HC2H3O2 (Acetic Acid - molarity 0.8527M) reacted (50mL)?
     
 
-  
+```math
+V = 0.050
+M = 0.8527
+mol_vinegar = V * M
+```
   
   
 
 4.  How many moles of NaHCO3  (Sodium Bicarbonate) were used? (molar mass = 84.01g/mol)
-    
 
-  
-  
-  
+```math
+V = 0.050
+M = 0.8527
+mol_vinegar = V * M
+```
   
 
 5.  What mass of CO2 should be produced based on the mass of Acetic Acid? Use stoichiometry to calculate a theoretical yield. 
-    
 
-  
-  
-  
-  
-  
-  
+```math
+vol_vinegar = 0.05 ml
+molarity_vinegar = 0.8527 mol/L
+mol_vinegar = vol_vinegar * molarity_vinegar
+molar_mass_vinegar = 60.052 g/mol
+mass_vinegar = mol_vinegar * molar_mass_vinegar
+
+mol_CO2 = 0.033557 mol
+molar_mass_CO2 = 44.01 g/mol
+mass_CO2 = mol_CO2 * molar_mass_CO2
+```
 
 6.  What mass of CO2 should be produced based on the mass of Baking Soda ? Use stoichiometry to calculate a theoretical yield. 
     
