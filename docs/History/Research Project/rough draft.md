@@ -9,8 +9,7 @@ I. Introduction
     -   Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free
 -   Brief overview of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free
 
-### A Brief History.
-The internet started in the late 1960s as a method for government researchers to share information. Computers in the 60s were large and clunky, and overall a nuisance to use. Before the internet, information could only be shared if one traveled to the computer's location or the information was documented on a magnetic tape and shipped through the postal system. Another catalyst of the internet was the heating tensions of the cold war. The US Defense Dept. wanted to ensure a method of information dissemination even after a nuclear fallout. Their neccesity took the shape of ARPANET (Advanced Research Projects Agency Network), the network that eventually evolved in infrastructure into the modern-day Internet. January 1st, 1983, is what most consider the creation of the modern internet. Until that point, most computers did not have a standardized method of communication with one another. A new protocol was established, Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers to "talk" with one another, regardless of the network. ARPANET and the Defense Dept. officially sanctioned TCP/IP as standard on Jan 1st, 1983, marking the birth of the "internet."
+### Introduction
 
 
 II. Historical context
@@ -21,6 +20,10 @@ II. Historical context
 -   Discussion of the emergence of proprietary technologies and their potential impact on the growth of the web
     -   The potential for proprietary technologies to limit innovation and stifle competition
     -   The potential for proprietary technologies to fragment the web and make it more difficult to access information
+
+### A Brief History.
+The internet started in the late 1960s as a method for government researchers to share information. Computers in the 60s were large and clunky, and overall a nuisance to use. Before the internet, information could only be shared if one traveled to the computer's location or the information was documented on a magnetic tape and shipped through the postal system. Another catalyst of the internet was the heating tensions of the cold war. The US Defense Dept. wanted to ensure a method of information dissemination even after a nuclear fallout (Tot, Ivan). Their necessity took the shape of ARPANET (Advanced Research Projects Agency Network), the network that eventually evolved in infrastructure into the modern-day Internet. January 1st, 1983, is what most consider the creation of the modern internet. Until that point, most computers did not have a standardized method of communication with one another. A new protocol was established, Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers to "talk" with one another, regardless of the network. ARPANET and the Defense Dept. officially sanctioned TCP/IP as standard on Jan 1st, 1983, marking the birth of the "internet."
+
 
 III. Berners-Lee's motivations for royalty-free technology
  

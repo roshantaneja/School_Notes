@@ -24,8 +24,40 @@
             "id": "96002453de3746ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf"
+              }
+            }
+          },
+          {
+            "id": "c5a8094118642667",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf"
+              }
+            }
+          },
+          {
+            "id": "a16016f77bb3fc74",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3"
+              }
+            }
+          },
+          {
+            "id": "0a3f78457ff2450e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
+              }
             }
           }
         ]
@@ -161,7 +193,14 @@
   },
   "active": "05615a70b22f7c97",
   "lastOpenFiles": [
+    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
+    "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
+    "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Outline.md",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
+    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/Robotics/Robotics.md",
     "docs/README.md",
@@ -184,10 +223,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-12 - Unit 5 Lesson 3.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
@@ -195,10 +230,6 @@
     "docs/Religion/Christian Scripture/January",
     "docs/Religion/Hebrew Scriptures/Final Test",
     "docs/Religion/Christian Scripture/April",
-    "docs/Religion/Hebrew Scriptures",
-    "docs/Religion/Christian Scripture",
-    "docs/Religion",
-    "docs/US Literature/Unit 2/The Great Gatsby",
     "Pasted image 20230501193457.png",
     "Pasted image 20230501193442.png"
   ]
