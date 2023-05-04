@@ -24,6 +24,7 @@ II. Historical context
 ### A Brief History.
 The internet started in the late 1960s as a method for government researchers to share information. Computers in the 60s were large and clunky and a nuisance. Before the internet, information could only be shared if one traveled to the computer's location or was documented on a magnetic tape and shipped through the postal system. Another catalyst of the internet was the heating tensions of the cold war. The US Defense Dept. wanted to ensure a method of information dissemination even after a nuclear fallout (Tot, Ivan). Their necessity took the shape of ARPANET (Advanced Research Projects Agency Network), the network that eventually evolved in infrastructure into the modern-day Internet. January 1st, 1983, is what most consider the creation of the modern internet. Until that point, most computers did not have a standardized method of communication with one another. A new protocol was established, Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers to "talk" with one another, regardless of the network. ARPANET and the Defense Dept. officially sanctioned TCP/IP as standard on Jan 1st, 1983, marking the birth of the "internet."
 
+fast forward about 6 years, and we meet Berners-Lee for the first time. Working at cern, 
 
 III. Berners-Lee's motivations for royalty-free technology
  
@@ -33,6 +34,8 @@ III. Berners-Lee's motivations for royalty-free technology
 -   Discussion of his decision to forgo patents and royalties and how this decision reflects his vision for the web's future
     -   The potential impact of patents and royalties on the development and adoption of web technologies
     -   The potential for patents and royalties to create barriers to entry and limit innovation
+
+
 
 IV. The impact of royalty-free technology on the web's growth
 

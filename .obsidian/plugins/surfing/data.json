@@ -54,6 +54,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "b72b0c5d3e93d08d",
+      "parent": 0,
+      "droppable": true,
+      "text": "NoodleTools - Sources",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
