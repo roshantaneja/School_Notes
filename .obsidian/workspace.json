@@ -201,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md"
+              }
             }
           },
           {
@@ -271,7 +273,7 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "c03fc948116e895f",
+  "active": "05615a70b22f7c97",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
