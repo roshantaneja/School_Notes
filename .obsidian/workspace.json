@@ -61,6 +61,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "a297f1a05e5af6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03fc948116e895f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,27 +115,27 @@
             }
           },
           {
-            "id": "95297ad796af03bf",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "b86003971fbe613b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "0bbf08d9da1ab3d7",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922,
-    "collapsed": true
+    "width": 247.5110321044922
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -134,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/History/Research Project/rough draft.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,19 +185,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "obsidian-grammarly-plugin:Enable Grammarly": false,
       "obsidian-flexible-pomo:Start Pomodoro": false,
-      "workspaces:Manage workspace layouts": false,
+      "workspaces:Manage workspace layouts": true,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
@@ -191,13 +204,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "05615a70b22f7c97",
+  "active": "0bbf08d9da1ab3d7",
   "lastOpenFiles": [
+    "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
-    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
