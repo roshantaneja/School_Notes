@@ -45,54 +45,10 @@
   },
   "treeData": [
     {
-      "id": "b72b0c5d3e93d08d",
+      "id": "e28344bf3bc7cfe2",
       "parent": 0,
       "droppable": true,
-      "text": "NoodleTools - Sources",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "cb9959ea18543115",
-      "parent": 0,
-      "droppable": true,
-      "text": "News Article, Marietta Journal (published as MARIETTA DAILY JOURNAL), December 13, 1994, p24",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "c03fc948116e895f",
-      "parent": 0,
-      "droppable": true,
-      "text": "Tim Berners-Lee - Wikipedia",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "65857dc24e6ff62f",
-      "parent": 0,
-      "droppable": true,
-      "text": "Weaving the Web – Works – Digital Collections",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "6ddb6aa1a6238d68",
-      "parent": 0,
-      "droppable": true,
-      "text": "White Paper for the Web of Things",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",

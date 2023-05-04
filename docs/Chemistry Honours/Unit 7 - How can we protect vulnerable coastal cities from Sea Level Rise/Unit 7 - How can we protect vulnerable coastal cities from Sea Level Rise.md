@@ -13,6 +13,7 @@ title: README
 - [4-26 Unit 7 Lesson 7](./4-26%20Unit%207%20Lesson%207.md)
 - [5-1 Unit 7 Lesson 8](./5-1%20Unit%207%20Lesson%208.md)
 - [5-2 Unit 7 Lesson 9](./5-2%20Unit%207%20Lesson%209.md)
+- [5-4 Unit 7 Lesson 10](./5-4%20Unit%207%20Lesson%2010.md)
 - [Hw Phet Simulation](./Hw%20Phet%20Simulation.md)
 - [Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise](./Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise.md)
 

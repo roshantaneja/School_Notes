@@ -1,10 +1,10 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 10,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "ITS Theme",
   "nativeMenus": true,
   "translucency": false,
   "theme": "system",

@@ -9156,6 +9156,7 @@ LDDD
 LTR
 LrPD
 LTm
+Limitation
 Why
 Which
 Write
@@ -13295,6 +13296,7 @@ WzqI
 Wkkao
 WAa
 WPWT
+WARM
 is
 increase
 in
@@ -22141,6 +22143,7 @@ tGt
 tEuw
 tjvi
 tBc
+television
 an
 are
 and
@@ -53570,6 +53573,8 @@ ccccb
 cXzK
 cern
 collaborators
+capitalize
+critiques
 sea
 stating
 saltwater
@@ -58584,6 +58589,9 @@ sll
 sBzt
 sfd
 serving
+subscription
+shelves
+subglacial
 level
 learned
 land
@@ -67507,6 +67515,7 @@ rTe
 rzXa
 rXLv
 revolutionized
+regulated
 From
 Funnel
 Final
@@ -76192,6 +76201,7 @@ EFvk
 ExDv
 EnJ
 ExL
+Existing
 you
 your
 years
@@ -84619,6 +84629,7 @@ Bzov
 Blb
 BwTC
 BXg
+Block
 happen
 help
 hydrosphere
@@ -120787,6 +120798,8 @@ gbc
 gGtM
 gFUL
 gQHb
+geoengineering
+groupmates
 Colored
 Cubes
 Cryosphere
@@ -125630,6 +125643,7 @@ CiHb
 CcA
 CWm
 Cern
+Chart
 Using
 Use
 University
@@ -144681,6 +144695,8 @@ eNR
 efIY
 eDVc
 erl
+excluded
+ethical
 You
 Years
 Your
@@ -153336,6 +153352,7 @@ nBL
 ntk
 nFF
 nFL
+neglected
 pieces
 position
 percent
@@ -157665,6 +157682,7 @@ paAB
 pCAJ
 pivotal
 preexisting
+prioritized
 Record
 Read
 Readings
