@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasWater",
+      "RiTranslate",
+      "FasRobot",
+      "IbGraphLineUp",
+      "FasFlagUsa"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,5 +20,21 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "Chemistry Honours": "SiMoleculer",
+  "Computer Science": "FabJava",
+  "English": "FasBook",
+  "Hebrew Scriptures": "FasCross",
+  "History": "FasEarth-americas",
+  "Robotics": "FasRobot",
+  "Spanish": "FasLanguage",
+  "Tanzania Prep": "RiWater-flash-line",
+  "Precalc BC Honours": "IbCalculator",
+  "College Couseling": "RiCollage-fill",
+  "docs/Chemistry Honours": "SiMoleculer",
+  "docs/College Couseling": "RiCollageFill",
+  "docs/History": "FasFlagUsa",
+  "docs/Precalc BC Honours": "IbGraphLineUp",
+  "docs/Robotics": "FasRobot",
+  "docs/Tanzania Prep": "FasWater"
 }
