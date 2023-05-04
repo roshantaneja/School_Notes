@@ -79,31 +79,23 @@ After reading your assigned section of the article:[Geoengineer polar glaciers t
   
   
   
-| Solution Name →                                                  | [Your Group’s Solution here] |
-| ---------------------------------------------------------------- | ---------------------------- |
-| What did the design solution achieve for the community?          |                              |
-| What was prioritized or neglected in this solution?              |                              |
-| What did the source say directly about the solution’s impact on: |                              |
-| People in the community?                                         |                              |
-| Local environment and ecosystem?                                 |                              |
-| How might the solution indirectly impact the:                    |                              |
-
-*   
-    
-*             |                              |
-| 
-
-*   People in the community?
-    
-*   Local environment and ecosystem?                             |                              |
+| Solution Name →                                                                                                                                   | [Your Group’s Solution here] |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| What did the design solution achieve for the community?                                                                                           |                              |
+| What was prioritized or neglected in this solution?                                                                                               |                              |
+| What did the source say directly about the solution’s impact on:                                                                                  |                              |
+| People in the community?                                                                                                                          |                              |
+| Local environment and ecosystem?                                                                                                                  |                              |
+| How might the solution indirectly impact the:                                                                                                     |                              |
+| People in the community?                                                                                                                          |                              |
+| Local environment and ecosystem?                                                                                                                  |                              |
 | How does the local context of the community’s economics, geography, or culture influence the design solution?                                     |                              |
 | Who is in charge of making big decisions about the solution? Are there stakeholders that may have been excluded from the decision-making process? |                              |
   
-  
 
   
 
-What is your role in the group? Write it here: _____________________________________
+What is your role in the group? Write it here: 
 
 Categories
 
