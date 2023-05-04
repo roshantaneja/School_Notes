@@ -4,9 +4,9 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "ITS Theme",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true
 }

@@ -23,7 +23,7 @@
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
-  "darkMode": true,
+  "darkMode": false,
   "bookmarkManager": {
     "openBookMark": false,
     "saveBookMark": false,
@@ -60,6 +60,28 @@
       "parent": 0,
       "droppable": true,
       "text": "NoodleTools - Sources",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d28e3b3e5317bde1",
+      "parent": 0,
+      "droppable": true,
+      "text": "Tim Berners-Lee - Wikipedia",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "cb9959ea18543115",
+      "parent": 0,
+      "droppable": true,
+      "text": "News Article, Marietta Journal (published as MARIETTA DAILY JOURNAL), December 13, 1994, p24",
       "data": {
         "fileType": "site",
         "fileSize": "",

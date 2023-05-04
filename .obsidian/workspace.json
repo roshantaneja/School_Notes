@@ -85,9 +85,19 @@
                 "url": "https://my.noodletools.com/web2.0/bibliography.html"
               }
             }
+          },
+          {
+            "id": "cb9959ea18543115",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image%2Fv2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023&origin=image%2Fv2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a93e3d75effb4fe2",
+        "type": "tabs",
+        "children": [
           {
             "id": "0bbf08d9da1ab3d7",
             "type": "leaf",
@@ -145,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922,
-    "collapsed": true
+    "width": 247.5110321044922
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -192,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9725a0e7b5bd74c6",
@@ -212,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,7 +245,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b72b0c5d3e93d08d",
+  "active": "cb9959ea18543115",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
