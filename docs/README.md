@@ -7,7 +7,7 @@ Check out the nav bar on the right to see my school notes.
 [docs](./docs)
 
 ```simple-time-tracker
-{"entries":[{"name":"Segment 1","startTime":1683056085,"endTime":1683056094,"subEntries":null},{"name":"Segment 2","startTime":1683056096,"endTime":null,"subEntries":null}]}
+{"entries":[{"name":"Segment 1","startTime":1683056085,"endTime":1683056094,"subEntries":null},{"name":"Segment 2","startTime":null,"endTime":null,"subEntries":[{"name":"Part 1","startTime":1683056096,"endTime":1683176375,"subEntries":null},{"name":"Part 2","startTime":1683176389,"endTime":1683176397,"subEntries":null}]}]}
 ```
 
 

@@ -3,14 +3,14 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasWater",
-      "RiTranslate",
-      "FasRobot",
-      "IbGraphLineUp",
-      "FasFlagUsa"
+      "SiJavascript",
+      "🇺🇸",
+      "📚",
+      "🇹🇿",
+      "💃"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,7 +19,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": true
   },
   "Chemistry Honours": "SiMoleculer",
   "Computer Science": "FabJava",
@@ -31,10 +32,15 @@
   "Tanzania Prep": "RiWater-flash-line",
   "Precalc BC Honours": "IbCalculator",
   "College Couseling": "RiCollage-fill",
-  "docs/Chemistry Honours": "SiMoleculer",
-  "docs/College Couseling": "RiCollageFill",
-  "docs/History": "FasFlagUsa",
-  "docs/Precalc BC Honours": "IbGraphLineUp",
-  "docs/Robotics": "FasRobot",
-  "docs/Tanzania Prep": "FasWater"
+  "docs/Chemistry Honours": "👨‍🔬",
+  "docs/College Couseling": "📑",
+  "docs/History": "🇺🇸",
+  "docs/Robotics": "🤖",
+  "docs/Tanzania Prep": "🇹🇿",
+  "docs/AP Computer Science A": "👨‍💻",
+  "docs/Religion": "✝",
+  "docs/Precalc BC Honours": "📐",
+  "docs/Spanish 3": "💃",
+  "docs/US Literature": "📚",
+  "docs/javascripts": "SiJavascript"
 }
