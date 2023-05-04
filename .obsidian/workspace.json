@@ -11,12 +11,10 @@
             "id": "0582a3a5258b2394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/Robotics/Robotics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -93,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Robotics/Robotics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,6 +147,7 @@
   },
   "active": "0582a3a5258b2394",
   "lastOpenFiles": [
+    "docs/Robotics/Robotics.md",
     "docs/README.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
     "docs/AP Computer Science A/Sharks And Fish/Sharks and Fish (all PDFs).md",
@@ -176,7 +173,6 @@
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/2-1 - Unit 5 Lesson 9.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
