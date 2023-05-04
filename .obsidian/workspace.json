@@ -14,9 +14,35 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "adb679341dcedc91",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.cnn.com/2017/09/17/asia/china-sponge-cities/index.html"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4e08473cea8f5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e325149ff2f407ea",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=U37gst79pGc"
               }
             }
           }
@@ -160,8 +186,10 @@
   },
   "active": "1ea14f657b153184",
   "lastOpenFiles": [
-    "docs/History/Research Project/rough draft.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
+    "docs/History/Research Project/rough draft.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
@@ -189,8 +217,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",

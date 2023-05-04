@@ -27183,6 +27183,8 @@ aXk
 alBd
 axaa
 afD
+alos
+avoids
 volume
 very
 volHeatedWater
@@ -53575,6 +53577,8 @@ cern
 collaborators
 capitalize
 critiques
+coastline
+currents
 sea
 stating
 saltwater
@@ -58592,6 +58596,8 @@ serving
 subscription
 shelves
 subglacial
+seawalls
+sponge
 level
 learned
 land
@@ -67516,6 +67522,9 @@ rzXa
 rXLv
 revolutionized
 regulated
+retaliation
+reversing
+reform
 From
 Funnel
 Final
@@ -88903,6 +88912,7 @@ hwDw
 hzu
 hHvF
 hDDC
+harm
 freshwater
 for
 funnel
@@ -94068,6 +94078,7 @@ fNDPC
 fIuI
 fBP
 fvHE
+flooding
 melts
 model
 mix
@@ -102806,6 +102817,7 @@ uUUKUU
 uge
 uOY
 uDDDzZG
+uprooted
 MATERIALS
 Make
 Mass
@@ -120800,6 +120812,7 @@ gFUL
 gQHb
 geoengineering
 groupmates
+guarding
 Colored
 Cubes
 Cryosphere
@@ -139476,6 +139489,8 @@ dDu
 dHG
 dGz
 dDDDDDDHd
+damaged
+drowning
 each
 enter
 equation
@@ -153353,6 +153368,7 @@ ntk
 nFF
 nFL
 neglected
+neglect
 pieces
 position
 percent
@@ -174437,6 +174453,7 @@ TlqQ
 TRqQ
 TDDE
 TDXM
+THis
 After
 AND
 Antarctic
@@ -179211,6 +179228,7 @@ AzK
 Ajg
 AnFA
 AJq
+Allowed
 DATA
 Doyle
 Data
