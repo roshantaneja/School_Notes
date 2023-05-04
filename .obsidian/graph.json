@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"docs/Chemistry Honours\"",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:docs/English",
+      "query": "path:\"docs/US Literature\"",
       "color": {
         "a": 1,
         "rgb": 6056662
@@ -43,17 +43,17 @@
       }
     },
     {
-      "query": "path:\"docs/Hebrew Scriptures\"",
+      "query": "path:docs/Religion",
       "color": {
         "a": 1,
-        "rgb": 14064988
+        "rgb": 14720594
       }
     },
     {
-      "query": "path:\"docs/Computer Science\"",
+      "query": "path:\"docs/AP Computer Science A\"",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 5431511
       }
     }
   ],
@@ -62,11 +62,11 @@
   "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1.18463541666667,
   "lineSizeMultiplier": 2.04710526315789,
-  "collapse-forces": true,
-  "centerStrength": 0.5703125,
-  "repelStrength": 13.90625,
+  "collapse-forces": false,
+  "centerStrength": 0.650922961009606,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.22997711221545275,
-  "close": true
+  "scale": 0.11700358925080656,
+  "close": false
 }

@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "db8205a0ac6bee15",
+        "id": "f9ce34f964209f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "0582a3a5258b2394",
+            "id": "05615a70b22f7c97",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "docs/History/Research Project/rough draft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
+            }
+          },
+          {
+            "id": "96002453de3746ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -76,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 247.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -91,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md"
+              }
             }
           },
           {
@@ -126,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +159,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0582a3a5258b2394",
+  "active": "05615a70b22f7c97",
   "lastOpenFiles": [
+    "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/Robotics/Robotics.md",
     "docs/README.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
@@ -172,7 +188,6 @@
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-24 Homework Sheet.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-30 - Unit 5 Lesson 8.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-19 - Unit 5 Lesson 4.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-24 - Unit 5 Lesson 6.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",

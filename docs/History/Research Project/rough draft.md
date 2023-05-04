@@ -9,6 +9,10 @@ I. Introduction
     -   Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free
 -   Brief overview of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free
 
+### A Brief History.
+The internet started in the late 1960s as a method for government researchers to share information. Computers in the 60s were large and clunky, and overall a nuisance to use. Before the internet, information could only be shared if one traveled to the computer's location or the information was documented on a magnetic tape and shipped through the postal system. Another catalyst of the internet was the heating tensions of the cold war. The US Defense Dept. wanted to ensure a method of information dissemination even after a nuclear fallout. Their neccesity took the shape of ARPANET (Advanced Research Projects Agency Network), the network that eventually evolved in infrastructure into the modern-day Internet. January 1st, 1983, is what most consider the creation of the modern internet. Until that point, most computers did not have a standardized method of communication with one another. A new protocol was established, Transfer Control Protocol/Internetwork Protocol (TCP/IP). This allowed different kinds of computers to "talk" with one another, regardless of the network. ARPANET and the Defense Dept. officially sanctioned TCP/IP as standard on Jan 1st, 1983, marking the birth of the "internet."
+
+
 II. Historical context
 
 -   Background information on the state of the internet and the web in the early 1990s
@@ -23,7 +27,7 @@ III. Berners-Lee's motivations for royalty-free technology
 -   Examination of Berners-Lee's beliefs and values regarding the web and its potential
     -   Berners-Lee's vision for a decentralized and open web that is accessible to all
     -   Berners-Lee's belief in the power of collaboration and the importance of community in the development of the web
--   Discussion of his decision to forgo patents and royalties, and how this decision reflects his vision for the web's future
+-   Discussion of his decision to forgo patents and royalties and how this decision reflects his vision for the web's future
     -   The potential impact of patents and royalties on the development and adoption of web technologies
     -   The potential for patents and royalties to create barriers to entry and limit innovation
 
@@ -47,7 +51,7 @@ V. Challenges to royalty-free technology
 
 VI. Conclusion
 
--   Summary of the key points of the research assignment
+-   Summary of the critical points of the research assignment
     -   Berners-Lee's vision for an open and accessible web
     -   The importance of royalty-free technology for the growth and development of the web
 -   Reflection on the importance of royalty-free technology for the growth and development of the web
