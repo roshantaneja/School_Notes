@@ -19,32 +19,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "adb679341dcedc91",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.cnn.com/2017/09/17/asia/china-sponge-cities/index.html"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d4e08473cea8f5d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e325149ff2f407ea",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=U37gst79pGc"
-              }
-            }
           }
         ]
       }
