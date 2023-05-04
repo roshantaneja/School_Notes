@@ -151,7 +151,7 @@ Calculating Moles in a Breath at in Atherton at Sea Level. Based on the data col
 
 n = PV/RT
 
-n = 1 * 2000/ 0.0821 * 298
+$n = \frac{1 * 2000}{0.0821 * 298}$
 
 n = 81.74 Moles
 
@@ -159,19 +159,22 @@ n = 81.74 Moles
 
 Calculating Moles in a Breath on a Mountaintop. Suppose you take a breath on a mountaintop at an altitude of 10,000 ft where the air pressure is 0.75 atm and the temperature is 20 °C (293 K). Use the ideal gas law to determine the number of moles of air molecules in one breath. 
 
-n = 0.75 * 2000/ 0.0821 * 293
+$n = \frac{0.75 * 2000}{0.0821 * 293}$
+
+n = 62.35 moles
 
 There are 602 sextillion, or 602,000,000,000,000,000,000,000, gas molecules in 1 mole.
 Calculate the number of gas molecules in a breath at sea level. 
 
+$4.92*10^{25}$
 
 Calculate the number of gas molecules in a breath on a mountaintop. 
 
-
+$3.75*10^{25}$
 
 Based on your calculations in Question 9, what is the difference between the number of molecules in one normal breath at sea level and the number at 10,000 ft? 
 
-
+$1.17*10^{25}$
 
 Use the ideal gas law and your breath volume to figure out how many moles of air molecules would be in one breath at the top of Mount Everest. Air pressure at 29,000 ft is 0.30 atm. The temperature at the summit at the warmest time of the year is -19 °C.
 

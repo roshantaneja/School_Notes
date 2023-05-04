@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY, research]
+tags: [USHISTORY, research, homework]
 ---
  
  HURRAY, I HAVE THREE SOURCES! WHAT DO I DO NOW? 
