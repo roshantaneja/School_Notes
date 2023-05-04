@@ -6,7 +6,7 @@
       {
         "id": "f9ce34f964209f6b",
         "type": "tabs",
-        "dimension": 49.01960784313725,
+        "dimension": 53.14498933901919,
         "children": [
           {
             "id": "05615a70b22f7c97",
@@ -75,21 +75,13 @@
                 }
               }
             }
-          },
-          {
-            "id": "0abc06d00b4e269c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "a297f1a05e5af6bc",
         "type": "tabs",
-        "dimension": 50.98039215686274,
+        "dimension": 46.85501066098081,
         "children": [
           {
             "id": "b72b0c5d3e93d08d",
@@ -141,7 +133,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 247.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -207,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/History/Research Project/rough draft.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9725a0e7b5bd74c6",
@@ -258,30 +251,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": true,
-      "obsidian-grammarly-plugin:Enable Grammarly": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "graph:Open graph view": false,
       "obsidian-flexible-pomo:Start Pomodoro": false,
       "workspaces:Manage workspace layouts": true,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "switcher:Open quick switcher": true,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "05615a70b22f7c97",
+  "active": "c03fc948116e895f",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
-    "docs/docs.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
+    "docs/History/Unit 3/Final Writing Assignment.md",
+    "docs/docs.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
@@ -308,8 +303,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "docs/Chemistry Honours/Chemistry Honours.md",
-    "docs/Chemistry Honours/Unit 5 - Properties of Elements/1-11 - Unit 5 Lesson 2.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",

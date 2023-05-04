@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "showLineNumber": true,
   "rightToLeft": false,
   "smartIndentList": true,
@@ -20,5 +20,12 @@
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "docs/javascripts/"
+  ]
 }

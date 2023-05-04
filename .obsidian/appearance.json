@@ -1,12 +1,12 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 11,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "",
-  "cssTheme": "ITS Theme",
+  "cssTheme": "AnuPpuccin",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "system",
   "showViewHeader": true
 }
