@@ -12,13 +12,13 @@
   ],
   "alwaysShowCustomSearch": false,
   "showOtherSearchEngines": false,
-  "showSearchBarInPage": false,
+  "showSearchBarInPage": true,
   "markdownPath": "/",
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
   "openInSameTab": false,
-  "showRefreshButton": true,
+  "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
@@ -45,32 +45,10 @@
   },
   "treeData": [
     {
-      "id": "c03fc948116e895f",
-      "parent": 0,
-      "droppable": true,
-      "text": "Tim Berners-Lee - Wikipedia",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
       "id": "b72b0c5d3e93d08d",
       "parent": 0,
       "droppable": true,
       "text": "NoodleTools - Sources",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "d28e3b3e5317bde1",
-      "parent": 0,
-      "droppable": true,
-      "text": "Tim Berners-Lee - Wikipedia",
       "data": {
         "fileType": "site",
         "fileSize": "",

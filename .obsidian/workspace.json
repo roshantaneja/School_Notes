@@ -6,6 +6,7 @@
       {
         "id": "f9ce34f964209f6b",
         "type": "tabs",
+        "dimension": 49.01960784313725,
         "children": [
           {
             "id": "05615a70b22f7c97",
@@ -59,23 +60,37 @@
                 "file": "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
+          },
+          {
+            "id": "8020a6bd68709390",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "docs/History/Research Project/Research Project Canvas Board.canvas",
+                "viewState": {
+                  "x": 1810,
+                  "y": -400,
+                  "zoom": -0.6853130260536252
+                }
+              }
+            }
+          },
+          {
+            "id": "0abc06d00b4e269c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "a297f1a05e5af6bc",
         "type": "tabs",
+        "dimension": 50.98039215686274,
         "children": [
-          {
-            "id": "c03fc948116e895f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
-              }
-            }
-          },
           {
             "id": "b72b0c5d3e93d08d",
             "type": "leaf",
@@ -83,6 +98,36 @@
               "type": "surfing-view",
               "state": {
                 "url": "https://my.noodletools.com/web2.0/bibliography.html"
+              }
+            }
+          },
+          {
+            "id": "6ddb6aa1a6238d68",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "http://w3c.github.io/wot/charters/wot-white-paper-2016.html"
+              }
+            }
+          },
+          {
+            "id": "65857dc24e6ff62f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://digitalcollections.hoover.org/objects/2824"
+              }
+            }
+          },
+          {
+            "id": "c03fc948116e895f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
               }
             }
           },
@@ -96,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,20 +188,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a93e3d75effb4fe2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bbf08d9da1ab3d7",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -170,14 +200,16 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
-        "dimension": 65.31007751937985,
+        "dimension": 74.63126843657817,
         "children": [
           {
             "id": "f6a53e84beb7f866",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md"
+              }
             }
           },
           {
@@ -212,7 +244,7 @@
       {
         "id": "9725a0e7b5bd74c6",
         "type": "tabs",
-        "dimension": 34.689922480620154,
+        "dimension": 25.368731563421832,
         "children": [
           {
             "id": "48dfe81f6d97ea39",
@@ -245,9 +277,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cb9959ea18543115",
+  "active": "05615a70b22f7c97",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
+    "docs/docs.md",
+    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
@@ -255,7 +289,6 @@
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
-    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/Robotics/Robotics.md",
     "docs/README.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
