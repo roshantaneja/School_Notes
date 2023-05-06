@@ -8,38 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05615a70b22f7c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e39118c171d8f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "96002453de3746ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf"
+                "file": "docs/History/Research Project/rough draft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -73,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "docs/History/Research Project/rough draft.md"
               }
             }
           },
@@ -220,8 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e39118c171d8f81",
+  "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "docs/History/Research Project/Outline.md",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "conflict-files-obsidian-git.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
@@ -229,8 +207,6 @@
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
-    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
@@ -252,7 +228,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
