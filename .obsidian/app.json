@@ -1,13 +1,13 @@
 {
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "showLineNumber": true,
   "rightToLeft": false,
   "smartIndentList": true,
   "showFrontmatter": true,
   "showIndentGuide": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": false,
@@ -20,5 +20,12 @@
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "docs/javascripts/"
+  ]
 }

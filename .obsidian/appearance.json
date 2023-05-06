@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
@@ -7,6 +7,6 @@
   "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "system",
   "showViewHeader": true
 }

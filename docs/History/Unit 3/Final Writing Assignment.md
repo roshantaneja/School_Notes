@@ -240,7 +240,3 @@ The paragraph attempts to explain an application, but it needs more exploration 
   
 
 The paragraph attempts  an application but it is either superficial or lacks coherence.
-
-  
-  
-**
