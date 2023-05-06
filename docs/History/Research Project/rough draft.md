@@ -37,6 +37,9 @@ Fast forward about six years, and Berners-Lee comes into the picture. During the
 
 
 
+
+
+
 ## IV. The impact of royalty-free technology on the Web's growth
 
 -   Overview of the W3C's role in developing standards and recommendations for the web
@@ -66,3 +69,4 @@ Fast forward about six years, and Berners-Lee comes into the picture. During the
 -   Suggestions for further research and exploration of the topic
     -   The potential impact of emerging technologies on the future of the web
     -   The role of governments and other stakeholders in promoting an open and accessible web.
+

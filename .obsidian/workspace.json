@@ -49,6 +49,82 @@
                 "file": "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
+          },
+          {
+            "id": "a7a0b971d2702440",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://my.noodletools.com/web2.0/bibliography.html"
+              }
+            }
+          },
+          {
+            "id": "9dfbb04c41dc9808",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://digitalcollections.hoover.org/objects/2824"
+              }
+            }
+          },
+          {
+            "id": "546a8988d82ab617",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=132541092&site=eds-live&custid=s2160156"
+              }
+            }
+          },
+          {
+            "id": "5f121b2eee715aa9",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+              }
+            }
+          },
+          {
+            "id": "4cb47736de4abdbb",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A111ACD379A036C80%40EANX-K12-11928B3351181940%402450534-1190D9F61C712C78%4019-11929164E0734FE0"
+              }
+            }
+          },
+          {
+            "id": "336089792d4c32ce",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6ecba0c0b129a7d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb29f6c51d62834",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "http://w3c.github.io/wot/charters/wot-white-paper-2016.html"
+              }
+            }
           }
         ]
       }
@@ -116,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 247.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -198,13 +275,13 @@
   },
   "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
+    "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "conflict-files-obsidian-git.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
-    "docs/History/Research Project/rough draft.md",
-    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
