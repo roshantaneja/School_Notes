@@ -6,7 +6,6 @@
       {
         "id": "f9ce34f964209f6b",
         "type": "tabs",
-        "dimension": 34.737827715355806,
         "children": [
           {
             "id": "96002453de3746ed",
@@ -18,36 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "c5a8094118642667",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf"
-              }
-            }
-          },
-          {
-            "id": "a16016f77bb3fc74",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3"
-              }
-            }
-          },
-          {
-            "id": "0a3f78457ff2450e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf"
               }
             }
           },
@@ -100,14 +69,7 @@
                 "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6ecba0c0b129a7d5",
-        "type": "tabs",
-        "dimension": 65.2621722846442,
-        "children": [
+          },
           {
             "id": "2fb29f6c51d62834",
             "type": "leaf",
@@ -128,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md"
+              }
             }
           },
           {
@@ -274,17 +237,17 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "9dfbb04c41dc9808",
+  "active": "96002453de3746ed",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
+    "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
     "conflict-files-obsidian-git.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
-    "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
-    "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
     "docs/History/Research Project/Research Project Canvas Board.canvas",
