@@ -62,16 +62,6 @@
             }
           },
           {
-            "id": "9dfbb04c41dc9808",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://digitalcollections.hoover.org/objects/2824"
-              }
-            }
-          },
-          {
             "id": "546a8988d82ab617",
             "type": "leaf",
             "state": {
@@ -127,8 +117,19 @@
                 "url": "http://w3c.github.io/wot/charters/wot-white-paper-2016.html"
               }
             }
+          },
+          {
+            "id": "9dfbb04c41dc9808",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://digitalcollections.hoover.org/objects/2824"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/History/Research Project/rough draft.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,10 +274,10 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "96002453de3746ed",
+  "active": "9dfbb04c41dc9808",
   "lastOpenFiles": [
-    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/rough draft.md",
+    "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Outline.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",

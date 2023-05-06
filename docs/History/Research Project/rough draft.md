@@ -36,7 +36,7 @@ Fast forward about six years, and Berners-Lee comes into the picture. During the
     -   The potential for patents and royalties to create barriers to entry and limit innovation
 
 
-During the
+During the creation of the WC3, TBL decided to found a system of governance that relied on open-source development and transparency with its community. Although he founded the WC3 as an initiative attached to CERN, it quickly became an independent organization.
 
 
 
