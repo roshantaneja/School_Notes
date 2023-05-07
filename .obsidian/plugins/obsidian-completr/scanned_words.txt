@@ -9156,7 +9156,6 @@ LDDD
 LTR
 LrPD
 LTm
-Limitation
 Why
 Which
 Write
@@ -13296,7 +13295,6 @@ WzqI
 Wkkao
 WAa
 WPWT
-WARM
 is
 increase
 in
@@ -27183,8 +27181,6 @@ aXk
 alBd
 axaa
 afD
-alos
-avoids
 volume
 very
 volHeatedWater
@@ -53573,13 +53569,8 @@ crqD
 cdwp
 ccccb
 cXzK
-cern
-collaborators
 capitalize
-critiques
-coastline
-currents
-china
+collaborators
 sea
 stating
 saltwater
@@ -58593,12 +58584,8 @@ sFE
 sll
 sBzt
 sfd
-serving
 subscription
-shelves
-subglacial
-seawalls
-sponge
+serving
 level
 learned
 land
@@ -67523,9 +67510,6 @@ rzXa
 rXLv
 revolutionized
 regulated
-retaliation
-reversing
-reform
 From
 Funnel
 Final
@@ -76211,7 +76195,6 @@ EFvk
 ExDv
 EnJ
 ExL
-Existing
 you
 your
 years
@@ -84639,7 +84622,6 @@ Bzov
 Blb
 BwTC
 BXg
-Block
 happen
 help
 hydrosphere
@@ -88913,7 +88895,6 @@ hwDw
 hzu
 hHvF
 hDDC
-harm
 freshwater
 for
 funnel
@@ -94079,7 +94060,6 @@ fNDPC
 fIuI
 fBP
 fvHE
-flooding
 melts
 model
 mix
@@ -102818,7 +102798,6 @@ uUUKUU
 uge
 uOY
 uDDDzZG
-uprooted
 MATERIALS
 Make
 Mass
@@ -120811,10 +120790,7 @@ gbc
 gGtM
 gFUL
 gQHb
-geoengineering
-groupmates
-guarding
-govt
+governance
 Colored
 Cubes
 Cryosphere
@@ -125658,7 +125634,6 @@ CiHb
 CcA
 CWm
 Cern
-Chart
 Using
 Use
 University
@@ -139491,8 +139466,6 @@ dDu
 dHG
 dGz
 dDDDDDDHd
-damaged
-drowning
 each
 enter
 equation
@@ -144712,8 +144685,6 @@ eNR
 efIY
 eDVc
 erl
-excluded
-ethical
 You
 Years
 Your
@@ -153369,8 +153340,6 @@ nBL
 ntk
 nFF
 nFL
-neglected
-neglect
 pieces
 position
 percent
@@ -157700,8 +157669,6 @@ paAB
 pCAJ
 pivotal
 preexisting
-prioritized
-poorly
 Record
 Read
 Readings
@@ -174456,7 +174423,6 @@ TlqQ
 TRqQ
 TDDE
 TDXM
-THis
 After
 AND
 Antarctic
@@ -179231,7 +179197,6 @@ AzK
 Ajg
 AnFA
 AJq
-Allowed
 DATA
 Doyle
 Data

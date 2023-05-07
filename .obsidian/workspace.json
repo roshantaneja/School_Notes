@@ -4,19 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "b0937b082b995e80",
+        "id": "f9ce34f964209f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "1ea14f657b153184",
+            "id": "96002453de3746ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
-                "mode": "preview",
+                "file": "docs/History/Research Project/rough draft.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "a7a0b971d2702440",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://my.noodletools.com/web2.0/bibliography.html"
+              }
+            }
+          },
+          {
+            "id": "546a8988d82ab617",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=132541092&site=eds-live&custid=s2160156"
+              }
+            }
+          },
+          {
+            "id": "5f121b2eee715aa9",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+              }
+            }
+          },
+          {
+            "id": "4cb47736de4abdbb",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A111ACD379A036C80%40EANX-K12-11928B3351181940%402450534-1190D9F61C712C78%4019-11929164E0734FE0"
+              }
+            }
+          },
+          {
+            "id": "336089792d4c32ce",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690"
+              }
+            }
+          },
+          {
+            "id": "2fb29f6c51d62834",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "http://w3c.github.io/wot/charters/wot-white-paper-2016.html"
+              }
+            }
+          },
+          {
+            "id": "9dfbb04c41dc9808",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://digitalcollections.hoover.org/objects/2824"
               }
             }
           }
@@ -59,6 +129,14 @@
             }
           },
           {
+            "id": "95297ad796af03bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "b86003971fbe613b",
             "type": "leaf",
             "state": {
@@ -67,7 +145,7 @@
             }
           },
           {
-            "id": "f9c02e9de9a69f44",
+            "id": "5bfebf0c4aa70882",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -78,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 247.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -87,7 +166,6 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
-        "dimension": 74.63126843657817,
         "children": [
           {
             "id": "f6a53e84beb7f866",
@@ -95,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md"
+                "file": "docs/History/Research Project/rough draft.md"
               }
             }
           },
@@ -125,24 +203,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9725a0e7b5bd74c6",
-        "type": "tabs",
-        "dimension": 25.368731563421832,
-        "children": [
+          },
           {
-            "id": "48dfe81f6d97ea39",
+            "id": "ea9d70a87d9c8343",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,39 +221,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": true,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "graph:Open graph view": false,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-grammarly-plugin:Enable Grammarly": false,
       "obsidian-flexible-pomo:Start Pomodoro": false,
       "workspaces:Manage workspace layouts": true,
+      "webpage-html-export:Export Vault to HTML": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-grammarly-plugin:Enable Grammarly": false
+      "markdown-importer:Open format converter": true,
+      "omnisearch:Omnisearch": true
     }
   },
-  "active": "1ea14f657b153184",
+  "active": "96002453de3746ed",
   "lastOpenFiles": [
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
     "docs/History/Research Project/rough draft.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
-    "docs/History/Research Project/Research Project Canvas Board.canvas",
+    "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
-    "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
-    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
-    "docs/History/Unit 3/Final Writing Assignment.md",
-    "docs/docs.md",
     "docs/History/Research Project/Outline.md",
+    "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM..pdf",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Molarity Calculation Sheet.md",
+    "conflict-files-obsidian-git.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
     "docs/History/Research Project/Source Documents/FIWARE - A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal).md",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.md",
+    "docs/History/Research Project/Research Project Canvas Board.canvas",
     "docs/Robotics/Robotics.md",
     "docs/README.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
@@ -198,6 +265,9 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
+    "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
+    "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
+    "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
