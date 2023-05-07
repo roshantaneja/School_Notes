@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd0707cc5194317",
+        "id": "91d0d4f012d4806f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4b641d22888e052",
+            "id": "c06a197fd96e2af3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -134,6 +139,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "34e85af5d809fa53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -174,12 +187,13 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "b4b641d22888e052",
+  "active": "88bd91985563f9e1",
   "lastOpenFiles": [
+    "docs/History/Research Project/rough draft.md",
+    "Untitled.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Unit 6 - Why are Shellfish Dying.md",
     "docs/AP Computer Science A/Sharks And Fish/Sharks and Fish (all PDFs).md",
-    "docs/History/Research Project/rough draft.md",
     "Context/spacesLastSync.log",
     "Context",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
@@ -208,7 +222,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
