@@ -26,7 +26,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://my.noodletools.com/web2.0/bibliography.html"
+                "url": "https://my.noodletools.com/logon/signin"
               }
             }
           },
@@ -151,6 +151,14 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "1909bc82f84e8bcc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -238,6 +246,8 @@
   },
   "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
@@ -274,7 +284,6 @@
     "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project",
     "docs/Religion/Christian Scripture/January",
     "docs/Religion/Hebrew Scriptures/Final Test",
-    "docs/Religion/Christian Scripture/April",
     "Pasted image 20230501193457.png",
     "Pasted image 20230501193442.png"
   ]
