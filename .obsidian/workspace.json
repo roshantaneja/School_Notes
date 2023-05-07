@@ -106,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/History/Research Project/rough draft.md"
+              }
             }
           },
           {
@@ -193,8 +195,9 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "7996cdb1adaa92b9",
+  "active": "c06a197fd96e2af3",
   "lastOpenFiles": [
+    "docs/History/Unit 2/Final Writing Assignment.md",
     "docs/History/Research Project/rough draft.md",
     "Untitled.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
@@ -227,7 +230,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
