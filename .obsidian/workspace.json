@@ -32,6 +32,7 @@
       {
         "id": "c07f9aa38a2400ad",
         "type": "tabs",
+        "dimension": 63.08139534883721,
         "children": [
           {
             "id": "350df6776f481940",
@@ -41,29 +42,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "b067ef0dc1a6bf91",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "95297ad796af03bf",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -91,10 +69,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "103d0697111cd3b3",
+        "type": "tabs",
+        "dimension": 36.91860465116279,
+        "children": [
+          {
+            "id": "7996cdb1adaa92b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 327
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -103,7 +99,7 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
-        "dimension": 64.63178294573643,
+        "dimension": 32.315891472868216,
         "children": [
           {
             "id": "f6a53e84beb7f866",
@@ -122,17 +118,6 @@
             }
           },
           {
-            "id": "7996cdb1adaa92b9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "319a6ea03b3ba7ca",
             "type": "leaf",
             "state": {
@@ -141,6 +126,28 @@
             }
           },
           {
+            "id": "b067ef0dc1a6bf91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "96095a4aabfbd40a",
+        "type": "tabs",
+        "dimension": 32.315891472868216,
+        "children": [
+          {
             "id": "34e85af5d809fa53",
             "type": "leaf",
             "state": {
@@ -148,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f5cc6b8471b46b4",
@@ -187,7 +193,7 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "88bd91985563f9e1",
+  "active": "7996cdb1adaa92b9",
   "lastOpenFiles": [
     "docs/History/Research Project/rough draft.md",
     "Untitled.md",

@@ -34,10 +34,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "School_Notes": []
+  },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "School_Notes"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -68,7 +71,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1683492242899,
+  "spacesAutoBackupLast": 1683492439207,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
