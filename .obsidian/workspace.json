@@ -4,90 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ce34f964209f6b",
+        "id": "9cd0707cc5194317",
         "type": "tabs",
         "children": [
           {
-            "id": "96002453de3746ed",
+            "id": "b4b641d22888e052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/History/Research Project/rough draft.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a7a0b971d2702440",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://my.noodletools.com/logon/signin"
-              }
-            }
-          },
-          {
-            "id": "546a8988d82ab617",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=132541092&site=eds-live&custid=s2160156"
-              }
-            }
-          },
-          {
-            "id": "5f121b2eee715aa9",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
-              }
-            }
-          },
-          {
-            "id": "4cb47736de4abdbb",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A111ACD379A036C80%40EANX-K12-11928B3351181940%402450534-1190D9F61C712C78%4019-11929164E0734FE0"
-              }
-            }
-          },
-          {
-            "id": "336089792d4c32ce",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690"
-              }
-            }
-          },
-          {
-            "id": "2fb29f6c51d62834",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "http://w3c.github.io/wot/charters/wot-white-paper-2016.html"
-              }
-            }
-          },
-          {
-            "id": "9dfbb04c41dc9808",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://digitalcollections.hoover.org/objects/2824"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -164,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922,
-    "collapsed": true
+    "width": 247.5110321044922
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -174,15 +98,14 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
+        "dimension": 64.63178294573643,
         "children": [
           {
             "id": "f6a53e84beb7f866",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/History/Research Project/rough draft.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,7 +134,15 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1f5cc6b8471b46b4",
+        "type": "tabs",
+        "dimension": 35.36821705426357,
+        "children": [
           {
             "id": "ea9d70a87d9c8343",
             "type": "leaf",
@@ -220,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,11 +174,14 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "96002453de3746ed",
+  "active": "b4b641d22888e052",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Chemistry Honours.md",
+    "docs/Chemistry Honours/Unit 6 - Why are Shellfish Dying/Unit 6 - Why are Shellfish Dying.md",
+    "docs/AP Computer Science A/Sharks And Fish/Sharks and Fish (all PDFs).md",
+    "docs/History/Research Project/rough draft.md",
     "Context/spacesLastSync.log",
     "Context",
-    "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
     "docs/History/Research Project/Source Documents/Primary Sources/2003c87_a_0000255_r01.mp3",
@@ -263,7 +196,6 @@
     "docs/Robotics/Robotics.md",
     "docs/README.md",
     "docs/AP Computer Science A/AP Computer Science A.md",
-    "docs/AP Computer Science A/Sharks And Fish/Sharks and Fish (all PDFs).md",
     "docs/AP Computer Science A/Asteroids.md",
     "docs/AP Computer Science A/Testing Latex.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/11-10 - Unit 4 Lesson 3.md",
@@ -277,13 +209,11 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
     "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project",
     "docs/Religion/Christian Scripture/January",
-    "docs/Religion/Hebrew Scriptures/Final Test",
     "Pasted image 20230501193457.png",
     "Pasted image 20230501193442.png"
   ]
