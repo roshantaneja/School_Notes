@@ -6,7 +6,6 @@
       {
         "id": "364d4cbff390e36a",
         "type": "tabs",
-        "dimension": 53.83795309168443,
         "children": [
           {
             "id": "eaec1e2d45088f16",
@@ -28,23 +27,6 @@
               "type": "surfing-view",
               "state": {
                 "url": "https://digitalcollections.hoover.org/objects/2824"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee2c2554eb4d7855",
-        "type": "tabs",
-        "dimension": 46.16204690831556,
-        "children": [
-          {
-            "id": "2965a85bb4381f99",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://my.noodletools.com/web2.0/bibliography.html"
               }
             }
           }
