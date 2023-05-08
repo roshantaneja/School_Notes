@@ -68,7 +68,7 @@ Impact of the open source, royalty-free, unrestricted internet on American socie
 
 The growth of the internet has had a significant impact on its users. In 1993, there were only around 130 websites, but by 2000, there were over 10 million. This growth has given users access to a wealth of information and resources that were previously unavailable.
 
-The growth of the internet has also led to a significant increase in internet-related jobs. Resume databases, software engineers, and website designers became highly sought after, as every company needed an online presence. This growth in internet-related jobs has positively impacted the job market. *(Insert Data)*
+The growth of the internet has also led to a significant increase in internet-related jobs. Resume databases, software engineers, and website designers became highly sought after, as every company needed an online presence. This growth in internet-related jobs has positively impacted the job market. By 2000, 2.5 Million americans made livings directly from the Internet(Jobs with Links to Internet Soar)
 
 The Internet has had a profound impact on businesses. Companies like Google, Yahoo, and AOL were born online, and many traditional businesses now have an online presence. The Internet has also given businesses access to various resources, including the Library of Congress, online journals, and newspapers.
 
