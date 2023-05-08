@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -40,7 +40,7 @@
       {
         "id": "c07f9aa38a2400ad",
         "type": "tabs",
-        "dimension": 80.62015503875969,
+        "dimension": 58.43023255813954,
         "children": [
           {
             "id": "350df6776f481940",
@@ -89,7 +89,7 @@
       {
         "id": "c7339ae8a7423178",
         "type": "tabs",
-        "dimension": 19.379844961240313,
+        "dimension": 41.56976744186046,
         "children": [
           {
             "id": "7996cdb1adaa92b9",
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5,
-    "collapsed": true
+    "width": 482.5
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -193,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
-    "collapsed": true
+    "width": 446.5
   },
   "left-ribbon": {
     "hiddenItems": {

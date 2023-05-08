@@ -167,58 +167,16 @@ The following table shows the specific heat capacity of several substances. 
 
   
 
-Substance
-
-Specific Heat Capacity
-
-Water, H2O (l)
-
-1.00 cal/g°C
-
-4.184 J/g°C
-
-Ocean water
-
-0.94 cal/g°C
-
-3.697 J/g°C
-
-Sand
-
-0.18 cal/g°C
-
-0.795 J/g°C
-
-Air (sea level, dry)
-
-0.24 cal/g°C
-
-1.004 J/g°C
-
-Ice, H2O (s)
-
-0.50 cal/g°C
-
-2.092 J/g°C
-
-Asphalt
-
-0.22 cal/g°C
-
-0.920 J/g°C
-
-Granite
-
-0.17 cal/g°C
-
-0.711 J/g°C
-
-Styrofoam
-
-0.27 cal/g°C
-
-1.130 J/g°C
-
+| Substance            | Specific Heat Capacity (cal/gC) | Specific Heat Capacity (J/gC) |
+| -------------------- | ------------------------------- | ----------------------------- |
+| Water, H2O (l)       | 1.00 cal/g°C                    | 4.184 J/g°C                   |
+| Ocean water          | 0.94 cal/g°C                    | 3.697 J/g°C                   |
+| Sand                 | 0.18 cal/g°C                    | 0.795 J/g°C                   |
+| Air (sea level, dry) | 0.24 cal/g°C                    | 1.004 J/g°C                   |
+| Ice, H2O (s)         | 0.50 cal/g°C                    | 2.092 J/g°C                   |
+| Asphalt              | 0.22 cal/g°C                    | 0.920 J/g°C                   |
+| Granite              | 0.17 cal/g°C                    | 0.711 J/g°C                   |
+| Styrofoam            | 0.27 cal/g°C                    | 1.130 J/g°C                   |
   
 
 11. Which substance listed in the table requires the least amount of energy to raise the temperature of 1 g of the substance at 1°C?

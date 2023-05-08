@@ -1,5 +1,6 @@
 {
-  "accentColor": "",
+  "accentColor": "#ef6bd7",
   "baseFontSize": 10,
-  "cssTheme": "ITS Theme"
+  "cssTheme": "Sanctum",
+  "theme": "moonstone"
 }
