@@ -26,7 +26,42 @@ Recent years have seen challenges to using royalty-free technology in web develo
 
 Similarly, if patent trolls are allowed to continue to extract royalties from web technologies, this could stifle innovation and limit the development of new technologies. It could also lead to increased costs for organizations that use web technologies, as they are forced to pay royalties to multiple patent holders(Halpin, Harry, Patent Pending). To address these challenges, it will be essential to continue promoting royalty-free technologies in web development and to educate users and organizations about the importance of open and collaborative development processes. It may also be necessary to explore alternative patent ownership and enforcement models, such as using patent pools or creating industry-wide standards for patent licensing. By taking these steps, it may be possible to ensure that the web remains an open and accessible platform that benefits all users. These actions are precisely the actions that Berners-Lee took to ensure that the web remained royalty-free and "friendly." Due to his efforts to contain the development of malicious, harmful, or exploitative technologies, TBL has promoted a sense of competition and collaboration that has never been seen in a globally contributed project. Fast-forward almost 40 years since the development of the internet, and it remains open for anyone to use without restrictions.
 
-The impact of a free and unrestricted 
+The impact of an unrestricted, open source internet had massive implications for american society.
+
+```xml
+Impact of the open source, royalty-free, unrestricted internet on American society.
+- users
+	- in 1993, there were about 130 websites
+	- by 2000, there were over 10,000,000 websites.
+- jobs
+	- internet-related jobs skyrocketed
+		- resume databases
+		- software engineers in every company were valid jobs to create the internet presence of each company
+	- companies now had online user presence
+- businesses
+	- companies
+		- Google
+		- Yahoo
+		- AOL
+	- resources
+		- library of Congress
+		- online Journals
+		- online newspapers
+- browsers
+	- Google
+	- Yahoo
+	- mosaic
+	- Netscape
+- communication
+	- email servers
+		- Yahoo
+		- Gmail
+		- Hotmail
+	- Chat Rooms
+		- aim
+		- Yahoo chats
+	- VOIP
+```
 
 In conclusion, this research paper has examined the significance of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free. It has discussed his vision for a decentralized and open web accessible to all and the potential impact of royalties and patents on developing and adopting web technologies. Furthermore, this research has explored how royalty-free technology has influenced the adoption and growth of the web over the past several decades. It has highlighted the role of the W3C in promoting the adoption of open and royalty-free technologies and ensuring interoperability and compatibility across different devices and platforms. However, this research has also identified challenges to royalty-free technology, such as the emergence of proprietary technologies and the potential impact of patent trolls. These challenges have implications for the future of the web, including the openness, accessibility, and innovation potential of the web. Therefore, this research suggests that it is essential to continue to promote the use of royalty-free technologies in the development of the web and explore alternative models for patent ownership and enforcement. Further research is also needed to examine the potential impact of emerging technologies on the future of the web and the role of governments and other stakeholders in promoting an open and accessible web. In conclusion, the web has the potential to be a platform for innovation, collaboration, and growth for everyone. It is essential to ensure that the web remains an open and accessible platform that benefits all users, regardless of their background or resources.
 
