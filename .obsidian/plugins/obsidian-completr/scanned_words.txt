@@ -9157,6 +9157,7 @@ LDDD
 LTR
 LrPD
 LTm
+Limitation
 Why
 Which
 Write
@@ -13296,6 +13297,7 @@ WzqI
 Wkkao
 WAa
 WPWT
+WARM
 is
 increase
 in
@@ -27184,6 +27186,7 @@ alBd
 axaa
 afD
 adopting
+avoids
 volume
 very
 volHeatedWater
@@ -53576,6 +53579,9 @@ capitalize
 collaborators
 collaborative
 contributions
+coastline
+currents
+china
 sea
 stating
 saltwater
@@ -58591,6 +58597,10 @@ sBzt
 sfd
 subscription
 serving
+shelves
+subglacial
+seawalls
+sponge
 level
 learned
 land
@@ -67517,6 +67527,9 @@ rXLv
 revolutionized
 regulated
 reduces
+retaliation
+reversing
+reform
 From
 Funnel
 Final
@@ -84629,6 +84642,7 @@ Bzov
 Blb
 BwTC
 BXg
+Block
 happen
 help
 hydrosphere
@@ -88902,6 +88916,7 @@ hwDw
 hzu
 hHvF
 hDDC
+harm
 freshwater
 for
 funnel
@@ -94067,6 +94082,7 @@ fNDPC
 fIuI
 fBP
 fvHE
+flooding
 melts
 model
 mix
@@ -102805,6 +102821,7 @@ uUUKUU
 uge
 uOY
 uDDDzZG
+uprooted
 MATERIALS
 Make
 Mass
@@ -120798,6 +120815,9 @@ gGtM
 gFUL
 gQHb
 governance
+geoengineering
+guarding
+govt
 Colored
 Cubes
 Cryosphere
@@ -139481,6 +139501,8 @@ dDDDDDDHd
 democratize
 depended
 dictate
+damaged
+drowning
 each
 enter
 equation
@@ -144702,6 +144724,8 @@ eDVc
 erl
 enterprises
 enforcement
+excluded
+ethical
 You
 Years
 Your
@@ -153357,6 +153381,8 @@ nBL
 ntk
 nFF
 nFL
+neglected
+neglect
 pieces
 position
 percent
@@ -157688,6 +157714,8 @@ pivotal
 preexisting
 promotes
 pools
+prioritized
+poorly
 Record
 Read
 Readings
@@ -179218,6 +179246,7 @@ AzK
 Ajg
 AnFA
 AJq
+Allowed
 DATA
 Doyle
 Data

@@ -20,7 +20,7 @@ How much CaCl2 and Na2CO3 is needed to make an average sized oyster shell with a
 2.  # What did we learn last class about calculating the moles or mass of a chemical reaction? 
     
 
-  
+the moles in a reaction are proportional to the coefficients in a balanced equation
 
 3.  # Complete the IMT for Lesson 8.
     
@@ -34,7 +34,7 @@ How much CaCl2 and Na2CO3 is needed to make an average sized oyster shell with a
 | 2               | 1              | 2                | 1               | cheese              | bread               |
 | 4               | 1              | 3                | 1               | cheese, bread       | meat                |
 | 8               | 5              | 2                | 2               | meat, bread         | cheese              |
-| 10              | 5              | 5                |                 | none                | none                |
+| 10              | 5              | 5                | 5               | none                | none                |
 
 
 
