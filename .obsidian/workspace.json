@@ -6,6 +6,7 @@
       {
         "id": "364d4cbff390e36a",
         "type": "tabs",
+        "dimension": 62.20682302771855,
         "children": [
           {
             "id": "eaec1e2d45088f16",
@@ -14,19 +15,9 @@
               "type": "markdown",
               "state": {
                 "file": "docs/History/Research Project/rough draft.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "2965a85bb4381f99",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://my.noodletools.com/web2.0/bibliography.html"
               }
             }
           },
@@ -37,6 +28,23 @@
               "type": "surfing-view",
               "state": {
                 "url": "https://digitalcollections.hoover.org/objects/2824"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee2c2554eb4d7855",
+        "type": "tabs",
+        "dimension": 37.79317697228145,
+        "children": [
+          {
+            "id": "2965a85bb4381f99",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://my.noodletools.com/web2.0/bibliography.html"
               }
             }
           }
