@@ -30,3 +30,28 @@ The growth of the internet has had a significant impact on its users. In 1993, t
 
 In conclusion, this research paper has examined the significance of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free. It has discussed his vision for a decentralized and open web accessible to all and the potential impact of royalties and patents on developing and adopting web technologies. Furthermore, this research has explored how royalty-free technology has influenced the adoption and growth of the web over the past several decades. It has highlighted the role of the W3C in promoting the adoption of open and royalty-free technologies and ensuring interoperability and compatibility across different devices and platforms. However, this research has also identified challenges to royalty-free technology, such as the emergence of proprietary technologies and the potential impact of patent trolls. These challenges have implications for the future of the web, including the openness, accessibility, and innovation potential of the web. Therefore, this research suggests that it is essential to continue to promote the use of royalty-free technologies in the development of the web and explore alternative models for patent ownership and enforcement. Further research is also needed to examine the potential impact of emerging technologies on the future of the web and the role of governments and other stakeholders in promoting an open and accessible web. In conclusion, the web has the potential to be a platform for innovation, collaboration, and growth for everyone. It is essential to ensure that the web remains an open and accessible platform that benefits all users, regardless of their background or resources.
 
+<center>Works Cited</center>
+
+"April 2023 Web Server Survey." April 2023 Web Server Survey, Netcraft, 27 Apr. 2023, news.netcraft.com/archives/category/web-server-survey/. Accessed 7 May 2023.
+
+Gray, Matthew. "Measuring the Growth of the Web." Measuring the Growth of the Web, MIT, 1995, www.mit.edu/people/mkgray/growth/. Accessed 7 May 2023.
+
+Halpin, Harry, and Alexandre Monnin. Philosophical Engineering: Toward a Philosophy of the Web. E-book ed., Chichester, Wiley-Blackwell, 2014.
+
+Hendershott, Robert J. "Net Value: Wealth Creation (and Destruction) during the Internet Boom." Journal of Corporate Finance, vol. 10, no. 2, Mar. 2004, pp. 281-99, https://doi.org/10.1016/S0929-1199(03)00058-0.
+
+Marietta Journal. 13 Dec. 1994. America's Historical Newspapers, infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A11CE19BA057D85A2%40EANX-K12-11F612CC43FAC898%402449700-11F371F98F4DFFD0%4023-11F61503712CC690. Accessed 29 Mar. 2023.
+
+Perrin, Andrew, and Maeve Duggan. Americans' Internet Access: 2000-2015. PEW RESEARCH CENTER, 26 June 2015. Pew Research, www.pewresearch.org/internet/2015/06/26/americans-internet-access-2000-2015/.
+
+Reuters. "Jobs with Links to Internet Soar." The New York Times [New York City], 8 June 2000, sec. C, p. 6, www.nytimes.com/2000/06/08/business/jobs-with-links-to-internet-soar.html. Accessed 7 May 2023.
+
+St. Albans Daily Messenger. 26 Mar. 1997. America's Historical Newspapers, infoweb.newsbank.com/apps/news/document-view?p=EANX-K12&docref=image/v2%3A111ACD379A036C80%40EANX-K12-11928B3351181940%402450534-1190D9F61C712C78%4019-11929164E0734FE0. Accessed 29 Mar. 2023.
+
+"Tim Berners-Lee." Wikipedia, en.wikipedia.org/wiki/Tim_Berners-Lee. Accessed 9 Feb. 2023.
+
+Tot, Ivan A., et al. "FIWARE: A WEB of THINGS DEVELOPMENT PLATFORM." Military Technical Courier / Vojnotehnicki Glasnik, vol. 66, no. 4, Oct. 2018, pp. 880-99. Academic Search Complete, https://doi.org/10.5937/vojtehg66-17063.
+
+"Weaving the Web." Hoover Institution, Stanford University, 19 Oct. 1999, digitalcollections.hoover.org/objects/2824. Accessed 29 Mar. 2023.
+
+"White Paper for the Web of Things." White Paper for the Web of Things, World Wide Web Consortium, 2016, w3c.github.io/wot/charters/wot-white-paper-2016.html. Accessed 21 Mar. 2023.

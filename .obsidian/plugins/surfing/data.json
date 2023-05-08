@@ -98,6 +98,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "0b0a7d7fc13cf92b",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
