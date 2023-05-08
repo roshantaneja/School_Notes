@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
-                "mode": "preview",
+                "file": "docs/AP Computer Science A/AuthorshipDetection.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -39,21 +39,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b067ef0dc1a6bf91",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -91,6 +76,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "c7339ae8a7423178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7996cdb1adaa92b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,17 +105,8 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
+        "dimension": 29.891838741396263,
         "children": [
-          {
-            "id": "f6a53e84beb7f866",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md"
-              }
-            }
-          },
           {
             "id": "88bd91985563f9e1",
             "type": "leaf",
@@ -123,13 +116,27 @@
             }
           },
           {
-            "id": "7996cdb1adaa92b9",
+            "id": "f6a53e84beb7f866",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "docs/AP Computer Science A/AuthorshipDetection.md"
+              }
+            }
+          },
+          {
+            "id": "b067ef0dc1a6bf91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -141,12 +148,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5d9a642968713795",
         "type": "tabs",
+        "dimension": 36.7748279252704,
         "children": [
           {
             "id": "96002453de3746ed",
@@ -161,6 +168,7 @@
       {
         "id": "ef7b08610327fe48",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "ea9d70a87d9c8343",
@@ -195,6 +203,8 @@
   },
   "active": "eaec1e2d45088f16",
   "lastOpenFiles": [
+    "docs/AP Computer Science A/AuthorshipDetection.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-2 Unit 7 Lesson 9.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
     "docs/History/Research Project/rough draft.md",
     "docs/Robotics/2022-2023/Home Comp Flyer.md",
@@ -226,7 +236,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
