@@ -11,49 +11,49 @@
       "query": "path:\"docs/Chemistry Honours\"",
       "color": {
         "a": 1,
-        "rgb": 10475100
+        "rgb": 9240320
       }
     },
     {
       "query": "path:\"docs/US Literature\"",
       "color": {
         "a": 1,
-        "rgb": 6056662
+        "rgb": 43775
       }
     },
     {
       "query": "path:docs/History",
       "color": {
         "a": 1,
-        "rgb": 14077020
+        "rgb": 16774912
       }
     },
     {
       "query": "path:\"docs/Precalc BC Honours\"",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16711680
       }
     },
     {
       "query": "path:docs/Spanish",
       "color": {
         "a": 1,
-        "rgb": 13524182
+        "rgb": 14745855
       }
     },
     {
       "query": "path:docs/Religion",
       "color": {
         "a": 1,
-        "rgb": 14720594
+        "rgb": 16743168
       }
     },
     {
       "query": "path:\"docs/AP Computer Science A\"",
       "color": {
         "a": 1,
-        "rgb": 5431511
+        "rgb": 65518
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.10016074247794357,
+  "scale": 0.08205769866579567,
   "close": true
 }

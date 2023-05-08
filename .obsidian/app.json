@@ -27,5 +27,6 @@
   "attachmentFolderPath": "./",
   "userIgnoreFilters": [
     "docs/javascripts/"
-  ]
+  ],
+  "foldHeading": true
 }
