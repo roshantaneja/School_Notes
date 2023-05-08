@@ -45,7 +45,7 @@
   },
   "treeData": [
     {
-      "id": "a7a0b971d2702440",
+      "id": "2965a85bb4381f99",
       "parent": 0,
       "droppable": true,
       "text": "NoodleTools - Sources",
@@ -56,7 +56,7 @@
       }
     },
     {
-      "id": "336089792d4c32ce",
+      "id": "e8ff1e15ae8d3a01",
       "parent": 0,
       "droppable": true,
       "text": "User account",
@@ -67,29 +67,7 @@
       }
     },
     {
-      "id": "4cb47736de4abdbb",
-      "parent": 0,
-      "droppable": true,
-      "text": "User account",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "5f121b2eee715aa9",
-      "parent": 0,
-      "droppable": true,
-      "text": "Tim Berners-Lee - Wikipedia",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "546a8988d82ab617",
+      "id": "5dc4265eb039a28c",
       "parent": 0,
       "droppable": true,
       "text": "EBSCOhost Login",
@@ -100,7 +78,7 @@
       }
     },
     {
-      "id": "9dfbb04c41dc9808",
+      "id": "1278e1924bc67115",
       "parent": 0,
       "droppable": true,
       "text": "Weaving the Web – Works – Digital Collections",
@@ -111,7 +89,7 @@
       }
     },
     {
-      "id": "2fb29f6c51d62834",
+      "id": "58a4d303cbe1fe74",
       "parent": 0,
       "droppable": true,
       "text": "White Paper for the Web of Things",
