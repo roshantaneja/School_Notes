@@ -26,57 +26,7 @@ Recent years have seen challenges to using royalty-free technology in web develo
 
 Similarly, if patent trolls are allowed to continue to extract royalties from web technologies, this could stifle innovation and limit the development of new technologies. It could also lead to increased costs for organizations that use web technologies, as they are forced to pay royalties to multiple patent holders(Halpin, Harry, Patent Pending). To address these challenges, it will be essential to continue promoting royalty-free technologies in web development and to educate users and organizations about the importance of open and collaborative development processes. It may also be necessary to explore alternative patent ownership and enforcement models, such as using patent pools or creating industry-wide standards for patent licensing. By taking these steps, it may be possible to ensure that the web remains an open and accessible platform that benefits all users. These actions are precisely the actions that Berners-Lee took to ensure that the web remained royalty-free and "friendly." Due to his efforts to contain the development of malicious, harmful, or exploitative technologies, TBL has promoted a sense of competition and collaboration that has never been seen in a globally contributed project. Fast-forward almost 40 years since the development of the internet, and it remains open for anyone to use without restrictions.
 
-The impact of an unrestricted, open source internet had massive implications for american society
+The growth of the internet has had a significant impact on its users. In 1993, there were only around 130 websites, but by 2000, there were over 10 million(April 2023 Web Server Survey). This growth has given users access to a wealth of information and resources that were previously unavailable. The growth of the internet has also led to a significant increase in internet-related jobs. Resume databases, software engineers, and website designers became highly sought after, as every company needed an online presence. By 2000, 2.5 Million Americans made a living directly from the Internet(Reuters). This growth in internet-related jobs has positively impacted the job market. The Internet has had a profound impact on businesses. Companies like Google, Yahoo, and AOL were born online, and many traditional businesses now have an online presence. The Internet has also given consumers access to various resources, including the Library of Congress, online journals, and newspapers. Many technologies were developed in tandem with the internet. For example, Search Engines like Google, Yahoo, and AskJeeves have become household names, with millions of users accessing the internet through them. These browsers have given users easy access to the internet and have been instrumental in the growth of the web. The internet has also revolutionized communication. Email servers like Yahoo, Gmail, and Hotmail have made it easy for people to communicate with each other from anywhere in the world. Chat rooms like AIM and Yahoo chats have also given users new ways to communicate with each other. VOIP, or Voice over Internet Protocol, has made long-distance communication cheaper and more accessible. By 2000, over 50% of Americans used the internet regularly (Perrin). Of that 50%, 70% were adolescents between 18 and 29(). The internet was not an invention for the current generation; it was an invention for the future. The largest adopters of the internet in years to come would not be meant for those whom the invention was created. 
 
-
-
-```xml
-Impact of the open source, royalty-free, unrestricted internet on American society.
-- users
-	- in 1993, there were about 130 websites
-	- by 2000, there were over 10,000,000 websites.
-- jobs
-	- internet-related jobs skyrocketed
-		- resume databases
-		- software engineers in every company were valid jobs to create the internet presence of each company
-	- companies now had online user presence
-- businesses
-	- companies
-		- Google
-		- Yahoo
-		- AOL
-	- resources
-		- library of Congress
-		- online Journals
-		- online newspapers
-- browsers
-	- Google
-	- Yahoo
-	- mosaic
-	- Netscape
-- communication
-	- email servers
-		- Yahoo
-		- Gmail
-		- Hotmail
-	- Chat Rooms
-		- aim
-		- Yahoo chats
-	- VOIP
-```
-
-
-The growth of the internet has had a significant impact on its users. In 1993, there were only around 130 websites, but by 2000, there were over 10 million(April 2023 Web Server Survey). This growth has given users access to a wealth of information and resources that were previously unavailable.
-
-The growth of the internet has also led to a significant increase in internet-related jobs. Resume databases, software engineers, and website designers became highly sought after, as every company needed an online presence. By 2000, 2.5 Million Americans made a living directly from the Internet(Reuters). This growth in internet-related jobs has positively impacted the job market.
-
-The Internet has had a profound impact on businesses. Companies like Google, Yahoo, and AOL were born online, and many traditional businesses now have an online presence. The Internet has also given consumers access to various resources, including the Library of Congress, online journals, and newspapers. 
-
-Many technologies were developed in tandem with the internet. For example, Search Engines like Google, Yahoo, and AskJeeves have become household names, with millions of users accessing the internet through them. These browsers have given users easy access to the internet and have been instrumental in the growth of the web.
-
-The internet has also revolutionized communication. Email servers like Yahoo, Gmail, and Hotmail have made it easy for people to communicate with each other from anywhere in the world. Chat rooms like AIM and Yahoo chats have also given users new ways to communicate with each other. VOIP, or Voice over Internet Protocol, has made long-distance communication cheaper and more accessible. 
-
-By 2000, over 50% of Americans used the internet regularly (Perrin). Of that 50%, 70% were adolescents between 18 and 29(). The internet was not an invention for the current generation; it was an invention for the future. The largest adopters of the internet in years to come would not be meant for those whom the invention was created. 
-
-In conclusion, this research paper has examined the significance of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free. It has discussed his vision for a decentralized and open web accessible to all and the potential impact of royalties and patents on developing and adopting web technologies. Furthermore, this research has explored how royalty-free technology has influenced the adoption and growth of the web over the past several decades. It has highlighted the role of the W3C in promoting the adoption of open and royalty-free technologies and ensuring interoperability and compatibility across different devices and platforms. However, this research has also identified challenges to royalty-free technology, such as the emergence of proprietary technologies and the potential impact of patent trolls. These challenges have implications for the future of the web, including the openness, accessibility, and innovation potential of the web. Therefore, this research suggests that it is essential to continue to promote the use of royalty-free technologies in the development of the web and explore alternative models for patent ownership and enforcement.Further research is also needed to examine the potential impact of emerging technologies on the future of the web and the role of governments and other stakeholders in promoting an open and accessible web. In conclusion, the web has the potential to be a platform for innovation, collaboration, and growth for everyone. It is essential to ensure that the web remains an open and accessible platform that benefits all users, regardless of their background or resources.
+In conclusion, this research paper has examined the significance of Berners-Lee's founding of the W3C and his decision to make the web's technology royalty-free. It has discussed his vision for a decentralized and open web accessible to all and the potential impact of royalties and patents on developing and adopting web technologies. Furthermore, this research has explored how royalty-free technology has influenced the adoption and growth of the web over the past several decades. It has highlighted the role of the W3C in promoting the adoption of open and royalty-free technologies and ensuring interoperability and compatibility across different devices and platforms. However, this research has also identified challenges to royalty-free technology, such as the emergence of proprietary technologies and the potential impact of patent trolls. These challenges have implications for the future of the web, including the openness, accessibility, and innovation potential of the web. Therefore, this research suggests that it is essential to continue to promote the use of royalty-free technologies in the development of the web and explore alternative models for patent ownership and enforcement. Further research is also needed to examine the potential impact of emerging technologies on the future of the web and the role of governments and other stakeholders in promoting an open and accessible web. In conclusion, the web has the potential to be a platform for innovation, collaboration, and growth for everyone. It is essential to ensure that the web remains an open and accessible platform that benefits all users, regardless of their background or resources.
 
