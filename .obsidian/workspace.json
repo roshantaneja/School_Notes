@@ -6,7 +6,7 @@
       {
         "id": "364d4cbff390e36a",
         "type": "tabs",
-        "dimension": 62.20682302771855,
+        "dimension": 53.83795309168443,
         "children": [
           {
             "id": "eaec1e2d45088f16",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/History/Research Project/rough draft.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -36,7 +36,7 @@
       {
         "id": "ee2c2554eb4d7855",
         "type": "tabs",
-        "dimension": 37.79317697228145,
+        "dimension": 46.16204690831556,
         "children": [
           {
             "id": "2965a85bb4381f99",

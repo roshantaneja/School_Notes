@@ -4690,6 +4690,7 @@ HlDD
 HHdv
 HXdw
 Hosted
+Halpin
 Lesson
 Label
 LAND
@@ -43685,6 +43686,7 @@ PUUt
 PCL
 PBy
 Pbq
+Pending
 Investigation
 Ice
 ICE
@@ -120820,6 +120822,7 @@ governance
 geoengineering
 guarding
 govt
+globally
 Colored
 Cubes
 Cryosphere
@@ -144728,6 +144731,7 @@ enterprises
 enforcement
 excluded
 ethical
+exploitative
 You
 Years
 Your
@@ -157718,6 +157722,7 @@ promotes
 pools
 prioritized
 poorly
+promoted
 Record
 Read
 Readings
