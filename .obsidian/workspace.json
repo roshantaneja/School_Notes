@@ -165,8 +165,17 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "6f15f037781be932",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
