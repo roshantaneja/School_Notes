@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/History/Research Project/rough draft.md",
+                "file": "docs/Robotics/2022-2023/Home Comp Flyer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922,
-    "collapsed": true
+    "width": 247.5110321044922
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/History/Research Project/rough draft.md"
+                "file": "docs/Robotics/2022-2023/Home Comp Flyer.md"
               }
             }
           },
@@ -238,6 +237,8 @@
   },
   "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "docs/Robotics/2022-2023/16887.md",
+    "docs/Robotics/2022-2023/Home Comp Flyer.md",
     "docs/History/Research Project/rough draft.md",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
     "docs/History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf",
@@ -267,7 +268,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
     "docs/Religion/Christian Scripture/January/Jesus the refugee/Test Correction Canvas.canvas",
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
