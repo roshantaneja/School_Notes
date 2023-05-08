@@ -18,14 +18,17 @@ as the phase changes, the energy that is part of that phase is lost as particles
 3.  It is estimated that the Greenland ice sheet has a mass of 2.9 million gigatons. How much energy would it take to melt it if the starting temperature is -29 oC? (1 Gigaton = 1x10^12kg). 
 
 $2.9*10^{6} gT= 2.9*10^{12}kg = 2.9*10^{21}g$
+
 2090 joules per kg C
 
 $q = mc\Delta T$
+
 $2.9*10^{12} * 2090 * 29 = 1.7*10^{23}J$
 
 344 joules per gram of ice to melt to water
 
-$q = \Delta H + m$
+$q = \Delta H*m$
+
 $9.7*10^{23}$
 
 $1.7*10^{23} + 9.7*10^{23} = 1.14 * 10^{24}$

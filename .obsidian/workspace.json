@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Chemistry Honours/Chemistry Honours.md",
-                "mode": "source",
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 482.5,
+    "collapsed": true
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -131,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md"
+              }
             }
           },
           {
@@ -191,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +213,7 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "88bd91985563f9e1",
+  "active": "d6d1973719be90d6",
   "lastOpenFiles": [
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
