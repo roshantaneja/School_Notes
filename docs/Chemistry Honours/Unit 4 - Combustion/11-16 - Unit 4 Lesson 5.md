@@ -1,3 +1,7 @@
+---
+tags: [chemistry]
+---
+
 ## Could any chemical reaction fuel a car?
 
 QUESTION:  Can any chemical reaction be used to fuel a car? Do all chemical reactions ”release” energy? 

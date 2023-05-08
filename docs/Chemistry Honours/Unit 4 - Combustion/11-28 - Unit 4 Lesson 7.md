@@ -1,3 +1,7 @@
+---
+tags: [chemistry]
+---
+
 ## Can we explain why hydrogen has such a high energy output per gram compared to other fuels?
 
 ### Learning Objectives:

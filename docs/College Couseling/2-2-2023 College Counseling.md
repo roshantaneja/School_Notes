@@ -1,3 +1,8 @@
+---
+tags: [college-counseling]
+sticker: 1f922
+---
+
 * The best preparation for college is to fully engage in your high school experience.
 * being intentional about your choices is all that is required of you at this time.
 * Don't ask "What do the colleges want to see?" bcuz then you're just doing what they want to see you do.

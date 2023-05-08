@@ -1,3 +1,7 @@
+---
+tags: [chemistry, homework]
+---
+
 ### Balancing Equations <div style="text-align: right">Name: Roshan Taneja</div>
 
 #### Complete, balance, and add states to the following combustion reactions.

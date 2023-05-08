@@ -1,3 +1,7 @@
+---
+tags: [chemistry]
+---
+
 ## What are the products of rocket fuel and gasoline combustion?
 
  QUESTION:  What are the products of rocket fuel and gasoline combustion? 

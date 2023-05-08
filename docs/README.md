@@ -2,13 +2,38 @@ Welcome to my brain!
 
 we have a lot of things to cover here, so get ready!
 
-Check out the nav bar on the right to see my school notes.
+Check out the nav bar on the ~~right~~ left to see my school notes.
 
 [docs](./docs)
 
-```simple-time-tracker
-{"entries":[{"name":"Segment 1","startTime":1683056085,"endTime":1683056094,"subEntries":null},{"name":"Segment 2","startTime":null,"endTime":null,"subEntries":[{"name":"Part 1","startTime":1683056096,"endTime":1683176375,"subEntries":null},{"name":"Part 2","startTime":1683176389,"endTime":1683176397,"subEntries":null}]}]}
-```
+TABLE OF CONTENTS!
 
+- **[AP Computer Science A](./AP%20Computer%20Science%20A/AP%20Computer%20Science%20A.md)**
+
+- **[Chemistry Honours](./Chemistry%20Honours/Chemistry%20Honours.md)**
+
+- **College Couseling**
+	- [2-2-2023 College Counseling](./College%20Couseling/2-2-2023%20College%20Counseling.md)
+
+- [docs](./docs.md)
+
+- **[History](./History/History.md)**
+
+- **javascripts**
+	- [mathjax.js](./javascripts/mathjax.js)
+
+- **[Precalc BC Honours](./Precalc%20BC%20Honours/Precalc%20BC%20Honours.md)**
+
+- [README](./README.md)
+
+- **[Religion](./Religion/Religion.md)**
+
+- **[Robotics](./Robotics/Robotics.md)**
+
+- **[Spanish 3](./Spanish%203/Spanish%203.md)**
+
+- **[Tanzania Prep](./Tanzania%20Prep/Tanzania%20Prep.md)**
+
+- **[US Literature](./US%20Literature/US%20Literature.md)**
 
 [Wanna know how i made this?](https://github.com/Daroshi11260/School_Notes)

@@ -1,3 +1,7 @@
+---
+tags: [chemistry]
+---
+
 ## How is energy related to the bonds in a chemical reaction? 
 
 ### Learning Objectives:

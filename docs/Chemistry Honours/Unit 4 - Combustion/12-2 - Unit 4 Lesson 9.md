@@ -1,3 +1,7 @@
+---
+tags: [chemistry]
+---
+
 ## Can we measure the energy released from the combustion of different fuels?
 
 ### Learning Objectives:
