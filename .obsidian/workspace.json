@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "7ea7d711fa4000a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "deb72ea8567dbb5f",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +51,7 @@
       {
         "id": "c07f9aa38a2400ad",
         "type": "tabs",
-        "dimension": 58.43023255813954,
+        "dimension": 58.43023255813953,
         "children": [
           {
             "id": "350df6776f481940",
@@ -84,12 +95,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "c7339ae8a7423178",
         "type": "tabs",
-        "dimension": 41.56976744186046,
+        "dimension": 41.56976744186047,
         "children": [
           {
             "id": "7996cdb1adaa92b9",
@@ -115,7 +127,7 @@
       {
         "id": "92ec5c08fcfddac8",
         "type": "tabs",
-        "dimension": 32.751937984496124,
+        "dimension": 32.75193798449613,
         "children": [
           {
             "id": "88bd91985563f9e1",
@@ -178,7 +190,7 @@
       {
         "id": "ef7b08610327fe48",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "ea9d70a87d9c8343",
@@ -211,7 +223,7 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "d6d1973719be90d6",
+  "active": "7ea7d711fa4000a7",
   "lastOpenFiles": [
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
