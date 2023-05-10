@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "School_Notes": []
+    "School_Notes": [
+      "docs"
+    ]
   },
   "expandedSpaces": [
     "/",

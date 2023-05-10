@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "7ea7d711fa4000a7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "deb72ea8567dbb5f",
             "type": "leaf",
             "state": {
@@ -142,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,8 +211,9 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "7ea7d711fa4000a7",
+  "active": "deb72ea8567dbb5f",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
@@ -250,7 +239,6 @@
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
-    "docs/AP Computer Science A/AuthorshipDetection.md",
     "Context/spacesLastSync.log",
     "Context",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
