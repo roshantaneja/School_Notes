@@ -1,11 +1,11 @@
 {
   "useCache": true,
-  "hideExcluded": false,
+  "hideExcluded": true,
   "ignoreDiacritics": true,
   "indexedFileTypes": [],
   "PDFIndexing": true,
   "imagesIndexing": true,
-  "splitCamelCase": false,
+  "splitCamelCase": true,
   "ribbonIcon": true,
   "showExcerpt": true,
   "renderLineReturnInExcerpts": true,

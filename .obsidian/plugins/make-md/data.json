@@ -8,15 +8,15 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "root",
-  "hideFrontmatter": true,
+  "hideFrontmatter": false,
   "activeSpace": "",
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "School_Notes": [
-      "docs"
+      "docs",
+      "docs/Chemistry Honours",
+      "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise"
     ]
   },
   "expandedSpaces": [
@@ -58,7 +60,7 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
+  "lineNumbers": true,
   "hiddenExtensions": [
     "mdb"
   ],
@@ -68,7 +70,7 @@
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
-  "dataviewInlineContext": false,
+  "dataviewInlineContext": true,
   "inlineContextNameLayout": "vertical",
   "spacesSyncLastUpdated": "Context/spacesLastSync.log",
   "spacesSyncTimeoutSeconds": 10,
