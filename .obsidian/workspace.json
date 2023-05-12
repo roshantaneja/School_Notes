@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "c7339ae8a7423178",
@@ -137,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md"
+              }
             }
           },
           {
@@ -168,6 +169,14 @@
             "type": "leaf",
             "state": {
               "type": "make-context-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b37338648778769",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
               "state": {}
             }
           }
@@ -210,22 +219,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian42-brat:BRAT": true,
-      "obsidian-grammarly-plugin:Enable Grammarly": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false,
       "workspaces:Manage workspace layouts": true,
-      "webpage-html-export:Export Vault to HTML": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
-      "omnisearch:Omnisearch": true
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "96002453de3746ed",
+  "active": "350df6776f481940",
   "lastOpenFiles": [
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-20 Unit 7 Lesson 5.md",
