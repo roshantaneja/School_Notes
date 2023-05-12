@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "c7339ae8a7423178",
@@ -136,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +162,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "199a2e8076dfdf0c",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5d9a642968713795",
@@ -217,8 +225,9 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "deb72ea8567dbb5f",
+  "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-20 Unit 7 Lesson 5.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-1 Unit 7 Lesson 8.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
@@ -242,7 +251,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/11-8 - Unit 4 Lesson 2.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/11-3 - Unit 4 Lesson 1.md",
     "docs/College Couseling/2-2-2023 College Counseling.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "docs/docs.md",
     "docs/History/Research Project/rough draft.md",
     "Context/spacesLastSync.log",
