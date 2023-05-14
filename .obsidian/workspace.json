@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d1973719be90d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "deb72ea8567dbb5f",
             "type": "leaf",
             "state": {
@@ -136,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "5d9a642968713795",
@@ -234,8 +218,10 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "d6d1973719be90d6",
+  "active": "96002453de3746ed",
   "lastOpenFiles": [
+    "aliases.md",
+    "README.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/2-1 Homework Sheet.md",
     "docs/Chemistry Honours/Unit 5 - Properties of Elements/2-7 Unit 5 Lesson 11.md",
@@ -260,8 +246,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/11-30 - Unit 4 Lesson 8.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/11-28 - Unit 4 Lesson 7.md",
     "Context/spacesLastSync.log",
     "Context",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
