@@ -1,4 +1,5 @@
 site_name: my school notes
+
 repo_url: https://github.com/Daroshi11260/School_Notes
 
 theme:
@@ -8,7 +9,6 @@ theme:
     features:
       - navigation.tabs
     pallete:
-    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -17,7 +17,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -68,6 +67,11 @@ plugins:
   - tags
   - git-revision-date-localized:
       enable_creation_date: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-6302CZ25FK
 
 extra_javascript:
   - javascripts/mathjax.js
