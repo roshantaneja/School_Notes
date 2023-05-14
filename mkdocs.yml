@@ -34,7 +34,6 @@ markdown_extensions:
   - md_in_html
   - tables
   - pymdownx.betterem
-  - glightbox
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences
@@ -65,6 +64,7 @@ plugins:
   - roamlinks
   - social
   - tags
+  - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
 
