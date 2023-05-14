@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 287.5004348754883
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -123,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
+              }
             }
           },
           {
@@ -219,7 +221,7 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "b067ef0dc1a6bf91",
+  "active": "deb72ea8567dbb5f",
   "lastOpenFiles": [
     "aliases.md",
     "README.md",

@@ -26,7 +26,7 @@ q = m c \Delta T
 
 ,
 
-c = specific heat capacity
+c = heat
 
 ,
 
