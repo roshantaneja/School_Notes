@@ -1,9 +1,14 @@
 site_name: my school notes
 
+repo_url: https://github.com/Daroshi11260/School_Notes
+
 theme:
     name: 'material'
-    palette:
-
+    icon:
+      repo: fontawesome/brands/github
+    features:
+      - navigation.tabs
+    pallete:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -12,25 +17,33 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: grey
+      primary: deep purple
+      accent: pink
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
 
 # Extensions
 markdown_extensions:
+  - abbr
   - footnotes
   - attr_list
+  - md_in_html
+  - tables
   - pymdownx.betterem
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.details
+  - pymdownx.snippets
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -49,6 +62,15 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - tags
+  - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-6302CZ25FK
 
 extra_javascript:
   - javascripts/mathjax.js
