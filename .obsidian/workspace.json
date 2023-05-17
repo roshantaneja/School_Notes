@@ -11,12 +11,9 @@
             "id": "deb72ea8567dbb5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "contextPath": "docs/Religion"
               }
             }
           }
@@ -124,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md"
+                "file": "docs/Religion/Religion.md"
               }
             }
           },
@@ -179,8 +176,13 @@
             "id": "96002453de3746ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -202,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 642.5
+    "width": 505.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +223,15 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "b067ef0dc1a6bf91",
+  "active": "deb72ea8567dbb5f",
   "lastOpenFiles": [
+    "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project/Prophet Project Overview.md",
+    "docs/Religion/Hebrew Scriptures/Final Test/Exegetical Paragraphs and Notes.md",
+    "docs/Religion/Hebrew Scriptures/Final Test/Final Test.md",
+    "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project/Unit 4 - Prophet Project.md",
+    "docs/Religion/Hebrew Scriptures/Hebrew Scriptures.md",
+    "docs/Religion/Christian Scripture/Christian Scripture.md",
+    "docs/Religion/context.mdb",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/5-4 Unit 7 Lesson 10.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Hw Phet Simulation.md",
@@ -243,12 +252,6 @@
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-20 Unit 7 Lesson 5.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/README.md",
-    "docs/Chemistry Honours/Chemistry Honours.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/README.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
     "Context/spacesLastSync.log",
     "Context",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
@@ -260,7 +263,6 @@
     "docs/Religion/Christian Scripture/January/Jesus the refugee",
     "docs/Religion/Hebrew Scriptures/Unit 5 - Psalms",
     "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project",
-    "docs/Religion/Christian Scripture/January",
     "Pasted image 20230501193457.png",
     "Pasted image 20230501193442.png"
   ]

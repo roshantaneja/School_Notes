@@ -37,9 +37,21 @@
   "expandedFolders": {
     "School_Notes": [
       "docs",
-      "docs/AP Computer Science A",
-      "docs/Chemistry Honours",
-      "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise"
+      "docs/Spanish 3",
+      "docs/Religion",
+      "docs/Religion",
+      "docs/Religion/Christian Scripture",
+      "docs/Spanish 3",
+      "docs/Religion/Hebrew Scriptures",
+      "docs/Religion",
+      "docs/Religion/Christian Scripture",
+      "docs/Religion/Hebrew Scriptures",
+      "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project",
+      "docs/Religion/Hebrew Scriptures/Final Test",
+      "docs/Religion/Hebrew Scriptures/Final Test",
+      "docs/Religion/Hebrew Scriptures/Final Test",
+      "docs/Religion/Hebrew Scriptures",
+      "docs/Religion"
     ]
   },
   "expandedSpaces": [
@@ -77,7 +89,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684289992593,
+  "spacesAutoBackupLast": 1684294164589,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
