@@ -1,3 +1,6 @@
+---
+tags: [Spanish]
+---
 Ayer, fui a Walgreens con Angelo para comprar un galón de leche de chocolate. Cuando llegamos, vimos que había una larga cola en la caja registradora. Angelo y yo decidimos mirar los pasillos para ver si podíamos encontrar la leche mientras esperábamos.
 
 Nos adentramos en la tienda y empezamos a buscar la leche de chocolate. Vimos muchos productos interesantes mientras caminábamos por los pasillos, pero no pudimos encontrar la leche. Angelo estaba empezando a desesperarse cuando finalmente vi una sección con leches de diferentes sabores.

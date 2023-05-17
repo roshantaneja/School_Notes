@@ -37,11 +37,9 @@
   "expandedFolders": {
     "School_Notes": [
       "docs",
-      "docs/Spanish 3",
       "docs/Religion",
       "docs/Religion",
       "docs/Religion/Christian Scripture",
-      "docs/Spanish 3",
       "docs/Religion/Hebrew Scriptures",
       "docs/Religion",
       "docs/Religion/Christian Scripture",
@@ -89,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684294164589,
+  "spacesAutoBackupLast": 1684295675934,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

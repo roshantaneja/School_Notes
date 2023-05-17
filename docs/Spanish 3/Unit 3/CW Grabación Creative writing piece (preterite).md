@@ -1,3 +1,6 @@
+---
+tags: [Spanish]
+---
 Create a fun a story - at least 16 complete sentences (PRETERITE TENSE ONLY!)
 
 <center> Esta mañana </center>
