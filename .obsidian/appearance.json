@@ -1,9 +1,10 @@
 {
   "accentColor": "#efa06b",
-  "baseFontSize": 10,
+  "baseFontSize": 15,
   "cssTheme": "Origami",
   "theme": "obsidian",
   "monospaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Code SemiLight",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "nativeMenus": true
 }

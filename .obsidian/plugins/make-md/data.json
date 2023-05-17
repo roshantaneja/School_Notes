@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "School_Notes": [
-      "docs"
+      "docs",
+      "docs/AP Computer Science A"
     ]
   },
   "expandedSpaces": [
@@ -74,7 +75,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684105098563,
+  "spacesAutoBackupLast": 1684289992593,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

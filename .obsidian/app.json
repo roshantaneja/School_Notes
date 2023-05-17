@@ -7,11 +7,11 @@
   "smartIndentList": true,
   "showFrontmatter": true,
   "showIndentGuide": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

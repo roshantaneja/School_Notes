@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
-                "mode": "preview",
+                "file": "docs/AP Computer Science A/MountainPaths.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5004348754883
+    "width": 200
   },
   "right": {
     "id": "04ca08fbb969e78b",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md"
+                "file": "docs/AP Computer Science A/MountainPaths.md"
               }
             }
           },
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +223,8 @@
   },
   "active": "deb72ea8567dbb5f",
   "lastOpenFiles": [
+    "docs/AP Computer Science A/MountainPaths.md",
+    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "aliases.md",
     "README.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-24 Unit 7 Lesson 6.md",
@@ -238,7 +240,6 @@
     "docs/AP Computer Science A/AP Computer Science A.md",
     "docs/AP Computer Science A/Asteroids.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-18 Unit 7 Lesson 4.md",
-    "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-14 Unit 7 Lesson 3.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-20 Unit 7 Lesson 5.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/4-26 Unit 7 Lesson 7.md",
     "docs/README.md",
@@ -248,7 +249,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Balancing Equations Worksheet.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/HW - Bond Length and Energy.md",
     "docs/Chemistry Honours/Unit 4 - Combustion/12-8 - Unit 4 Lesson 11.md",
-    "docs/Chemistry Honours/Unit 4 - Combustion/12-2 - Unit 4 Lesson 9.md",
     "Context/spacesLastSync.log",
     "Context",
     "docs/History/Research Project/Source Documents/Primary Sources/News_Article__St._Albans_Daily_Messenger.pdf",
