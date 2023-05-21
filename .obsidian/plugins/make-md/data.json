@@ -37,11 +37,8 @@
   "expandedFolders": {
     "School_Notes": [
       "docs",
-      "docs/Religion",
-      "docs/Religion",
       "docs/Religion/Christian Scripture",
       "docs/Religion/Hebrew Scriptures",
-      "docs/Religion",
       "docs/Religion/Christian Scripture",
       "docs/Religion/Hebrew Scriptures",
       "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project",
@@ -49,7 +46,8 @@
       "docs/Religion/Hebrew Scriptures/Final Test",
       "docs/Religion/Hebrew Scriptures/Final Test",
       "docs/Religion/Hebrew Scriptures",
-      "docs/Religion"
+      "docs/Chemistry Honours",
+      "docs/Chemistry Honours/Unit 8 - Genius Hour"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684295675934,
+  "spacesAutoBackupLast": 1684627849668,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
