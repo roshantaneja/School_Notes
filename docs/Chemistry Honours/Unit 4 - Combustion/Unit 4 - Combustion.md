@@ -11,5 +11,6 @@
 - [HW - Balancing Equations Worksheet](./HW%20-%20Balancing%20Equations%20Worksheet.md)
 - [HW - Bond Length and Energy](./HW%20-%20Bond%20Length%20and%20Energy.md)
 - [README](./README.md)
+- [Unit 4 - Combustion](./Unit%204%20-%20Combustion.md)
 
 %% End Waypoint %%

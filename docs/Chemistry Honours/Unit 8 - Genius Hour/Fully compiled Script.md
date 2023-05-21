@@ -1,4 +1,5 @@
 ---
+tags: [chemistry, research, ]
 sticker: 1f469-200d-1f52c
 ---
 [INTRO MUSIC]

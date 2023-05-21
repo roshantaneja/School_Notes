@@ -8,5 +8,6 @@
 - [Complete Reaction Sheet](./Complete%20Reaction%20Sheet.md)
 - [Dilution Problems WS](./Dilution%20Problems%20WS.md)
 - [Molarity Calculation Sheet](./Molarity%20Calculation%20Sheet.md)
+- [Unit 6 - Why are Shellfish Dying](./Unit%206%20-%20Why%20are%20Shellfish%20Dying.md)
 
 %% End Waypoint %%

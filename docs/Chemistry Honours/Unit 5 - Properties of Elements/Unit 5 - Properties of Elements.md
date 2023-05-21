@@ -10,5 +10,6 @@
 - [2-1 Homework Sheet](./2-1%20Homework%20Sheet.md)
 - [2-3 Unit 5 Lesson 10](./2-3%20Unit%205%20Lesson%2010.md)
 - [2-7 Unit 5 Lesson 11](./2-7%20Unit%205%20Lesson%2011.md)
+- [Unit 5 - Properties of Elements](./Unit%205%20-%20Properties%20of%20Elements.md)
 
 %% End Waypoint %%
