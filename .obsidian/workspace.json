@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e1dabe621c8960",
+        "id": "a8bdd70f09281868",
         "type": "tabs",
         "children": [
           {
-            "id": "74250b38b0a729eb",
+            "id": "1e2698ff0476fbbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 8 - Genius Hour/Chem Equation Balancer Script.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -117,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 8 - Genius Hour/Chem Equation Balancer Script.md"
+              }
             }
           },
           {
@@ -212,8 +219,11 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "350df6776f481940",
+  "active": "1e2698ff0476fbbd",
   "lastOpenFiles": [
+    "docs/Chemistry Honours/Unit 8 - Genius Hour/Fully compiled Script.md",
+    "docs/Chemistry Honours/Unit 8 - Genius Hour/Chem Equation Balancer Script.md",
+    "docs/Chemistry Honours/Unit 8 - Genius Hour/Logistic and Sine Regression on weather data.md",
     "docs/Chemistry Honours/Chemistry Honours.md",
     "docs/Chemistry Honours/Unit 8 - Genius Hour/Unit 8 - Genius Hour.md",
     "docs/Chemistry Honours/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise/Unit 7 - How can we protect vulnerable coastal cities from Sea Level Rise.md",
@@ -222,9 +232,6 @@
     "docs/Chemistry Honours/Unit 4 - Combustion/Unit 4 - Combustion.md",
     "docs/Tanzania Prep/Tanzania Prep.md",
     "docs/Spanish 3/Spanish 3.md",
-    "docs/Chemistry Honours/Unit 8 - Genius Hour/Logistic and Sine Regression on weather data.md",
-    "docs/Chemistry Honours/Unit 8 - Genius Hour/Chem Equation Balancer Script.md",
-    "docs/Chemistry Honours/Unit 8 - Genius Hour/Fully compiled Script.md",
     "docs/Spanish 3/Mi celeb-programa de tele-película- estacion de radio favorito.md",
     "docs/Chemistry Honours/Unit 8 - Genius Hour",
     "docs/Spanish 3/Unit 3/CW Grabación Creative writing piece (preterite).md",

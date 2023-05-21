@@ -4,7 +4,7 @@ sticker: 1f469-200d-1f52c
 ---
 [INTRO MUSIC]
 
-Roshan Taneja (RT): Hello there, fellow code enthusiasts! I'm Roshan Taneja, and today, we're going to tackle an issue that affects every living being on this planet: Climate Change. But wait, we're also going to dive into the world of chemistry to understand how we can use technology to solve all kinds of problems, particularly those related to chemistry and climate change. Are you ready for an adventurous journey through the lenses of technology and coding? Let's jump right in!
+Roshan Taneja (RT): Hello there, fellow classmates and faculty! I'm Roshan, and today, we're going to tackle an issue that affects every living being on this planet: Climate Change. But wait, we're also going to dive into the world of chemistry to understand how we can use technology to solve all kinds of problems, particularly those related to chemistry and climate change.
 
 [OPENING SHOT: Roshan sitting at his desk with a chemistry textbook and chemicals around]
 
