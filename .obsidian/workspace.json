@@ -166,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5d9a642968713795",
@@ -219,7 +220,7 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "74250b38b0a729eb",
+  "active": "350df6776f481940",
   "lastOpenFiles": [
     "docs/Spanish 3/Unit 3/CW Grabación Creative writing piece (preterite).md",
     "docs/Spanish 3/Correo Electronico/Correo Electronico - Consejos Para Alonso para su Bienestar Social.md",
