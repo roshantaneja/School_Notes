@@ -2,16 +2,16 @@
 tags: [chemistry, research]
 ---
 
-[Roshan in front of a green screen]  
+[Roshan in front of a green screen]
 Roshan: Welcome back, everyone! Today, we have a really important topic to discuss: climate change. It's one of the most pressing issues of our time, and it affects everyone on this planet. So, in this video, we're going to use some Python programming to analyze and visualize climate change data. Sounds exciting, right? Let's jump right in!  
   
-[Roshan starts explaining the code]  
+[Roshan starts explaining the code]
 Roshan: Alright, first things first, let's import the necessary libraries. We'll be using Pandas for data wrangling, NumPy for numerical operations, and Matplotlib and Plotly for data visualization. These libraries will help us make sense of the temperature change data we're going to work with.  
   
-[Code snippets appear on screen as Roshan explains]  
+[Code snippets appear on screen as Roshan explains]
 Roshan: We'll be using a dataset called FAOSTAT Temperature Change, which provides statistics on mean surface temperature change by country. This dataset covers temperature changes from 1961 to 2019. Our goal is to explore this data and answer some key questions about climate change.  
   
-[Roshan continues explaining the code and data preprocessing]  
+[Roshan continues explaining the code and data preprocessing]
 Roshan: Now that we have the data, we need to preprocess it a bit. We'll rename some columns, filter out unnecessary columns, and merge the data with ISO-3 country codes for better organization. This will make our analysis and visualization easier later on.  
   
 [Roshan moves on to the next section: "Investigation of Guiding Questions"]  

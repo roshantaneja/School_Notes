@@ -46,7 +46,6 @@
       "docs/Religion/Hebrew Scriptures/Final Test",
       "docs/Religion/Hebrew Scriptures/Final Test",
       "docs/Religion/Hebrew Scriptures",
-      "docs/Chemistry Honours",
       "docs/Chemistry Honours/Unit 8 - Genius Hour"
     ]
   },
@@ -85,7 +84,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684629031397,
+  "spacesAutoBackupLast": 1684630661157,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
