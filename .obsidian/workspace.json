@@ -11,8 +11,10 @@
             "id": "1e2698ff0476fbbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "docs/Chemistry Honours/Unit 8 - Genius Hour"
+              }
             }
           }
         ]
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Chemistry Honours/Unit 8 - Genius Hour/Unit 8 - Genius Hour.md"
+              }
             }
           },
           {
@@ -213,7 +217,7 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "6f15f037781be932",
+  "active": "1e2698ff0476fbbd",
   "lastOpenFiles": [
     "docs/Religion/Hebrew Scriptures/Unit 4 - Prophet Project/Untitled.md",
     "docs/Religion/Hebrew Scriptures/Unit 3 Study Guide.md",
