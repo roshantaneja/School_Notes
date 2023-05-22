@@ -8,13 +8,9 @@ Roshan Taneja (RT): Hello there, fellow classmates and faculty! I'm Roshan, and 
 
 [OPENING SHOT: Roshan sitting at his desk with a chemistry textbook and chemicals around]
 
-RT: First, let's talk about a script that's going to help us decipher and balance chemical equations. If you're here thinking, "Roshan, what are you doing? We're here for robots, not atoms!" Don't worry! This script is going to make balancing chemical equations a breeze.
-
 [ON-SCREEN: Python code for balancing chemical equations]
 
 ![Chem Equation Balancer Script](docs/Chemistry%20Honours/Unit%208%20-%20Genius%20Hour/Chem%20Equation%20Balancer%20Script.md)
-
-RT: And there you have it, folks! Our Python script successfully balances the chemical equation. Chemistry made easy with a touch of programming!
 
 RT: Now, why is understanding and balancing chemical equations relevant in the grand scheme of things? Well, a lot of the problems we're facing today, especially those related to climate change, are essentially chemical problems. From reducing CO2 emissions to creating sustainable fuels, a deep understanding of chemistry is critical.
 
