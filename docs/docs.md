@@ -5,7 +5,6 @@
 -  [[docs/History/History|History]]
 -  [[docs/javascripts/javascripts|javascripts]]
 -  [[docs/Precalc BC Honours/Precalc BC Honours|Precalc BC Honours]]
--  [[docs/README|README]]
 -  [[docs/Religion/Religion|Religion]]
 -  [[docs/Robotics/Robotics|Robotics]]
 -  [[docs/Spanish 3/Spanish 3|Spanish 3]]
