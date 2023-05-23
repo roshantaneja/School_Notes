@@ -52,7 +52,9 @@
       "docs/Chemistry Honours/Unit 8 - Genius Hour",
       "docs",
       "docs",
-      "docs/History"
+      "docs/History",
+      "docs/US Literature",
+      "docs/US Literature/Unit 2"
     ]
   },
   "expandedSpaces": [
@@ -90,7 +92,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684771992382,
+  "spacesAutoBackupLast": 1684809527729,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
