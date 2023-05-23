@@ -1,7 +1,7 @@
 {
-  "accentColor": "#efa06b",
-  "baseFontSize": 30,
-  "cssTheme": "Origami",
+  "accentColor": "#4ecd4c",
+  "baseFontSize": 19,
+  "cssTheme": "Atom",
   "theme": "obsidian",
   "monospaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Code SemiLight",

@@ -49,13 +49,18 @@
       "docs/Chemistry Honours",
       "docs/Chemistry Honours",
       "docs/Chemistry Honours/Unit 8 - Genius Hour",
-      "docs/History",
-      "docs/US Literature",
       "docs/US Literature/Unit 2",
       "docs/US Literature/Hamilton",
       "docs/US Literature/Hamilton",
       "Context",
-      "Context"
+      "Context",
+      "docs",
+      "docs/US Literature",
+      "docs/Spanish 3",
+      "docs/Spanish 3/Correo Electronico",
+      "docs/Spanish 3/Correo Electronico",
+      "docs/javascripts",
+      "docs/javascripts"
     ]
   },
   "expandedSpaces": [
@@ -93,7 +98,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684817584502,
+  "spacesAutoBackupLast": 1684821219444,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
