@@ -11,6 +11,6 @@ The Cold War was his playground, a game of power and might Back-channel diplomac
 
 Oh, Henry Kissinger, you're no founding father Your realpolitik just caused disaster after disaster You may have won a Nobel Prize, but history won't forget The millions who suffered under your geopolitical mindset
 
-You paved the way for dictators, supported coups and wars From East Timor to Cambodia, the body count soars But you dined with the elite, a member of the club While innocent lives were lost, buried under the rub
+You paved the way for dictators, supported coups and wars From East Timor to Cambodia, the body count soars But you dined with the elite, a member of the club While innocent lives were lost, shoved under the rug
 
 So raise a glass to Kissinger, the architect of strife A legacy of bloodshed, a never-ending fight But let us not forget, as we sing this parody song That power unchecked can do so much wrong

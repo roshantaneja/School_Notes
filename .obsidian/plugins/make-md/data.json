@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "School_Notes": [
-      "docs",
       "docs/Religion/Christian Scripture",
       "docs/Religion/Hebrew Scriptures",
       "docs/Religion/Christian Scripture",
@@ -50,20 +49,19 @@
       "docs/Chemistry Honours",
       "docs/Chemistry Honours",
       "docs/Chemistry Honours/Unit 8 - Genius Hour",
-      "docs",
-      "docs",
       "docs/History",
       "docs/US Literature",
       "docs/US Literature/Unit 2",
       "docs/US Literature/Hamilton",
-      "docs/US Literature/Hamilton"
+      "docs/US Literature/Hamilton",
+      "Context"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "School_Notes",
-    null
+    null,
+    "School_Notes"
   ],
   "openFolders": [],
   "fileIcons": [],
