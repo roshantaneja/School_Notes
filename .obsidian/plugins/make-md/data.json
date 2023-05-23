@@ -54,7 +54,9 @@
       "docs",
       "docs/History",
       "docs/US Literature",
-      "docs/US Literature/Unit 2"
+      "docs/US Literature/Unit 2",
+      "docs/US Literature/Hamilton",
+      "docs/US Literature/Hamilton"
     ]
   },
   "expandedSpaces": [
@@ -92,7 +94,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684809527729,
+  "spacesAutoBackupLast": 1684811586618,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }
