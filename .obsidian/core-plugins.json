@@ -5,6 +5,7 @@
   "graph",
   "canvas",
   "tag-pane",
+  "page-preview",
   "note-composer",
   "command-palette",
   "slash-command",
@@ -12,6 +13,5 @@
   "bookmarks",
   "markdown-importer",
   "outline",
-  "slides",
-  "workspaces"
+  "slides"
 ]
