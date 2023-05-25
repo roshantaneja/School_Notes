@@ -1,3 +1,7 @@
+Welcome to my brain!
+
+Wanna know how i made this?
+
 -  [[docs/AP Computer Science A/AP Computer Science A|AP Computer Science A]]
 -  [[docs/Chemistry Honours/Chemistry Honours|Chemistry Honours]]
 -  [[docs/College Couseling/College Couseling|College Couseling]]
