@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"docs/Chemistry Honours\"",
@@ -65,8 +65,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.640625,
+  "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.02745825496855006,
+  "scale": 0.029477381608223947,
   "close": true
 }

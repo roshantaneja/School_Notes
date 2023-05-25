@@ -1,10 +1,10 @@
 {
-  "accentColor": "#4ecd4c",
+  "accentColor": "#850f7b",
   "baseFontSize": 21,
-  "cssTheme": "Atom",
+  "cssTheme": "",
   "theme": "obsidian",
   "monospaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Code SemiLight",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Cascadia Code SemiLight,Cascadia Code",
+  "interfaceFontFamily": "Inter",
   "nativeMenus": true
 }
