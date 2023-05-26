@@ -10,7 +10,7 @@
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
   "foldersExcluded": "docs/javascripts/",
-  "foldersIncluded": "",
+  "foldersIncluded": "docs/\n",
   "sortOrder": "asc",
   "addSquareBrackets": true,
   "embedSubIndex": true,

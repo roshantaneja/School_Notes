@@ -1,4 +1,5 @@
 {
   "folder": "docs/Daily Notes",
-  "autorun": true
+  "autorun": true,
+  "template": "00 Obsidian/01 Templates/01.00 Daily Note"
 }

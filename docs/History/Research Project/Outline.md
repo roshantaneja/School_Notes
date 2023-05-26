@@ -10,7 +10,7 @@ title: Research doc history outline
 
 Todo:
 
-- [ ] add citations
+- [x] add citations  [completion:: 2023-05-25]
 - [x] sub-bullets for claims
 - [x] rewrite the conclusion outline
 - [x] include the w3c role in developing standards
