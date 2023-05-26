@@ -24,10 +24,11 @@ Came to America to build, built a legacy so grand
 He joined the Nixon administration, seeking power's sweet embrace
 Henry Kissinger, the man with a smile on his face
 
-Well, Cold War was his playground, a game of power and might
-Back-channel diplomacy, always out of sight
-He brokered deals in secret, behind closed doors he'd roam 
-But the victims of his policies would never find a home
+Well, the Cold War was his playground, a game of power and might
+Back-channel diplomacy, always out of sight, shrouded by night
+Behind closed doors, secret deals were made
+While innocent lives crumbled, left betrayed
+What's his name man?
 
 Oh, Henry Kissinger
 Your name is Henry Kissinger
@@ -37,9 +38,20 @@ Your life debt, life debt
 You paved the way for dictators, supported coups and wars
 From East Timor to Cambodia, the body count soars 
 But you dined with the elite, a member of the club 
+
 While innocent lives were lost, shoved under the rug
 
 So raise a glass to Kissinger, the architect of strife
 A legacy of bloodshed, a never-ending fight
 But let us not forget, as we sing this parody song
+
 That power unchecked can do so much wrong
+  
+In the midst of the chaos, his power did increase  
+But scandals and controversies, they never did cease  
+From secret bombings in Cambodia, the truth he'd conceal  
+His name synonymous with cunning, a master of the deal
+He'd spin a web of diplomacy, an intricate charade  
+A Nobel Peace Prize winner, with a darkened accolade  
+Behind closed doors, the whispers would grow  
+As critics questioned his actions, the seeds of doubt they'd sow
