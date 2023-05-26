@@ -24,7 +24,7 @@ Came to America to build, built a legacy so grand
 He joined the Nixon administration, seeking power's sweet embrace
 Henry Kissinger, the man with a smile on his face
 
-The Cold War was his playground, a game of power and might
+Well, Cold War was his playground, a game of power and might
 Back-channel diplomacy, always out of sight
 He brokered deals in secret, behind closed doors he'd roam 
 But the victims of his policies would never find a home
