@@ -1,16 +1,7 @@
 Welcome to my brain!
 
-Wanna know how i made this?
+Wanna know how I made this?
 
--  [[docs/AP Computer Science A/AP Computer Science A|AP Computer Science A]]
--  [[docs/Chemistry Honours/Chemistry Honours|Chemistry Honours]]
--  [[docs/College Couseling/College Couseling|College Couseling]]
--  [[docs/History/History|History]]
--  [[docs/javascripts/javascripts|javascripts]]
--  [[docs/Precalc BC Honours/Precalc BC Honours|Precalc BC Honours]]
--  [[docs/README|README]]
--  [[docs/Religion/Religion|Religion]]
--  [[docs/Robotics/Robotics|Robotics]]
--  [[docs/Spanish 3/Spanish 3|Spanish 3]]
--  [[docs/Tanzania Prep/Tanzania Prep|Tanzania Prep]]
--  [[docs/US Literature/US Literature|US Literature]]
+[Check out the github!](https://github.com/Daroshi11260/School_Notes)
+
+Click some stuff on the side to figure out where youre going!

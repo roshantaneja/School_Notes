@@ -17,12 +17,11 @@ still working on styling and stuff but hopefully this should be good
 ### ToDo List:
 
 
-| To Do                                                              | 
-| ------------------------------------------------------------------ |
-| maintainance/upkeep                                                |
-| make gh-workflow that uses html files by parsing in obsidian first |
-| maybe a jekyll theme?                                              |
-| make gh-workflow that uses html files by parsing in obsidian first |
-| maybe a jekyll theme?                                              |
-| add links to readme to nav site                                    |
-| link notes together somehow                                        |
+| To Do                                                              | Done?                         |
+| ------------------------------------------------------------------ | ----------------------------- |
+| maintainance/upkeep                                                | nope                          |
+| make gh-workflow that uses html files by parsing in obsidian first | nope                          |
+| maybe a jekyll theme?                                              | nope                          |
+| add links to readme to nav site                                    | yes                           |
+| link notes together somehow                                        | Yes                           |
+| Move to MDBOOK instead of MKdocs                                   | in progress, wait till summer | 
