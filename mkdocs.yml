@@ -13,7 +13,7 @@ theme:
       primary: blue
       accent: grey
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle_off
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -21,7 +21,7 @@ theme:
       primary: deep purple
       accent: pink
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle_on
         name: Switch to light mode
 
 # Extensions

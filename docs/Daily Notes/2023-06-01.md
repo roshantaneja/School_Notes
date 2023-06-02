@@ -4,7 +4,7 @@ datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
 datemodified: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
-#### [[<% tp.date.now(“YYYY-MM-DD”, -1, tp.file.title, “YYYY-MM-DD”) %>|Yesterday]] <% tp.file.title %> [[|Tomorrow<% tp.date.now(“YYYY-MM-DD”, 1, tp.file.title, “YYYY-MM-DD”) %>]]
+#### [[<% tp.date.now(“YYYY-MM-DD”, -1, tp.file.title, “YYYY-MM-DD”) %>| Yesterday]] <% tp.file.title %> [[<% tp.date.now(“YYYY-MM-DD”, 1, tp.file.title, “YYYY-MM-DD”) %>|Tomorrow]]
 
 ## Daily Log
 
