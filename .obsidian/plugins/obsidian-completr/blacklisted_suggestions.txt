@@ -6,3 +6,5 @@ reaction sheet
 REAM
 authorship
 Authorship
+college
+College
