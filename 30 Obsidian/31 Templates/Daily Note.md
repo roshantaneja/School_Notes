@@ -5,7 +5,11 @@ datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
 datemodified: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
-Reminders
+### Reminders
+- Check Schoology
+- Check Calendar
+- Smile
+- Hydrate
 
 ### << [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow]] >>
 
