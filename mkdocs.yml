@@ -8,20 +8,18 @@ theme:
       repo: fontawesome/brands/github
     pallete:
     # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: blue
       accent: grey
       toggle:
-        icon: material/toggle_off
+        icon: material/weather-night
         name: Switch to dark mode
     # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: deep purple
       accent: pink
       toggle:
-        icon: material/toggle_on
+        icon: material/weather-sunny
         name: Switch to light mode
 
 # Extensions
