@@ -1,6 +1,6 @@
 {
-  "indexPrefix": "",
-  "indexItemStyle": "list",
+  "indexPrefix": "README-",
+  "indexItemStyle": "checkbox",
   "indexTagValue": "README",
   "indexTagBoolean": true,
   "indexTagSeparator": ", ",
@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
-  "foldersExcluded": "docs/javascripts/",
+  "foldersExcluded": "docs/javascripts/\n30 Obsidian/",
   "foldersIncluded": "docs/\n",
   "sortOrder": "asc",
   "addSquareBrackets": true,
