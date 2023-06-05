@@ -1,0 +1,3911 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../README-Robotics/">
+      
+      
+        <link rel="next" href="../Home%20Comp%20Flyer/">
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+    
+    
+      
+        <title>RuthGatorBinsburb - my school notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.26e3688c.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-6302CZ25FK"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-6302CZ25FK",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-6302CZ25FK",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    <body dir="ltr">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ruthgatorbinsburb" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="my school notes" class="md-header__button md-logo" aria-label="my school notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            my school notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              <center>RuthGatorBinsburb</center>
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Daroshi11260/School_Notes" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="my school notes" class="md-nav__button md-logo" aria-label="my school notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    my school notes
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Daroshi11260/School_Notes" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          AP Computer Science A
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          AP Computer Science A
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/Asteroids/" class="md-nav__link">
+        Asteroids
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/AuthorshipDetection/" class="md-nav__link">
+        AuthorSignature.java
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/MountainPaths/" class="md-nav__link">
+        TopographicMap.java
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/README-AP%20Computer%20Science%20A/" class="md-nav__link">
+        README AP Computer Science A
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/Sharks%20and%20Fish%20%28all%20PDFs%29/" class="md-nav__link">
+        Sharks and Fish (all PDFs)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../AP%20Computer%20Science%20A/Testing%20Latex/" class="md-nav__link">
+        Testing Latex
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Chemistry Honours
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Chemistry Honours
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/README-Chemistry%20Honours/" class="md-nav__link">
+        README Chemistry Honours
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+          Unit 4   Combustion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 4   Combustion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-10%20-%20Unit%204%20Lesson%203/" class="md-nav__link">
+        11 10   Unit 4 Lesson 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-16%20-%20Unit%204%20Lesson%205/" class="md-nav__link">
+        11 16   Unit 4 Lesson 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-18%20-%20Unit%204%20Lesson%206/" class="md-nav__link">
+        11 18   Unit 4 Lesson 6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-28%20-%20Unit%204%20Lesson%207/" class="md-nav__link">
+        11 28   Unit 4 Lesson 7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-3%20-%20Unit%204%20Lesson%201/" class="md-nav__link">
+        11 3   Unit 4 Lesson 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-30%20-%20Unit%204%20Lesson%208/" class="md-nav__link">
+        11 30   Unit 4 Lesson 8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/11-8%20-%20Unit%204%20Lesson%202/" class="md-nav__link">
+        11 8   Unit 4 Lesson 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/12-2%20-%20Unit%204%20Lesson%209/" class="md-nav__link">
+        12 2   Unit 4 Lesson 9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/12-8%20-%20Unit%204%20Lesson%2011/" class="md-nav__link">
+        12 8   Unit 4 Lesson 11
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/HW%20-%20Balancing%20Equations%20Worksheet/" class="md-nav__link">
+        HW   Balancing Equations Worksheet
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/HW%20-%20Bond%20Length%20and%20Energy/" class="md-nav__link">
+        HW   Bond Length and Energy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%204%20-%20Combustion/README-Unit%204%20-%20Combustion/" class="md-nav__link">
+        README Unit 4   Combustion
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+          Unit 5   Properties of Elements
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 5   Properties of Elements
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-11%20-%20Unit%205%20Lesson%202/" class="md-nav__link">
+        L5.2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-12%20-%20Unit%205%20Lesson%203/" class="md-nav__link">
+        L5.3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-19%20-%20Unit%205%20Lesson%204/" class="md-nav__link">
+        L5.4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-24%20-%20Unit%205%20Lesson%206/" class="md-nav__link">
+        L5.6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-24%20Homework%20Sheet/" class="md-nav__link">
+        Homework: Smartphone Infographic
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-30%20-%20Unit%205%20Lesson%208/" class="md-nav__link">
+        L5.8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/1-6%20-%20Unit%205%20Lesson%201/" class="md-nav__link">
+        L5.1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/2-1%20-%20Unit%205%20Lesson%209/" class="md-nav__link">
+        L5.9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/2-1%20Homework%20Sheet/" class="md-nav__link">
+        Chem HW - CALCULATIONS OF COPPER CYCLE LABORATORY
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/2-3%20Unit%205%20Lesson%2010/" class="md-nav__link">
+        L5.10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/2-7%20Unit%205%20Lesson%2011/" class="md-nav__link">
+        L5.11
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%205%20-%20Properties%20of%20Elements/README-Unit%205%20-%20Properties%20of%20Elements/" class="md-nav__link">
+        README Unit 5   Properties of Elements
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+          Unit 6   Why are Shellfish Dying
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 6   Why are Shellfish Dying
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-13%20-%20Unit%206%20Lesson%201/" class="md-nav__link">
+        L6.1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-15%20-%20Unit%206%20Lesson%202/" class="md-nav__link">
+        L6.2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-15%20Homework%20Sheet/" class="md-nav__link">
+        Solutions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-17%20HW%20Lab%20Investigation%20-%20How%20changes%20in%20ocean%20water%20affect%20oyster%20shells/" class="md-nav__link">
+        Lab investigation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-17%20Unit%206%20lesson%203/" class="md-nav__link">
+        L6.3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/2-26%20HW%20Acids%20and%20Bases%20in%20Aqueous%20solutions/" class="md-nav__link">
+        Acids and bases
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/Complete%20Reaction%20Sheet/" class="md-nav__link">
+        reaction sheet
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/Dilution%20Problems%20WS/" class="md-nav__link">
+        dilution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/Molarity%20Calculation%20Sheet/" class="md-nav__link">
+        Molarity Calculation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%206%20-%20Why%20are%20Shellfish%20Dying/README-Unit%206%20-%20Why%20are%20Shellfish%20Dying/" class="md-nav__link">
+        README Unit 6   Why are Shellfish Dying
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+          Unit 7   How can we protect vulnerable coastal cities from Sea Level Rise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 7   How can we protect vulnerable coastal cities from Sea Level Rise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-11%20Unit%207%20Lesson%201/" class="md-nav__link">
+        L7.1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-12%20Unit%207%20Lesson%202/" class="md-nav__link">
+        L7.2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-14%20Unit%207%20Lesson%203/" class="md-nav__link">
+        L7.3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-18%20Unit%207%20Lesson%204/" class="md-nav__link">
+        L7.4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-20%20Unit%207%20Lesson%205/" class="md-nav__link">
+        L7.5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-24%20Unit%207%20Lesson%206/" class="md-nav__link">
+        L7.6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/4-26%20Unit%207%20Lesson%207/" class="md-nav__link">
+        L7.7
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/5-1%20Unit%207%20Lesson%208/" class="md-nav__link">
+        L7.8
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/5-2%20Unit%207%20Lesson%209/" class="md-nav__link">
+        L7.9
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/5-4%20Unit%207%20Lesson%2010/" class="md-nav__link">
+        5 4 Unit 7 Lesson 10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/Hw%20Phet%20Simulation/" class="md-nav__link">
+        Hw Phet Simulation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/README-Unit%207%20-%20How%20can%20we%20protect%20vulnerable%20coastal%20cities%20from%20Sea%20Level%20Rise/" class="md-nav__link">
+        README Unit 7   How can we protect vulnerable coastal cities from Sea Level Rise
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+          Unit 8   Genius Hour
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 8   Genius Hour
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%208%20-%20Genius%20Hour/Chem%20Equation%20Balancer%20Script/" class="md-nav__link">
+        Chem Equation Balancer Script
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%208%20-%20Genius%20Hour/Fully%20compiled%20Script/" class="md-nav__link">
+        Fully compiled Script
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%208%20-%20Genius%20Hour/Logistic%20and%20Sine%20Regression%20on%20weather%20data/" class="md-nav__link">
+        Logistic and Sine Regression on weather data
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Chemistry%20Honours/Unit%208%20-%20Genius%20Hour/README-Unit%208%20-%20Genius%20Hour/" class="md-nav__link">
+        README Unit 8   Genius Hour
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          College Couseling
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          College Couseling
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../College%20Couseling/2-2-2023%20College%20Counseling/" class="md-nav__link">
+        2 2 2023 College Counseling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../College%20Couseling/README-College%20Couseling/" class="md-nav__link">
+        README College Couseling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../College%20Couseling/Samir%20Uncle%20Notes/" class="md-nav__link">
+        Samir Uncle Notes
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Daily Notes
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Daily Notes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Daily%20Notes/2023-06-05/" class="md-nav__link">
+        2023-06-05
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Daily%20Notes/README-Daily%20Notes/" class="md-nav__link">
+        README Daily Notes
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          History
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          History
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/README-History/" class="md-nav__link">
+        README History
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          Research Project
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Research Project
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Outline/" class="md-nav__link">
+        Research doc history outline
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Part%201/" class="md-nav__link">
+        Part 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Pt%203/" class="md-nav__link">
+        Pt 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/README-Research%20Project/" class="md-nav__link">
+        README Research Project
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/pt%204/" class="md-nav__link">
+        Pt 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/rough%20draft/" class="md-nav__link">
+        Rough draft
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2_7" id="__nav_6_2_7_label" tabindex="0">
+          Source Documents
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_2_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2_7">
+          <span class="md-nav__icon md-icon"></span>
+          Source Documents
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Source%20Documents/FIWARE%20-%20A%20WEB%20OF%20THINGS%20DEVELOPMENT%20PLATFORM.%20%28Journal%29/" class="md-nav__link">
+        FIWARE   A WEB OF THINGS DEVELOPMENT PLATFORM. (Journal)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Source%20Documents/README-Source%20Documents/" class="md-nav__link">
+        README Source Documents
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Source%20Documents/The%20Internet%2C%20Innovation%2C%20and%20Intellectual%20Property%20Policy/" class="md-nav__link">
+        The Internet, Innovation, and Intellectual Property Policy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Research%20Project/Source%20Documents/Tim%20Berners-Lee%20Wikipedia/" class="md-nav__link">
+        Tim Berners Lee Wikipedia
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          Unit 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%202/Final%20Writing%20Assignment/" class="md-nav__link">
+        Final Writing Assignment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%202/README-Unit%202/" class="md-nav__link">
+        README Unit 2
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+          Unit 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%203/Cold%20War%20prompt/" class="md-nav__link">
+        Cold War prompt
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%203/Final%20Writing%20Assignment/" class="md-nav__link">
+        Final Writing Assignment
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%203/Part%202%20-%20Historical%20Analysis/" class="md-nav__link">
+        Part 2   Historical Analysis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%203/Part%203%20-%20Historical%20Reflection/" class="md-nav__link">
+        Part 3   Historical Reflection
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../History/Unit%203/README-Unit%203/" class="md-nav__link">
+        README Unit 3
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Precalc BC Honours
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Precalc BC Honours
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Precalc%20BC%20Honours/README-Precalc%20BC%20Honours/" class="md-nav__link">
+        README Precalc BC Honours
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+          CH 2 Calc
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          CH 2 Calc
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Precalc%20BC%20Honours/CH%202%20Calc/Hw%2023/" class="md-nav__link">
+        Hw 23
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Precalc%20BC%20Honours/CH%202%20Calc/README-CH%202%20Calc/" class="md-nav__link">
+        README CH 2 Calc
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+          Religion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Religion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/README-Religion/" class="md-nav__link">
+        README Religion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+          Christian Scripture
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_2">
+          <span class="md-nav__icon md-icon"></span>
+          Christian Scripture
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/README-Christian%20Scripture/" class="md-nav__link">
+        README Christian Scripture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2_2" id="__nav_8_2_2_label" tabindex="0">
+          April
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          April
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/April/FINAL/" class="md-nav__link">
+        FINAL
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/April/Jesus%20Christ%20Superstar/" class="md-nav__link">
+        Jesus Crist Superstar Discussion Board
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/April/README-April/" class="md-nav__link">
+        README April
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2_3" id="__nav_8_2_3_label" tabindex="0">
+          January
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          January
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/README-January/" class="md-nav__link">
+        README January
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_3_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2_3_2" id="__nav_8_2_3_2_label" tabindex="0">
+          Jesus the refugee
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_8_2_3_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_2_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          Jesus the refugee
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/CHRIST%20IN%20THE%20REFUGEE%20-%20MATTHEW%202.1-23/" class="md-nav__link">
+        CHRIST IN THE REFUGEE   MATTHEW 2.1 23
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/CW%20World%20of%20Jesus/" class="md-nav__link">
+        The World of Jesus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/Gospel%20Authorship/" class="md-nav__link">
+        Gospel Authorship
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/Gospels%20of%20christ/" class="md-nav__link">
+        Gospels of christ
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/README-Jesus%20the%20refugee/" class="md-nav__link">
+        README Jesus the refugee
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/Test%20Corrections/" class="md-nav__link">
+        Test Corrections
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Christian%20Scripture/January/Jesus%20the%20refugee/Were%20Jesus%2C%20Mary%20and%20Joseph%20refugees%20-%20Yes./" class="md-nav__link">
+        Were Jesus, Mary and Joseph refugees   Yes.
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_3" id="__nav_8_3_label" tabindex="0">
+          Hebrew Scriptures
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_3">
+          <span class="md-nav__icon md-icon"></span>
+          Hebrew Scriptures
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/README-Hebrew%20Scriptures/" class="md-nav__link">
+        README Hebrew Scriptures
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%203%20Study%20Guide/" class="md-nav__link">
+        Unit 3 Study Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_3_3" id="__nav_8_3_3_label" tabindex="0">
+          Final Test
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_3_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Final Test
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Final%20Test/Exegetical%20Paragraphs%20and%20Notes/" class="md-nav__link">
+        Exegetical Paragraphs and Notes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Final%20Test/Final%20Test%20Overview/" class="md-nav__link">
+        Final Test Overview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Final%20Test/README-Final%20Test/" class="md-nav__link">
+        README Final Test
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_3_4" id="__nav_8_3_4_label" tabindex="0">
+          Unit 4   Prophet Project
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_3_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 4   Prophet Project
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%204%20-%20Prophet%20Project/Prophet%20Project%20Overview/" class="md-nav__link">
+        Prophet Project Overview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%204%20-%20Prophet%20Project/README-Unit%204%20-%20Prophet%20Project/" class="md-nav__link">
+        README Unit 4   Prophet Project
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%204%20-%20Prophet%20Project/The%20Book%20Of%20Ezekiel/" class="md-nav__link">
+        THE BOOK OF THE PROPHET EZEKIEL
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_3_5" id="__nav_8_3_5_label" tabindex="0">
+          Unit 5   Psalms
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_3_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_8_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 5   Psalms
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%205%20-%20Psalms/README-Unit%205%20-%20Psalms/" class="md-nav__link">
+        README Unit 5   Psalms
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Religion/Hebrew%20Scriptures/Unit%205%20-%20Psalms/The%20Psalms%20Project/" class="md-nav__link">
+        Lesson 2 The Psalms
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Robotics
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Robotics
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../README-Robotics/" class="md-nav__link">
+        README Robotics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9_2" id="__nav_9_2_label" tabindex="0">
+          2022 2023
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_9_2">
+          <span class="md-nav__icon md-icon"></span>
+          2022 2023
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          <center>RuthGatorBinsburb</center>
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        <center>RuthGatorBinsburb</center>
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ftc_16887" class="md-nav__link">
+    FTC_16887
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Home%20Comp%20Flyer/" class="md-nav__link">
+        <center>COME</center>
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../README-2022-2023/" class="md-nav__link">
+        README 2022 2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+          Spanish 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Spanish 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/02-06-2023%20-%20Socratic%20Seminar%20Parte%201/" class="md-nav__link">
+        02 06 2023   Socratic Seminar Parte 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Mi%20celeb-programa%20de%20tele-pel%C3%ADcula-%20estacion%20de%20radio%20favorito/" class="md-nav__link">
+        Mi celeb programa de tele película  estacion de radio favorito
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/README-Spanish%203/" class="md-nav__link">
+        README Spanish 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_4" id="__nav_10_4_label" tabindex="0">
+          Correo Electronico
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_10_4">
+          <span class="md-nav__icon md-icon"></span>
+          Correo Electronico
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Correo%20Electronico/Correo%20Electronico%20-%20Consejos%20Para%20Alonso%20para%20su%20Bienestar%20Social/" class="md-nav__link">
+        Correo Electronico   Consejos Para Alonso para su Bienestar Social
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Correo%20Electronico/Prompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar/" class="md-nav__link">
+        Prompt Prep Correo Elect Consejos Alonso Bienestar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Correo%20Electronico/README-Correo%20Electronico/" class="md-nav__link">
+        README Correo Electronico
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_5" id="__nav_10_5_label" tabindex="0">
+          Final 2022
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_10_5">
+          <span class="md-nav__icon md-icon"></span>
+          Final 2022
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Final%202022/Notas%20Finales%20de%20la%20Cuento/" class="md-nav__link">
+        Notas Finales de la Cuento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Final%202022/README-Final%202022/" class="md-nav__link">
+        README Final 2022
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_6" id="__nav_10_6_label" tabindex="0">
+          Unit 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_10_6">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Unit%203/CW%20Grabaci%C3%B3n%20Creative%20writing%20piece%20%28preterite%29/" class="md-nav__link">
+        CW Grabación Creative writing piece (preterite)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Spanish%203/Unit%203/README-Unit%203/" class="md-nav__link">
+        README Unit 3
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+          Tanzania Prep
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Tanzania Prep
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/1-5-2023%20Tanzania%20Project%20Follow-Up%20email/" class="md-nav__link">
+        1 5 2023 Tanzania Project Follow Up email
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/11-27-2022%20Call%20with%20Ayushi-Deepak/" class="md-nav__link">
+        Questions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/11-29-2022%20Call%20with%20Kanishk%2C%20Adam%2C%20Arhaan/" class="md-nav__link">
+        11 29 2022 Call with Kanishk, Adam, Arhaan
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/11-30-2022%20Call%20with%20almost%20everyone/" class="md-nav__link">
+        11 30 2022 Call with almost everyone
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/Marketing%20PDF/" class="md-nav__link">
+        Monduli District Water Harvesting Project
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/NGFP%20YOung%20Voices%20Award%202023%20Submission/" class="md-nav__link">
+        NGFP YOung Voices Award 2023 Submission
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Tanzania%20Prep/README-Tanzania%20Prep/" class="md-nav__link">
+        README Tanzania Prep
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+          US Literature
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          US Literature
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/README-US%20Literature/" class="md-nav__link">
+        README US Literature
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12_2" id="__nav_12_2_label" tabindex="0">
+          Essay
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_12_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12_2">
+          <span class="md-nav__icon md-icon"></span>
+          Essay
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Essay/README-Essay/" class="md-nav__link">
+        README Essay
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Essay/The%20great%20gatsby/" class="md-nav__link">
+        The great gatsby
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12_3" id="__nav_12_3_label" tabindex="0">
+          Hamilton
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_12_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12_3">
+          <span class="md-nav__icon md-icon"></span>
+          Hamilton
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Hamilton/Alexander%20Hamilton%20Lyrics/" class="md-nav__link">
+        Alexander Hamilton
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Hamilton/Paragraph%20Explication/" class="md-nav__link">
+        Paragraph Explication
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Hamilton/README-Hamilton/" class="md-nav__link">
+        README Hamilton
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Hamilton/Unsung%20Stories%20Journal/" class="md-nav__link">
+        Unsung Stories Journal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Hamilton/Unsung%20story%20lyrics/" class="md-nav__link">
+        Henry Kissinger
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12_4" id="__nav_12_4_label" tabindex="0">
+          Unit 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_12_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12_4">
+          <span class="md-nav__icon md-icon"></span>
+          Unit 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/README-Unit%202/" class="md-nav__link">
+        README Unit 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/Short%20Story/" class="md-nav__link">
+        Short Story
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_4_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12_4_3" id="__nav_12_4_3_label" tabindex="0">
+          Podcast Prep
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_12_4_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Podcast Prep
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/Podcast%20Prep/Beatsheet/" class="md-nav__link">
+        Beatsheet
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/Podcast%20Prep/Notes%20for%20Podcast/" class="md-nav__link">
+        Notes for Podcast
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/Podcast%20Prep/README-Podcast%20Prep/" class="md-nav__link">
+        README Podcast Prep
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12_4_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12_4_4" id="__nav_12_4_4_label" tabindex="0">
+          The Great Gatsby
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_12_4_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_12_4_4">
+          <span class="md-nav__icon md-icon"></span>
+          The Great Gatsby
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/The%20Great%20Gatsby/Journal%20Ch%201/" class="md-nav__link">
+        Journal Ch 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/The%20Great%20Gatsby/Journal%20Ch%204/" class="md-nav__link">
+        Journal Ch 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/The%20Great%20Gatsby/Journal%20ch%205/" class="md-nav__link">
+        Journal ch 5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../US%20Literature/Unit%202/The%20Great%20Gatsby/README-The%20Great%20Gatsby/" class="md-nav__link">
+        README The Great Gatsby
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ftc_16887" class="md-nav__link">
+    FTC_16887
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+  
+  
+
+
+<h1 id="ruthgatorbinsburb"><center>RuthGatorBinsburb</center><a class="headerlink" href="#ruthgatorbinsburb" title="Permanent link">&para;</a></h1>
+<hr />
+<h2 id="ftc_16887"><center><code>FTC_16887</code></center><a class="headerlink" href="#ftc_16887" title="Permanent link">&para;</a></h2>
+<p><br>
+<br>
+<br>
+<br>
+<br></p>
+<h2 id="_1"><center><a class="glightbox" href="https://lh4.googleusercontent.com/kepHg87RtJGGFZtyOEVX8DAIQTfsFiArS_hnhOhmB-VsMkHh6QkkjXLQBNdLxU8LJruOB9GkVuPxvOZBuPsOu53N8vht_6gkhkgEgXW2MuDTul7AjRHjyyeC6uU9vhAmPPq6WtydeNERZrq6CHWaOcNEQ9I31aEUxgEcEfVe8xhXXFzuzVvMU4FLP7hYzQ" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://lh4.googleusercontent.com/kepHg87RtJGGFZtyOEVX8DAIQTfsFiArS_hnhOhmB-VsMkHh6QkkjXLQBNdLxU8LJruOB9GkVuPxvOZBuPsOu53N8vht_6gkhkgEgXW2MuDTul7AjRHjyyeC6uU9vhAmPPq6WtydeNERZrq6CHWaOcNEQ9I31aEUxgEcEfVe8xhXXFzuzVvMU4FLP7hYzQ" width="300"/></a></center><a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<h1 id="engineering-notebook"><center>Engineering Notebook</center><a class="headerlink" href="#engineering-notebook" title="Permanent link">&para;</a></h1>
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></p>
+<h3 id="sacred-heart-association-robotics-team"><center>Sacred Heart Association Robotics Team</center><a class="headerlink" href="#sacred-heart-association-robotics-team" title="Permanent link">&para;</a></h3>
+<h5 id="ftc_power_play"><center>FTC_Power_Play</center><a class="headerlink" href="#ftc_power_play" title="Permanent link">&para;</a></h5>
+<h3 id="2022-2023"><center><code>2022-2023</code></center><a class="headerlink" href="#2022-2023" title="Permanent link">&para;</a></h3>
+<div style="page-break-after: always;"></div>
+
+<h1 id="table-of-contents">Table of Contents<a class="headerlink" href="#table-of-contents" title="Permanent link">&para;</a></h1>
+<p><code>wow, so organized!</code></p>
+<ol>
+<li>Team Information<ol>
+<li>Team Summary</li>
+<li>Member Information</li>
+<li>Outreach</li>
+</ol>
+</li>
+<li>Engineering Content<ol>
+<li>Designing</li>
+<li>Body</li>
+<li>Wheels</li>
+<li>Scoring System</li>
+<li>Strategy</li>
+<li>CAD</li>
+<li>Coding<ol>
+<li>Autonomous</li>
+<li>TeleOp</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Team Plan<ol>
+<li>Business</li>
+<li>Outreach</li>
+<li>Team Sustainability</li>
+</ol>
+</li>
+<li>Program Plan<ol>
+<li>Home Comp</li>
+<li>Classes</li>
+</ol>
+</li>
+<li>Coaches<ol>
+<li>Mr. Bucur</li>
+<li>Ms. Holman</li>
+</ol>
+</li>
+<li>Outreach partners<ol>
+<li>Siena Youth Center</li>
+<li>Bit by Bit Coding</li>
+<li>Robotics for All</li>
+<li>Sacred Heart Lower Middle School (LMS)</li>
+</ol>
+</li>
+</ol>
+<div style="page-break-after: always;"></div>
+
+<h1 id="1-team-information">1. Team Information<a class="headerlink" href="#1-team-information" title="Permanent link">&para;</a></h1>
+<h2 id="11-team-summary">1.1 Team Summary<a class="headerlink" href="#11-team-summary" title="Permanent link">&para;</a></h2>
+<p>Team Ruth Gator Binsburg (RGB) (16887) is one of the four Sacred Heart Preparatory (SHP) Atherton teams. We have 7 members this year. Our team has a diverse mix of ages and experience levels. </p>
+<p>This year our team is trying out a new structure. Unlike previous years, we will not have one team captain. Instead, progress is driven by everyone. Our team has two major parts: hardware and software. </p>
+<h2 id="12-member-information">1.2 Member Information<a class="headerlink" href="#12-member-information" title="Permanent link">&para;</a></h2>
+<h3 id="aarav">Aarav<a class="headerlink" href="#aarav" title="Permanent link">&para;</a></h3>
+<p>Aarav is one of our lead coders. He is a senior and is in his second  year of FTC. He is always helping his teammates and using his experience to lead them. Aarav ensures that all team members are involved. Outside of robotics, he is the varsity tennis team captain and loves to read.</p>
+<h3 id="kelly">Kelly<a class="headerlink" href="#kelly" title="Permanent link">&para;</a></h3>
+<p>Kelly is one of the lead coders. She is a sophomore and joined FTC last year. She is constantly in the robotics lab working on code and supporting her teammates. She keeps the team organized and ensures that everyone has a role. </p>
+<h3 id="andy">Andy<a class="headerlink" href="#andy" title="Permanent link">&para;</a></h3>
+<p>Andy is one of our lead builders. Although he is only a sophomore, he has worked hard to become an experienced FTC member. Outside of school he enjoys photography.</p>
+<h3 id="wilson">Wilson<a class="headerlink" href="#wilson" title="Permanent link">&para;</a></h3>
+<p>Wilson is one of our builders. He is a freshman and has experience from our middle school FTC program. Wilson is frequently in the lab contributing and plays on our school soccer team.</p>
+<h3 id="katherine">Katherine<a class="headerlink" href="#katherine" title="Permanent link">&para;</a></h3>
+<p>Katherine is a freshman with experience from our middle school robotics program. She works diligently to solve every coding challenge that she comes across. Outside of robotics she enjoys math competitions and playing the violin.  </p>
+<h3 id="joshua">Joshua<a class="headerlink" href="#joshua" title="Permanent link">&para;</a></h3>
+<p>Joshua is one of our builders and a freshman. This is his first year of FTC and he has learned a lot this season. Outside of robotics, he enjoys playing tennis.</p>
+<h2 id="13-outreach">1.3 Outreach<a class="headerlink" href="#13-outreach" title="Permanent link">&para;</a></h2>
+<p>Sacred Heart Preparatory Robotics, which includes four other teams, also works with organizations like BitbyBit Coding, Robotics for all, and Launch Coders. Students are able to share their passion for coding by teaching younger students. The classes are all conducted in a virtual environment, but that does not stop the energy team members have for spreading their knowledge. (See Section 5 - Outreach Partners)</p>
+<div style="page-break-after: always;"></div>
+
+<h1 id="2-engineering-content">2. Engineering Content<a class="headerlink" href="#2-engineering-content" title="Permanent link">&para;</a></h1>
+<h2 id="21-designing">2.1 Designing<a class="headerlink" href="#21-designing" title="Permanent link">&para;</a></h2>
+<p><a class="glightbox" href="https://lh3.googleusercontent.com/sHqnommSX8luAq_xHxs5DuZ2R1ORG2LwVENm7lCEbcRhiY2C_TA3tbCfXODbqNyUzOghpxs_tLdxVfTKeun3xR1plz9qHHcxD11zdPHMU5U8fAe5hIPLnHJU_bjJSpaqN3Lk9tfiYezKej8F4gip9W1jSj5WXFuF6RQ3uaN52PNppr-vyDD5u_iGwUgOkA" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://lh3.googleusercontent.com/sHqnommSX8luAq_xHxs5DuZ2R1ORG2LwVENm7lCEbcRhiY2C_TA3tbCfXODbqNyUzOghpxs_tLdxVfTKeun3xR1plz9qHHcxD11zdPHMU5U8fAe5hIPLnHJU_bjJSpaqN3Lk9tfiYezKej8F4gip9W1jSj5WXFuF6RQ3uaN52PNppr-vyDD5u_iGwUgOkA" /></a></p>
+<p>After viewing the initial FTC Livestream, we immediately began our design process. We sketched out multiple rudimentary designs, mostly focusing on our intake systems and our movement system. We also had each member of the team sketch design ideas so that everyone could be involved in the process and we could hear a variety of perspectives. Our initial designs consisted of a few unique components which we had never worked with before, namely a scissor lift, and a claw. We took the inspiration for the claw from a garbage truck, using rubber bands for tension and flexibility that would allow us to pick up the cone anywhere.</p>
+<p>For scissor lifts, we had 3 initial designs. There are single hinge, double hinge, and braided scissor lifts. We chose the braided scissor lift because it is more sturdy and accurate when connected twice to the base in comparison to the double hinge which lacks accuracy, and the single hinge which lacks stability. In the first design of our scissor lift, we were able to make a functioning mechanism that was able to move up and done very efficiently, but when we tested the scissor lift by mourning it with one pivot point, and a motor attached to the other end, we found that the torque required to push the scissor lift from its resting state was larger than even what the high torque motor could provide us. This meant we had to place an actuator to lift up the scissor lift to a manageable starting height, and from there we could use the motor to move the scissor lift up and down. However, this was too inefficient at opening the scissor lift,  so we tried using a linear slide which we found was much faster.</p>
+<h3 id="linear-slide">LINEAR SLIDE<a class="headerlink" href="#linear-slide" title="Permanent link">&para;</a></h3>
+<p>In the initial state of the bot we began with a c-channel linear slide run by a 560rpm gobuilda motor. After extensive deliberation with the team we decided to invest in a viper slide. By replacing the linear slide, we were able to reach the highest pole. Due to the unconventional design of the linear slide, we also had to adopt an unorthodox mounting method for the linear slide. </p>
+<h2 id="22-body">2.2 Body<a class="headerlink" href="#22-body" title="Permanent link">&para;</a></h2>
+<p><center><a class="glightbox" href="https://lh3.googleusercontent.com/MRBpnT7MYJbXBZTaCFZnkyzHKjgRSlVOTIoK8JI0U5CmAj6R-0PyXGyphtjUL4c1yS9GP5yjCBW_y20wji9OeCdNzZ10tHs2qd_jWGFEViApuYCS0YmcYed8MF5E1spGJ10e50Vd4edchx9xEQ3S3HF3h2tXDfejoTHbnlyEWSMsFX48MWybOPC0ioAMzA" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://lh3.googleusercontent.com/MRBpnT7MYJbXBZTaCFZnkyzHKjgRSlVOTIoK8JI0U5CmAj6R-0PyXGyphtjUL4c1yS9GP5yjCBW_y20wji9OeCdNzZ10tHs2qd_jWGFEViApuYCS0YmcYed8MF5E1spGJ10e50Vd4edchx9xEQ3S3HF3h2tXDfejoTHbnlyEWSMsFX48MWybOPC0ioAMzA" width="300"/></a></center></p>
+<p>We put the linear slide on the side of the bot to maximize our efficiency of cone picking. When we are cycling during teleop, we dont have to rotate the bot to pick up the cones, and we can just strafe to pick up the cones instead. By keeping the bot in the same orientation, we doubled the amount of cones we were able to </p>
+<h2 id="23-wheels">2.3 Wheels<a class="headerlink" href="#23-wheels" title="Permanent link">&para;</a></h2>
+<p>For wheels, we started with mecanum wheels, and all four motors were mounted horizontally eliminating the need for gears. We initially had some problems on the software side with the front and back movement not working properly, but after tinkering with the values that we set each motor to, we realized that because of our four horizontal orientation, that two of the motors had to be reversed. We then decided to utilize a field oriented driving system, in which pushing up on the joystick always makes the robot move forward, regardless of which way the robot turned. In a competition that requires so much precision for driving through poles, we decided that this driving system would be most efficient and easiest to understand and navigation for our drivers. </p>
+<h2 id="24-scoring-system">2.4 Scoring System<a class="headerlink" href="#24-scoring-system" title="Permanent link">&para;</a></h2>
+<p>Our team looked at many different intake/outtake systems. We considered a typical claw controlled by servos or a more unique system which picks up cones from the top, but ultimately decided the claw would give us more precision when picking up cones and dropping them on poles. We also attached rubber bands to the inside of the claw to increase the coefficient of friction between the claw and the cone, ensuring a cone almost never falls out of the claw.</p>
+<h2 id="25-strategy">2.5 Strategy<a class="headerlink" href="#25-strategy" title="Permanent link">&para;</a></h2>
+<p>When determining our strategy for this year’s challenge, our team decided adaptability was extremely important. Adaptability would allow both teams to play to their relative strengths.  After looking at the points breakdown, we were initially excited about the potential of a circuit because of the extra points we would get from creating the circuit, the cones on the junctions, and owning up to 8 or 9 junctions. After testing how long it would take to create a circuit with a fully functional robot, we decided that cycling cones to the high poles while our alliance partner focuses on circuits would be most optimal, as we can nearly guarantee 18-20 cones stacked on the high junction. Although this is our preferred game strategy, going back to our central mission of adaptability, our robot is made in such a way that we can work with any type of alliance partner whether that means working together to make a circuit, or placing defensive cones on the opponent's side ground junctions to limit their movement. </p>
+<h2 id="26-cad">2.6 CAD<a class="headerlink" href="#26-cad" title="Permanent link">&para;</a></h2>
+<p>For my mechanical claw design, I began by measuring the plastic cones that I needed to pick up. I used these measurements to create a curve in CAD that would fit the shape of the cone perfectly. I then extruded this curve to create the claw shape. Once I had the claw designed in CAD, I 3D printed it using PLA material to ensure that it was structurally sound. I made sure to test the claw multiple times to ensure that it was able to pick up the cones without breaking or deforming. Overall, the design process for the mechanical claw was successful and the final product was able to effectively pick up the plastic cones.</p>
+<p>In addition to designing the mechanical claw, I also designed a set of gears specifically for use with the Gobuilda building system. I used CAD to create gears with a radius that perfectly fit across three Gobuilda holes. These gears worked much better than the original Gobuilda gears for some reason, and I believe it was due to the precise radius that I was able to achieve in my design. Like the mechanical claw, I 3D printed these gears using PLA material to ensure structural integrity. The design process for these gears was similar to that of the claw, and I also tested them multiple times to ensure that they worked effectively. Overall, I was very pleased with the performance of these custom gears and they were a valuable addition to the claw system.</p>
+<h2 id="27-coding">2.7 Coding<a class="headerlink" href="#27-coding" title="Permanent link">&para;</a></h2>
+<h3 id="autonomous">Autonomous:<a class="headerlink" href="#autonomous" title="Permanent link">&para;</a></h3>
+<p>The goal of our autonomous drive is to accurately detect the signal sleeve, and park. We used RoadRunner, a Java library, that allows us to easily create paths and trajectories for our robot to follow in the autonomous period.</p>
+<p>Our team decided that making our own signal sleeve was worth it, so we created a sleeve that implemented AprilTags. AprilTags are similar to QR codes and easy for computer vision to detect. Using OpenCV, we can detect the AprilTag and use the tag number that is returned to determine the parking location. Once the robot knows the AprilTag number, it uses a RoadRunner path to accurately move to the correct parking spot. Tuning RoadRunner is essential to its accuracy. It is time consuming, as there are a lot of variables, however, after it is tuned, it is very consistent. </p>
+<p>We plan out paths for all of our autos on paper first to ensure the most efficient and effective autonomous period. Our first auto is a simple parking auto that has a very high success rate, so if anything goes wrong with our more complex autos, we have a backup plan. Our current auto is a one cone auto. We use a preloaded cone and deliver it to a high junction and park. If the cone fails to deliver, our robot is still capable of parking, ensuring that we still gain the valuable parking points. </p>
+<p><center><a class="glightbox" href="https://lh3.googleusercontent.com/qvVD1ayVcUuPSM4XaFUJs1-zPAp5QUpZ8n2zP0oAH8hQ1JaXlsS2QBZIW8c5ryZrDsKfxC1-eGwp9x98Er1tGA1zrAG4Pm6n1rNP6ZhzE9gHSjLJ7OSjFmLLDbnuHV59cJgQ-tZkx9k_lNpqrU3ORk65qq37u8HyOtGjrCFzKtDzSom7nnQfeLn2zah8iQ" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://lh3.googleusercontent.com/qvVD1ayVcUuPSM4XaFUJs1-zPAp5QUpZ8n2zP0oAH8hQ1JaXlsS2QBZIW8c5ryZrDsKfxC1-eGwp9x98Er1tGA1zrAG4Pm6n1rNP6ZhzE9gHSjLJ7OSjFmLLDbnuHV59cJgQ-tZkx9k_lNpqrU3ORk65qq37u8HyOtGjrCFzKtDzSom7nnQfeLn2zah8iQ" width="500"/></a></center></p>
+<p>Our next plan is to have a two cone auto. It would deliver the preloaded cone and one cone from the stack to a high junction. We are currently figuring out better paths for our auto to avoid colliding with other robots placing cones on the high junctions in the middle.</p>
+<h3 id="teleop">TeleOp:<a class="headerlink" href="#teleop" title="Permanent link">&para;</a></h3>
+<p>We wrote a command-based TeleOp that is easier to use and more efficient. We create commands for various actions, such as delegating the linear slide to the ArmSubystem which is utilized in the MoveArmCommand, or delegating the claw to the ClawSubsystem which is utilized in the DropCargoCommand. Then using the custom Finite State Machine we created with our own SHPLib, with just the press of the A button, the robot will perform a set of predetermined actions based on the previous state. </p>
+<p>For example, once the TeleOp period starts, when pressing ‘A’ the robot will pick up the cone, then raise the linear slide to the high pole position, after driving up and aligning the robot, when pressing ‘A’ again, the claw will open releasing the cone, and retract the linear slide to the bottom position where it is ready to pick up a cone again. With just the use of one button, we are able to consistently cycle all 20 human player cones on to high poles, or any other pole height in accordance with our pre-planned alliance game strategy. We have also significantly capped the max speed of our robot for the purpose of precision when driving and aligning with a pole, but have implemented a boost button that temporarily increases our max speed when we are trying to race across the field to place a defensively strategic cone on a ground junction. </p>
+<p>Because all of our linear slide commands are based on a pre-set position, we were initially struggling to figure out who to approach the cone stacks, but eventually decided to have an incrementing encoder value that decreased when a cone from the stack was picked up. For example, if the encoder value is 1000 when picking up the 5<sup>th</sup> cone from the stack, once that action is completed, the state will change to hold a value of 800 corresponding with the 4<sup>th</sup> cone in the stack and so on. </p>
+<div style="page-break-after: always;"></div>
+
+<h1 id="3-team-plan">3. Team Plan<a class="headerlink" href="#3-team-plan" title="Permanent link">&para;</a></h1>
+<h2 id="31-business">3.1 Business<a class="headerlink" href="#31-business" title="Permanent link">&para;</a></h2>
+<p>Our team, as well as the robotics club at our school as a whole, is very fortunate in terms of funding support. The school is very supportive of both robotics and our other STEM programs and recognizes the importance of instilling these skills in our students. As a result, we have received significant funding as well as lab space inside and outside of our school. For the most part, we are able to procure whatever machinery/supplies that are necessary, within reason. This allows us to participate at a high level at competition. The business team of SHP Robotics plans to financially support our team’s FIRST robots and other projects, educate our members using the latest technology available within our budget and serve our community by hosting STEM activities such as an outreach program that we currently provide at a local youth center. The goals of our strategic plan are to fundraise as much money as possible so we can pay for team travel, registration fees, and all other expenses, while having leftover money to serve our community through meaningful interactions that promote STEM and solve problems with our innovative ideas. While we do receive a large amount of support from our school and the more involved parents, we also pursue our own independent fundraising projects. These are led and managed by our own business division, with as little reliance on our adult mentors as possible. </p>
+<p>Members of our strategic team reach out to parent, local, and company sponsors via meetings and email to tell potential investors about the success of our team and what we can accomplish with financial assistance. For their investment, we offer sponsors an opportunity to meet and connect with our team, a tour of our makerspace, explanations of our robots and other projects, and prime spots for their logos/ names on our robot, website and competition merchandise. </p>
+<p>This year, we have secured sponsors for smaller local businesses like the Xie Foundation and Orthoworks as well as some larger companies like Thumbtacks to fund our parts orders, food, travel costs and general robotics maintenance. Our fundraising process generally consists of two main steps. First, our business leaders send out emails to potential sponsors and team parents encouraging them to donate to our team, usually towards the purpose of procuring a certain piece of equipment. We believe that transparency is very important, and that everyone who is generous enough to donate should know exactly where their money is going. This ties in directly to our second step, which is offering tours of our facilities and meetings with the team for any sponsors who wish to attend. While these tours are led by business team members, financial partners have the chance to meet the rest of our team and explore our facilities. It is our goal to give our sponsors as much information as possible, as they are investing in our team’s future and providing us the resources we need to continue to grow.</p>
+<h2 id="32-outreach">3.2 Outreach<a class="headerlink" href="#32-outreach" title="Permanent link">&para;</a></h2>
+<p>It was important for us to have all our members participate in outreach activities so that we make a positive impact on our community. To do this, we have directly partnered with three different organizations that search to teach under-privileged children STEM. This year, the robotics team is hoping to get every member involved in outreach and is doing so by partnering with nonprofits organizations Robotics for All, Bit By Bit Coding, and Launch Coders. </p>
+<p>Our guiding principle with regards to outreach is to serve at the local, state, and national level. During a typical academic year, we host courses on our campus for students from the local Siena Youth Center, teaching them basic engineering and code concepts that get them excited about STEM-based career paths. We also do occasional work with the East Palo Alto Boys and Girls Club, often bringing old competition robots and code demos for Curieus-sponsored TechFairs. On a larger scale, we heavily encourage our volunteers to work with our partner organizations, who now, due to the pandemic, host online courses.  Because of the virtual option, students have had the opportunity to participate in community service activities at their pace and on a more flexible schedule. The flexibility they offered allowed students with sports commitments to volunteer and still have the time to focus on their other activities has resulted in more students on our team participating in service in some form this year. </p>
+<p>Lastly, being located in the heart of Silicon Valley, our team does a lot of work with companies and mentors from the tech industry to expose our own members to STEM careers and workplace environments. Using our parental connections as well as reaching out to local companies, we have had guest speakers, one-day mentors, and lab tours from various experts and companies over the years. Though we have not done much work with this kind of outreach this year due to limitations of the pandemic, we plan to continue as soon as it is safe to proceed.</p>
+<p>Because our team comes from a background of financial privilege, we feel a great responsibility to give back to our community that enriches not only the lives of those we serve, but contributes to building a more diverse community of STEM leaders from our generation. We want to be able to give the opportunities and exposure to STEM that we have had to those without that same experience, a guiding principle of not only our team, but our robotics program as a whole.</p>
+<h2 id="33-team-sustainability">3.3 Team Sustainability<a class="headerlink" href="#33-team-sustainability" title="Permanent link">&para;</a></h2>
+<p>As a team, community bonding is very important. One of our goals, both in the long and short term, is that we plan to have team bonding and other engaging activities. Although we attend the same school, there are many students at Sacred Heart Preparatory, and, especially in light of the pandemic, many of us had not met before joining the robotics team. By cementing a positive team environment through friendships, not only will we be able to work efficiently short term, but we will also make lasting relations that will carry us through our four years in high school.</p>
+<p>One of the features that makes the RGB special is that we have a variety of ages, grades, and experiences on our team. The more experienced upperclassmen can teach the younger, inexperienced members to learn. Knowledge of how to build something will stay with the members and help them grow into experienced builders, coders, and CADers. As the current underclassmen become upperclassmen, they can then teach newcomers on the process of creating a robot. In terms of new members, since team 16887 is part of a school, new students interested in robotics will join every year through all school emails, club fairs, and other opportunities to recruit new members. We can maintain the legacy of the RGB. From there, we divide the students across our teams and projects, which is why it is important that the underclassmen gain experience and understanding now. Once the teams are recreated year by year, the number stays the same while the members change, so the process of teaching keeps being handed down. </p>
+<div style="page-break-after: always;"></div>
+
+<h1 id="4-program-plan">4. Program Plan<a class="headerlink" href="#4-program-plan" title="Permanent link">&para;</a></h1>
+<h2 id="41-home-comp">4.1 Home Comp<a class="headerlink" href="#41-home-comp" title="Permanent link">&para;</a></h2>
+<p>Last year, our robotics organization started hosting an internal competition between our middle school and high school FTC teams. We hold Home Comp before our teams go to official competitions so that new and old members can adjust to the competition format and practice in a competition environment. We invite all robotics families and supporters to watch to promote the robotics program and share our progress. </p>
+<p>Home Comp is the highlight of many peoples’ season. It is where screws fall out, batteries disconnect, and robots fall apart, but it is an essential part of our learning process which we encourage with the famed Dumpster Fire award. This year, the dumpster fire award went to a middle school team who’s linear slide fell off in qualifiers, but was still able to win the competition. They showcased the spirit of the dumpster fire, by coming back from failures. </p>
+<p>One of the goals of Home Comp is familiarizing people with the competition formant, especially the middle school teams. For Home Comp we created a condensed format of a full competition. We start with solo qualifiers to determine ranking for brackets. We pair every middle school with a high school team to connect the two parts of our school together. This also allows high schoolers to guide the middle schoolers through the competition. </p>
+<p>We use Home Comp to showcase our progress to our supporters. We invite all families and many faculty and staff to watch Home Comp and learn about our robotics program. Our adults do so much to support us and Home Comp is an easy way for them to see our achievements. We hope to also host an end of season Home Comp to display our improvement and promote the robotics program to more people.</p>
+<h2 id="42-classes">4.2 Classes<a class="headerlink" href="#42-classes" title="Permanent link">&para;</a></h2>
+<p>Through the SHP Robotics program, we host a set of after classes available to all members of the Sacred Heart Community all the way from the Lower School to the High School. Our two main classes are a software and hardware class. In the software class, we begin by introducing the basics of Java with basic loops and conditionals. We then build to more advanced concepts like finite state machines, enums, and other industry standard algorithms like our PiD and FeedForward controllers, finally ending in a comprehensive course on our proprietary SHP FTC Library (SHPLib) that we have created this year to model our FTC code after the command based system FRC utilizes. Our hardware class also begins with a basic intro into hardware safety principle and essential tools for any building process, but then takes a deep dive into core FTC skills like rigging linear slides and creating drive bases. In the coming year, we hope to offer CAD classes and notebook classes that are more FTC focused. While the content of each of our classes differs, we follow the same guiding principle of having our experienced upperclassmen teach, while having newer members learn through hands-on experiences.</p>
+<div style="page-break-after: always;"></div>
+
+<h1 id="5-coaches">5. Coaches<a class="headerlink" href="#5-coaches" title="Permanent link">&para;</a></h1>
+<p><center><a class="glightbox" href="https://lh6.googleusercontent.com/8dEk2YWrsvZbR2ninGOrGvVVKORcKwyivw4fIpx_bKnscqv7DMCXpH3dd3NE-wTG6i9BMGmJLPEhwLOSqjokhUbH0chzO11lVqNWRx4dvrN6Q-Kxey2hIreGlzP40vJ2uwCuS0FNPEyQCqMMulNS4mFfBI6mNKYsKOYjuemE20yk7qqnuFhzbSbfvp2Wxw" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://lh6.googleusercontent.com/8dEk2YWrsvZbR2ninGOrGvVVKORcKwyivw4fIpx_bKnscqv7DMCXpH3dd3NE-wTG6i9BMGmJLPEhwLOSqjokhUbH0chzO11lVqNWRx4dvrN6Q-Kxey2hIreGlzP40vJ2uwCuS0FNPEyQCqMMulNS4mFfBI6mNKYsKOYjuemE20yk7qqnuFhzbSbfvp2Wxw" width="200"/></a></center></p>
+<h3 id="mr-bucur">Mr. Bucur<a class="headerlink" href="#mr-bucur" title="Permanent link">&para;</a></h3>
+<p>Mr. Bucur is the lead coach for team 16887, and as such is the most involved in the build process from a mentorship perspective. In addition to offering insights and advice about the construction of the robot, Mr. Bucur also keeps the lab open for long hours to allow ample time for hardware and software work.</p>
+<h3 id="ms-holman">Ms. Holman<a class="headerlink" href="#ms-holman" title="Permanent link">&para;</a></h3>
+<p>Ms. Holman is the lead software mentor for team 16887. She is very helpful in making sure robotics runs smoothly and endures us. Ms. Holman also makes sure that everyone is accounted for and that we are on task.  </p>
+<div style="page-break-after: always;"></div>
+
+<h1 id="6-outreach-partners">6. Outreach partners<a class="headerlink" href="#6-outreach-partners" title="Permanent link">&para;</a></h1>
+<h3 id="siena-youth-center">Siena Youth Center<a class="headerlink" href="#siena-youth-center" title="Permanent link">&para;</a></h3>
+<p>SYC is SHP Robotics’ oldest service partner, with an outreach relationship dating back to at least 2017. Prior to COVID-19, robotics students visited SYC in person to teach basic robotics classes with Lego Mindstorms systems, and also invited students to visit the lab at SHP campus to learn about the FTC and FRC robots. While this program was temporarily suspended during the 2020 season, robotics students have returned in a limited capacity in 2021, and plan to expand this involvement in 2022.</p>
+<h3 id="bit-by-bit-coding">Bit by Bit Coding<a class="headerlink" href="#bit-by-bit-coding" title="Permanent link">&para;</a></h3>
+<p>During the COVID-19 pandemic, the robotics program looked to uphold its commitment to STEM-related service virtually, by onboarding service partners that robotics students could work with remotely. Bit by Bit was the first of these service partners, and currently involves the largest number of robotics students.</p>
+<p>Bit by Bit is a mostly-virtual STEM-education nonprofit that focuses on providing technological/coding education to historically underrepresented students. SHP students have worked in a variety of capacities with Bit by Bit, both as educators and as support for BxB’s various programs.</p>
+<h3 id="robotics-for-all">Robotics for All<a class="headerlink" href="#robotics-for-all" title="Permanent link">&para;</a></h3>
+<p>Robotics for All is the second service partner added during the COVID-19 pandemic, and is a locally-based STEM and robotics education nonprofit based proximate to Sacred Heart. While its charter is similar to Bit by Bit, Robotics for All offers more hands-on experience for students, who serve as teachers’ assistants (TAs) and teachers for coding classes. </p>
+<p>In addition to virtual classes, the team hopes to expand our relationship with Robotics for All in the future by offering on-campus shadowing opportunities for students interested in robotics. </p>
+<h3 id="sacred-heart-lower-middle-school-lms">Sacred Heart Lower Middle School (LMS)<a class="headerlink" href="#sacred-heart-lower-middle-school-lms" title="Permanent link">&para;</a></h3>
+<p>As well as working with external service partners, the SHP Robotics team also works with the associated Lower Middle School (LMS) to offer mentorship, advice, and practice opportunities. The LMS is home to three FTC teams, both of which are 7<sup>th</sup> and 8<sup>th</sup> grade students.</p>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 5, 2023</span>
+      
+        <br>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 5, 2023</span>
+      
+    
+  </small>
+</div>
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
