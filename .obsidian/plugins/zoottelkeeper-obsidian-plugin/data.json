@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": true,
-  "foldersExcluded": "30 Obsidian/*\ndocs/javascripts/",
+  "foldersExcluded": "",
   "foldersIncluded": "",
   "sortOrder": "asc",
   "addSquareBrackets": true,
