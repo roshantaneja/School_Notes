@@ -1,4 +1,11 @@
-## Application Part
+## prompt
+
+> Write a short essay (maximum 400 words) on how a current project or an intended project will consider the well-being of others and the future of the planet. Submissions can be in native language but please include an English translation.
+
+
+### Application Part
+
+In the arid landscapes of the Monduli District, Arusha, Tanzania, a groundbreaking initiative is redefining the dynamics of water scarcity and its impact on the indigenous Maasai community. This pioneering project, centered around the installation of a 100k litre water harvesting unit, is not only a beacon of hope for this community but also a compelling case study for sustainable water management strategies worldwide.
 
 The water harvesting project in the Monduli District, Arusha, Tanzania, is a testament to the power of sustainable solutions in addressing critical issues such as water scarcity. By installing a 100k litre water harvesting unit, the project has significantly improved the well-being of the Maasai community, particularly women and children, who previously had to walk for hours to fetch water. The project has not only provided a reliable source of clean water but also freed up time for economic activities and education, thereby enhancing the community's overall quality of life.
 
@@ -10,8 +17,10 @@ Furthermore, the project is planning to introduce a universal water harvesting u
 
 In conclusion, the water harvesting project in Monduli District is a shining example of how sustainable interventions can improve people's well-being and contribute to the future of our planet. By addressing water scarcity in a sustainable manner, the project is making a significant contribution to achieving the United Nations' Sustainable Development Goal of ensuring access to clean water and sanitation for all
 
+## Prompt
 
-## Video Script
+
+### Video Script
 
 [FADE IN]
 
