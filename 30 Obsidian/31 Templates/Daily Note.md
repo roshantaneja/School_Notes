@@ -29,7 +29,7 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 ### [Other Tasks]
 
-#### No Due Date
+#### To Be Done
 
 ```tasks
 not done
