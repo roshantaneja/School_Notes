@@ -1,8 +1,8 @@
 {
-  "accentColor": "#850f7b",
-  "baseFontSize": 13,
-  "cssTheme": "",
-  "theme": "obsidian",
+  "accentColor": "",
+  "baseFontSize": 18,
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "moonstone",
   "monospaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Code SemiLight,Cascadia Code",
   "interfaceFontFamily": "Inter",

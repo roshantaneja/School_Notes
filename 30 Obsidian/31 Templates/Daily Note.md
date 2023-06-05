@@ -5,7 +5,9 @@ datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
 datemodified: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
-### [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]]<<<[[<% tp.date.now("YYYY-MM-DD") %>|Today]]>>>[[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow]]
+Reminders
+
+### << [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow]] >>
 
 ## Daily Log
 
@@ -21,17 +23,7 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 
 
-## Daily Check List
-
-### Start of day
-
-
-
-### End of Day
-
-
-
-## Other Tasks
+### [Other Tasks]
 
 #### No Due Date
 

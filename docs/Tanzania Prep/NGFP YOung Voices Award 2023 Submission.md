@@ -29,11 +29,11 @@ SPEAKER (V.O.): "Before this unit, our women and children had to walk for hours 
 
 [SHOT of children attending school, women engaging in economic activities]
 
-SPEAKER (V.O.): "But now, things have changed. School attendance has doubled. Women have more time for economic activities. Our lives have improved.
+SPEAKER (V.O.): "But now, things have changed. School attendance has doubled. Women have more time for economic activities. Their lives have improved.
 
 [SHOT of the speaker, addressing the camera directly]
 
-SPEAKER: "We've been nominated for the Young Voices prize, and we need your support. Winning this prize will allow us to expand our project, install more water harvesting units, and impact more lives.
+SPEAKER: "Throughout this project, we have provided clean and accessible water to thousands, and will continue into the future. We are looking for your support in this project."
 
 [SHOT of community members working together]
 
