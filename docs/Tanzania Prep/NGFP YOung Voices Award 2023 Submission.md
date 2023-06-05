@@ -11,6 +11,7 @@ The water harvesting project in the Monduli District, Arusha, Tanzania, is a tes
 
 The project's impact extends beyond the immediate community. By demonstrating the effectiveness of water harvesting units, it provides a blueprint for similar interventions in other water-scarce regions. This could potentially improve the lives of millions of people worldwide who lack access to clean water, a fundamental human right.
 
+
 Moreover, the project contributes to the future of our planet by promoting sustainable water management. Water scarcity is a global issue, exacerbated by climate change and population growth. Traditional water sources are becoming increasingly unreliable, and overuse of existing resources is depleting groundwater reserves. Water harvesting offers a sustainable alternative by making use of rainfall, a renewable resource. It reduces reliance on groundwater and helps preserve this precious resource for future generations.
 
 Furthermore, the project is planning to introduce a universal water harvesting unit and additional filtration systems, indicating a commitment to continuous improvement and scalability. This approach ensures that the benefits of the project can be extended to a larger population, amplifying its positive impact.

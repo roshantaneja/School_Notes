@@ -6,5 +6,6 @@
   "monospaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Code SemiLight,Cascadia Code",
   "interfaceFontFamily": "Inter",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": []
 }
