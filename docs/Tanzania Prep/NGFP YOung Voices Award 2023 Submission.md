@@ -1,3 +1,5 @@
+Application Part
+
 The water harvesting project in the Monduli District, Arusha, Tanzania, is a testament to the power of sustainable solutions in addressing critical issues such as water scarcity. By installing a 100k litre water harvesting unit, the project has significantly improved the well-being of the Maasai community, particularly women and children, who previously had to walk for hours to fetch water. The project has not only provided a reliable source of clean water but also freed up time for economic activities and education, thereby enhancing the community's overall quality of life.
 
 The project's impact extends beyond the immediate community. By demonstrating the effectiveness of water harvesting units, it provides a blueprint for similar interventions in other water-scarce regions. This could potentially improve the lives of millions of people worldwide who lack access to clean water, a fundamental human right.
@@ -6,4 +8,7 @@ Moreover, the project contributes to the future of our planet by promoting susta
 
 Furthermore, the project is planning to introduce a universal water harvesting unit and additional filtration systems, indicating a commitment to continuous improvement and scalability. This approach ensures that the benefits of the project can be extended to a larger population, amplifying its positive impact.
 
-In conclusion, the water harvesting project in Monduli District is a shining example of how sustainable interventions can improve people's well-being and contribute to the future of our planet. By addressing water scarcity in a sustainable manner, the project is making a significant contribution to achieving the United Nations' Sustainable Development Goal of ensuring access to clean water and sanitation for all.
+In conclusion, the water harvesting project in Monduli District is a shining example of how sustainable interventions can improve people's well-being and contribute to the future of our planet. By addressing water scarcity in a sustainable manner, the project is making a significant contribution to achieving the United Nations' Sustainable Development Goal of ensuring access to clean water and sanitation for all
+
+
+Video Script
