@@ -12,3 +12,37 @@ In conclusion, the water harvesting project in Monduli District is a shining exa
 
 
 Video Script
+
+[FADE IN]
+
+[SHOT of the speaker standing in front of the water harvesting unit]
+
+SPEAKER: "Hello, I'm [Speaker's Name], and I'm here to talk about a project that's changing lives in our community - the water harvesting unit installed by Maji Wells.
+
+[SHOT of Maasai community members using the water harvesting unit]
+
+SPEAKER (V.O.): "This unit is more than just a structure; it's a lifeline for over 4500 Maasai community members. It's a solution to a problem that has plagued us for generations - water scarcity.
+
+[SHOT of women and children walking long distances]
+
+SPEAKER (V.O.): "Before this unit, our women and children had to walk for hours to fetch water. This took away valuable time that could have been used for education, economic activities, and simply living life.
+
+[SHOT of children attending school, women engaging in economic activities]
+
+SPEAKER (V.O.): "But now, things have changed. School attendance has doubled. Women have more time for economic activities. Our lives have improved.
+
+[SHOT of the speaker, addressing the camera directly]
+
+SPEAKER: "We've been nominated for the Young Voices prize, and we need your support. Winning this prize will allow us to expand our project, install more water harvesting units, and impact more lives.
+
+[SHOT of community members working together]
+
+SPEAKER (V.O.): "But we can't do this alone. We need your support. We need you to believe in this project, just as we do.
+
+[SHOT of the speaker, addressing the camera directly]
+
+SPEAKER: "So, join us. Support us. Together, we can ensure that every member of our community has access to clean water. Together, we can create a sustainable future for our children. Together, we can change the world, one drop at a time."
+
+[FADE OUT]
+
+[END OF VIDEO]

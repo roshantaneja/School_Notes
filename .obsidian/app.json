@@ -16,7 +16,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": false,
+  "livePreview": true,
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
