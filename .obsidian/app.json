@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "showLineNumber": true,
   "rightToLeft": false,
   "smartIndentList": true,
@@ -21,12 +21,11 @@
   "tabSize": 4,
   "promptDelete": false,
   "readableLineLength": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
-  "userIgnoreFilters": [
-    "docs/javascripts/"
-  ],
-  "foldHeading": true
+  "userIgnoreFilters": null,
+  "foldHeading": true,
+  "newFileFolderPath": "00_INBOX"
 }

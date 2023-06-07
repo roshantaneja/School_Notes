@@ -3,11 +3,23 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
-    "iconColor": "#ffffff",
-    "recentlyUsedIcons": [],
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "😄",
+      "📚",
+      "📰",
+      "🤝",
+      "🟪"
+    ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "README",
+        "icon": "FarNewspaper",
+        "for": "everything"
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -15,5 +27,12 @@
       "left": 0
     },
     "iconInTabsEnabled": true
-  }
+  },
+  "90_Personal": "😄",
+  "80_Learning_Education": "📚",
+  "70_Sources": "📰",
+  "60_Professional": "🤝",
+  "20_Creations": "🌻",
+  "30_Obsidian": "🟪",
+  "00_INBOX": "🔔"
 }

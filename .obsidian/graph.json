@@ -5,68 +5,18 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"docs/Chemistry Honours\"",
-      "color": {
-        "a": 1,
-        "rgb": 9240320
-      }
-    },
-    {
-      "query": "path:\"docs/US Literature\"",
-      "color": {
-        "a": 1,
-        "rgb": 43775
-      }
-    },
-    {
-      "query": "path:docs/History",
-      "color": {
-        "a": 1,
-        "rgb": 16774912
-      }
-    },
-    {
-      "query": "path:\"docs/Precalc BC Honours\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:docs/Spanish",
-      "color": {
-        "a": 1,
-        "rgb": 14745855
-      }
-    },
-    {
-      "query": "path:docs/Religion",
-      "color": {
-        "a": 1,
-        "rgb": 16743168
-      }
-    },
-    {
-      "query": "path:\"docs/AP Computer Science A\"",
-      "color": {
-        "a": 1,
-        "rgb": 65518
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1.18463541666667,
   "lineSizeMultiplier": 2.04710526315789,
   "collapse-forces": false,
-  "centerStrength": 0.276041666666667,
-  "repelStrength": 16.4583333333333,
+  "centerStrength": 0.729166666666667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.08317427835927592,
+  "linkDistance": 30,
+  "scale": 0.16348370567220674,
   "close": true
 }
