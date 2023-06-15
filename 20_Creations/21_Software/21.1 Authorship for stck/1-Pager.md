@@ -29,7 +29,7 @@ The software itself is very light, requiring a fraction of the resources that mo
 
 To implement AuthorVectorizer on STCK.ME would require integrating the existing Python script (or "translated" js/jsx) into the platform's backend. I can assist with the integration process (despite my limited knowledge), ensuring a seamless and secure implementation.
 
-I would be delighted to discuss this opportunity further and provide a live demonstration of AuthorVectorizer tailored to the STCK.ME platform. Please let me know a convenient time for a call or meeting, and I will be more than happy to accommodate.
+I would be delighted to discuss this opportunity further and provide a live demonstration of AuthorVectorizer. Please let me know a convenient time for a call or meeting, and I will be more than happy to accommodate.
 
 Thank you for considering the addition of AuthorVectorizer to STCK.ME. I look forward to the possibility of collaborating with you and enhancing the reader experience on your esteemed platform.
 
