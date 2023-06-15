@@ -10,9 +10,9 @@ Subject: Introducing AuthorVectorizer - Unleashing the Power of Authorship Attri
 
 Dear STCK.ME Team,
 
-I hope this email finds you well. I wanted to reach out and introduce you to a fascinating software tool im **working** on called AuthorVectorizer (currently brainstorming a better name), which I believe could add a fun and exciting feature to STCK.ME. As an organization focused on independent journalism and blog posting, AuthorVectorizer can elevate the user experience by enabling readers to guess the author of a given text.
+I hope this email finds you well. I wanted to reach out and introduce you to a fascinating software tool i'm **working** on called AuthorVectorizer (currently brainstorming a better name), which I believe could add a fun and exciting feature to STCK.ME. Over the past 2 years, I have been a contributor to STCK.ME as well as a consumer. As an organization focused on supporting content creators, AuthorVectorizer can elevate the user experience by enabling readers and creators to engage with text in a connective manner.
 
-AuthorVectorizer is a Python-based program that uses linguistic analysis techniques to predict the most likely author of a text. Fueled by my interest in [Word2Vec](https://www.tensorflow.org/tutorials/text/word2vec) it started as a project for my computer science class but has evolved into a more powerful tool. By analyzing features such as average word length, different word ratios, hapax legomena ratio, sentence complexity, and more, AuthorVectorizer categorizes text using vectors and provides insights into the unique writing styles of various authors through basic vector math.
+AuthorVectorizer is a Python-based program that uses linguistic analysis techniques to predict the most likely author of a text. Fueled by my interest in [Word2Vec](https://www.tensorflow.org/tutorials/text/word2vec) it started as a project for my computer science class but has evolved into a more powerful tool. By analyzing features such as average word length, different word ratios, hapax legomena ratio, sentence complexity, and more, AuthorVectorizer categorizes text using vectors and provides insights into the unique writing styles of various authors through basic vector math. 
 
 Here is how integrating AuthorVectorizer with STCK.ME would benefit your platform:
 
@@ -25,14 +25,15 @@ Here is how integrating AuthorVectorizer with STCK.ME would benefit your platfor
     
 4. Data Insights: Over time, the aggregated data from AuthorVectorizer can provide valuable insights into the preferences and patterns of STCK.ME readers. These insights can inform content curation, author collaborations, and personalized recommendations.
 
-The software itself is very light, requiring a fraction of the resources that modern-day 
+If the product were to be completed in a more professional environment such that it could be implemented. The proof of concept so far has been completed, as a python script. I am reaching out to inquire about the possibility of receiving mentorship and collaboration from your team to bring this project to completion and successfully implement it on your platform.
 
 To implement AuthorVectorizer on STCK.ME would require integrating the existing Python script (or "translated" js/jsx) into the platform's backend. I can assist with the integration process (despite my limited knowledge), ensuring a seamless and secure implementation.
 
-I would be delighted to discuss this opportunity further and provide a live demonstration of AuthorVectorizer. Please let me know a convenient time for a call or meeting, and I will be more than happy to accommodate.
+I would be delighted to discuss this opportunity further and provide a live demonstration of the AuthorVectorizer python script. Please let me know a convenient time for a call or meeting, and I will be more than happy to accommodate.
 
 Thank you for considering the addition of AuthorVectorizer to STCK.ME. I look forward to the possibility of collaborating with you and enhancing the reader experience on your esteemed platform.
 
 Regards,
 
 Roshan Taneja
++1 (650) - 660 - 1901
