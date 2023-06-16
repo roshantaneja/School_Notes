@@ -1,3 +1,7 @@
+---
+tags: [religion]
+---
+
 _What are we doing?_
 
 Exegesis on TWO passages/stories we have studied this semester.

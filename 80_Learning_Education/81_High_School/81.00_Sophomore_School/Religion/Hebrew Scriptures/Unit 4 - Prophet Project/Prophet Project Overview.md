@@ -1,3 +1,7 @@
+---
+tags: [religion]
+---
+
 The Prophet Project
 =
 *Hebrew Scriptures*

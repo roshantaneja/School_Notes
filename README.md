@@ -1,18 +1,18 @@
 # Brain
 ---
-I made a private repo so I could keep my school notes in here because sometimes i forget to take notes so now I feel motivated to lmao.
+I made a private repo to keep my school notes here because sometimes I forget to take notes, so now I feel motivated.
 
-There are easier ways to take notes, i know but i also keep forgetting my laptop when i go to school so this makes it much easier to find my notes on my phone or someone elses computer if i forget my laptop.
+There are easier ways to take notes, but I also forget my laptop when I go to school, making it much easier to find my notes on my phone or someone else's computer if I forget my laptop.
 
 ### Counter of Forgotten laptop days (updating):
 
 #### 20
 
-<u>now theres a live site hosted through gh-pages</u> (Just broke it, gonna fix it soon)
+<u>now theres a live site hosted through gh-pages</u> (I just broke it, going to fix it soon)
 
-[daroshi11260.github.io/School_Notes/](https://daroshi11260.github.io/School_Notes/ "https://daroshi11260.github.io/School_Notes/")
+[daroshi11260.github.io/School_Notes/](https://daroshi11260.github.io/School_Notes/ "https://daroshi11260.github.io/School_Notes/") <-- very outdated, will fix soon
 
-still working on styling and stuff but hopefully this should be good
+Still working on styling and stuff but hopefully, this should be good
 
 ---
 
@@ -20,9 +20,9 @@ still working on styling and stuff but hopefully this should be good
 
 | To Do                                                              | Done?                         |
 | ------------------------------------------------------------------ | ----------------------------- |
-| maintainance/upkeep                                                | nope                          |
-| make gh-workflow that uses html files by parsing in obsidian first | nope                          |
-| maybe a jekyll theme?                                              | nope                          |
+| maintainance/upkeep                                                | Done (Johnny Decimal System)  | 
+| make gh-workflow that uses html files by parsing in obsidian first | Removed                          |
+| maybe a jekyll theme?                                              | nope (not gonna do it)        |
 | add links to readme to nav site                                    | yes                           |
 | link notes together somehow                                        | Yes                           |
-| Move to MDBOOK instead of MKdocs                                   | in progress, wait till summer | 
+| Move to MDBOOK instead of MKdocs                                   | in progress, wait till summer |

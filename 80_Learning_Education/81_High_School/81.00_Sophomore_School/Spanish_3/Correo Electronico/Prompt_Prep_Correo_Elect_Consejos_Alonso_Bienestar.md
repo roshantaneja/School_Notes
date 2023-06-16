@@ -1,4 +1,11 @@
+---
+tags: [Spanish]
+---
 1 Me llamo___________________________ Español 3 Correo electrónico1: Consejos para Alonso para su bienestar social (24 puntos) ACTIVIDAD Lee el correo electrónico de abajo que Alonso ha enviado (has sent) en línea para pedir consejos (advice) sobre sus problemas en una ciudad nueva y escuela nueva. Luego, escríbele a Alonso un correo electrónico con un mínimo de 15 frases completas en el que tú le das consejos (advice) y recomendaciones para mejorar sus problemas de bienestar social y personal. OJO: Debes escribir cinco (5) de las 15 frases completas con verbos WEIRDO y el Subjuntivo.
+
+
+[PDF](obsidian://open?vault=School_Notes&file=80_Learning_Education%2F81_High_School%2F81.00_Sophomore_School%2FSpanish_3%2FCorreo%20Electronico%2FPrompt_Prep_Correo_Elect_Consejos_Alonso_Bienestar.pdf)
+
 
 >Me llamo Alonso. Tengo 17 años y soy de Colombia. Vine a Boston con mi familia porque mi padre consiguió un nuevo trabajo. Conocí a Sean en la clase de español. Ahora somos muy buenos amigos. Nos llevamos bien y lo pasamos muy bien en las clases. Nos gusta comparar las diferencias culturales entre los latinoamericanos y los estadounidenses. Los problemas comenzaron cuando Sean y yo empezamos a salir con un grupo de sus amigos después de las clases. Todos sus amigos son estadounidenses. Pienso que a nadie le interesa charlar conmigo, y a mi tampoco me interesa hablar con ellos de béisbol y esas cosas. Cuando voy a la casa de Sean para comer y llevo comida colombiana para compartir, su familia me mira con desconfianza. Cuando trato de hablar con ellos en inglés, hago errores y tengo vergüenza. A veces pienso que no debo tratar de hacer amistades con estudiantes estadounidenses como Sean. pene nos llevamos muy bien en el colegio. Sólo tenemos problemas fuera de la escuela. ¿Qué puedo hacer para sentirme menos nervioso con otras personas estadounidenses fuera de la escuela? 
 

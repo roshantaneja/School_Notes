@@ -1,3 +1,6 @@
+---
+tags: [religion]
+---
 * Who are the authors?
 
 It might have been John Mark from Jerusalem.

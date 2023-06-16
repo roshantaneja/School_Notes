@@ -1,3 +1,6 @@
+---
+tags: [religion]
+---
 ### Question 2:
 
 Correct answer: Bethlehem

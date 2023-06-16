@@ -1,3 +1,6 @@
+---
+tags: [religion]
+---
 # The World of Jesus
 
 Step 1: Work with your group members (A, B, C, D, E) to respond to the questions for your section based on your textbook reading. The responses for your section should each be 2-4 sentences in length.

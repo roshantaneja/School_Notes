@@ -1,5 +1,5 @@
 ---
-tags: [Spanish]
+tags: [Spanish, homework]
 ---
 Ayer, fui a Walgreens con Angelo para comprar un galón de leche de chocolate. Cuando llegamos, vimos que había una larga cola en la caja registradora. Angelo y yo decidimos mirar los pasillos para ver si podíamos encontrar la leche mientras esperábamos.
 
