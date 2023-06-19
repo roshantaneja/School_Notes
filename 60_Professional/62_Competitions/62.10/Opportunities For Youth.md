@@ -48,13 +48,13 @@ Thank you.
 > https://www.weforum.org/agenda/2021/08/young-people-hold-the-key-to-creating-a-better-future/
 > https://onlinelibrary.wiley.com/doi/full/10.1111/1468-4446.12820
 
-1. Decisions made may not reflect the needs and interests of young people. This could lead to policies and initiatives that are ineffective or irrelevant for the youth demographic, wasting resources and potentially causing harm.
+1. Decisions made may not reflect the needs and interests of young people. This could lead to policies and initiatives that could be more effective and relevant for the youth demographic, wasting resources and potentially causing harm.
     
-2. Young people may feel alienated or disempowered, which could contribute to social unrest, apathy, or a lack of trust in institutions.
+2. Young people may feel alienated or disempowered, contributing to social unrest, apathy, or a lack of trust in institutions.
     
-3. The development of essential skills among young people may need to be improved. Participating in decision-making processes can help young people develop a range of skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development.
+3. The development of essential skills among young people may need to be improved. Participating in decision-making processes can help young people develop skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development.
     
-4. The democratic process could be undermined. For a democracy to be truly representative, it needs to include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape.
+4. The democratic process could be undermined. For a democracy to be truly representative, it must include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape.
     
 5. Future generations of leaders may need more preparation. Participating in decision-making processes can provide young people with valuable insight into how decisions are made, how to negotiate, and how to advocate for change. If young people are excluded from these processes, they may be less prepared to take on leadership roles in the future.
     
