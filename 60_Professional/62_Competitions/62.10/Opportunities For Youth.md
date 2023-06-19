@@ -1,3 +1,6 @@
+> [!link]
+> [https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/](https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/)
+
 > [!prompt] 
 > To mark the 50th Anniversary of the Commonwealth Youth Programme, Commonwealth Heads of Government declared 2023 a year dedicated to youth-led action for sustainable and inclusive development and called on the renewal and strengthening of our commitment to youth engagement and empowerment.
 > 
