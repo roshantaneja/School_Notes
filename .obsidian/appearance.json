@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 16,
-  "cssTheme": "Prism",
-  "theme": "obsidian",
+  "cssTheme": "Origami",
+  "theme": "moonstone",
   "monospaceFontFamily": "Cascadia Mono,PT Mono",
   "textFontFamily": "Cascadia Code SemiLight,Cascadia Code,Andale Mono",
   "interfaceFontFamily": "Inter",
