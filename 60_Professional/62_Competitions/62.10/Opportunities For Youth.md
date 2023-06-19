@@ -44,8 +44,6 @@ In 2023, the Commonwealth declared the Year of Youth, a year dedicated to youth-
 
 The impact of the Year of Youth on the world has been profound. We have seen young people leading the way in advocating for climate action, championing social justice, and driving technological innovation. They have shown us that they are not just passive recipients of the decisions we make today but active participants in shaping the world of tomorrow.
 
-The Queen’s Commonwealth Essay Competition 2023 asked entrants to explore the power young people hold within the global community. The responses were inspiring, filled with hope, ambition, and a deep understanding of the challenges and opportunities ahead.
-
 As we move forward, let us remember the lessons we have learned from the Year of Youth. Let us continue to engage and empower our young people to listen to their voices, value their contributions, and harness their energy and ideas for the betterment of our world.
 
 In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present. Including young people in decision-making is not just a matter of fairness but necessity. It is essential for the effectiveness of our policies, the health of our democracy, and the future of our world. Let us commit to nurturing, empowering, and investing in our youth, for they are not just our future but our present.
