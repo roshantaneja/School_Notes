@@ -52,10 +52,10 @@ Thank you.
     
 2. Young people may feel alienated or disempowered, which could contribute to social unrest, apathy, or a lack of trust in institutions.
     
-3. The development of important skills among young people may be hindered. Participating in decision-making processes can help young people develop a range of skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development.
+3. The development of essential skills among young people may need to be improved. Participating in decision-making processes can help young people develop a range of skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development.
     
 4. The democratic process could be undermined. For a democracy to be truly representative, it needs to include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape.
     
-5. Future generations of leaders may be less prepared. Participating in decision-making processes can provide young people with a valuable insight into how decisions are made, how to negotiate, and how to advocate for change. If young people are excluded from these processes, they may be less prepared to take on leadership roles in the future.
+5. Future generations of leaders may need more preparation. Participating in decision-making processes can provide young people with valuable insight into how decisions are made, how to negotiate, and how to advocate for change. If young people are excluded from these processes, they may be less prepared to take on leadership roles in the future.
     
-6. There could be a loss of innovative ideas and perspectives. Young people often bring fresh perspectives and innovative ideas to the table. By excluding them from decision-making, there's a risk of missing out on these insights.
+6. There could be a need for more innovative ideas and perspectives. Young people often bring fresh perspectives and creative ideas to the table. By excluding them from decision-making, there's a risk of missing out on these insights.
