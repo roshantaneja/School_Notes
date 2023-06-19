@@ -28,11 +28,11 @@ The youth, with their fresh ideas, innovative spirit, and inherent understanding
 
 As we delve deeper into the importance of youth participation in decision-making, it is crucial to understand the potential consequences of their exclusion. 
 
-Firstly, decisions made without the input of young people may not reflect their needs and interests. This could lead to policies and initiatives that are less effective and relevant for the youth demographic, resulting in wasted resources and potentially causing harm. We must strive to ensure that our decisions are informed by the diverse experiences and perspectives of our youth, to create policies that are truly representative and beneficial.
+Firstly, decisions made without the input of young people may not reflect their needs and interests. This could lead to policies and initiatives that are less effective and relevant for the youth demographic, resulting in wasted resources and potentially causing harm. We must strive to ensure that our decisions are informed by the diverse experiences and perspectives of our youth to create genuinely representative and beneficial policies.
 
-Secondly, a lack of youth participation can lead to feelings of alienation or disempowerment among young people. This can contribute to social unrest, apathy, or a lack of trust in institutions. It is our responsibility to foster a sense of belonging and empowerment among our youth, to ensure they feel valued and heard.
+Secondly, a lack of youth participation can lead to feelings of alienation or disempowerment among young people. This can contribute to social unrest, apathy, or a lack of trust in institutions. Our responsibility is to foster a sense of belonging and empowerment among our youth to ensure they feel valued and heard.
 
-Thirdly, participation in decision-making processes can help young people develop essential skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development. We must provide opportunities for our youth to engage in meaningful dialogue and decision-making, to help them grow and thrive.
+Thirdly, participation in decision-making can help young people develop essential skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development. We must provide opportunities for our youth to engage in meaningful dialogue and decision-making, to help them grow and thrive.
 
 Fourthly, for a democracy to be truly representative, it must include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape, undermining the democratic process. We must strive to ensure that our democratic institutions reflect our society's diversity.
 
@@ -46,7 +46,7 @@ The impact of the Year of Youth on the world has been profound. We have seen you
 
 As we move forward, let us remember the lessons we have learned from the Year of Youth. Let us continue to engage and empower our young people to listen to their voices, value their contributions, and harness their energy and ideas for the betterment of our world.
 
-In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present. Including young people in decision-making is not just a matter of fairness but necessity. It is essential for the effectiveness of our policies, the health of our democracy, and the future of our world. Let us commit to nurturing, empowering, and investing in our youth, for they are not just our future but our present.
+In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present. Including young people in decision-making is not just a matter of fairness but necessity. It is essential for the effectiveness of our policies, the health of our democracy, and the future of our world. Let us commit to nurturing, empowering, and investing in our youth, for they are our future and present.
 
 Thank you.
 

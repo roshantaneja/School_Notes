@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSize": 26,
-  "cssTheme": "Catppuccin",
+  "baseFontSize": 16,
+  "cssTheme": "Prism",
   "theme": "obsidian",
   "monospaceFontFamily": "Cascadia Mono,PT Mono",
   "textFontFamily": "Cascadia Code SemiLight,Cascadia Code,Andale Mono",
