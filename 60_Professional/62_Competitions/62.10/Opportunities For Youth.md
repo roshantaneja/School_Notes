@@ -34,7 +34,7 @@ Secondly, a lack of youth participation can lead to feelings of alienation or di
 
 Thirdly, participation in decision-making processes can help young people develop essential skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development. We must provide opportunities for our youth to engage in meaningful dialogue and decision-making, to help them grow and thrive.
 
-Fourthly, for a democracy to be truly representative, it must include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape, undermining the democratic process. We must strive to ensure that our democratic institutions are reflective of the diversity of our society.
+Fourthly, for a democracy to be truly representative, it must include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape, undermining the democratic process. We must strive to ensure that our democratic institutions reflect our society's diversity.
 
 Fifthly, participation in decision-making processes can provide young people with valuable insight into how decisions are made, how to negotiate, and how to advocate for change. If young people are excluded from these processes, they may be less prepared to take on leadership roles in the future. We must invest in our future leaders, providing them with the experiences and opportunities they need to succeed.
 
