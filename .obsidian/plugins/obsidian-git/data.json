@@ -1,21 +1,21 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}} - changed: {{numFiles}} - by: {{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
-  "autoPushInterval": 10,
-  "autoPullInterval": 2,
+  "autoSaveInterval": 2,
+  "autoPushInterval": 6,
+  "autoPullInterval": 6,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
-  "refreshSourceControl": true,
+  "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
@@ -25,7 +25,7 @@
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": true,
+  "showFileMenu": false,
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "auto vault backup: {{date}} - changed: {{numFiles}} - by: {{hostname}} "
+  "autoCommitMessage": "auto vault backup: {{date}} - changed: {{numFiles}} - by: {{hostname}}"
 }
