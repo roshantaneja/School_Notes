@@ -26,6 +26,20 @@ In a rapidly changing world, where the challenges we face are increasingly compl
 
 The youth, with their fresh ideas, innovative spirit, and inherent understanding of the digital world, are not just the leaders of tomorrow; they are the change-makers of today. They are the ones who are pushing boundaries, challenging norms and daring to dream of a world that is better than the one we live in today.
 
+As we delve deeper into the importance of youth participation in decision-making, it is crucial to understand the potential consequences of their exclusion. 
+
+Firstly, decisions made without the input of young people may not reflect their needs and interests. This could lead to policies and initiatives that are less effective and relevant for the youth demographic, resulting in wasted resources and potentially causing harm. We must strive to ensure that our decisions are informed by the diverse experiences and perspectives of our youth, to create policies that are truly representative and beneficial.
+
+Secondly, a lack of youth participation can lead to feelings of alienation or disempowerment among young people. This can contribute to social unrest, apathy, or a lack of trust in institutions. It is our responsibility to foster a sense of belonging and empowerment among our youth, to ensure they feel valued and heard.
+
+Thirdly, participation in decision-making processes can help young people develop essential skills, such as critical thinking, problem-solving, communication, and leadership. A lack of participation could mean missed opportunities for this kind of personal development. We must provide opportunities for our youth to engage in meaningful dialogue and decision-making, to help them grow and thrive.
+
+Fourthly, for a democracy to be truly representative, it must include the voices of all segments of society, including young people. A lack of youth participation could mean a less diverse and inclusive political landscape, undermining the democratic process. We must strive to ensure that our democratic institutions are reflective of the diversity of our society.
+
+Fifthly, participation in decision-making processes can provide young people with valuable insight into how decisions are made, how to negotiate, and how to advocate for change. If young people are excluded from these processes, they may be less prepared to take on leadership roles in the future. We must invest in our future leaders, providing them with the experiences and opportunities they need to succeed.
+
+Lastly, young people often bring fresh perspectives and creative ideas to the table. By excluding them from decision-making, there's a risk of missing out on these insights. We must value and encourage the innovative ideas of our youth, for they are the ones who will shape the future of our world.
+
 In 2023, the Commonwealth declared the Year of Youth, a year dedicated to youth-led action for sustainable and inclusive development. This was a symbolic gesture and a moment of significant social change. It was a recognition of young people's power within the global community and a call to action for all of us to harness this power for the greater good.
 
 The impact of the Year of Youth on the world has been profound. We have seen young people leading the way in advocating for climate action, championing social justice, and driving technological innovation. They have shown us that they are not just passive recipients of the decisions we make today but active participants in shaping the world of tomorrow.
@@ -34,7 +48,7 @@ The Queen’s Commonwealth Essay Competition 2023 asked entrants to explore the 
 
 As we move forward, let us remember the lessons we have learned from the Year of Youth. Let us continue to engage and empower our young people to listen to their voices, value their contributions, and harness their energy and ideas for the betterment of our world.
 
-In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present.
+In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present. Including young people in decision-making is not just a matter of fairness but necessity. It is essential for the effectiveness of our policies, the health of our democracy, and the future of our world. Let us commit to nurturing, empowering, and investing in our youth, for they are not just our future but our present.
 
 Thank you.
 
