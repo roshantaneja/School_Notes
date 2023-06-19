@@ -1,7 +1,8 @@
-> [!link]
+> [!Link]-
+> 
 > [https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/](https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/)
 
-> [!prompt] 
+> [!quote]- Prompt
 > To mark the 50th Anniversary of the Commonwealth Youth Programme, Commonwealth Heads of Government declared 2023 a year dedicated to youth-led action for sustainable and inclusive development and called on the renewal and strengthening of our commitment to youth engagement and empowerment.
 > 
 >Of the Commonwealth’s population of almost 2.5 billion people, 60% are under 30. This young demographic represents a dynamic ‘youth force for change’ comprised of exceptional young people increasingly involved in advocacy, decision-making, and action.
@@ -23,16 +24,26 @@ I stand before you today as the Head of the Commonwealth, but more importantly, 
 
 In a rapidly changing world, where the challenges we face are increasingly complex, the question arises - does age matter? To this, age is but an inhibitor to some of the brightest minds in our world. It is not the years in our life but the life in our years that truly counts. The wisdom of experience and the vitality of youth are not mutually exclusive; instead, they are two sides of the same coin. Each brings a unique perspective, strength, and potential to contribute to the betterment of our world.
 
-The youth, with their fresh ideas, innovative spirit, and inherent understanding of the digital world, are not just the leaders of tomorrow, they are the changemakers of today. They are the ones who are pushing boundaries, challenging norms, and daring to dream of a world that is better than the one we live in today.
+The youth, with their fresh ideas, innovative spirit, and inherent understanding of the digital world, are not just the leaders of tomorrow; they are the change-makers of today. They are the ones who are pushing boundaries, challenging norms and daring to dream of a world that is better than the one we live in today.
 
-In 2023, the Commonwealth declared the Year of Youth, a year dedicated to youth-led action for sustainable and inclusive development. This was not just a symbolic gesture, but a moment of significant social change. It was a recognition of the power that young people hold within the global community, and a call to action for all of us to harness this power for the greater good.
+In 2023, the Commonwealth declared the Year of Youth, a year dedicated to youth-led action for sustainable and inclusive development. This was a symbolic gesture and a moment of significant social change. It was a recognition of young people's power within the global community and a call to action for all of us to harness this power for the greater good.
 
-The impact of the Year of Youth on the world has been profound. We have seen young people leading the way in advocating for climate action, championing social justice, and driving technological innovation. They have shown us that they are not just passive recipients of the decisions we make today, but active participants in shaping the world of tomorrow.
+The impact of the Year of Youth on the world has been profound. We have seen young people leading the way in advocating for climate action, championing social justice, and driving technological innovation. They have shown us that they are not just passive recipients of the decisions we make today but active participants in shaping the world of tomorrow.
 
-The Queen’s Commonwealth Essay Competition 2023 asked entrants to explore the power young people hold within the global community. The responses were inspiring, filled with hope, ambition, and a deep understanding of the challenges and opportunities that lie ahead.
+The Queen’s Commonwealth Essay Competition 2023 asked entrants to explore the power young people hold within the global community. The responses were inspiring, filled with hope, ambition, and a deep understanding of the challenges and opportunities ahead.
 
-As we move forward, let us remember the lessons we have learned from the Year of Youth. Let us continue to engage and empower our young people, to listen to their voices, to value their contributions, and to harness their energy and ideas for the betterment of our world.
+As we move forward, let us remember the lessons we have learned from the Year of Youth. Let us continue to engage and empower our young people to listen to their voices, value their contributions, and harness their energy and ideas for the betterment of our world.
 
-In conclusion, I would like to reiterate that the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are not just our future, they are our present.
+In conclusion, the future of the Commonwealth, and indeed the world, lies in the hands of our youth. Let us commit to nurturing, empowering, and investing in them, for they are our future and present.
 
 Thank you.
+
+> [!summary]- links
+> https://workwithusaid.org/
+> https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1031&context=slcek12
+> https://360participation.com/the-importance-of-young-people-participation-in-the-process-of-creating-youth-policy/
+> https://www.ohchr.org/en/stories/2023/04/recognizing-young-people-equal-partners-decision-making
+> https://givingcompass.org/article/youth-agent-change-society
+> https://www.unicef-irc.org/publications/pdf/monee7sume.pdf
+> https://www.weforum.org/agenda/2021/08/young-people-hold-the-key-to-creating-a-better-future/
+> https://onlinelibrary.wiley.com/doi/full/10.1111/1468-4446.12820

@@ -3,8 +3,8 @@
   "baseFontSize": 17,
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "monospaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Code SemiLight,Cascadia Code",
+  "monospaceFontFamily": "Cascadia Mono,PT Mono",
+  "textFontFamily": "Cascadia Code SemiLight,Cascadia Code,Andale Mono",
   "interfaceFontFamily": "Inter",
   "nativeMenus": true,
   "enabledCssSnippets": []
