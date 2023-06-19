@@ -23,3 +23,4 @@ I stand before you today as the Head of the Commonwealth, but more importantly, 
 
 In a rapidly changing world, where the challenges we face are increasingly complex, the question arises - does age matter? To this, age is but an inhibitor to some of the brightest minds in our world. It is not the years in our life but the life in our years that truly counts. The wisdom of experience and the vitality of youth are not mutually exclusive; instead, they are two sides of the same coin. Each brings a unique perspective, strength, and potential to contribute to the betterment of our world.
 
+For all that is even or odd there is a prime that rules all.
