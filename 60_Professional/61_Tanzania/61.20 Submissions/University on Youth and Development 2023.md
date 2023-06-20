@@ -1,20 +1,27 @@
 > [!note]- Link
 > https://www.coe.int/en/web/north-south-centre/newsroom/-/asset_publisher/WnL7kBeN1dMW/content/call-for-activities-to-integrate-the-programme-of-the-university-on-youth-and-development-2023
 
-
 ## Activity
 
 Title of the activity *
 
+Maji Wells - Water Harvesting for the Maasai Tribe
+
 Type of activity (seminar, training, focus group, board meeting...) *
+
+Seminar
 
 Number of working days (excluding arrival and departure days) *
 
+1
+
 Description of the activity: main theme, objectives, working methodology and expected results (limit of 3000 characters) *
+
+QnA panel and keynote, Discussing current projects and panel on fundraising and water harvesting
 
 Is the activity organised in partnership with other organisations? *
 
-Yes
+==Yes==
 
 No
 
@@ -23,7 +30,7 @@ If yes, please list the partners with their name, country and type of involvemen
 
 ## Staff and Participants
 
-Nº of participants  (exluding staff/trainers/support staff..) *
+		Nº of participants  (exluding staff/trainers/support staff..) *qq
 
 Participants profile (including nationalities) and selection criteria *
 

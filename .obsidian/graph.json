@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "tag:chemistry",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11426867575773739,
+  "scale": 0.24522555850831237,
   "close": true
 }
