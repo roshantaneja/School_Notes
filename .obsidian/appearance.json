@@ -1,11 +1,13 @@
 {
   "accentColor": "",
-  "baseFontSize": 10,
+  "baseFontSize": 27,
   "cssTheme": "Typewriter",
   "theme": "obsidian",
   "monospaceFontFamily": "",
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "nativeMenus": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "File_Explorer_Headers_and_Descriptions"
+  ]
 }

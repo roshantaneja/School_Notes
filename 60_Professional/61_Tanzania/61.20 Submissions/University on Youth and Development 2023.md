@@ -1,32 +1,45 @@
-**
-
 > [!note]- Link
-
 > [https://www.coe.int/en/web/north-south-centre/newsroom/-/asset_publisher/WnL7kBeN1dMW/content/call-for-activities-to-integrate-the-programme-of-the-university-on-youth-and-development-2023](https://www.coe.int/en/web/north-south-centre/newsroom/-/asset_publisher/WnL7kBeN1dMW/content/call-for-activities-to-integrate-the-programme-of-the-university-on-youth-and-development-2023)
-
-  
 
 ## Organization
 
-Type of organization: Non for Profit
+### Type of organization:
 
-Name of the organization: Maji Wells
+Non for Profit
 
-Full address: 202 N Cedar Ave STE #1 Owatonna MN 55060 USA
+### Name of the organization:
 
-Registration country: USA  
+Maji Wells
 
-Registration number: 1328202400021
+### Full address:
 
-Tax number:  EIN 88-3863137
+202 N Cedar Ave STE #1 Owatonna MN 55060 USA
 
-Webpage: [https://www.majiwells.org/](https://www.majiwells.org/)
+### Registration country:
 
-Email: [abhinavtaneja@gmail.com](mailto:abhinavtaneja@gmail.com)
+USA  
+
+### Registration number:
+
+1328202400021
+
+### Tax number:
+
+EIN 88-3863137
+
+### Webpage:
+
+[https://www.majiwells.org/](https://www.majiwells.org/)
+
+### Email: 
+
+[abhinavtaneja@gmail.com](mailto:abhinavtaneja@gmail.com)
 
 [mbayanitayai@gmail.com](mailto:mbayanitayai@gmail.com)
 
-Telephone (+ international code): +1 650 669 9501
+### Telephone (+ international code):
+
++1 650 669 9501
 
 Short description of the organization: size, geographical scope, objectives, main activities (limit of 3000 characters).
 
@@ -166,7 +179,7 @@ Organizing the activity within the framework of the iLEGEND III project by the N
 
   
 
-Please explain how your activity is connected to and in which way it contributes to tackling the 2023 annual theme. *
+### Please explain how your activity is connected to and in which way it contributes to tackling the 2023 annual theme. *
 
   
 

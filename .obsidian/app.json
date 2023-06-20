@@ -20,11 +20,11 @@
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "newFileLocation": "folder",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "30_Obsidian/32_Attachments",
   "userIgnoreFilters": null,
   "foldHeading": true,
   "newFileFolderPath": "00_INBOX"
