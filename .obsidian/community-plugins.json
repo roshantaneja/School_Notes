@@ -16,6 +16,7 @@
   "obsidian-charts",
   "obsidian-completr",
   "obsidian-latex-suite",
+  "obsidian-git",
   "obsidian42-brat",
   "obsidian-grammarly-plugin",
   "obsidian-icon-folder",
@@ -25,6 +26,5 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "garble-text",
-  "obsidian-git",
   "obsidian-style-settings"
 ]
