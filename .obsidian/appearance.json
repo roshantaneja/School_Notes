@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 18,
-  "cssTheme": "Prism",
+  "baseFontSize": 10,
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
-  "monospaceFontFamily": "Cascadia Mono,PT Mono",
-  "textFontFamily": "Cascadia Code SemiLight,Cascadia Code,Andale Mono",
-  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
   "nativeMenus": true,
   "enabledCssSnippets": []
 }
