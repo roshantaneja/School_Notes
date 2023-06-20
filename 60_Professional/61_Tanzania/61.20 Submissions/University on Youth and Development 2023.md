@@ -79,17 +79,17 @@ C. Solutions [3-4 hours]: Brainstorming scaled water solutions for 30,000 Maasai
 
 D. Applying it to your own area of passion in climate change [locally] [3-4 hours]
 
-Is the activity organized in partnership with other organizations? *
+### Is the activity organized in partnership with other organizations? *
 
 Yes.Maji Wells will work with the following two organizations. 1) Project FUEL (India) [[www.projectfuel.in](http://www.projectfuel.in)]: Bringing their on ground experience of working with the Maasai Tribe since 2018 in building bridges with the community and helping start the change with a Community Center, followed by water harvesting units. 2) Karimu Foundation (USA, Tanzania): Bringing the best practices for the Seminars and Focus Group across 100+ projects executed on water solutions and local community projects completed in Babati district. 
 
 ## Staff and Participants
 
-Nº of participants  (excluding staff/trainers/support staff..) *
+### N of participants  (excluding staff/trainers/support staff..) *
 
 5
 
-Participants profile (including nationalities) and selection criteria *
+### Participants profile (including nationalities) and selection criteria *
 
 Mbayani Tayai [Tanzania, Maji Wells]
 
@@ -103,11 +103,11 @@ Ayushi Jaiswal [India, Project Fuel]
 
 Pooja Kohli [USA, Project Fuel and Maji Wells]
 
-Nº of staff members (trainers/facilitators/support staff/board members) who will take part in the activity on-field. *
+### Nº of staff members (trainers/facilitators/support staff/board members) who will take part in the activity on-field. *
 
 6
 
-Please clarify the responsibility of each staff member *
+### Please clarify the responsibility of each staff member *
 
 Mbayani Tayai [Maasai Leader]
 
@@ -123,17 +123,17 @@ Yuvraj Taneja [Facillitator]
 
 Pooja Kohli [Operations & Media/PR Lead]
 
-Total number of the people who will take part in the activity on-site during the UYD in Mollina (Spain) *
+### Total number of the people who will take part in the activity on-site during the UYD in Mollina (Spain) *
 
   
 
-Are the funds for this activity already guaranteed? *
+### Are the funds for this activity already guaranteed? *
 
 Yes
 
   
 
-If yes, please provide further details about the funding mechanism of the activity.
+### If yes, please provide further details about the funding mechanism of the activity.
 
   
 
@@ -145,7 +145,7 @@ Fund raising by Roshan and Yuvraj Taneja for additional expenses
 
   
 
-If not, could you please provide details about the financial support you are currently exploring? If you applied for a grant, when are you expected to be communicated the results?
+### If not, could you please provide details about the financial support you are currently exploring? If you applied for a grant, when are you expected to be communicated the results?
 
   
 
@@ -158,7 +158,7 @@ Did not apply for a grant
 
   
 
-Please explain why you would like to organize this activity in the framework of the University. *
+### Please explain why you would like to organize this activity in the framework of the University. *
 
   
 
