@@ -7,7 +7,5 @@
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "nativeMenus": true,
-  "enabledCssSnippets": [
-    "File_Explorer_Headers_and_Descriptions"
-  ]
+  "enabledCssSnippets": []
 }
