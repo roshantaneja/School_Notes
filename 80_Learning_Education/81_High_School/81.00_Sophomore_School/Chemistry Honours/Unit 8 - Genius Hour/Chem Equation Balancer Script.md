@@ -1,5 +1,5 @@
 ---
-tags: [chemistry, research]
+tags: [chemistry, research, science, science, ]
 ---
 RT: Alright, so we have some Python code here that's going to help us balance chemical equations. Let's break it down step by step, just like we always do!  
   

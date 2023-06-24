@@ -11,9 +11,7 @@
   "slash-command",
   "editor-status",
   "bookmarks",
-  "markdown-importer",
   "outline",
   "slides",
-  "audio-recorder",
-  "workspaces"
+  "audio-recorder"
 ]

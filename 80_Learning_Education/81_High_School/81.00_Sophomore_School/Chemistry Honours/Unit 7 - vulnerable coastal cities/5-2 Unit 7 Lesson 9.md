@@ -1,5 +1,5 @@
 ---
-tags: [chemistry]
+tags: [chemistry, science, ]
 title: L7.9
 ---
 *Lesson 7.9: How can we predict the quantity of products in a chemical reaction?  
