@@ -1,0 +1,76 @@
+/*
+
+/ \---------------------------------,
+ \_,|                                |
+    |         Obsidian Add-Ons       |
+    |    Custom Folder Descriptions  |
+    |  ,------------------------------,
+    \_/______________________________/
+
+Created by:
+
+▀██▀▀▀▀█  ██                  ▀██▀         ▄▄█▀▀▀▄█                      ▀██
+ ██  ▄   ▄▄▄  ▄▄▄ ▄▄    ▄▄▄▄   ██   ▄▄▄▄  ▄█▀     ▀    ▄▄▄     ▄▄▄     ▄▄ ██
+ ██▀▀█    ██   ██▀ ▀▀ ▄█▄▄▄██  ██  ██▄ ▀  ██    ▄▄▄▄ ▄█  ▀█▄ ▄█  ▀█▄ ▄▀  ▀██
+ ██       ██   ██     ██       ██  ▄ ▀█▄▄ ▀█▄    ██  ██   ██ ██   ██ █▄   ██
+▄██▄     ▄██▄ ▄██▄     ▀█▄▄▄▀ ▄██▄ █▀▄▄█▀  ▀▀█▄▄▄▀█   ▀█▄▄█▀  ▀█▄▄█▀ ▀█▄▄▀██▄
+
+with love... (〃＾▽＾〃)
+
+*/
+
+
+/* ▀▄▀▄▀▄ Headers ▄▀▄▀▄▀ */
+
+/* since we only use content with a CSS variable, it will null if it can't find one ᕕ( ᐛ )ᕗ */
+.nav-folder-children .tree-item::before {
+  content: var(--header-text);
+  font-family: var(--font-monospace);
+  color: var(--color-base-100);
+  display: inline-block;
+  margin-block: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* very nested! (≧◡≦) */
+.nav-folder-children .tree-item:nth-child(2) {--header-text: "General"}
+.nav-folder-children .tree-item:nth-child(3) {--header-text: "Personal"}
+.nav-folder-children .tree-item:nth-child(6) {--header-text: "Extra"}
+
+
+/* ▀▄▀▄▀▄ Descriptions ▄▀▄▀▄▀ */
+
+/* display: flex is adaptive to multi-line descriptions (¯︶¯) */
+.tree-item-inner {
+  display: flex;
+  flex-direction: column;
+}
+
+/* widened and monospace text (✧ω✧) */
+.tree-item-inner::after {
+  content: var(--folder-description);
+  display: inline-block;
+  white-space: normal;
+  color: var(--text-faint);
+  font-size: 0.75em;
+}
+
+/* i love compactness! ＼(≧▽≦)／ */
+[data-path="000 Main"] {--folder-description: "General notes"}
+[data-path="001 Random Writings"] {--folder-description: "Random thoughts I have"}
+[data-path="002 Permanent Notes"] {--folder-description: "Important pages for always"}
+[data-path="100 Journal"] {--folder-description: "Daily/Monthly/Yearly log entries"}
+[data-path="200 People"] {--folder-description: "The people I know"}
+[data-path="Files"] {--folder-description: "Attachments"}
+[data-path="Templates"] {--folder-description: "Page prefabs and some more sample text and more sample text"}
+
+
+/* ▀▄▀▄▀▄ Hidden Files ▄▀▄▀▄▀ */
+
+/* so clean... (￣▽￣) */
+[data-path="readme.md"],
+[data-path="manifest.json"],
+[data-path="license"] {
+  display: none;
+}

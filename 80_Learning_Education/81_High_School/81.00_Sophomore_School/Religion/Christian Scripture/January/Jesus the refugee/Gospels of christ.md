@@ -1,3 +1,6 @@
+---
+tags: [religion]
+---
 ## Stage 1: Jesus of Nazareth and his Disciples
 1.  Jesus was born a Jew around the year 5 B.C.E.
 2.  He was raised in the small village of Nazareth.

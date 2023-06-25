@@ -1,3 +1,6 @@
+---
+tags: [religion]
+---
 [![A mother and daughter are seen at a refugee camp near Cox's Bazar, Bangladesh Oct. 22. (CNS photo/Hannah McKay, Reuters) ](https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/mother.png?itok=aTtpGbe3)](https://www.americamagazine.org/sites/default/files/main_image/mother.png)A mother and daughter are seen at a refugee camp near Cox's Bazar, Bangladesh Oct. 22. (CNS photo/Hannah McKay, Reuters) 
 
 With refugees and migrants in the news, some commentators have sought to draw parallels between their plight and that of the Holy Family—Jesus, Mary and Joseph. How accurate are these comparisons? Were Jesus, Mary and Joseph what we would consider today “refugees”?

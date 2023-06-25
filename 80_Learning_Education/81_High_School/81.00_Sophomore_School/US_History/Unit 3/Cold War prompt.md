@@ -1,3 +1,6 @@
+---
+tags: [USHISTORY, homework]
+---
 answer the following prompt in a 5-7 sentence paragraph:  
   
 How was the Cold War waged in practice? How did the practice of waging the Cold War differ from the ideological rhetoric about the Cold War?  

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📎",
       "😄",
       "📚",
       "📰",
-      "🤝",
-      "🟪"
+      "🤝"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -34,5 +34,6 @@
   "60_Professional": "🤝",
   "20_Creations": "🌻",
   "30_Obsidian": "🟪",
-  "00_INBOX": "🔔"
+  "00_INBOX": "🔔",
+  "README.md": "📎"
 }

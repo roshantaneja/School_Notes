@@ -25,5 +25,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "garble-text"
+  "garble-text",
+  "obsidian-style-settings"
 ]

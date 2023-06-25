@@ -1,5 +1,5 @@
 ---
-tags: [Spanish]
+tags: [Spanish, homework]
 ---
 El artista que quiero destacar en mi reseña es Mr. Beast, quien representa la generosidad y amabilidad a través de sus acciones filantrópicas. Un ejemplo impactante de esto se encuentra en uno de sus videos, donde cura la ceguera de 1000 personas.
 

@@ -7,13 +7,11 @@
   "tag-pane",
   "daily-notes",
   "templates",
-  "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
   "bookmarks",
-  "markdown-importer",
   "outline",
   "slides",
-  "workspaces"
+  "audio-recorder"
 ]

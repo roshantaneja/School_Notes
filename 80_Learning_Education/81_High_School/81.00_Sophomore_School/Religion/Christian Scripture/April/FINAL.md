@@ -1,3 +1,8 @@
+---
+title: final
+tags: [religion, final]
+---
+
 John 13:1-17
 
 Thesis: Before the last supper, Jesus, accepting his imminent death, exemplified humble service to his disciples, urging them to embrace this principle of service, demonstrating that no one is exempt from serving others in the Kingdom of God.

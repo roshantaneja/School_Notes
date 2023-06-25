@@ -1,5 +1,5 @@
 ---
-tags: [chemistry]
+tags: [chemistry, science, ]
 ---
 
 ## Why does burning 1 mole of gasoline result in more energy than burning 1 mole of hydrogen?

@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 17,
-  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 27,
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
-  "monospaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Code SemiLight,Cascadia Code",
-  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
   "nativeMenus": true,
   "enabledCssSnippets": []
 }

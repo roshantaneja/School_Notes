@@ -1,6 +1,7 @@
 ---
 tags: 
   - chemistry
+  - science
 title: L6.1
 due: 2022-10-25
 ---

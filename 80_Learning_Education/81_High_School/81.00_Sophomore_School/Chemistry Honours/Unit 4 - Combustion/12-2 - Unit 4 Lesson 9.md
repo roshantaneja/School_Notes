@@ -1,5 +1,5 @@
 ---
-tags: [chemistry]
+tags: [chemistry, science, ]
 ---
 
 ## Can we measure the energy released from the combustion of different fuels?

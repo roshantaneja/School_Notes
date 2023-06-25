@@ -2,6 +2,7 @@
 tags: 
   - chemistry
   - homework
+  - science
 ---
 
 # Homework: Smartphone Infographic 

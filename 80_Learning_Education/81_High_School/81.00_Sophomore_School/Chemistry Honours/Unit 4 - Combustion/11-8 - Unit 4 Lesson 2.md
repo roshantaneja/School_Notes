@@ -1,5 +1,5 @@
 ---
-tags: [chemistry]
+tags: [chemistry, science, ]
 ---
 
 ## What are the products of rocket fuel and gasoline combustion?
