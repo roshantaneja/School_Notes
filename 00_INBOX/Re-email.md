@@ -16,7 +16,7 @@ Here are some of the projects I have engaged in:
 
 4. [Competitive Programming](https://github.com/Daroshi11260/competitive-programming): A collection of solutions to various challenging problems from popular competitive programming platforms, highlighting my problem-solving skills.
 
-5. [Competitive Robotics](https://github.com/Daroshi11260/16887PowerPlay): Ive participated
+5. [Competitive Robotics](https://github.com/Daroshi11260/16887PowerPlay): Ive participated in school robotics for the last two years and have taken my high school team to regional level tournaments through both being the hardware captain and also producing software for one of the teams.
 
 Although I have made some strides independently, I recognize the importance of mentorship and guidance. I am hopeful that a discussion with you could provide insight into the various opportunities and paths in computer science, helping me make informed decisions about my future academic and professional journey.
 
