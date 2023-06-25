@@ -2,7 +2,7 @@ Subject: Request for Guidance on Career Path in Computer Science
 
 Dear Professor Chaudhary,
 
-I hope this message finds you well. My name is [Your Name] and I am a high school student passionate about pursuing a career in Computer Science. I am reaching out to you given your vast knowledge and experience in this field and would appreciate any guidance you could provide regarding my future endeavors.
+I hope this message finds you well. My name is Roshan Taneja (son of Abhinav Taneja) and I am a high school student passionate about pursuing a career in Computer Science. I am reaching out to you given your vast knowledge and experience in this field and would appreciate any guidance you could provide regarding my future endeavors.
 
 Over the past few years, I have found myself particularly captivated by computer science, engaging in several programming projects to enhance my understanding and skills. These projects have involved different domains such as Python, Machine Learning, Java, and more. This exposure has fostered my problem-solving, collaboration, and communication skills, along with a strong foundation in programming.
 
@@ -16,7 +16,7 @@ Here are some of the projects I have engaged in:
 
 4. [Competitive Programming](https://github.com/Daroshi11260/competitive-programming): A collection of solutions to various challenging problems from popular competitive programming platforms, highlighting my problem-solving skills.
 
-5. [School Notes](https://github.com/Daroshi11260/School_notes): A repository of my school notes and assignments, illustrating my organization and time management skills.
+5. [Competitive Robotics](https://github.com/Daroshi11260/16887PowerPlay): Ive participated
 
 Although I have made some strides independently, I recognize the importance of mentorship and guidance. I am hopeful that a discussion with you could provide insight into the various opportunities and paths in computer science, helping me make informed decisions about my future academic and professional journey.
 
