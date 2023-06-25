@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "f1cf703c48482fc6",
-      "parent": 0,
-      "droppable": true,
-      "text": "GitHub - Daroshi11260/competitive-programming: All of my competitive programming files in one repo",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
