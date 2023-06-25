@@ -1,8 +1,8 @@
 ---
 tags: [DailyNote, todo]
-title: 2023-06-07
-datecreated: 2023-06-08
-datemodified: 2023-06-08
+title: <%tp.file.title%>
+datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
+datemodified: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
 ### Reminders
@@ -11,7 +11,7 @@ datemodified: 2023-06-08
 - Smile
 - Hydrate
 
-### << [[2023-06-07|Yesterday]] | [[2023-06-09|Tomorrow]] >>
+### << [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow]] >>
 
 ## Daily Log
 
@@ -38,5 +38,5 @@ not done
 #### Done Today
 
 ```tasks
-done on 2023-06-08
+done on <%tp.date.now("YYYY-MM-DD")%>
 ```
