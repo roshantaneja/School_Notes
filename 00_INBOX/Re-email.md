@@ -1,6 +1,6 @@
 Subject: Request for Guidance on Career Path in Computer Science 
 
-Dear Professor ,
+Dear Professor Chaudhary,
 
 I hope this message finds you well. My name is [Your Name] and I am a high school student passionate about pursuing a career in Computer Science. I am reaching out to you given your vast knowledge and experience in this field and would appreciate any guidance you could provide regarding my future endeavors.
 
