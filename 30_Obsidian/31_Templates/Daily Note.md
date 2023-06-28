@@ -1,9 +1,9 @@
 ---
 tags: [DailyNote, todo]
-title: <%fileDate = moment(tp.file.title, 'YYYY-MM-DD').format('YYYY-MM-DD')%>
-yesterday: <% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'D').format('YYYY-MM-DD') %>
-tomorrow: <% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'D').format('YYYY-MM-DD') %>
-datecreated: <%fileDate = moment(tp.file.title, 'YYYY-MM-DD').format('YYYY-MM-DD')%>
+
+title: <%tp.file.title%>
+datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
+datemodified: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
 ### Reminders
@@ -12,7 +12,7 @@ datecreated: <%fileDate = moment(tp.file.title, 'YYYY-MM-DD').format('YYYY-MM-DD
 - Smile
 - Hydrate
 
-### <<[[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'D').format('YYYY-MM-DD') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'D').format('YYYY-MM-DD') %>|Tomorrow]]>>
+### << [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow]] >>
 
 ## Daily Log
 
@@ -39,5 +39,5 @@ not done
 #### Done Today
 
 ```tasks
-done on 2023-06-08
+done on <%tp.date.now("YYYY-MM-DD")%>
 ```

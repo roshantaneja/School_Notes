@@ -20,9 +20,10 @@ Still working on styling and stuff but hopefully, this should be good
 
 | To Do                                                              | Done?                         |
 | ------------------------------------------------------------------ | ----------------------------- |
-| maintainance/upkeep                                                | Done (Johnny Decimal System)  | 
-| make gh-workflow that uses html files by parsing in obsidian first | Removed                          |
+| maintainance/upkeep                                                | Done (Johnny Decimal System)  |
+| make gh-workflow that uses html files by parsing in obsidian first | Removed                       |
 | maybe a jekyll theme?                                              | nope (not gonna do it)        |
 | add links to readme to nav site                                    | yes                           |
 | link notes together somehow                                        | Yes                           |
 | Move to MDBOOK instead of MKdocs                                   | in progress, wait till summer |
+| use johnny decimal system                                          | done                          | 

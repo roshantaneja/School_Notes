@@ -1,5 +1,6 @@
 ---
-tags: [chemistry]
+tags: [chemistry, sci
+]
 title: L7.8
 ---
 
