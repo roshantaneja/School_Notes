@@ -1,8 +1,9 @@
 ---
 tags: [DailyNote, todo]
-title: 2023-06-07
-datecreated: 2023-06-08
-datemodified: 2023-06-08
+title: <%fileDate = moment(tp.file.title, 'YYYY-MM-DD').format('YYYY-MM-DD')%>
+yesterday: <% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'D').format('YYYY-MM-DD') %>
+tomorrow: <% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'D').format('YYYY-MM-DD') %>
+datecreated: <%fileDate = moment(tp.file.title, 'YYYY-MM-DD').format('YYYY-MM-DD')%>
 ---
 
 ### Reminders
@@ -11,7 +12,7 @@ datemodified: 2023-06-08
 - Smile
 - Hydrate
 
-### << [[2023-06-07|Yesterday]] | [[2023-06-09|Tomorrow]] >>
+### <<[[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'D').format('YYYY-MM-DD') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'D').format('YYYY-MM-DD') %>|Tomorrow]]>>
 
 ## Daily Log
 
