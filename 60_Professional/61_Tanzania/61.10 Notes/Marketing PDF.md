@@ -1,3 +1,7 @@
+---
+tags: [Tanzania]
+---
+
 # Monduli District Water Harvesting Project
 
 ---

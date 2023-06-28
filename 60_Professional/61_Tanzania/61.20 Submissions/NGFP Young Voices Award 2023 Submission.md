@@ -1,3 +1,7 @@
+---
+tags: [competition, Tanzania]
+---
+
 ## Prompt
 
 > Write a short essay (maximum 400 words) on how a current project or an intended project will consider the well-being of others and the future of the planet. Submissions can be in their native language, but please include an English translation.
