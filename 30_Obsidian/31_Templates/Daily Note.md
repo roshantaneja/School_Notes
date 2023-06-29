@@ -1,6 +1,5 @@
 ---
 tags: [DailyNote, todo]
-
 title: <%tp.file.title%>
 datecreated: <%tp.file.creation_date("YYYY-MM-DD")%>
 datemodified: <%tp.date.now("YYYY-MM-DD")%>
