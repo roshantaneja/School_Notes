@@ -1,3 +1,6 @@
+---
+tags: [English]
+---
 I. Introduction A. Background of the Great Gatsby B. Thesis statement: The Great Gatsby by F. Scott Fitzgerald is a timeless classic that stands out for its poetic and elusive language, intricate characterization, and the exploration of the human condition.
 
 II. Poetic Language 

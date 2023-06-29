@@ -4264,4 +4264,4 @@ the commons and proprietary control perspectives and embrace the bal-
 ance and nuance of the competitive platforms model.Copyright© 2003 EBSCO Publishing
 
 
-![[80_Learning_Education/81_High_School/81.00_Sophomore_School/US_History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf]]
+![[80_Learning_Education/81_High_School/81.00_Sophomore_Year/81.01_US_History/Research Project/Source Documents/The Internet, Innovation, and Intellectual Property Policy.pdf]]

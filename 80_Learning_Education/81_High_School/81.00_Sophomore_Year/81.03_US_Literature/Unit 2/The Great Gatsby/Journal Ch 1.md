@@ -1,3 +1,6 @@
+---
+tags: [English]
+---
 The journey of chapter 1 for me is one of intrigue and curiosity. The setting of the novel, the jazz age, immediately grabs my attention and I am drawn into the world of the wealthy and glamorous. As I read, I am struck by the descriptions of the characters and their actions, particularly the mysterious figure of Gatsby himself.
 
 One significant inflection point for me is when Nick Carraway, the narrator, describes Gatsby as "the single most hopeful person I've ever met" (pg. 10). This statement piques my curiosity and I am left wondering about Gatsby's past and what could have led him to be so hopeful. Additionally, the scene where Gatsby and Nick first meet, and Gatsby's clear discomfort and nervousness, also stood out to me as an inflection point. It is clear that Gatsby is hiding something and this moment leaves me with questions about his true identity and motivations.
