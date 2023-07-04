@@ -37,6 +37,26 @@ tags: [Tanzania, competition]
 - The team serves as an inspiring example of Mr. Lewis's philosophy in action.
     - Reminder of the importance of empowering youth and providing them opportunities to contribute significantly to the global community.
 
+In the spirit of Mr. Lewis's philosophy, the project also served as a testament to the potential that lies within the youth. As the project lead, I took the bold step of assembling a team comprised entirely of high-school students. This was a conscious decision aimed at harnessing the energy, creativity, and dynamism that the youth bring to the table.
+
+The team, a melting pot of diverse backgrounds and perspectives, faced the daunting task of managing and executing the project in a remote part of the world. This experience was a steep learning curve for us, with challenges to overcome and complex decisions to make. Our young minds were stretched, but we rose to the occasion, demonstrating a level of dedication and maturity that belied our years.
+
+In many ways, this project served as an exploratory journey for us. We navigated the intricate process of planning and implementing water harvesting units and filtration systems. We learned about the socio-cultural fabric of the Maasai community and how the scarcity of a basic resource like water could impact every facet of their lives.
+
+Most importantly, however, we transformed our dreams into tangible results. We were able to increase school enrollment, decrease the prevalence of waterborne illnesses, and save each family an average of 7 hours a day that was previously spent fetching water. These outcomes, fueled by the relentless pursuit of a group of high-school students, bear witness to the power and potential of youth.
+
+In our endeavor to create a meaningful impact, we collaborated with a diverse group of international organizations. Our project was truly a global effort, bridging geographical boundaries and fostering international cooperation. We teamed up with Project FUEL from India, Karimu Foundation from the USA, Lions Club from Tanzania, and Engineers Without Borders from Tel Aviv. 
+
+Each organization brought unique strengths, resources, and perspectives to the table, enriching the project. For instance, Project FUEL provided us with valuable insights into community engagement strategies. Karimu Foundation, with its long-standing experience in water projects, helped us understand the technical nuances of installing water harvesting units. The Lions Club from Tanzania was instrumental in facilitating our ground-level operations, and Engineers Without Borders from Tel Aviv contributed with their technical expertise and guidance.
+
+The synergy of this international collaboration was visible in the outcomes we achieved. We were able to drive change in the Maasai community, not just by the implementation of technology but through the shared vision and collective effort of multiple organizations from around the world. 
+
+This experience was not just a lesson in project management and community service, but also a testament to the power of international collaboration. In line with Mr. Lewis's philosophy, we were not just working towards the betterment of a local community, but were actively participating in the global community, demonstrating that when we come together, we can overcome challenges and make significant strides towards a better future. 
+
+Thus, I embody Mr. Lewis's values of exploration, achievement, and global cooperation. Through the project, we provided a platform for young minds to explore, dream and realize their potential. We achieved tangible results that transformed lives. And finally, we epitomized global cooperation by bringing together international organizations in a united effort to tackle a critical issue. Our journey with the Maasai community in Tanzania has been a living embodiment of Mr. Lewis's philosophy.
+
+I take pride in leading a team of young minds and fostering an environment that nurtured their growth, creativity, and problem-solving abilities. We not only worked towards the betterment of a community but also embodied Mr. Lewis's philosophy by enriching our own capacities. Through our actions, we demonstrated that the youth, when empowered and guided, could become catalysts for meaningful change in the global community.
+
 ### Pictures, Videos, media
 
 ### Academic Resume
