@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "baseFontSize": 18,
-  "cssTheme": "Prism",
+  "accentColor": "#ef6bde",
+  "baseFontSize": 17,
+  "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
   "monospaceFontFamily": "",
   "textFontFamily": "",
