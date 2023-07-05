@@ -6,17 +6,17 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🇺🇸",
+      "🦅",
       "📎",
       "😄",
-      "📚",
-      "📰",
-      "🤝"
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
         "rule": "README",
-        "icon": "FarNewspaper",
+        "icon": "📎",
         "for": "everything"
       }
     ],
@@ -35,5 +35,6 @@
   "20_Creations": "🌻",
   "30_Obsidian": "🟪",
   "00_INBOX": "🔔",
-  "README.md": "📎"
+  "README.md": "📎",
+  "90_Personal/91_Daily_Notes/2023-07-04.md": "🦅"
 }

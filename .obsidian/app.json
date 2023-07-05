@@ -5,7 +5,7 @@
   "showLineNumber": true,
   "rightToLeft": false,
   "smartIndentList": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "showIndentGuide": true,
   "showInlineTitle": true,
   "spellcheck": true,

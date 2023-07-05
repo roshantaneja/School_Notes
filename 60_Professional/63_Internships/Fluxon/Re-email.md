@@ -1,3 +1,7 @@
+---
+tags: [email]
+---
+
 Subject: Request for Guidance on Career Path in Computer Science 
 
 Dear Professor Chaudhary,

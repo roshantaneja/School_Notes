@@ -1,3 +1,8 @@
+---
+tags: [email]
+---
+
+
 Subject: Partnership Proposal for an Internship at Fluxon - Diverse Skills & Profound Interest
 
 Dear Mr. Friedman,
