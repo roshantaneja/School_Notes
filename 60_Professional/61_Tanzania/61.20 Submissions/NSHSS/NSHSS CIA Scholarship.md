@@ -2,7 +2,7 @@
 tags: [competition]
 ---
 
-> [!summary]  Prompt
+> [!summary]+  Prompt
 > - In approximately 500 words, please respond to all of the questions below:
 > 	- Question 1: What area of Science, Technology, Engineering, Art, and/or Math (STEAM) interest you and why? 
 > 	- Question 2: What motivates you to become a leader in a STEAM field?
