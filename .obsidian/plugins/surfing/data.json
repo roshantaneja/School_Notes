@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "588d3c3bb2f9f498",
-      "parent": 0,
-      "droppable": true,
-      "text": "CIA STEAM Camp 2023 | National Society of High School Scholars",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
