@@ -106,7 +106,7 @@ tags: [chemistry, science, ]
 		1.  Work with another two groups to model the balanced chemical equations for combustion.  Add to your model so that you have the same number count of each atom as products and reactants. Use this table to help you.
 		Balanced Chemical Equations - ELEMENT count
 
--tx-
+
 | Process  | Element | No. of each element<br>as the REACTANT | No. of each element<br>as the PRODUCT |
 | -------- | ------- | -------------------------------------- | ------------------------------------- |
 | Hydrogen | H       | 4                                      | 4                                     |
