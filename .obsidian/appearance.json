@@ -7,5 +7,6 @@
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "nativeMenus": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "translucency": false
 }
