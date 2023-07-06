@@ -1,3 +1,7 @@
+---
+tags: [competition]
+---
+
 > [!Link]-
 > 
 > [https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/](https://opportunitiesforyouth.org/2023/06/the-queens-commonwealth-essay-competition-2023/)

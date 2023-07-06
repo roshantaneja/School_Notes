@@ -1,3 +1,7 @@
+---
+tags: [competition, Tanzania]
+---
+
 > [!note]- Link
 > [https://www.coe.int/en/web/north-south-centre/newsroom/-/asset_publisher/WnL7kBeN1dMW/content/call-for-activities-to-integrate-the-programme-of-the-university-on-youth-and-development-2023](https://www.coe.int/en/web/north-south-centre/newsroom/-/asset_publisher/WnL7kBeN1dMW/content/call-for-activities-to-integrate-the-programme-of-the-university-on-youth-and-development-2023)
 

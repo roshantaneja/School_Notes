@@ -1,3 +1,6 @@
+---
+tags: [Tanzania]
+---
 Dear Supporters of the Monduli District Water Harvesting Project,
 
 Happy New Year! We are writing to provide a follow-up on the progress of our project and thank you again for your generous support. First, thank you for your continued support of our project from beginning to end. From a plan formulated at the beginning of 2021, we can proudly say that we have successfully achieved our goal of providing clean and accessible water to the Maasai community in Monduli by constructing our **100,000-liter** tank in Losimingori. In the past six months since we built the tank, it has supported over five-thousand people in the area with clean water, especially during the dry season, when it is challenging to find water.

@@ -1,3 +1,6 @@
+---
+tags: [Tanzania]
+---
 ## Meeting notes
 - Need a marketing PDF
 - Send out email with all marker
@@ -147,8 +150,7 @@ Use services like [Google Alerts](https://www.google.com/alerts) or [Mention]
 ### 13. Make a Good First Impression by Saying “Talking with,” Instead of “Speaking to”
 
 When you cold call a prospect, the first thing you want to know is that they are in fact the person you’re trying to reach. The way you [verify their identity](http://changingminds.org/disciplines/sales/prospecting/verifying_person.htm) is this person’s first impression of you, so it’s critical to get this right.
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27633%27%20height=%27272%27/%3e)![cold calling tips what to say](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.28.18-AM.png&w=1280&q=75)
+![cold calling tips what to say|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.28.18-AM.png&w=1280&q=75)
 
 Try to [use the words “Talking with”](https://www.yesware.com/blog/power-words-sell/) when you get someone on the line. These two words imply that you and your prospect are going to be engaging in conversation.
 
@@ -160,15 +162,15 @@ Coined by Yesware sales extraordinaire Ian Adams, this three-part formula for [
 
 While it may be tempting to agree to follow up over email (and hop off the call), there’s a better way to give your prospect the information they need to make an informed decision _and_ take a meeting. One that doesn’t involve your message going into a black hole.
 
-This three-part formula helps overcome sales objections by establishing harmony – it reassures people that you’re on their side, like a best friend.![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27855%27%20height=%27259%27/%3e)![overcoming sales objections: the best friend formula](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fyesware-best-friend-formula.png&w=1984&q=75)
+This three-part formula helps overcome sales objections by establishing harmony – it reassures people that you’re on their side, like a best friend.![overcoming sales objections: the best friend formula|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fyesware-best-friend-formula.png&w=1984&q=75)
 
 Let’s look at a real-world use case to the sales objection “Email me your information.” Don’t fall for the brush off. Instead, treat the person on the other end of the line like they’re your friend you can relate to, and that you genuinely want to help.
 
 Here’s how Ian Adams used this formula to successfully turn a cold shoulder into a booked meeting:
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27697%27%20height=%27743%27/%3e)![tips for converting your cold call into meetings](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fyesware-sales-objections-relate-bridge-ask-again.png&w=1536&q=75)
+![tips for converting your cold call into meetings|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fyesware-sales-objections-relate-bridge-ask-again.png&w=1536&q=75)
 
-[![chart-bar](https://www.yesware.com/blog/media/icons/chart-bar.svg)Book more meetingsFollow up your cold call with a live customizable meeting link that syncs to your calendarTry Yesware Free](https://www.yesware.com/feature/meeting-scheduler)
+[![chart-bar|200](https://www.yesware.com/blog/media/icons/chart-bar.svg)Book more meetingsFollow up your cold call with a live customizable meeting link that syncs to your calendarTry Yesware Free](https://www.yesware.com/feature/meeting-scheduler)
 
 ## 11 Cold Calling Tips While on the Call
 
@@ -178,7 +180,7 @@ We are easily influenced by other people’s behaviors.
 
 [Social proof](https://www.yesware.com/blog/social-proof-examples/) plays a major role in selling because it shows the prospect that your product has helped other people with similar pain points. Try telling a sales story such as a customer who had similar [pain points](https://www.yesware.com/blog/pain-points/).
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%273124%27%20height=%27678%27/%3e)![use social proof in your cold calls](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-social-proof.png&w=1984&q=75)
+![|200](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%273124%27%20height=%27678%27/%3e)![use social proof in your cold calls|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-social-proof.png&w=1984&q=75)
 
 **Tip:** Grab some [cold call email templates](https://www.yesware.com/blog/cold-email/) here.
 
@@ -192,7 +194,7 @@ No matter what your goal is, every action is a step towards achieving it.
 
 By starting your question with ‘who,’ ‘what,’ ‘where,’ ‘when,’ and ‘how,’ you give your prospect [more room for response](https://blog.bufferapp.com/which-words-matter-the-most-when-we-talk-the-psychology-of-language).
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27659%27%20height=%27283%27/%3e)![cold calling tips - ask open ended questions](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.29.10-AM.png&w=1536&q=75)
+![|200](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27659%27%20height=%27283%27/%3e)![cold calling tips - ask open ended questions|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2019%2F05%2FScreen-Shot-2017-01-19-at-12.29.10-AM.png&w=1536&q=75)
 
 Cold calling is a two-sided conversation and you want to learn as much as you can about your prospect, what they do, and their needs. By asking how they feel, you open up more opportunities for discussion.
 
@@ -204,7 +206,7 @@ Cold calling is a two-sided conversation and you want to learn as much as you ca
 
 [This is the 7-38-55 rule](https://www.yesware.com/blog/building-rapport/). These are the elements of personal communication — 7% through spoken word, 38% through tone of voice, and 55% through body language.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271007%27%20height=%27403%27/%3e)![tips on how to cold call](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-yesware-voice.png&w=1984&q=75)
+![|200](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271007%27%20height=%27403%27/%3e)![tips on how to cold call|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-yesware-voice.png&w=1984&q=75)
 
 But when you’re on a sales call, the prospect can’t see your body language, so tone accounts for even more.
 
@@ -228,7 +230,7 @@ Listening is an easy way to [build rapport](https://www.yesware.com/blog/buildi
 
 In fact, [studies show](https://www.saleshacker.com/sales-ratio-talk-vs-listening/) that top sales professionals speak 43% of the time and the prospect speaks for 57% of the time.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27577%27%20height=%27647%27/%3e)![tips on how to cold call](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-tips-talk-listen-ratio.png&w=1280&q=75)
+![|200](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27577%27%20height=%27647%27/%3e)![tips on how to cold call|200](https://www.yesware.com/blog/_next/image/?url=https%3A%2F%2Fwww.yesware.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fcold-calling-tips-talk-listen-ratio.png&w=1280&q=75)
 
 ### 22. Don’t Waste Their Time
 
