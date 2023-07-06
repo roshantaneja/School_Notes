@@ -18,5 +18,5 @@ generative AI to analyze deductive themes
 - human approach
 	- manually approach and identify
 	- not at sentence level, GAI gets confused by small, specific ideas.
-	- 
 - Prompting Gen AI to identify and categorize outputs by learning outcomes
+	- will not be done by us, will be done by tech specialist
