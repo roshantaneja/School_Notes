@@ -15,23 +15,29 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 ## Daily Log
 
-### [Project 1]
+- [ ] Drink Water
+- [ ] Read Book
 
+### [Research Project]
 
+ - [ ] Research Questions
 
-### [Project 2]
+### [Fluxon]
 
+- [ ] Check Email
+- [ ] Check Calendar
+- [ ] Check Slack
 
+### [Other]
 
-### [Project 3]
-
-
+- [ ] Drivers Ed (1H)
 
 ### [Other Tasks]
 
 #### To Be Done
 
 ```tasks
+path does not include 30_Obsidian/
 not done
 ```
 
