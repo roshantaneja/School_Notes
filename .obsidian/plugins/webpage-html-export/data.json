@@ -17,7 +17,7 @@
   "addDarkModeToggle": true,
   "includeOutline": true,
   "includeGraphView": true,
-  "includeFileTree": false,
+  "includeFileTree": true,
   "exportPreset": "documents",
   "openAfterExport": true,
   "graphAttractionForce": 1,

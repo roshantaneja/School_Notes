@@ -1,7 +1,7 @@
 {
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
-  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-border-dt",
-  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-mint-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-red-dt",
   "o-theme-settings@@o-color-accent": "o-orange",
   "o-theme-settings@@o-font-general": "TerminusTTF",
   "o-theme-settings@@o-font-title": "Fraunces",
@@ -26,5 +26,11 @@
   "o-theme-settings@@o-bar": false,
   "o-theme-settings@@o-notitle": true,
   "o-theme-settings@@o-border": "none",
-  "numerals-style@@numerals-font": "\"\""
+  "numerals-style@@numerals-font": "\"\"",
+  "obsidian-prism-theme@@pt-icons-accent": true,
+  "obsidian-prism-theme@@pt-disable-kanban-title-count": true,
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "obsidian-prism-theme@@pt-disable-callout-styling": true,
+  "obsidian-prism-theme@@pt-disable-mark-highlight-styling": false
 }
