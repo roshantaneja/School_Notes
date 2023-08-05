@@ -26,6 +26,11 @@ In tandem with the research through the interviews, we also initiated another th
 
 Access to clean water is a global crisis for humanity. Based on the WHO (World Health Organization), 1 in 3 people (2.2 Billion) globally don't have access to clean water. This is further exacerbated by a significant disparity in daily consumption (i.e., US daily consumption of 300+ liters/person/day vs. 22 liters/person/day for a Maasai in Tanzania). I am keen to continue working on this challenge and have started the journey in a tiny corner of our planet with the Maasai community. I want to continue leading young minds and fostering an environment that nurtures growth, creativity, and problem-solving focused on our planet's most challenging problems. We worked towards improving a community and embodied Mr. Lewis's philosophy by enriching our capacities. The youth, when empowered, become catalysts for meaningful change in the global community.
 
-### Pictures, Videos, Media
+## TODO
 
-### Academic Resume
+- [ ] Prompt response
+- [ ] Pictures, Videos, Media
+- [ ] Color Headshot
+- [ ] Academic Resume
+- [ ] Current Transcript
+- [ ] Educator Recommendation Letter
