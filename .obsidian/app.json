@@ -20,7 +20,7 @@
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "newFileLocation": "folder",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
