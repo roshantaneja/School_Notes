@@ -7670,6 +7670,7 @@ var DEFAULT_SETTINGS = {
   highlightCursorBracketsEnabled: true,
   mathPreviewEnabled: true,
   autofractionEnabled: true,
+  autofractionSymbol: "\\frac",
   autofractionExcludedEnvs: `[
         ["^{", "}"],
         ["\\\\pu{", "}"]
@@ -7851,6 +7852,10 @@ var LatexSuiteSettingTab = class extends import_obsidian7.PluginSettingTab {
     containerEl.createEl("div", { text: "Auto-fraction" }).addClasses(["setting-item", "setting-item-heading", "setting-item-name"]);
     new import_obsidian7.Setting(containerEl).setName("Enabled").setDesc("Whether auto-fraction is enabled.").addToggle((toggle) => toggle.setValue(this.plugin.settings.autofractionEnabled).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.autofractionEnabled = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian7.Setting(containerEl).setName("Fraction symbol").setDesc("The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.autofractionSymbol).setValue(this.plugin.settings.autofractionSymbol).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.autofractionSymbol = value;
       yield this.plugin.saveSettings();
     })));
     new import_obsidian7.Setting(containerEl).setName("Excluded environments").setDesc('A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use  ["^{", "}"]').addTextArea((text) => text.setPlaceholder('[ ["^{", "}] ]').setValue(this.plugin.settings.autofractionExcludedEnvs).onChange((value) => __async(this, null, function* () {
@@ -8453,7 +8458,7 @@ var runAutoFractionCursor = (view, range, plugin) => {
   if (curLine.charAt(start2) === "(" && curLine.charAt(to - 1) === ")") {
     numerator = numerator.slice(1, -1);
   }
-  const replacement = "\\frac{" + numerator + "}{$0}$1";
+  const replacement = `${plugin.settings.autofractionSymbol}{${numerator}}{$0}$1`;
   queueSnippet(view, { from: start2, to, insert: replacement, keyPressed: "/" });
   return true;
 };
