@@ -28,9 +28,9 @@ Access to clean water is a global crisis for humanity. Based on the WHO (World H
 
 ## TODO
 
-- [ ] Prompt response
-- [ ] Pictures, Videos, Media
-- [ ] Color Headshot
-- [ ] Academic Resume
-- [ ] Current Transcript
-- [ ] Educator Recommendation Letter
+- [x] Prompt response ✅ 2023-08-11
+- [x] Pictures, Videos, Media ✅ 2023-08-11
+- [x] Color Headshot ✅ 2023-08-11
+- [x] Academic Resume ✅ 2023-08-11
+- [x] Current Transcript ✅ 2023-08-11
+- [x] Educator Recommendation Letter ✅ 2023-08-11
