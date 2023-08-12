@@ -3,7 +3,7 @@ tags: [History, APWH]
 ---
 | Page # | Theme 1: Humans and the Environment    | Notes |
 | ------ | -------------------------------------- | ----- |
-|        | Afro-Eurasia                           |       |
+|        | Afro-Eurasia                           | - Includes Asia, Europe and Africa. <br> - home to the oldest civilizations <br> -   |
 |        | Great Aroid Zone and steppe Zone       |       |
 |        | Indian Ocean Basin                     |       |
 |        | Southwest Asia or Middle East          |       |
