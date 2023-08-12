@@ -1,17 +1,17 @@
 ---
 tags: [History, APWH]
 ---
-| Page # | Theme 1: Humans and the Environment    | Notes |
-| ------ | -------------------------------------- | ----- |
-|        | Afro-Eurasia                           | - Includes Asia, Europe and Africa. <br> - home to the oldest civilizations <br> -   |
-|        | Great Aroid Zone and steppe Zone       |       |
-|        | Indian Ocean Basin                     |       |
-|        | Southwest Asia or Middle East          |       |
-|        | Europe                                 |       |
-|        | The Americas                           |       |
-| 3      | Silk Roads                             |       |
-| 5      | Confucianism, Daoism, and Legalism     |       |
-| 7      | Olmecs, Teotichuacan, Maya, and Aztecs |       |
+| Page # | Theme 1: Humans and the Environment    | Notes                                                                                                                                       |
+| ------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | Afro-Eurasia                           | - Includes Asia, Europe and Africa. <br> - home to the oldest civilizations <br> - connected through trade and exchange, like **silk road** |
+|        | Great Aroid Zone and steppe Zone       | - combination of deserts, from west africa coast to east asia. <br> - important area from silk road nexus points.                                                                            |
+|        | Indian Ocean Basin                     |                                                                                                                                             |
+|        | Southwest Asia or Middle East          |                                                                                                                                             |
+|        | Europe                                 |                                                                                                                                             |
+|        | The Americas                           |                                                                                                                                             |
+| 3      | Silk Roads                             | - vast trade route from east asia (china, french guinea) to west africa, and europe                                                         | 
+| 5      | Confucianism, Daoism, and Legalism     |                                                                                                                                             |
+| 7      | Olmecs, Teotichuacan, Maya, and Aztecs |                                                                                                                                             |
 
 
 | Page # | Theme 2: Cultural Developments and Interactions    | Notes |
