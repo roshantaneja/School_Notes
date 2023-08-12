@@ -11,11 +11,11 @@
     },
     "workflow": {
       "commitMessage": "[PUBLISHER] Merge",
-      "name": ""
+      "name": "ci.yml"
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4998
+    "rateLimit": 4994
   },
   "upload": {
     "behavior": "fixed",
@@ -64,9 +64,7 @@
     "shareKey": "share",
     "fileMenu": false,
     "editorMenu": false,
-    "excludedFolder": [
-      "90_Personal"
-    ],
+    "excludedFolder": [],
     "copyLink": {
       "enable": false,
       "links": "",
