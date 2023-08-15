@@ -4,5 +4,6 @@
 .obsidian/graph.json
 
 *.dstore
+*.DS_Store
 
 idea/*
