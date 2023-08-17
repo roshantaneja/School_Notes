@@ -28,11 +28,11 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 - [ ] Check Calendar
 - [ ] Check Slack
 
-### [Other]
-
-- [ ] Drivers Ed (1H)
+### [School]
 
 ### [Other Tasks]
+
+- [ ] Drivers Ed (1H)
 
 #### To Be Done
 
