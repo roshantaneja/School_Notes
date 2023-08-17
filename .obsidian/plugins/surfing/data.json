@@ -54,6 +54,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "8d5bbb96aa08826e",
+      "parent": 0,
+      "droppable": true,
+      "text": "The Anthropocene Reviewed Quotes by John Green",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
