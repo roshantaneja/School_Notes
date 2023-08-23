@@ -29,7 +29,7 @@
   "numerals-style@@numerals-font": "\"\"",
   "obsidian-prism-theme@@pt-icons-accent": true,
   "obsidian-prism-theme@@pt-disable-kanban-title-count": true,
-  "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": false,
   "obsidian-prism-theme@@pt-disable-blur": false,
   "obsidian-prism-theme@@pt-disable-callout-styling": true,
   "obsidian-prism-theme@@pt-disable-mark-highlight-styling": false,

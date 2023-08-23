@@ -1,21 +1,17 @@
-## Title: The Anthropocene Reviewed
+## Title: _The Anthropocene Reviewed_ - John Green
 ### Review: Nathan's Famous Hot Dog Eating Contest
 #### Author: John Green
 ##### Stars: ⭐⭐⭐⭐⭐ (5/5)
 
 ---
 ### Quote That Encapsulates the Review:
-"Competitive eating, like so much of human endeavor, is at once inspiring and horrifying."
+"Competitive eating, like so much of human endeavor, is at once inspiring and horrifying." - John Green
 #### Why I Love This Quote:
-This quote captures the essence of the review and the paradox of human achievement. It's a microcosm of how we can be both amazed and appalled by what we're capable of.
-
----
+This quote captures the essence of the review and the paradox of human achievement. It's a microcosm of how we can be both amazed and appalled by what we're capable of. 
 ### Image/Illustration:
 🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭🏆🌭⏱️🌭
 
 A collage of hot dogs, trophies, and a stopwatch, represents the competition, the glory, and the ticking clock of human endeavor.
-
----
 
 | Column 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Column 2                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
