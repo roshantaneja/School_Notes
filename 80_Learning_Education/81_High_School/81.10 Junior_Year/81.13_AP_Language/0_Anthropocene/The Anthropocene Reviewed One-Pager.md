@@ -37,8 +37,8 @@ A collage of hot dogs, trophies, and a stopwatch, representing the competition, 
 This review made me wonder about the lengths people go to for fame or recognition, even in something as trivial as eating hot dogs. It made me think about my own ambitions and the societal constructs that make something like this a competition. It also made me ponder the duality of human nature—our ability to turn anything into a contest, for better or worse.
 
 #### Tweet to John Green:
-
-"Your review on Nathan's Hot Dog Eating Contest was a rollercoaster of emotions. You've made me question the human condition over a hot dog. 🌭 #AnthropoceneReviewed"
+> [!Tweet] 
+> __@johngreen__"Your review on Nathan's Hot Dog Eating Contest was a rollercoaster of emotions. You've made me question the human condition over a hot dog. 🌭 #AnthropoceneReviewed"
 
 #### Outlook on Humanity:
 
@@ -53,7 +53,7 @@ Optimistic, because even though the review highlights the absurdity of the conte
 
 ### Someone I'd Send This To:
 
-A friend who loves quirky sports and existential debates. This review is the perfect blend of both. The person who comes to mind for me is Sebastian Deras, but hes also reading this book so it may seem a little redundant to send it to him.
+A friend who loves quirky sports and existential debates. This review is the perfect blend of both. The person who comes to mind for me is Sebastian Deras, but he's also reading this book so it may seem a little redundant to send it to him.
 
 ### New Word/Phrase Learned:
 
