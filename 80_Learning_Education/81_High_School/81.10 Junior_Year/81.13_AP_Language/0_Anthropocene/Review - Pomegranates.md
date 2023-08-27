@@ -13,9 +13,9 @@ tags: English, homework, APLang
 	- low calories/fat
 - delayed gratification
 - pomegranate tree in backyard
-	- When I moved to California, my neighbors had a huge pomegranate that dangled over the fence between our houses
+	- When I moved to California in 2011, my neighbors had a huge pomegranate that dangled over the fence between our houses
 	- My neighbors, Mr. and Mrs. Rao were amazing people. Between 60-70 when I first move at the age of 5
-	- we always had our own fruit trees in our backyard, figs, avocados, lemons, apples, and peaches, but never pomegranates.
+	- We always had our own fruit trees in our backyard, figs, avocados, lemons, apples, and peaches, but never pomegranates.
 		- Why should we? After all, there were so many growing next door, right?
 	- When I was 10, I noticed a little tree growing near the bushes along the fence a little ways down from the original pomegranate tree.
 	- My grandparents ran a little pipe from our preexisting irrigation loop to the tree, and within 2 years, the tree began to bear fruit.
@@ -28,5 +28,5 @@ tags: English, homework, APLang
 			- We made a bowl of seeds, after 30 minutes of whacking
 			- It was gone in 5 minutes.
 	- The next year, 4 of our 6 pomegranates had been eaten by squirrels.
-		- My grandfather and I purchased a huge net, and covered the entire tree (which stood at about 7 feet tall at this point)
-		- 
+		- My grandfather and I purchased a huge net and covered the entire tree (which stood at about 7 feet tall at this point)
+	- by 2018

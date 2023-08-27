@@ -1,22 +1,65 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#English",
+      "color": {
+        "a": 1,
+        "rgb": 5424352
+      }
+    },
+    {
+      "query": "tag:#religion",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    },
+    {
+      "query": "tag:#history",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#science",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09267161051885617,
-  "close": true
+  "scale": 0.08068302955048773,
+  "close": false
 }
