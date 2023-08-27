@@ -37,8 +37,12 @@ tags: English, homework, APLang
 	- Just a month ago, Mr Rao died.
 		- I wasn't even there. I was away at a residential program on the other side of the country.
 		- When my mother came to pick me up, I finally learned what had happened.
+		- " I felt my heart crack, slowly, like a pomegranate, spilling its seeds" - Trebor Healy, _A Horse Named Sorrow_
 	- I don't see Mrs Rao much anymore
 		- I still take out the trash bins for her every Tuesday night and bring them back in every Wednesday morning.
 	- the tree is still standing, bearing fruit.
 		- Once we collect them this month, I'll make sure Mrs Rao gets the Pomegranates.
 - I give Pomegranates 5 stars.
+
+
+
