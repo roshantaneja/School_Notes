@@ -1,0 +1,32 @@
+---
+title: Pomegranates
+tags: English, homework, APLang
+---
+
+- A pomegranate is not a fruit, it's a task.
+	- First crack the shell open, spilling seeds everywhere.
+	- Grab a big spoon and start whacking.
+	- Nature's gushers.
+- Research on pomegranates
+	- Health properties
+	- juice?
+	- low calories/fat
+- delayed gratification
+- pomegranate tree in backyard
+	- When I moved to California, my neighbors had a huge pomegranate that dangled over the fence between our houses
+	- My neighbors, Mr. and Mrs. Rao were amazing people. Between 60-70 when I first move at the age of 5
+	- we always had our own fruit trees in our backyard, figs, avocados, lemons, apples, and peaches, but never pomegranates.
+		- Why should we? After all, there were so many growing next door, right?
+	- When I was 10, I noticed a little tree growing near the bushes along the fence a little ways down from the original pomegranate tree.
+	- My grandparents ran a little pipe from our preexisting irrigation loop to the tree, and within 2 years, the tree began to bear fruit.
+		- a little pomegranate tree
+	- As if on cue, that summer, Mr. Rao's tree fell sick and died, leaving me with the pressure of keeping its only child alive.
+	- In our first harvest, we received 4 massive fruits, bigger than grapefruits.
+		- 2 of the fruits went to the Raos, grieving the loss of their own tree, and a little note.
+		- 1 fruit went with my mother to the temple, for thankfulness
+		- 1 fruit remained at home
+			- We made a bowl of seeds, after 30 minutes of whacking
+			- It was gone in 5 minutes.
+	- The next year, 4 of our 6 pomegranates had been eaten by squirrels.
+		- My grandfather and I purchased a huge net, and covered the entire tree (which stood at about 7 feet tall at this point)
+		- 

@@ -1,4 +1,6 @@
-  
+---
+tags: [APWH, history]
+---
 Certainly! Here's the completion of the table for Theme 1: Humans and the Environment.
 
 | Page # | Theme                                  | Notes                                                                                                                                                                                                                                                                                     |

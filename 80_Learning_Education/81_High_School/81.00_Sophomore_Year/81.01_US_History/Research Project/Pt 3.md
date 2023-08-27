@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY, research, homework]
+tags: [USHISTORY, research, homework, history]
 ---
 ## Research Question
 

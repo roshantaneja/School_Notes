@@ -20,10 +20,7 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 ### [Tanzania]
 
-- [ ]
-
-### [Fluxon]
-- [ ]
+### [Life]
 
 ### [School]
 
@@ -46,15 +43,25 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 - [ ] Drivers Ed (1H)
 
+
+#### Due today
+
+```tasks
+(due on today) OR (due on tomorrow) 
+
+```
+
 #### To Be Done
 
 ```tasks
 path does not include 30_Obsidian/
 not done
+group by due
 ```
 
 #### Done Today
 
 ```tasks
 done on <%tp.date.now("YYYY-MM-DD")%>
+group by due
 ```

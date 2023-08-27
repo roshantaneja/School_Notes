@@ -1,3 +1,8 @@
+---
+title: One-pager
+tags: english, APLang
+---
+
 ## Title: _The Anthropocene Reviewed_ - John Green
 ### Review: Nathan's Famous Hot Dog Eating Contest
 #### Author: John Green

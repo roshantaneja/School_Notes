@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY]
+tags: [USHISTORY, history]
 ---
 ## Unit 2 Writing Assessment (50 points) 
 Our unit question for this unit is, “How did American democracy succeed and fail in the years leading up to the Civil War?” Your assignment is to answer this question in ONE clear, polished paragraph (about 12-15 sentences) that makes a historical argument. You will work on this during ONE class but may continue for HW. 

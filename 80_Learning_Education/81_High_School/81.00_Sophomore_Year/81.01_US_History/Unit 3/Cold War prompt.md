@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY, homework]
+tags: [USHISTORY, homework, history]
 ---
 answer the following prompt in a 5-7 sentence paragraph:  
   

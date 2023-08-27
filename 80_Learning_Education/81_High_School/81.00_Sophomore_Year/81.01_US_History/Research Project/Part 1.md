@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY, research, homework]
+tags: [USHISTORY, research, homework, history]
 ---
 
 Welcome to the first phase of the sophomore research paper! Through a series of research assignments this year, you will work closely with your teacher to produce a scholarly research paper of 5-7 pages. You will practice consulting and interpreting a variety of types of primary and secondary sources, and you will also practice using MLA 9 citations correctly. 
