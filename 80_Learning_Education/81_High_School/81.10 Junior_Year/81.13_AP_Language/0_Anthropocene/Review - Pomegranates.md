@@ -40,5 +40,5 @@ tags: English, homework, APLang
 	- I don't see Mrs Rao much anymore
 		- I still take out the trash bins for her every Tuesday night and bring them back in every Wednesday morning.
 	- the tree is still standing, bearing fruit.
-		- Once we collect them this month, i'll make sure Mrs Rao gets the Pomegranates.
+		- Once we collect them this month, I'll make sure Mrs Rao gets the Pomegranates.
 - I give Pomegranates 5 stars.
