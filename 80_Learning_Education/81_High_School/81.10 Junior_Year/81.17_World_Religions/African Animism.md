@@ -1,3 +1,7 @@
+---
+tags: [worldreligions, religion]
+---
+
 **1. Experiential (Emotional) Dimension:**
 Animism is deeply rooted in experiences of connection with the natural world. Practitioners often have profound emotional connections to the spirits believed to inhabit various natural elements. For example, in the Yoruba religion of Nigeria, practitioners may feel a strong emotional bond with Orisha spirits associated with different natural forces, like rivers or thunderstorms.
 

@@ -1,5 +1,5 @@
 ---
-tags: [USHISTORY]
+tags: [USHISTORY, history]
 ---
 -tx-
 | 

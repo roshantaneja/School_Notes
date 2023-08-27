@@ -1,3 +1,7 @@
+---
+tags: research
+---
+
 Met other researchers for the first time
 
 - will be giving us the data this week, will work on it by next week

@@ -43,14 +43,18 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 
 - [ ] Drivers Ed (1H)
 
-
+#### Overdue
+```tasks
+not done
+due before yesterday
+```
 #### Due today
 
 ```tasks
 (due on today) OR (due on tomorrow) 
 
 ```
-
+---
 #### To Be Done
 
 ```tasks

@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#English",
@@ -43,10 +43,17 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#Spanish",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "tag:#DailyNote",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08068302955048773,
-  "close": false
+  "scale": 0.13484384422946494,
+  "close": true
 }

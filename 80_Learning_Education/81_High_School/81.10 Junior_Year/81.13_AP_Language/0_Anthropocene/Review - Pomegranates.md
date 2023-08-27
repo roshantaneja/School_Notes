@@ -29,4 +29,7 @@ tags: English, homework, APLang
 			- It was gone in 5 minutes.
 	- The next year, 4 of our 6 pomegranates had been eaten by squirrels.
 		- My grandfather and I purchased a huge net and covered the entire tree (which stood at about 7 feet tall at this point)
-	- by 2018
+	- by 2018 the tree was bearing 10 - 12 fruits, for nearly the whole summer.
+		- as usual, 2 would go to Mr. Rao, and 1 to the temple, leaving us with nearly 10 pomegranates. 
+		- whatever would we do with 10 pomegranates?
+		- 

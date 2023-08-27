@@ -1,3 +1,7 @@
+---
+tags: email
+---
+
 Questions on careers in Computer Science:
 
 1. What specific areas of Computer Science do you see as having the most growth potential in the next 5-10 years?
