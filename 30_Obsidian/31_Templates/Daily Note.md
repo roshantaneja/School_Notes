@@ -18,17 +18,29 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 - [ ] Drink Water
 - [ ] Read Book
 
-### [Research Project]
+### [Tanzania]
 
- - [ ] Research Questions
+- [ ]
 
 ### [Fluxon]
-
-- [ ] Check Email
-- [ ] Check Calendar
-- [ ] Check Slack
+- [ ]
 
 ### [School]
+
+#### [Calc]
+
+#### [ATCS]
+
+#### [Lang]
+
+#### [Span]
+
+#### [Econ]
+
+#### [Phys]
+
+#### [Reli]
+
 
 ### [Other Tasks]
 
