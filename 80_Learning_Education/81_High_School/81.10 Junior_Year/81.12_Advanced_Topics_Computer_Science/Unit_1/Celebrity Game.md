@@ -118,7 +118,7 @@ int main() {
         }  
         end = chrono::high_resolution_clock::now();  
     }
-    cout << "out of time!" << endl << "your score was " << score << "!"<< endl;
+    cout << "out of time!" << endl << " your score was " << score << "!"<< endl;
     return 0;  
   
 }  
