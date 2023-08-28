@@ -55,7 +55,7 @@ When my family moved to California in 2011, my neighbors, Mr. and Mrs. Rao, had 
 
 We had figs, avocados, lemons, apples, and peaches in our yard, but we didn't need pomegranates. Why would we? We had this natural marvel growing next door. It wasn't until I was 10 that a pomegranate sapling appeared on our side of the fence, a little blessing from the Rao's tree. My grandparents tapped a tiny irrigation pipe to the tree, and, miraculously, it bore fruit within two years. As if cued by the universe, Mr. Rao's tree then fell sick and died. It left me with the Herculean task of keeping its only offspring alive.
 
-Our first harvest brought us four enormous fruits, each larger than a grapefruit. Two went to the Raos, along with a note reassuring them that their tree's legacy would live on. One went to the temple with my mother, a gesture of gratitude. And the last one? We destroyed it with a spoon, gathered the seeds, and devoured them in less than five minutes.
+Our first harvest brought us four enormous fruits, each larger than a grapefruit. Two went to the Raos, along with a note reassuring them that their tree's legacy would live on. One went to the temple with my mother, a gesture of gratitude. And the last one? We destroyed it with a spoon, gathered the seeds, and devoured them in less than five minutes. 
 
 For a time, it seemed like the tree would continue to bless us with more fruit each year, despite some squirrel-induced setbacks. Mr. Rao would receive his share, as would the temple, leaving us pondering what to do with our remaining bounty.
 
