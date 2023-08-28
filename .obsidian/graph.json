@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -62,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 13.9583333333333,
-  "linkStrength": 0.5625,
-  "linkDistance": 30,
-  "scale": 0.11779694810880528,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1833863457697975,
   "close": true
 }
