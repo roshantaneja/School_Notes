@@ -59,7 +59,7 @@ Our first harvest brought us four enormous fruits, each larger than a grapefruit
 
 For a time, it seemed like the tree would continue to bless us with more fruit each year, despite some squirrel-induced setbacks. Mr. Rao would receive his share, as would the temple, leaving us pondering what to do with our remaining bounty.
 
-The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer tradition of sharing pomegranates became a cherished event, a way to remember the good times. But just a month ago, while I was away, Mr. Rao passed away. As writer Trebor Healy wrote in "A Horse Named Sorrow," "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
+The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer tradition of sharing pomegranates became a cherished event, a way to remember the good times. But just a month ago, while I was away, Mr. Rao passed away. As writer Trebor Healy wrote in <i>A Horse Named Sorrow</i>, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
 I don't see Mrs. Rao much these days. She stays inside, understandably so. I take her trash bins out on Tuesdays and bring them back in on Wednesdays. The pomegranate tree, however, stands resilient, still bearing its burdensome yet glorious fruits. This month, once the harvest is in, I'll make sure Mrs. Rao gets her share.
 
