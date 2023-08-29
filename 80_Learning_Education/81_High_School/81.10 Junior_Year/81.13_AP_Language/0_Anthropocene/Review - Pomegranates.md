@@ -19,6 +19,8 @@ For a time, it seemed like the tree would continue to bless us with more fruit e
 
 The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer tradition of sharing pomegranates became a cherished event, a way to remember the good times. But just a month ago, while I was away, Mr. Rao passed away. As writer Trebor Healy wrote in *A Horse Named Sorrow*, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
+
+
 I don't see Mrs. Rao much these days. She stays inside, understandably so. I take her trash bins out on Tuesdays and bring them back in on Wednesdays. The pomegranate tree, however, stands resilient, still bearing its burdensome yet glorious fruits. This month, once the harvest is in, I'll make sure Mrs. Rao gets her share.
 
 The pomegranate teaches us lessons in patience, health, and community. It's a living connection to our neighbors and a constant reminder of the cycles of life and death. On the five-star scale so commonly used to quickly summarize our complex feelings, I give pomegranates 5 stars.
