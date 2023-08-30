@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#English",
@@ -55,9 +55,16 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:20_Creations",
+      "color": {
+        "a": 1,
+        "rgb": 14999271
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -68,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.13484384422946596,
-  "close": true
+  "close": false
 }

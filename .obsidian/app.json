@@ -19,7 +19,7 @@
   "livePreview": true,
   "vimMode": false,
   "tabSize": 4,
-  "promptDelete": false,
+  "promptDelete": true,
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newLinkFormat": "absolute",

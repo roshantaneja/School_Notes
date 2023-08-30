@@ -3,6 +3,8 @@
 .obsidian/plugins/copilot/data.json
 .obsidian/graph.json
 
+.trash/*
+
 *.dstore
 *.DS_Store
 
