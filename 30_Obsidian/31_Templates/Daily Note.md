@@ -18,6 +18,8 @@ datemodified: <%tp.date.now("YYYY-MM-DD")%>
 - [ ] Drink Water
 - [ ] Read Book
 
+## [School]
+
 ### [Tanzania]
 
 ### [Life]
