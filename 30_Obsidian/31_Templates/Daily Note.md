@@ -53,7 +53,7 @@ due before yesterday
 #### Due today
 
 ```tasks
-(due on today) OR (due on tomorrow) 
+(due on <% tp.date.now("YYYY-MM-DD") %>) OR (due on <% tp.date.now("YYYY-MM-DD", +1) %>) 
 
 ```
 ---
