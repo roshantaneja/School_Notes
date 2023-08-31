@@ -1,5 +1,5 @@
 {
-  "defaultSearchEngine": "duckduckgo",
+  "defaultSearchEngine": "google",
   "customSearchEngine": [
     {
       "name": "duckduckgo",
@@ -43,5 +43,28 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "ab33f35244753fd4",
+      "parent": 0,
+      "droppable": true,
+      "text": "Tetris® Effect: Connected on Steam",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "9560c03fddf22580",
+      "parent": 0,
+      "droppable": true,
+      "text": "Steam Search",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

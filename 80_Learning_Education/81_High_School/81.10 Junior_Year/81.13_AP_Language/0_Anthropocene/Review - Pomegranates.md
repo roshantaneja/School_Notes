@@ -21,7 +21,7 @@ The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer 
 
 Mr Rao died last month. I had left for camp the day prior, and didn't learn about it till I returned 3 weeks later. Nobody had told me because they "didn't want it to affect my studies". The grief was slow, as writer Trebor Healy wrote in *A Horse Named Sorrow*, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
-I don't think about death much. Maybe that's a good thing, all my life, ive been told that thoughts of death need to be "reported" 
+I don't think about death much. Maybe that's a good thing, all my life, I've been told that thoughts of death need to be "reported" 
 
 I don't see Mrs. Rao much these days. She stays inside, understandably so. I take her trash bins out on Tuesdays and bring them back in on Wednesdays. The pomegranate tree, however, stands resilient, still bearing its burdensome yet glorious fruits. This month, once the harvest is in, I'll make sure Mrs. Rao gets her share.
 
