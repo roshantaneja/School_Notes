@@ -19,7 +19,7 @@ For a time, it seemed like the tree would continue to bless us with more fruit e
 
 The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer tradition of sharing pomegranates became a cherished event, a way to remember the good times.
 
-Mr Rao died last month. I had left for camp the day prior, and didn't learn about it till I returned 3 weeks later. Nobody had told me because they "didn't want it to affect my studies". The grief was slow, as writer Trebor Healy wrote in *A Horse Named Sorrow*, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
+Mr Rao died last month. I had left for camp the day prior and didn't learn about it till I returned 3 weeks later. Nobody had told me because they "didn't want it to affect my studies". The grief was slow, as writer Trebor Healy wrote in *A Horse Named Sorrow*, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
 I don't think about death much. Maybe that's a good thing, all my life, I've been told that thoughts of death need to be "reported" 
 
