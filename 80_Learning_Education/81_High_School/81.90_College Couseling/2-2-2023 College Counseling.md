@@ -35,7 +35,7 @@ sticker: 1f922
 	* We know its tempting to pack as many APs as you can
 	* resist the urge and leave room for growth in your senior year
 	* Head teachers/school counselor for advice
-* Though shalt take physics.
+* Thou shalt take physics.
 
 ### What should I do?
 * In the summer
