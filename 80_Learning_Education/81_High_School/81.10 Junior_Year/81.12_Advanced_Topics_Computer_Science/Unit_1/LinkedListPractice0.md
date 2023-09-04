@@ -4,7 +4,6 @@ tags:
   - ATCS
   - software
 ---
-
 # main.cpp
 ```cpp
 #include <iostream>  
