@@ -37,5 +37,7 @@
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
   "obsidian-prism-theme@@pt-focused-mode": true,
   "obsidian-prism-theme@@focused-mode-style": "pt-focused-style-main-and-popout-only",
-  "obsidian-prism-theme@@pt-pdf-dark-theme": true
+  "obsidian-prism-theme@@pt-pdf-dark-theme": true,
+  "obsidian-typewriter@@active-line-highlight": false,
+  "obsidian-typewriter@@shrink-formatting": true
 }
