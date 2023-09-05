@@ -84,7 +84,7 @@ Celebrity::~Celebrity() {
   
 using namespace std;  
   
-vector<Celebrity> celebrities;  
+vector<Celebrity> celebrities;
   
 void loadCelebrities(string filename);  
   
@@ -101,13 +101,13 @@ int main() {
   
     while (chrono::duration_cast<chrono::seconds>(end-start).count() < 60) {  
         int index = rand() % celebrities.size();  
-        Celebrity c = celebrities[index];  
-        bool guessed = false;  
-        while (!guessed){  
+        Celebrity c = celebrities[index];
+        bool guessed = false;
+        while (!guessed){
             cout << "Guess who this is: " << c.getClue() << endl;  
-            string guess;  
+            string guess;
             getline(cin, guess);  
-            if (guess == c.getName()) {  
+            if (guess == c.getName()) {
                 cout << "You got it!" << endl;  
                 guessed = true;  
                 celebrities.erase(celebrities.begin() + index);  
