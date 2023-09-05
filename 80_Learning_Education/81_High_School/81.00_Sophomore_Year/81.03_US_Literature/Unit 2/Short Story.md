@@ -1,3 +1,10 @@
+---
+tags:
+  - English
+  - final
+---
+
+
 In the bank lobby, she sits in an office chair, waiting for a loan officer to call her. Emily rubbed her thumb over the faint scar on her thigh, the skin tough and knotted from the stitches. The scar, like her childhood, was chaotic and unstable, a raggedy gash of screaming and sadness. The memories flooded her mind, and in a moment, she was no longer in the bank but in the household of her youth. 
 
 At ten years old, with dark brown hair, Emily loved her father. Her earliest memories of her father were his short brown hair and the smell of aftershave. He used to buy her toys and take her to the movies, and she would sit in his lap and listen to him tell stories.  He was a construction worker by trade but a father at heart. But he had his dark moments 

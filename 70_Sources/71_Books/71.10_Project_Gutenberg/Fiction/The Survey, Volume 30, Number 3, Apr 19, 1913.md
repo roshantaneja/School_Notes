@@ -1,3 +1,11 @@
+---
+tags:
+  - research
+  - English
+  - APLang
+---
+
+
 The Project Gutenberg eBook of The Survey, Volume 30, Number 3, Apr 19, 1913
     
 This ebook is for the use of anyone anywhere in the United States and
