@@ -4,4 +4,3 @@ Barabacoa Para cumpleanos
 3. Campfires
 4. Pinatas
 5. Familia extendo
-6. 
