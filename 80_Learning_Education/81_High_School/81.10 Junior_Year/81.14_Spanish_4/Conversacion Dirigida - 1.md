@@ -7,7 +7,7 @@ tengo muchos amigos.
 mis amigos son honestos y divertidos. Yo pienso que todos los amigos deben ser amables y respetuosos
 
 3:
-Las prácticas de respeto y amistad influyen en mis relaciones
+Las prácticas de respeto y amistad influyen en mis relaciones. 
 
 4:
 Las relaciones de mi hermano, mis padres y mis abuelos influyen en mi vida diaria. Mis amigos me hacen honesto y respetuoso.
