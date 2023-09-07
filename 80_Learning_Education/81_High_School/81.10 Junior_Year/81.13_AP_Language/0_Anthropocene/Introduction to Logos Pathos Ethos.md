@@ -13,6 +13,7 @@ For each video, take some notes and use this handout as a guide. We will review 
 	- proclamation about the current situation
 - Symbouleutikon:
 	- How to frame a possible future and how to go about achieving it.
+	- deliberative persuasion
 	- Ethos
 		- Appeal to wisdom and credibility
 		- Credibility of disinterest.
@@ -40,15 +41,14 @@ For each video, take some notes and use this handout as a guide. We will review 
 
 ### Video: “What Aristotle and Joshua Bell can teach us about persuasion”
 
-  
-
-- Joshua Bell is considered one of the greatest violinists in the world. His minimum fee for playing a concert is $75,000. 
-    
+- Joshua Bell is considered one of the greatest violinists in the world. His minimum fee for playing a concert is $75,000.
+	- 
 - Washington Post Subway Experiment: Joshua Bell set up a spot in the subway to play for passersby. The experiment was videotaped on a hidden camera; of the 1,097 people who passed by, seven stopped to listen to him, and one recognized him. For his nearly 45-minute performance, Bell collected $32.17 from 27 passersby (excluding $20 from the one who recognized him).
+	- 
     
 - Logos:
     
 - Pathos: 
     
 - Ethos:
-    
+	
