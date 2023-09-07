@@ -47,8 +47,24 @@ For each video, take some notes and use this handout as a guide. We will review 
 	- 
     
 - Logos:
+	- Idea makes sense from the audience's point of view
+	- good argument is like good music
+	- makes sense to the audience
     
-- Pathos: 
+- Pathos:
+	- stories
+	- sometimes the audience is not ready
+	- the speaker should create and environment where the audience can learn
+	- no emotional bond between performer and listener in a subway
     
 - Ethos:
-	
+	- reputation
+	- credibility
+	- trustworthy
+	- authority
+	- the subway does not have great trust for great art
+
+How much do I rely on other institutions to tell me what is high quality and not?
+- just because the concert hall is hosting a musician, doesn't mean that anyone outside the concert hall is worse
+- How do institutions influence my belief on what is credible and what isnt.
+- 
