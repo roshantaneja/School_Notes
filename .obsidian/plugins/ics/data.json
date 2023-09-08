@@ -1,0 +1,18 @@
+{
+  "format": {
+    "timeFormat": "HH:mm"
+  },
+  "calendars": {
+    "Schoology": {
+      "icsName": "Schoology",
+      "icsUrl": "https://calendar.google.com/calendar/embed?src=er1svtotinp0qn09hli3sinc9v23ib6q%40import.calendar.google.com&ctz=America%2FLos_Angeles",
+      "format": {
+        "includeEventEndTime": false,
+        "icsName": false,
+        "summary": false,
+        "location": false,
+        "description": false
+      }
+    }
+  }
+}
