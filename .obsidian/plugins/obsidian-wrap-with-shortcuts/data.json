@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1694146634943",
+      "name": "Center",
+      "startTag": "<center>",
+      "endTag": "</center>"
+    },
+    {
+      "id": "underline",
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>"
+    }
+  ]
+}

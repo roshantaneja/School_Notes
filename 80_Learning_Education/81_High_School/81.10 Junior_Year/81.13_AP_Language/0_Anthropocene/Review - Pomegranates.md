@@ -3,29 +3,46 @@ title: Pomegranates
 tags: English, homework, APLang
 ---
 
-Pomegranates are not fruit; they're a task. A multi-seeded, succulent, red and sweet task that requires skill, time, and a hefty spoon. Their leathery skin protects a treasure trove of juicy arils, nature's equivalent of Gushers, that lie packed together like rubies in a jewel box.
 
-Pomegranates have been enjoyed and revered for thousands of years, symbolizing abundance in many cultures. And modern science, for once, seems to back up ancient sentimentality. Research indicates that pomegranates are full of antioxidants, can improve cholesterol levels, and might even fight off some types of cancer. All this, and they're low in calories and fat. They are, perhaps, the healthiest inconvenience you can subject yourself to, a lesson in delayed gratification that pays off in health benefits and the occasional stained T-shirt.
+Roshan Taneja
+
+Ms Dellamano
+
+AP English Language and Composition
+
+9 September 2023
+
+<center>Pomegranates</center>
+
+Pomegranates are not fruit; they're a task. It is a multi-seeded, succulent, red and sweet job that requires skill, time, and a hefty spoon. Their leathery skin protects a treasure trove of juicy arils, nature's equivalent of Gushers, that lie packed together like rubies in a jewel box.
+
+Pomegranates have been celebrated for thousands of years, symbolising abundance in many cultures. And modern science, for once, seems to back up ancient sentimentality. Research indicates that pomegranates are full of antioxidants, can improve cholesterol levels, and might even fight off some types of cancer (15 Health Benefits of Pomegranate Juice). All this, and they're low in calories and fat. They are, perhaps, the healthiest inconvenience you can subject yourself to, a lesson in delayed gratification that pays off in health benefits and the occasional stained T-shirt.
 
 Which brings me to my pomegranate tree.
 
-When my family moved to California in 2011, my neighbors, Mr. and Mrs. Rao, had this gargantuan pomegranate tree that leaned over the fence between our properties like a kindly old neighbor. Mr. and Mrs. Rao were in their 60s and immediately made us feel at home. As a 5-year-old, I felt like they were my third set of grandparents.
+When my family moved to California in 2011, my neighbours, Mr. and Mrs. Rao, had this gargantuan pomegranate tree that leaned over the fence between our properties like our kindly old neighbours. Mr. and Mrs. Rao were in their 60s and immediately made us feel at home. As a 5-year-old, I felt like they were my third set of grandparents.
 
-We had figs, avocados, lemons, apples, and peaches in our yard, but we didn't need pomegranates. Why would we? We had this natural marvel growing next door. It wasn't until I was 10 that a pomegranate sapling appeared on our side of the fence, a little blessing from the Rao's tree. My grandparents tapped a tiny irrigation pipe to the tree, and, miraculously, it bore fruit within two years. As if cued by the universe, Mr. Rao's tree then fell sick and died. It left me with the Herculean task of keeping its only offspring alive.
+We had figs, avocados, lemons, apples, and peaches in our yard; we didn't need pomegranates. Why would we? We had this natural marvel growing next door. Many years later, during the summer when I was 10,  a pomegranate sapling appeared on our side of the fence, a little blessing from Mr. Rao's tree. My grandparents tapped a tiny irrigation pipe into the tree, and miraculously, it bore fruit within two years. As if cued by the universe, Mr Rao's tree fell sick and died. It left me with the Herculean task of keeping its only offspring alive.
 
-Our first harvest brought us four enormous fruits, each larger than a grapefruit. Two went to the Raos, along with a note reassuring them that their tree's legacy would live on. One went to the temple with my mother, a gesture of gratitude. And the last one? We destroyed it with a spoon, gathered the seeds, and devoured them in less than five minutes. 
+Our first harvest brought us four enormous fruits, each larger than a grapefruit. Two went to the Raos with a note reassuring them that their tree's legacy would live on. One went to the temple with my mother, a gesture of gratitude. And the last one? We beat it with a spoon, collected the seeds, and devoured them in less than five minutes.
 
-For a time, it seemed like the tree would continue to bless us with more fruit each year, despite some squirrel-induced setbacks. Mr. Rao would receive his share, as would the temple, leaving us pondering what to do with our remaining bounty.
+Despite some squirrel-induced setbacks, the tree continued to bless us with more fruit each year. As per tradition, Mr Rao would receive his share, as would the temple, leaving us pondering what to do with our remaining bounty. Every breakfast and dinner would be bookended for the next few weeks with either a bowl of seeds or a glass of juice. I liked to eat the seeds slowly, one at a time, savouring the taste.
 
-The years went by, and I became close friends with Mr. and Mrs. Rao. Our summer tradition of sharing pomegranates became a cherished event, a way to remember the good times.
+The years passed, and I became close friends with Mr. and Mrs. Rao. Our fall tradition of sharing pomegranates became a cherished event, a way to connect again after a long summer break. These meetings happened frequently, but more was needed. 
 
-Mr Rao died last month. I had left for camp the day prior and didn't learn about it till I returned 3 weeks later. Nobody had told me because they "didn't want it to affect my studies". The grief was slow, as writer Trebor Healy wrote in *A Horse Named Sorrow*, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
+Mr Rao died last month. I had left for camp the day before and didn't learn about it until I returned three weeks later. The grief was slow, as writer Trebor Healy put it in A Horse Named Sorrow, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
-I don't think about death much. Maybe that's a good thing, all my life, I've been told that thoughts of death need to be "reported" 
+Throughout mythology, pomegranates have referenced death in one way or another. Pomegranate seeds are what Hades used to entrap Persephone in the underworld for six months a year; in Ancient Egypt, pomegranates were buried with the dead to help them pass into the afterlife. They were also said to symbolise death, paradise, and temptation. But they also represent fertility and life. The thousands of seeds seem symbolic of wishing someone life. Often, pomegranate seeds are crushed underfoot at weddings to ensure a fertile wedding with many children.
 
-I don't see Mrs. Rao much these days. She stays inside, understandably so. I take her trash bins out on Tuesdays and bring them back in on Wednesdays. The pomegranate tree, however, stands resilient, still bearing its burdensome yet glorious fruits. This month, once the harvest is in, I'll make sure Mrs. Rao gets her share.
+I don't try to think about my own mortality. Still, standing beneath the branches of my pomegranate tree, I can't help but feel that I, too, have taken on the herculean task of … living. The tree’s very existence is interwoven with the cycles of life and death. The tree, roots, and branches all shared the same soil with another now-gone tree, inviting me to ponder life’s impermanence. Seneca once said, “It is not that we have a short time to live, but that we waste a lot of it.”. Perhaps he’s right.
 
-The pomegranate teaches us lessons in patience, health, and community. It's a living connection to our neighbors and a constant reminder of the cycles of life and death. On the five-star scale so commonly used to quickly summarize our complex feelings, I give pomegranates 5 stars.
+Just as these pomegranate seeds burst forth from their leathery skin, only to be consumed and eventually gone, so do our lives unfurl, vibrant but brief. Each seed is like a life, a single moment, fleeting and lovely. We devour these seeds, thinking that one day, we will run out – for the tree, for Mr Rao, for all of us. But for now, they offer the sweetest (or most sour) lesson: that life, with all of its tasks, is meant to be savoured, one moment at a time.
+
+I don't see Mrs. Rao much these days. She stays inside, understandably so. I take her trash bins out on Tuesdays and return them on Wednesdays. The pomegranate tree, however, stands resilient, still bearing its burdensome yet glorious fruits. After the harvest this fall, they’ll be there on Mr Rao’s doorstep. I give pomegranates 5 stars.
+
+<center>Works Cited</center>
+
+"15 Health Benefits of Pomegranate Juice." Iran Daily (Tehran, Iran), 16 Feb. 2017. Gale General OneFile, research.ebsco.com/linkprocessor/plink?id=81ad6b29-fe7d-36cf-9e74-1be34f48cf50.
 
 ---
 
