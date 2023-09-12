@@ -55,5 +55,3 @@
     - **Dialogue**: Sita: "If I have been true to Rama, let the fire not harm me."
 15. **Rama’s Return to His Divine Abode**: Rama returns to his celestial abode, concluding his earthly mission.
     - **Importance**: Culmination of the epic, reinforcing the divine nature of Rama.
-
-These are brief snapshots and the Ramayana contains far more detail, nuance, and philosophical teachings. Different versions also contain varying events and dialogues.
