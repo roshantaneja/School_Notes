@@ -1,3 +1,11 @@
+---
+tags:
+  - English
+  - APLang
+  - notes
+---
+
+
 ### Ethos:
 
 1. **Religious References**: Truth employs religious ethos to establish her moral authority. By asking, “Where did your Christ come from? From God and a woman! Man had nothing to do with Him,” she both aligns herself with a higher moral authority and challenges the societal beliefs that diminish women’s worth.
