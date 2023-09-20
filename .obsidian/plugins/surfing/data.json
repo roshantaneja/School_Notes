@@ -43,39 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "a3b801badc23dcd3",
-      "parent": 0,
-      "droppable": true,
-      "text": "ChatGPT",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "c469b4f4d089c586",
-      "parent": 0,
-      "droppable": true,
-      "text": "I go to school in menlo park | Spanish Translator",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "a57fcfc73e12883a",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
