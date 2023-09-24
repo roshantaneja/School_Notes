@@ -3,14 +3,12 @@
   "obsidian-grandfather",
   "quick-latex",
   "obsidian-excel-to-markdown-table",
-  "table-extended",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
   "numerals",
   "better-word-count",
   "convert-url-to-iframe",
   "cm-editor-syntax-highlight-obsidian",
-  "webpage-html-export",
   "table-editor-obsidian",
   "obsidian-charts",
   "obsidian-latex-suite",
@@ -24,6 +22,5 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "garble-text",
-  "obsidian-style-settings",
-  "ics"
+  "obsidian-style-settings"
 ]
