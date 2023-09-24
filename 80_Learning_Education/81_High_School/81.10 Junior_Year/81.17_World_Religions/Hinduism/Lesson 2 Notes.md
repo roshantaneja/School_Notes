@@ -1,3 +1,11 @@
+---
+tags:
+  - worldreligions
+  - religion
+  - notes
+---
+
+
 ### a. Origins of Hinduism
 
 Hinduism has no single founder and is a complex, pluralistic tradition with roots going back thousands of years. It is generally believed to have originated in the Indian subcontinent. The term "Hindu" is derived from the Sanskrit word "Sindhu," which was the historical local appellation for the Indus River. The religious, philosophical, and cultural practices that originated in India were termed as 'Hindu' by foreign invaders who used the term to denote the inhabitants of the Indian subcontinent.

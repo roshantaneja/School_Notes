@@ -1,3 +1,12 @@
+---
+tags:
+  - CS
+  - ATCS
+  - homework
+---
+
+
+
 # main.cpp
 ```cpp
 #include <fstream>  

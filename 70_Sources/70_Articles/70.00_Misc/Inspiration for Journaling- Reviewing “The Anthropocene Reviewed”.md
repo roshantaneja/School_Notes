@@ -1,3 +1,12 @@
+---
+tags:
+  - APLang
+  - English
+  - notes
+---
+
+
+
 Last year, I spent a good bit of time reading and reviewing books for this blog. The books were all what you would consider “inspirational” or self-help reading and touched on self-care, goal-setting, and mental health. (At the bottom of this post, you can find the list of books I reviewed and a link to their articles)
 
 I am still reading new books this year, but I will not be reviewing as many. **However, I had to share some impressions of a book that doesn’t quite fit the genre of the books normally reviewed on this blog, but I think is equally as helpful** as the ones I reviewed last year.
