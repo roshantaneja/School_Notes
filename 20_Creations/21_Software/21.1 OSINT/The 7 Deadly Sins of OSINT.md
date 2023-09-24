@@ -1,3 +1,9 @@
+---
+tags:
+  - software
+---
+
+
 # The 7 Deadly Sins of OSINT
 
 OSINT investigations can range from simple, containing one target on one account, to very complex, such as multiple targets spanning various platforms and locations. Likewise, a target of an OSINT investigation can take extreme measures to conceal their real identity, or they may unknowingly leave an extensive trail of breadcrumbs that lead an investigator straight to their doorstep.

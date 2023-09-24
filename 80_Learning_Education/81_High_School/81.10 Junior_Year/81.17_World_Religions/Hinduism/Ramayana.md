@@ -1,3 +1,10 @@
+---
+tags:
+  - religion
+  - worldreligions
+---
+
+
 ### Balakanda (Book of Childhood)
 
 1. **Birth of Rama**: Born to King Dasharatha and Queen Kaushalya in Ayodhya.

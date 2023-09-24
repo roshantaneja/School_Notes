@@ -1,3 +1,10 @@
+---
+tags:
+  - Spanish
+  - spanish4
+---
+
+
 1. En la pintura "barbacoa para cumpleanos", 
 	2. se observa una cena familiar donde varios miembros de 
 	3. diferentes edades están presentes en un cumpleanos de un nina. 

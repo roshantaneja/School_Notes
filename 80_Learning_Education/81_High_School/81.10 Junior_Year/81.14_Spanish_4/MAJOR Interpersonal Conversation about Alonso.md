@@ -1,3 +1,11 @@
+---
+tags:
+  - Spanish
+  - spanish4
+  - homework
+---
+
+
 Q1
 
 Bien, y tu? Soy aqi para hablar con mi amigo, alonso. el esta teniendo problemas en la escuela.

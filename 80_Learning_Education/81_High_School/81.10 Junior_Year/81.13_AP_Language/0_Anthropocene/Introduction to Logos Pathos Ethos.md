@@ -1,3 +1,12 @@
+---
+tags:
+  - APLang
+  - English
+  - notes
+---
+
+
+
 For each video, take some notes and use this handout as a guide. We will review as a class.
 
 ### Video: “How to use rhetoric to get what you want” 

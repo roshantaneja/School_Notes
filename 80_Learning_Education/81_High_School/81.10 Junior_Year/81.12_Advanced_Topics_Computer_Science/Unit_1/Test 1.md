@@ -1,3 +1,10 @@
+---
+tags:
+  - ATCS
+  - CS
+  - software
+---
+
 # main.cpp
 ```cpp
 #include <iostream>  

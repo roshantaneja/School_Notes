@@ -1,3 +1,10 @@
+---
+tags:
+  - ECON
+  - notes
+---
+
+
 # Demand and Supply Lecture Notes - AP Microeconomics
 
 ## Introduction

@@ -1,3 +1,9 @@
+---
+tags:
+  - English
+---
+
+
 ## Intro
 
 Welcome to our podcast, where today we will be discussing the Narrative of the Life of Frederick Douglass and its continued legacy on American culture and society. As a group, we have recently finished reading Douglass's powerful account of his experiences as an enslaved person in the United States, and we will be sharing our thoughts on how this book has deepened our understanding of slavery as an institution and its ongoing impact on American culture and society.
