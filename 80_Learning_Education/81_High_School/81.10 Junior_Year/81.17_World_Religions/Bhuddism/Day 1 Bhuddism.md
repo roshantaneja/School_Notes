@@ -30,10 +30,14 @@ Exemplar
 
 ---
 
-practice detatchment
+practice detachment
 
-recognize the impermenance of your sentiment
+recognize the impermanence of your sentiment
 
 ---
+
+What is your 8fold path?
+
+* what are 8 things that you think leads to a happy, satisfied life?
 
 
