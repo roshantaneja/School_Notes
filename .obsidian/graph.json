@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#math",
+      "query": "tag:#cs",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -66,14 +66,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 2.07926025390625,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 2.7878301213419,
   "lineSizeMultiplier": 2.46218072547757,
   "collapse-forces": false,
-  "centerStrength": 0.761067708333333,
+  "centerStrength": 0.838377334191887,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13760546865162002,
+  "scale": 0.717328972885746,
   "close": false
 }
