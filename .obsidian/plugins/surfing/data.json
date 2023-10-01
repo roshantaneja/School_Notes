@@ -76,6 +76,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "a6850d12d2aa53a6",
+      "parent": 0,
+      "droppable": true,
+      "text": "2003c87_a_0000255_r01.mp3 - Roshan's Notes - Obsidian Publish",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
