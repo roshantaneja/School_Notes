@@ -43,50 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "358bd8ec529187f9",
-      "parent": 0,
-      "droppable": true,
-      "text": "ChatGPT",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "bb32a882e5a44d08",
-      "parent": 0,
-      "droppable": true,
-      "text": "In my family we practice respect for el | Spanish Translator",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "888ae8af414be630",
-      "parent": 0,
-      "droppable": true,
-      "text": "The Long-Lasting Legacy of the Great Migration | History| Smithsonian Magazine",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "a6850d12d2aa53a6",
-      "parent": 0,
-      "droppable": true,
-      "text": "2003c87_a_0000255_r01.mp3 - Roshan's Notes - Obsidian Publish",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
