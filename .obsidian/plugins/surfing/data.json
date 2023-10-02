@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "b4256b895cf9ea3a",
+      "parent": 0,
+      "droppable": true,
+      "text": "She was famous for her self portraits | Spanish Translator",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
