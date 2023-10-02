@@ -2,7 +2,7 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-minimal-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
-  "o-theme-settings@@o-color-accent": "o-orange",
+  "o-theme-settings@@o-color-accent": "o-blue",
   "o-theme-settings@@o-font-general": "TerminusTTF",
   "o-theme-settings@@o-font-title": "Fraunces",
   "o-theme-settings@@o-faintselect": true,
@@ -38,6 +38,9 @@
   "obsidian-prism-theme@@pt-focused-mode": true,
   "obsidian-prism-theme@@focused-mode-style": "pt-focused-style-main-and-popout-only",
   "obsidian-prism-theme@@pt-pdf-dark-theme": true,
-  "obsidian-typewriter@@active-line-highlight": false,
-  "obsidian-typewriter@@shrink-formatting": true
+  "obsidian-typewriter@@active-line-highlight": true,
+  "obsidian-typewriter@@shrink-formatting": true,
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-d": "102, 153, 97",
+  "sanctum@@active-line-accent": "var(--background-hover)"
 }

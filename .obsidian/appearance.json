@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "baseFontSize": 22,
-  "cssTheme": "Slytherin",
+  "accentColor": "#949494",
+  "baseFontSize": 27,
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "monospaceFontFamily": "",
   "textFontFamily": "",

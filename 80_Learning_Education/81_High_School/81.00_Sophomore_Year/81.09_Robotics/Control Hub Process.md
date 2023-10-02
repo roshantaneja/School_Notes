@@ -1,3 +1,9 @@
+---
+tags:
+  - Robotics
+  - notes
+---
+
 1. For just plugging it in
 2. need the wires
 	1. orange cable and red cable
