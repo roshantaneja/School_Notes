@@ -1,7 +1,7 @@
 {
   "accentColor": "#949494",
-  "baseFontSize": 27,
-  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "monospaceFontFamily": "",
   "textFontFamily": "",
