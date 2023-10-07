@@ -43,5 +43,28 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "358bd8ec529187f9",
+      "parent": 0,
+      "droppable": true,
+      "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "bb32a882e5a44d08",
+      "parent": 0,
+      "droppable": true,
+      "text": "In my family we practice respect for el | Spanish Translator",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
