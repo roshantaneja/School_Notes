@@ -27,5 +27,60 @@ tags:
 10. **Legacy Programming Languages**: The discussion briefly explores legacy programming languages like COBOL and Fortran, emphasizing the foundational role they've played in the evolution of technology.
 
 
+# Draft
+
+**Knowledge Project Template**
+
+- **Title:** 
+  - Architectural Technology: Beyond Bricks and Mortar
+
+- **Name of Episode:** 
+  - Architectural Technology with Iddris Sandu
+
+- **Date of Episode:** 
+  - May 5, 2020
+
+- **Topics/Issues Considered:** 
+  - Evolving definition of "architecture" in the digital realm.
+  - Significance of empathy in design.
+  - Iddris Sandu's journey of curiosity and innovation.
+  - Concept of "digital alchemy" and reusability.
+  - Historical evolution of programming and legacy languages.
+
+- **Central argument/s and ideas:** 
+  - Explores intersection of architecture and technology.
+  - Challenges traditional notions of architectural design.
+  - Architecture seen as a living process, not just physical structures.
+  - Emphasis on empathy in design.
+  - "Digital alchemy" focuses on repurposing and maximizing utility.
+  - Historical perspective on innovation from ancient automations to legacy programming.
+
+- **Reflection:** 
+  - Refreshing perspective on architectural technology.
+  - Highlights importance of curiosity and creativity.
+  - "Digital alchemy" emphasizes sustainability and design evolution.
+  - Historical context underscores iterative nature of innovation.
+  - Core design principles, driven by empathy, remain constant despite technological advancements.
+
 
 # Draft 
+
+**Knowledge Project Template**
+
+**Title:** Architectural Technology: Beyond Bricks and Mortar
+
+**Name of Episode:** Architectural Technology with Iddris Sandu
+
+**Date of Episode:** May 5, 2020
+
+**Topics/Issues Considered:**
+
+- The evolving definition of "architecture" and its application in the digital realm.
+- The significance of empathy in the design and architectural process.
+- Iddris Sandu's personal journey of curiosity and innovation.
+- The concept of "digital alchemy" and the reusability of products.
+- Historical evolution of programming and the importance of legacy programming languages.
+
+**Central argument/s and ideas it is trying to convey:** This episode delves deep into the intersection of architecture and technology, challenging traditional notions of architectural design to include the digital realm. With Iddris Sandu as the expert, the discussion emphasizes that architecture is not limited to physical structures, but can be seen as a verb, a living process of bringing ideas to life. Empathy emerges as a core component in design, connecting various elements in a cohesive manner to cater to human needs and emotions. The episode also touches on the theme of "digital alchemy", highlighting the idea of repurposing and maximizing utility from existing resources. A historical perspective, from ancient automations to the role of legacy programming languages, underscores the rich tapestry of innovation throughout the ages.
+
+**Reflection:** The episode offers a refreshing perspective on architectural technology, showcasing that the field is not just about physical constructs but also about digital innovations and emotional connections. Iddris Sandu's anecdotes and insights bring to light the importance of curiosity, creativity, and a deep-seated desire to understand and repurpose. The concept of "digital alchemy" particularly stands out, emphasizing sustainability and the continuous evolution of design principles. Furthermore, the historical context provided, tracing the roots of programming, serves as a reminder of the iterative nature of innovation. It emphasizes that while technology and methods evolve, the core principles of design, driven by empathy and user-centricity, remain constant.
