@@ -54,6 +54,28 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "1e08df2ee87f1510",
+      "parent": 0,
+      "droppable": true,
+      "text": "Account - Obsidian",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "dc7e1f1584356bc0",
+      "parent": 0,
+      "droppable": true,
+      "text": "Account - Obsidian",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
