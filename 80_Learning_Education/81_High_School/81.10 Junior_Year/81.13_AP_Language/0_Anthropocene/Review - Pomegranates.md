@@ -14,7 +14,7 @@ AP English Language and Composition
 
 <center>Pomegranates</center>
 
-Pomegranates are not fruit; they're a task. It is a multi-seeded, succulent, red and sweet job that requires skill, time, and a hefty spoon. Their leathery skin protects a treasure trove of juicy arils, nature's equivalent of Gushers, that lie packed together like rubies in a jewel box.
+Pomegranates are not fruit; they're a task. A multi-seeded, succulent, red and sweet job that requires skill, time, and a hefty spoon. Their leathery skin protects a treasure trove of juicy arils, nature's equivalent of Gushers, that lie packed together like rubies in a jewel box.
 
 Pomegranates have been celebrated for thousands of years, symbolising abundance in many cultures. And modern science, for once, seems to back up ancient sentimentality. Research indicates that pomegranates are full of antioxidants, can improve cholesterol levels, and might even fight off some types of cancer (15 Health Benefits of Pomegranate Juice). All this, and they're low in calories and fat. They are, perhaps, the healthiest inconvenience you can subject yourself to, a lesson in delayed gratification that pays off in health benefits and the occasional stained T-shirt.
 
@@ -22,7 +22,8 @@ Which brings me to my pomegranate tree.
 
 When my family moved to California in 2011, my neighbours, Mr. and Mrs. Rao, had this gargantuan pomegranate tree that leaned over the fence between our properties like our kindly old neighbours. Mr. and Mrs. Rao were in their 60s and immediately made us feel at home. As a 5-year-old, I felt like they were my third set of grandparents.
 
-We had figs, avocados, lemons, apples, and peaches in our yard; we didn't need pomegranates. Why would we? We had this natural marvel growing next door. Many years later, during the summer when I was 10,  a pomegranate sapling appeared on our side of the fence, a little blessing from Mr. Rao's tree. My grandparents tapped a tiny irrigation pipe into the tree, and miraculously, it bore fruit within two years. As if cued by the universe, Mr Rao's tree fell sick and died. It left me with the Herculean task of keeping its only offspring alive.
+We had figs, avocados, lemons, apples, and peaches in our yard; but the only thing missing from our fruit garden was a pomegranate tree. But that didnt affect us, as we had this natural marvel next door. During the summer when I was 10,  a pomegranate sapling appeared on our side of the fence, a little blessing from Mr. Rao's tree. My grandparents tapped a tiny irrigation pipe into the tree, and miraculously, it bore fruit within two years. As if cued by the universe, Mr Rao's tree fell sick and died. It left me with the Herculean task of keeping its only offspring alive
+
 
 Our first harvest brought us four enormous fruits, each larger than a grapefruit. Two went to the Raos with a note reassuring them that their tree's legacy would live on. One went to the temple with my mother, a gesture of gratitude. And the last one? We beat it with a spoon, collected the seeds, and devoured them in less than five minutes.
 
@@ -32,9 +33,9 @@ The years passed, and I became close friends with Mr. and Mrs. Rao. Our fall tra
 
 Mr Rao died last month. I had left for camp the day before and didn't learn about it until I returned three weeks later. The grief was slow, as writer Trebor Healy put it in A Horse Named Sorrow, "I felt my heart crack, slowly, like a pomegranate, spilling its seeds."
 
-Throughout mythology, pomegranates have referenced death in one way or another. Pomegranate seeds are what Hades used to entrap Persephone in the underworld for six months a year; in Ancient Egypt, pomegranates were buried with the dead to help them pass into the afterlife. They were also said to symbolise death, paradise, and temptation. But they also represent fertility and life. The thousands of seeds seem symbolic of wishing someone life. Often, pomegranate seeds are crushed underfoot at weddings to ensure a fertile wedding with many children.
+Throughout mythology, pomegranates have referenced death in one way or another. Pomegranate seeds are what Hades used to entrap Persephone in the underworld for six months a year; in Ancient Egypt, pomegranates were buried with the dead to help them pass into the afterlife. They were also said to symbolise life, paradise, and temptation. But they also represent fertility and life. The thousands of seeds seem symbolic of wishing someone life. Often, pomegranate seeds are crushed underfoot at weddings to ensure a fertile wedding with many children.
 
-I don't try to think about my own mortality. Still, standing beneath the branches of my pomegranate tree, I can't help but feel that I, too, have taken on the herculean task of … living. The tree’s very existence is interwoven with the cycles of life and death. The tree, roots, and branches all shared the same soil with another now-gone tree, inviting me to ponder life’s impermanence. Seneca once said, “It is not that we have a short time to live, but that we waste a lot of it.”. Perhaps he’s right.
+I don't try to think about my mortality. Why? As Andy Dufresne said in Shawshank Redemption, "Get busy living or get busy dying". Still, standing beneath the branches of my pomegranate tree, I can't help but feel that I, too, have taken on the herculean task of … living. The tree’s very existence is interwoven with the cycles of life and death. The tree, roots, and branches all shared the same soil with another now-gone tree, inviting me to ponder life’s impermanence. Seneca once said, “It is not that we have a short time to live, but that we waste a lot of it”. Perhaps he’s right.
 
 Just as these pomegranate seeds burst forth from their leathery skin, only to be consumed and eventually gone, so do our lives unfurl, vibrant but brief. Each seed is like a life, a single moment, fleeting and lovely. We devour these seeds, thinking that one day, we will run out – for the tree, for Mr Rao, for all of us. But for now, they offer the sweetest (or most sour) lesson: that life, with all of its tasks, is meant to be savoured, one moment at a time.
 
