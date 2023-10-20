@@ -40,3 +40,8 @@ Confucianism
         - Junzi - superior persons
 
 - See: Wall Street Journal on CCP turns to Confucianism
+
+
+
+
+order and care in family and comuunitty. 
