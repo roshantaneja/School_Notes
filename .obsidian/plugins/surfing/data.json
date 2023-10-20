@@ -45,32 +45,10 @@
   },
   "treeData": [
     {
-      "id": "a7fa472068b68959",
+      "id": "b72619ed2f08d744",
       "parent": 0,
       "droppable": true,
-      "text": "ChatGPT",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "1e08df2ee87f1510",
-      "parent": 0,
-      "droppable": true,
-      "text": "Account - Obsidian",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "dc7e1f1584356bc0",
-      "parent": 0,
-      "droppable": true,
-      "text": "Account - Obsidian",
+      "text": "Group Study Guide - Roshan's Notes - Obsidian Publish",
       "data": {
         "fileType": "site",
         "fileSize": "",
