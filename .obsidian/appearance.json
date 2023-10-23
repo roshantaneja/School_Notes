@@ -1,16 +1,3 @@
 {
-  "accentColor": "#949494",
-<<<<<<< HEAD
-  "baseFontSize": 13,
-=======
-  "baseFontSize": 17,
->>>>>>> origin/main
-  "cssTheme": "Typewriter",
-  "theme": "obsidian",
-  "monospaceFontFamily": "",
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
-  "nativeMenus": true,
-  "enabledCssSnippets": [],
-  "translucency": false
+  "accentColor": ""
 }

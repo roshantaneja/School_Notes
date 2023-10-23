@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "b72619ed2f08d744",
-      "parent": 0,
-      "droppable": true,
-      "text": "Group Study Guide - Roshan's Notes - Obsidian Publish",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
