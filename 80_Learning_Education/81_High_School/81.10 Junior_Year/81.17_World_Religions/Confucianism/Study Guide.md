@@ -1,3 +1,8 @@
+---
+tags:
+  - religion
+  - worldreligions
+---
 
 
 ### Hinduism
