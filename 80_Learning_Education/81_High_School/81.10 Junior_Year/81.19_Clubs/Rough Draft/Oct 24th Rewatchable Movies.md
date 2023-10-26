@@ -120,3 +120,12 @@ Certainly! Here’s a detailed nested bulletpoint list discussing these films:
     - _Humor_: A dark comedy with heartfelt and humorous moments.
     - _Characters_: Each family member is uniquely flawed yet endearing.
     - _Indie Success_: A standout example of a successful independent film.
+
+
+| Angelo          | Curtis             | Roshan                       |     |
+| --------------- | ------------------ | ---------------------------- | --- |
+| A Quiet Place I | Rudy               | Spirited Away                | R   |
+| Ace Ventura I   | Bullet Train       | Dark Knight 2008             | C   |
+| Cars I          | Ford Vs Ferrari    | Silence Of The Lambs         | A   |
+| Grownups I      | Back to the Future | Fast and Furious Tokyo Drift | -   | 
+| The Sandlot I   | Brave Heart        | Rush Hour 1                  |     |
