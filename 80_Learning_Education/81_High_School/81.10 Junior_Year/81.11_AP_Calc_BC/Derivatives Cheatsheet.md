@@ -85,3 +85,62 @@ $\int^{b}_{a} \,f(x)dx = F(b) - F(a)$
 
 #### Properties
 
+Certainly! Below is a section on the properties of integrals:
+
+#### Properties of Integrals
+
+1. **Linearity**: 
+   - Scalar Multiplication: $\int_a^b c \cdot f(x) \, dx = c \cdot \int_a^b f(x) \, dx$
+   - Addition/Subtraction: $\int_a^b (f(x) \pm g(x)) \, dx = \int_a^b f(x) \, dx \pm \int_a^b g(x) \, dx$
+
+2. **Interval Properties**:
+   - Reversal of Limits: $\int_a^b f(x) \, dx = -\int_b^a f(x) \, dx$
+   - Zero Width: $\int_a^a f(x) \, dx = 0$
+   - Additivity: $\int_a^b f(x) \, dx + \int_b^c f(x) \, dx = \int_a^c f(x) \, dx$
+
+3. **Comparison**: If $f(x) \geq g(x)$ for all $x$ in $[a, b]$, then $\int_a^b f(x) \, dx \geq \int_a^b g(x) \, dx$.
+
+4. **Absolute Values**: $\left| \int_a^b f(x) \, dx \right| \leq \int_a^b |f(x)| \, dx$
+
+5. **Mean Value Theorem for Integrals**: If $f$ is continuous on $[a, b]$, then there exists some $c$ in $(a, b)$ such that $\int_a^b f(x) \, dx = f(c)(b - a)$.
+
+
+Certainly! Here's a list of common integrals:
+
+#### Common Integrals
+
+1. **Power Rule (for $n \neq -1$)**: 
+
+$\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$
+
+2. **Exponential Function**: 
+
+$\int e^x \, dx = e^x + C$
+
+3. **Natural Logarithm**: 
+
+$\int \frac{1}{x} \, dx = \ln|x| + C$
+
+4. **Trigonometric Functions**: 
+   - $\int \sin(x) \, dx = -\cos(x) + C$
+   - $\int \cos(x) \, dx = \sin(x) + C$
+   - $\int \tan(x) \, dx = -\ln|\cos(x)| + C$ or $-\ln|\sec(x)| + C$
+   - $\int \sec^2(x) \, dx = \tan(x) + C$
+   - $\int \sec(x)\tan(x) \, dx = \sec(x) + C$
+   - $\int \csc^2(x) \, dx = -\cot(x) + C$
+   - $\int \csc(x)\cot(x) \, dx = -\csc(x) + C$
+
+5. **Inverse Trigonometric Functions**: 
+   - $\int \arcsin(x) \, dx = x \arcsin(x) + \sqrt{1-x^2} + C$
+   - $\int \arccos(x) \, dx = x \arccos(x) - \sqrt{1-x^2} + C$
+   - $\int \arctan(x) \, dx = x \arctan(x) - \frac{1}{2} \ln |1+x^2| + C$
+
+6. **Exponential Growth/Decay**: 
+
+$\int a \cdot e^{kx} \, dx = \frac{a}{k} \cdot e^{kx} + C$
+
+7. **Logarithmic Functions (for $a > 0$, $a \neq 1$)**: 
+
+$\int \log_a(x) \, dx = x (\ln(x) \log_a(e) - \ln(a) \log_a(e)) + C$
+
+In all of the above, $C$ represents the constant of integration. Remember, Indefinite Integrals are all ==sets of functions== not specific functions.
