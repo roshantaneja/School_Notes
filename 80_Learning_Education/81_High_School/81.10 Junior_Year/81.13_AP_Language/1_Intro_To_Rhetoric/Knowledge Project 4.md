@@ -42,3 +42,29 @@ The podcast addresses the availability and efficacy of treatment programs, inclu
 The discussion includes an examination of the intersection between mental health issues, such as OCD, and addiction.
 
 Finally, the episode seems to cover a range of related topics, from caffeine consumption to the biology of addiction, the role of dopamine, and the impact of substance use on the developing brain.
+
+
+1. **Introduction to Addictionology**
+    
+    - The episode introduces Dr. Erin Parisi, a specialist in addictionology.
+    - The host, Alie Ward, explains the logistics of the interview, highlighting it as a remote recording.
+    - The excitement about the interview suggests it covers important and sought-after information on addiction.
+2. **Therapy and Support Systems**
+    
+    - The discussion touches on the availability of therapy options, with a focus on finding suitable therapists for individual needs.
+    - There's an emphasis on the commonality of addiction issues, aiming to remove the stigma and the feeling of isolation in those who suffer from addiction.
+3. **Common Misconceptions and Humor in Addiction**
+    
+    - Dr. Erin Parisi responds to questions about the casual use of the term "addiction" in everyday language.
+    - Humor is used as a tool to discuss addiction, indicating an approach to the topic that is both serious and accessible.
+4. **Resource Sharing and Further Learning**
+    
+    - The transcript mentions links and resources for listeners to explore topics such as substance use disorder, overdose statistics, and addiction biology.
+    - There's a clear intention to educate the audience further on the subject matter of addictionology.
+5. **Engagement with the Audience**
+    
+    - The host and the guest seem to engage with the audience on a personal level, sharing anecdotes and encouraging feedback.
+6. **Conclusion and Contact Information**
+    
+    - The episode wraps up with a personal note from the host, expressing vulnerability and a message of love to the audience.
+    - There's a call to action for comments and inquiries, fostering community engagement.
