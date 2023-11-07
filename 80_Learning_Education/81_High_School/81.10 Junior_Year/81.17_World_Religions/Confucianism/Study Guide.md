@@ -3,8 +3,6 @@ tags:
   - religion
   - worldreligions
 ---
-
-
 ### Hinduism
 
 - cycle of life and rebirth
