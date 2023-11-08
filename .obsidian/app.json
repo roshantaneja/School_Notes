@@ -11,7 +11,7 @@
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
     "downscalePercent": 60
