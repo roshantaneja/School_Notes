@@ -44,8 +44,6 @@ We want to write the Huffman tree into the compressed file, but it isn't possibl
 
 There are a variety of ways to flatten the tree, but one tidy and compact approach is to summarize the tree as two sequences: a sequence of bits that give the shape of the tree and a sequence of characters that correspond to the tree leaves.
 
-
-
 * The tree shape is flattened into a sequence of bits as follows:
     * If the root of the tree is a leaf node, it’s represented by the bit 0.
     * If the root of the tree is not a leaf node, it’s represented by a 1 bit, followed by the flattened version of its **zero** (left) subtree, followed by the flattened **one** (right) subtree.
@@ -53,8 +51,6 @@ There are a variety of ways to flatten the tree, but one tidy and compact approa
 * The tree leaves are flattened into a sequence of characters by listing the characters of the leaf nodes as visited during an in-order traversal.
 
 Together the two flattened sequences describe the tree shape and data in a way that allows us to later recreate the original tree.
-
-
 
 For example, the two encoding trees below left and middle are labeled with the flattened sequence of bits and sequence of characters:
 
@@ -115,10 +111,9 @@ Letters
 	    B   P    O   R
 ```
 
-Flattened Tree: 
+Flattened Tree: 11010010100 KBPEOR
 
-11010010100
-KBPEOR
+---
 
 ## Step #1 - Familiarize yourself with the code
 
@@ -145,6 +140,8 @@ struct EncodedData {
 This struct is the “input” to the `decompress` function and is the “output” from the `compress` function.  (I’ve done it this way to simplify the process of reading/writing binary files.)  The first two data members, `treeShape` and `treeLeaves`, represent the flattened tree, as you explored in free response question #3 above.  The last data member, `messageBits`, is the actual data of the encoded message.
 * To complete this assignment, all of your code will go in `your_huffman_code.h`.  Essentially, you only have two functions to write, although no doubt you will add several other helper functions to simplify your code.  I had three or four other functions, and the file ended up being about 160 lines of code.
 
+---
+
 ## Step #2 - Write the function decompress
 
 The first step is to “unflatten” the tree, creating a Huffman tree.  This will be a recursive algorithm using the `TreeNode` struct.
@@ -152,6 +149,8 @@ The first step is to “unflatten” the tree, creating a Huffman tree.  This wi
 Once you have this tree, you should loop through the message and decode the message.  I found it easier to do this iteratively rather than recursively, but feel free to do it however you want.
 
 When you think you’re done, you can test your code by trying to decompress the file `mystery.txt.huf`.  I won’t tell you what that file is, but you can check with me.
+
+---
 
 ## Step #3 - Write the function compress
 

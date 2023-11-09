@@ -1,3 +1,10 @@
+---
+tags:
+  - APLang
+  - notes
+---
+
+
 From Chunk 1:
 - The podcast is hosted by Alie Ward and features Dr. Erin Parisi.
 - The episode is recorded remotely, suggesting a flexible and possibly wide-reaching discussion format.
