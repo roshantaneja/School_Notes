@@ -102,13 +102,13 @@ Letters
 |      R | 1    |
 
 ```
-			10
-		  /    \
-		 4      6
-	   /  \   /   \
-	  K   2  E     3
-	     / \      / \
-	    B   P    O   R
+                 10                    
+       /                   \               
+      4                     6            
+    /    \                 /   \         
+  K         2            E        3     
+          /     \               /     \  
+         B       P             O       R
 ```
 
 Flattened Tree: 11010010100 KBPEOR
