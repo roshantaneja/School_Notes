@@ -23,5 +23,5 @@ Classical Sufis were characterized by their attachment to the practice of repeat
 - Fasting
 	- Ramadan
 - Hajj
-	- at least once in ur lifetime.
+	- at least once in your lifetime.
 
