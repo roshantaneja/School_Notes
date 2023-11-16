@@ -169,9 +169,6 @@ string decompress(EncodedData& data) {
         result += cur->ch;  
     }  
     return result;  
-}  
-  
-  
-  
+}
 #endif //HUFFMAN_YOUR_HUFFMAN_CODE_H
 ```
