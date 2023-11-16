@@ -45,17 +45,21 @@
   },
   "treeData": [
     {
-<<<<<<< HEAD
-      "id": "bb32a882e5a44d08",
-      "parent": 0,
-      "droppable": true,
-      "text": "In my family we practice respect for el | Spanish Translator",
-=======
       "id": "e1dacc7b6fa6133d",
       "parent": 0,
       "droppable": true,
       "text": "New Tab",
->>>>>>> origin/main
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "b3d3f81169f57a97",
+      "parent": 0,
+      "droppable": true,
+      "text": "lord byron contribution to romanticism at DuckDuckGo",
       "data": {
         "fileType": "site",
         "fileSize": "",
