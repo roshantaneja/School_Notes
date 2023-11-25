@@ -45,16 +45,10 @@
   },
   "treeData": [
     {
-<<<<<<< HEAD
       "id": "bb32a882e5a44d08",
       "parent": 0,
       "droppable": true,
       "text": "In my family we practice respect for el | Spanish Translator",
-=======
-      "id": "e1dacc7b6fa6133d",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
@@ -62,11 +56,10 @@
       }
     },
     {
-      "id": "b3d3f81169f57a97",
+      "id": "0352498b6b7e8c2d",
       "parent": 0,
       "droppable": true,
-      "text": "Lord Byron: Literary Contribution to Romanticism",
->>>>>>> origin/main
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
