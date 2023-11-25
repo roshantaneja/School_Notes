@@ -16,6 +16,7 @@
    - The cult's activities and beliefs are central to the novel's exploration of the origins and impacts of the titular "Snow Crash" – a drug/computer virus.
    - Characters in the novel investigate and interact with members or elements of the cult, unraveling its mysteries and implications.
 
+.00
 4. **Leadership and Structure**:
    - The cult has a hierarchical structure with a charismatic leader or leaders.
    - The leadership is knowledgeable about the ancient languages and myths that underpin their beliefs and practices.
