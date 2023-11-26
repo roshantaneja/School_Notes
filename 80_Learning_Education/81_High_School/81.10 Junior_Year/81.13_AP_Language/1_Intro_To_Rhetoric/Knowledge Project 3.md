@@ -5,7 +5,7 @@ tags:
   - homework
   - English
 ---
-[Architectural Technology with Iddris Sandu Ologies Podcast](70_Sources/70_Articles/70.00_Misc/Oologies/Architectural%20Technology%20with%20Iddris%20Sandu%20Ologies%20Podcast.md)
+[Architectural Technology](70_Sources/70_Articles/70.00_Misc/Oologies/Architectural%20Technology.md)
 
 
 # Reactions and Insights
