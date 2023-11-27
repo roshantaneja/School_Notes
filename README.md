@@ -1,4 +1,4 @@
-# Brain
+# School_Notes
 ---
 I made a private repo to keep my school notes here because sometimes I forget to take notes, so now I feel motivated.
 
@@ -6,11 +6,9 @@ There are easier ways to take notes, but I also forget my laptop when I go to sc
 
 ### Counter of Forgotten laptop days (updating):
 
-#### 48
+### 48
 
-<u>now theres a live site hosted through gh-pages</u> (I just broke it, going to fix it soon)
-
-[daroshi11260.github.io/School_Notes/](https://daroshi11260.github.io/School_Notes/ "https://daroshi11260.github.io/School_Notes/") <-- very outdated, will fix soon
+<s>now theres a live site hosted through gh-pages</s> (I just broke it, going to fix it soon)
 
 Still working on styling and stuff but hopefully, this should be good
 
@@ -25,5 +23,9 @@ Still working on styling and stuff but hopefully, this should be good
 | maybe a jekyll theme?                                              | nope (not gonna do it)        |
 | add links to readme to nav site                                    | yes                           |
 | link notes together somehow                                        | Yes                           |
-| Move to MDBOOK instead of MKdocs                                   | in progress, wait till summer |
-| use johnny decimal system                                          | done                          | 
+| Move to MDBOOK instead of MKdocs                                   | final move to personal domain |
+| use johnny decimal system                                          | done                          |
+| fix my dns config                                                  | in progress                   |
+| finish my auto-linking script                                      | not done                      | 
+
+

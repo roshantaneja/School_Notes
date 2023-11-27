@@ -27,7 +27,11 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "90_Personal": "😄",
   "80_Learning_Education": "📚",
@@ -36,6 +40,5 @@
   "20_Creations": "🌻",
   "30_Obsidian": "🟪",
   "00_INBOX": "🔔",
-  "README.md": "📎",
   "90_Personal/91_Daily_Notes/2023-07-04.md": "🦅"
 }

@@ -16,7 +16,7 @@ AP English Language and Composition
 
 Pomegranates are not fruit; they're a task. A multi-seeded, succulent, red and sweet job that requires skill, time, and a hefty spoon. Their leathery skin protects a treasure trove of juicy arils, nature's equivalent of Gushers, that lie packed together like rubies in a jewel box.
 
-Pomegranates have been celebrated for thousands of years, symbolising abundance in many cultures. And modern science, for once, seems to back up ancient sentimentality. Research indicates that pomegranates are full of antioxidants, can improve cholesterol levels, and might even fight off some types of cancer (15 Health Benefits of Pomegranate Juice). All this, and they're low in calories and fat. They are, perhaps, the healthiest inconvenience you can subject yourself to, a lesson in delayed gratification that pays off in health benefits and the occasional stained T-shirt.
+Pomegranates have been celebrated for thousands of years, symbolising abundance in many cultures. And modern science, for once, seems to back up ancient sentimentality. Research indicates that pomegranates are full of antioxidants, can improve cholesterol levels, and might even fight off some types of cancer ([15 Health Benefits of Pomegranate Juice](70_Sources/72_Research/72.00_Go_Gale_One_FIle/15%20Health%20Benefits%20of%20Pomegranate%20Juice.md)). All this, and they're low in calories and fat. They are, perhaps, the healthiest inconvenience you can subject yourself to, a lesson in delayed gratification that pays off in health benefits and the occasional stained T-shirt.
 
 Which brings me to my pomegranate tree.
 
@@ -43,7 +43,7 @@ I don't see Mrs. Rao much these days. She stays inside, understandably so. I tak
 
 <center>Works Cited</center>
 
-"15 Health Benefits of Pomegranate Juice." Iran Daily (Tehran, Iran), 16 Feb. 2017. Gale General OneFile, research.ebsco.com/linkprocessor/plink?id=81ad6b29-fe7d-36cf-9e74-1be34f48cf50.
+"[15 Health Benefits of Pomegranate Juice](70_Sources/72_Research/72.00_Go_Gale_One_FIle/15%20Health%20Benefits%20of%20Pomegranate%20Juice.md)." Iran Daily (Tehran, Iran), 16 Feb. 2017. Gale General OneFile, research.ebsco.com/linkprocessor/plink?id=81ad6b29-fe7d-36cf-9e74-1be34f48cf50.
 
 ---
 

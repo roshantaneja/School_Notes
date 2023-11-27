@@ -6,7 +6,7 @@ tags:
 
 Underline or *Italicize* Titles of books, novels, piece
 
-Short Story, Speeches or Poem are in "Quotations"
+[Short Story](80_Learning_Education/81_High_School/81.00_Sophomore_Year/81.03_US_Literature/Unit%202/Short%20Story.md), Speeches or Poem are in "Quotations"
 
 
 Don't Misspell Antigua/Antiguans

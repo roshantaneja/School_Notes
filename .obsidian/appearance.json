@@ -1,4 +1,9 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "baseFontSize": 26
+=======
+  "baseFontSize": 23,
+  "cssTheme": "Obsidian gruvbox"
+>>>>>>> origin/main
 }

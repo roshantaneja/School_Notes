@@ -9,3 +9,7 @@
 *.DS_Store
 
 idea/*
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
