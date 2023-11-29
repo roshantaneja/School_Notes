@@ -10,7 +10,7 @@ Sufis believe they are practicing the true and purist form of Islam as revealed 
 Classical Sufis were characterized by their attachment to the practice of repeating the names of god.
 
 ## SHIA
-- Ali Is the Leader
+- Ali (and his descendats) Is the Leader
 
 ## SUNNI
 - 
