@@ -53,11 +53,11 @@ tags:
 - Compare and contrast the Shia and Sunni perspectives on leadership in Islam.
 
 - Explain the importance of the Five Pillars of Islam in the life of a Muslim.
-- 
+
 - Discuss the impact of orientalism on perceptions of Islam in the West.
-- 
+
 - Explain the differences between the Sunni and Shia branches of Islam.
-- 
+
 - Describe the significance of the Hajj in Islamic practice.
 
 ### 5. PROTHERO FRAMEWORK + SMART FRAMEWORK
@@ -69,7 +69,7 @@ tags:
    - Technique: The 5 Pillars of Islam
    - Exemplars: Muhammad, revered Imams (Shia), Mystics (Sufis)
 
-- **Prothero's Framework**: Focuses on four elements: problem, solution, technique, exemplars. For Islam, the problem can be ignorance of divine will, the solution is submission to God, the technique is following the Quran and Sunnah, and exemplars are figures like Muhammad and Ali.
+- **Prothero's Framework**: Focuses on four elements: problem, solution, technique, exemplars. For Islam, the problem can be ignorance of divine will, the solution is submission to God, the technique is following the Quran and Sunnah, and exemplars are figures like Muhammad and Ali. According to prothero, the biggest issue with human nature is its greediness, which he solves by following the 5 pillars of islam and the quran.
 
 2. **Smart’s Framework**:
    - Ritual: The Five Pillars of Islam
