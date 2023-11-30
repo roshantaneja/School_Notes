@@ -35,7 +35,7 @@ tags:
 - **Prophet Muhammad**: The founder of Islam, believed to be the last prophet sent by God.
 
 - **Gabriel**: The angel who is believed to have revealed the Quran to Muhammad.
-
+	
 - **Ali**: Important figure in Shia Islam, regarded as the first Imam.
 
 ### 3. IMPORTANT STORIES/NARRATIVES
