@@ -3,34 +3,52 @@ tags:
   - worldreligions
   - religion
 ---
+### 1. VOCAB, TERMS, CONCEPTS
 
-## SUFISM
-Ascetics
-Sufis believe they are practicing the true and purist form of Islam as revealed by Gabriel to Muhammed.
-Classical Sufis were characterized by their attachment to the practice of repeating the names of god.
+#### A. Sufism
 
-## SHIA
-- Ali (and his descendats) Is the Leader
+- **Ascetics**: Individuals who practice severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.
 
-## SUNNI
-* believe that the leader of islam is 
+- **Sufis**: Followers of Sufism, known for their mystical and spiritual interpretation of Islam.
 
+- **Repeating the Names of God**: A common Sufi practice involving the recitation of God's names to achieve spiritual closeness.
 
+#### B. Shia
 
-# Five Pillars of Worship
+- **Ali**: Cousin and son-in-law of Prophet Muhammad, regarded by Shia Muslims as the rightful successor.
 
-- Testimony of faith
-	- Shahada
-- Prayer
-	- 5 times/day
-	- facing mecca
-- Charity
-	- 2.5% of savings
-	- 
-- Fasting
-	- Ramadan
-- Hajj
-	- at least once in your lifetime
-	- Religious Pilgrimage to Mecca
-	- 
+- **Imamate**: The Shia belief in the leadership of Islam by Imams, descendants of Ali.
 
+#### C. Sunni
+
+- **Caliphate**: Sunni belief in the leadership of the Muslim community based on elected or consensually chosen leaders.
+
+### 2. PEOPLE
+
+- **Prophet Muhammad**: The founder of Islam, believed to be the last prophet sent by God.
+
+- **Gabriel**: The angel who is believed to have revealed the Quran to Muhammad.
+
+- **Ali**: Important figure in Shia Islam, regarded as the first Imam.
+
+### 3. IMPORTANT STORIES/NARRATIVES
+
+- **The Revelation of the Quran**: The story of how the angel Gabriel revealed the Quran to Muhammad.
+
+- **The Hijra**: The migration of Muhammad and his followers from Mecca to Medina, marking the start of the Islamic calendar.
+
+- **The Battle of Karbala**: A defining event in Shia Islam, where Husayn ibn Ali, a grandson of Muhammad, was martyred.
+
+### 4. POSSIBLE Qs FOR SHORT ANSWER or ESSAY
+
+- Discuss the significance of Sufism in the broader context of Islamic practice.
+
+- Compare and contrast the Shia and Sunni perspectives on leadership in Islam.
+
+- Explain the importance of the Five Pillars of Islam in the life of a Muslim.
+
+### 5. PROTHERO FRAMEWORK + SMART FRAMEWORK
+
+- **Prothero's Framework**: Focuses on four elements: problem, solution, technique, exemplars. For Islam, the problem can be ignorance of divine will, the solution is submission to God, the technique is following the Quran and Sunnah, and exemplars are figures like Muhammad and Ali.
+
+- **Smart's Framework**: Considers seven dimensions of religion - ritual, narrative/mythic, experiential/emotional, social/institutional, ethical/legal, doctrinal/philosophical, and material. These can be used to explore different aspects of Islam, such as the Five Pillars (ritual), Quranic stories (narrative), Sufi mysticism (experiential), Sunni/Shia divisions (social), Sharia law (ethical), theology (doctrinal), and mosques (material).
