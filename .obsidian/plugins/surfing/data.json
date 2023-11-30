@@ -45,17 +45,21 @@
   },
   "treeData": [
     {
-<<<<<<< HEAD
       "id": "bb32a882e5a44d08",
       "parent": 0,
       "droppable": true,
       "text": "In my family we practice respect for el | Spanish Translator",
-=======
-      "id": "e1dacc7b6fa6133d",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d7cbdba4a24bd70d",
       "parent": 0,
       "droppable": true,
       "text": "ChatGPT",
->>>>>>> origin/main
       "data": {
         "fileType": "site",
         "fileSize": "",
