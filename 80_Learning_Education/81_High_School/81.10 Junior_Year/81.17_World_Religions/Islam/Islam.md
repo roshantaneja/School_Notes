@@ -13,7 +13,7 @@ Classical Sufis were characterized by their attachment to the practice of repeat
 - Ali (and his descendats) Is the Leader
 
 ## SUNNI
-- 
+* believe that the leader of islam is 
 
 
 
@@ -23,10 +23,14 @@ Classical Sufis were characterized by their attachment to the practice of repeat
 	- Shahada
 - Prayer
 	- 5 times/day
+	- facing mecca
 - Charity
 	- 2.5% of savings
+	- 
 - Fasting
 	- Ramadan
 - Hajj
-	- at least once in your lifetime.
+	- at least once in your lifetime
+	- Religious Pilgrimage to Mecca
+	- 
 

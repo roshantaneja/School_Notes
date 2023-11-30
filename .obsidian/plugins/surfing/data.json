@@ -59,7 +59,40 @@
       "id": "d7cbdba4a24bd70d",
       "parent": 0,
       "droppable": true,
-      "text": "ChatGPT",
+      "text": "ChatGPT - Sticker Whiz",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "aaf5704dd2933646",
+      "parent": 0,
+      "droppable": true,
+      "text": "chubby baby crocodile meme at DuckDuckGo",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "c57c7eaf348efa55",
+      "parent": 0,
+      "droppable": true,
+      "text": "Cart | Sticker Mule",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "f61304490a9f3ac6",
+      "parent": 0,
+      "droppable": true,
+      "text": "Sign In - Google Accounts",
       "data": {
         "fileType": "site",
         "fileSize": "",
