@@ -30,7 +30,7 @@ In the Oddyssey, Oddysseus (confusingly called Ulysses in English Literature) ha
 
 Some examples of Ulysses Pacts:
 - Leaving your credit card or keys at home when you go out to drink
-- publishing a warrent canary on your company's website
+- publishing a warrant canary on your company's website
 - **standardizing all your tools on plain text** (wink wink)
 
 In the future, me or my successor, may be tempted to try the new "hottest project management software" or "newest collaboration tool" or "newest file sharing service". While it might be good for a while, the act of changing tools constantly is an enormous overhead for your team, and give the lasting impression that anything that they write may soon be legacy very soon. So why bother?
