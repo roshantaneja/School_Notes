@@ -85,7 +85,9 @@
       "type": "web",
       "theme": "auto",
       "view": "day",
-      "offset": 0
+      "offset": 0,
+      "width": -1,
+      "height": 500
     }
   }
 }
