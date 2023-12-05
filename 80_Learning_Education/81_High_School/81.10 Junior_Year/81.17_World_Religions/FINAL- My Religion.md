@@ -1,5 +1,8 @@
 ---
-tags: [WorldReligions, religion, final]
+tags:
+  - worldreligions
+  - religion
+  - final
 ---
 
 ### Background and Context`
