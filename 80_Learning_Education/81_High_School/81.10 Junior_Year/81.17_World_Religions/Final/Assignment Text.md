@@ -1,3 +1,11 @@
+---
+tags:
+  - worldreligions
+  - religion
+  - final
+---
+
+
 What SPECIFICALLY needs to be done?
 
 

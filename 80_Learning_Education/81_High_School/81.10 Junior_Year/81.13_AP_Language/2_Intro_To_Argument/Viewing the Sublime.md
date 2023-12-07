@@ -1,7 +1,8 @@
 ---
 tags:
-	- English
-	- APLang
+  - English
+  - APLang
+sticker:
 ---
 
 Viewing the Sublime
