@@ -7,7 +7,7 @@
   "enableMenu": true,
   "enablePointer": false,
   "enableTimeBar": false,
-  "theme": "blood",
+  "theme": "",
   "highlightTheme": "",
   "transition": "slide",
   "transitionSpeed": "normal",
