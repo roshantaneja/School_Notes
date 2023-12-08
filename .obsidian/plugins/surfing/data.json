@@ -45,10 +45,43 @@
   },
   "treeData": [
     {
-      "id": "e1dacc7b6fa6133d",
+      "id": "d7cbdba4a24bd70d",
       "parent": 0,
       "droppable": true,
       "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "bb32a882e5a44d08",
+      "parent": 0,
+      "droppable": true,
+      "text": "In my family we practice respect for el | Spanish Translator",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "008e488bbcfcf25e",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "3b85443f222dccd9",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
