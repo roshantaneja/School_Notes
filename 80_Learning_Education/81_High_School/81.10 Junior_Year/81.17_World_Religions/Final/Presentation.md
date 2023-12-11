@@ -24,7 +24,7 @@ tags:
 - Belief in a primordial language that can affect human cognition and behavior
 
 
-![Image|200](30_Obsidian/32_Attachments/Asherah.png.png)
+![Image|200](30_Obsidian/32_Attachments/Asherah/Asherah.png.png)
 
 ---
 
@@ -51,7 +51,9 @@ tags:
 | Cultural/Historical Reference            |
 | Critique of organized religion and cults |
 
-![Image|100](30_Obsidian/32_Attachments/AsherahAndBabel.png)
+![Image|200](30_Obsidian/32_Attachments/Asherah/AsherahAndBabel.png)  ![Image|200](30_Obsidian/32_Attachments/Asherah/Reverand.png)
+
+
 
 ---
 
