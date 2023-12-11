@@ -23,30 +23,35 @@ tags:
 - Cult integrates aspects of Sumerian mythology and linguistics
 - Belief in a primordial language that can affect human cognition and behavior
 
+
+![Image|200](30_Obsidian/32_Attachments/Asherah.png.png)
+
 ---
 
 ## Leadership and Structure
 - Hierarchical Structure with a charismatic leader or leaders.
 - The leadership is knowledgeable about the ancient languages and myths that underpin their beliefs and practices.
 
+
+
 ---
 
 ## Impact on Society and Interpretation
-- Cult activities have significant implications fro the novel's society, particularly how language and belief systems can be used as tools of power and control.
+- Cult activities have significant implications from the novel's society, particularly how language and belief systems can be used as tools of power and control.
 
 ---
 
 ## Symbolism and Interpretation
 
 
-```
+
 | Ashera As:                               |
 | ---------------------------------------- |
 | Symbol                                   |
 | Cultural/Historical Reference            |
 | Critique of organized religion and cults |
-```
 
+![Image|100](30_Obsidian/32_Attachments/AsherahAndBabel.png)
 
 ---
 
