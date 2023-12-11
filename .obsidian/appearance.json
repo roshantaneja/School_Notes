@@ -1,6 +1,10 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "baseFontSize": 12,
+=======
+  "baseFontSize": 27,
+>>>>>>> origin/main
   "theme": "obsidian",
   "cssTheme": "Typewriter"
 }
