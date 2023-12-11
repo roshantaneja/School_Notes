@@ -5,12 +5,10 @@ tags:
   - final
   - APLang
 ---
-
-
-
+### <div align="right">Roshan Taneja</div>
 # "Exploring the Gothic Depths of Frankenstein: A Quote Analysis"
 
-While much of the book "Frankenstein: The Modern Prometheus" Contains Elements of Gothic fiction, the most prominent section of the book that infuses the text with several elements of gothic fiction is especially Chapter 5. Viktor's sudden change in demeanour after creating the monster is something to behold and is all the more so accentuated by the gothic archetypes in the text.
+While much of the book "Frankenstein: The Modern Prometheus" Contains Elements of Gothic fiction, the most prominent section of the book that infuses the text with several elements of gothic fiction is especially Chapter 5. Viktor's sudden change in demeanor after creating the monster is something to behold and is all the more so accentuated by the gothic archetypes in the text.
 
 In this infographic, we will go through a few elements of Gothic Fiction and how it played into the beginning of chapter 5. 
 
@@ -59,7 +57,7 @@ In this infographic, we will go through a few elements of Gothic Fiction and how
 "It was on a dreary night of November that I beheld the accomplishment of my toils."
 ```
 
-This quote immediately sets the tone for a mysterious and foreboding atmosphere, typical of Gothic novels. The "dreary night of November" evokes a sense of darkness and gloom. This setting is pivotal for the scene where Frankenstein's creation comes to life, marking the climax of his secretive endeavours. It contributes to the theme of forbidden knowledge and the overreaching ambitions of humanity, encapsulating Frankenstein's mix of awe and horror at his creation.
+This quote immediately sets the tone for a mysterious and foreboding atmosphere, typical of Gothic novels. The "dreary night of November" evokes a sense of darkness and gloom. This setting is pivotal for the scene where Frankenstein's creation comes to life, marking the climax of his secretive endeavors. It contributes to the theme of forbidden knowledge and the overreaching ambitions of humanity, encapsulating Frankenstein's mix of awe and horror at his creation.
 
 ### Elements of Horror
 
