@@ -27,5 +27,11 @@
   "obsidian-typewriter@@shrink-formatting": true,
   "sanctum@@dark-mode-contrast-mode": "sanctum-black",
   "sanctum@@color-accent-rgb-d": "102, 153, 97",
-  "sanctum@@active-line-accent": "var(--background-hover)"
+  "sanctum@@active-line-accent": "var(--background-hover)",
+  "encore-settings@@theme-dark": "encore-theme-dark",
+  "encore-settings@@theme-light": "encore-theme-light-sterling",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-translucency": false,
+  "encore-settings@@encore-no-makemd": false
 }

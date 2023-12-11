@@ -1,3 +1,10 @@
+---
+tags:
+  - final
+  - English
+  - APLang
+---
+
 -  Evil in human nature ultimately originates from rejection.
 -  Artists, inventors, and other self-driven people are egotistical and selfish in the pursuit of their art or their talent.
 	* History
