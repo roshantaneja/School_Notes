@@ -1,3 +1,12 @@
+---
+tags:
+  - English
+  - APLang
+  - knowledgeproject
+---
+
+
+
 1. **Raising Awareness and Understanding of ADHD**: The episode focuses on bringing awareness to the lived experiences of individuals with ADHD, highlighting the challenges they face in a world designed for neurotypicals.
 
 2. **Personal Stories and Experiences**: The guests share their personal experiences with ADHD, including struggles with diagnosis, coping with the disorder, and the impact it has had on their lives.

@@ -7,9 +7,6 @@ tags:
 
 -  Evil in human nature ultimately originates from rejection.
 -  Artists, inventors, and other self-driven people are egotistical and selfish in the pursuit of their art or their talent.
-	* History
-	* Contemporary issues
-	* Another book
 -  There is no limit to what human beings should try to know or understand about the universe.
 - We would live in a better world if we did not use any judgments about physical appearance in making friends (or enemies). 
 - Parents have a duty to love their children no matter what.

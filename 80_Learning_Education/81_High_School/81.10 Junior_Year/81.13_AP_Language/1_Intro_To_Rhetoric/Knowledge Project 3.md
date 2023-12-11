@@ -4,6 +4,7 @@ tags:
   - notes
   - homework
   - English
+  - knowledgeproject
 ---
 [Architectural Technology](70_Sources/70_Articles/70.00_Misc/Oologies/Architectural%20Technology.md)
 
