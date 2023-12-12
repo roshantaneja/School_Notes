@@ -22,6 +22,6 @@
   "templater-obsidian",
   "garble-text",
   "obsidian-style-settings",
-  "obsidian-advanced-slides",
-  "calendar"
+  "calendar",
+  "marp-slides"
 ]
