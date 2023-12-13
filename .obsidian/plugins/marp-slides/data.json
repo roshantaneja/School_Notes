@@ -1,7 +1,7 @@
 {
   "CHROME_PATH": "",
   "ThemePath": "",
-  "EnableHTML": false,
+  "EnableHTML": true,
   "MathTypesettings": "katex",
   "HTMLExportMode": "bare",
   "EXPORT_PATH": "C:\\Users\\yoshi\\Downloads"
