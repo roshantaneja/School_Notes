@@ -3,41 +3,57 @@ tags:
   - worldreligions
   - religion
   - final
-theme: uncover
+theme: gaia
 backgroundColor: #333
-header: The Cult of Asherah
+header: The Modernized Cult of Asherah
 footer: Roshan Taneja
 color: #eed
 ---
+
 # The Cult of Asherah (Modernized)
 ### By Roshan Taneja
 
 ---
 
+<!-- _header: The Original Cult of Asherah -->
+
 ## The Original Cult of Asherah
 - Ancient Semitic Cult based on the goddess Asherah
-- Believed to have originated in ancient Sumerian.
+- Believed to have originated in ancient Sumerians.
 - Asherah as the "wife of god"/"god of wisdom and knowledge"
+- Majority focus on technological advancement
 
 ![bg left:40% 90%](30_Obsidian/32_Attachments/Asherah/TowerOfBabel.png)
 
 ---
 
+<!-- _header: The Original Cult of Asherah -->
+
 ### Origins and beliefs
 - Based on the ancient Semitic goddess Asherah
 - Cult integrates aspects of Sumerian mythology and linguistics
 - Belief in a primordial language that can affect human cognition and behaviors
-
+- understanding of role in society as utmost importance to success in life.
 
 ![bg right:30% 90%](30_Obsidian/32_Attachments/Asherah/Asherah.png)
+
+---
+## The Modern Cult of Asherah (My Way)
+
+- Belief in binary gods, one male, one female.
+- Everything in the universe is binary
+	- Everything has a binary counterpart
+- Use modern technological practices
+
+![bg right](https://files.oaiusercontent.com/file-Qf7yXA1GGHoGvQBM1PCOB62Y?se=2023-12-13T08%3A55%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1c979cfd-e40d-45c0-b921-4f0c4563a626.webp&sig=0w5kFCHWMzHh/Xiob6/REN4bXVP3qFekYbRYLfoVgsc%3D)
 
 ---
 
 ## Leadership and Structure
 - Hierarchical Structure with a charismatic leader or leaders.
 - The leadership is knowledgeable about the ancient languages and myths that underpin their beliefs and practices.
-
-
+  
+  
 
 ---
 
@@ -106,7 +122,8 @@ color: #eed
 
 ## Specific Your Way Questions
 
-2. **Life’s Big Questions**: How can we control information and use it to our advantage?
+2. **Life’s Big Questions**: 
+	- The true purpose of life is to follow the instructions given to you by the enki.
 
 ![bg left](30_Obsidian/32_Attachments/Asherah/Controller.png)
 
@@ -115,6 +132,7 @@ color: #eed
 ## Specific Your Way Questions
 
 3. **Sacred Text**: Enki's or Religious tablets, believed to be the transcribed instructions of Asherah, in Sumerian Cuneiform.
+	- Would often be followed 
 
 ![bg left](30_Obsidian/32_Attachments/Asherah/SumerianTablet.png)
 
@@ -134,7 +152,9 @@ color: #eed
 ---
 ## Specific Your Way Questions
 
-6. **Symbol and Ritual**: Develop a symbol and a ritual for the Cult, possibly drawing on ancient Sumerian motifs and practices that are central to their beliefs.
+6. **Symbol and Ritual**: Binary
+	- The meaning of the universe
+![bg left](https://files.oaiusercontent.com/file-hLQwEMcLiTOI3zSOs2rkdnZT?se=2023-12-13T08%3A52%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D19ef2ae1-13fd-4f61-aa6b-18fa69208e85.webp&sig=s%2BfDpx4oQdmHRud2P6Rg%2BhqUzgsPUTlU6FBLQ0QilJ4%3D)
 
 ---
 
