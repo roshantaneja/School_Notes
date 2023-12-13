@@ -4,11 +4,7 @@ tags:
   - religion
   - final
   - AnthropoceneReviewed
-theme: uncover
-backgroundColor: #333
-header: The Cult of Asherah
-footer: Roshan Taneja
-color: #eed
+theme: gaia
 ---
 # The Cult of Asherah (Modernized)
 ### By Roshan Taneja
@@ -88,11 +84,6 @@ color: #eed
 
 * **Exemplars:** Leaders and significant members who are knowledgeable about the ancient language and myths.
 ![bg right](30_Obsidian/32_Attachments/Asherah/SumerianLeader.png)
-
----
-
-# Specific Your Way Questions
-
 
 ---
 

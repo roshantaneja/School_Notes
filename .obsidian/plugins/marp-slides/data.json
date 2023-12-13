@@ -1,0 +1,8 @@
+{
+  "CHROME_PATH": "",
+  "ThemePath": "",
+  "EnableHTML": true,
+  "MathTypesettings": "katex",
+  "HTMLExportMode": "bare",
+  "EXPORT_PATH": ""
+}
