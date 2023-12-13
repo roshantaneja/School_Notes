@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Encore",
-  "translucency": true,
+  "translucency": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "IndexHider"

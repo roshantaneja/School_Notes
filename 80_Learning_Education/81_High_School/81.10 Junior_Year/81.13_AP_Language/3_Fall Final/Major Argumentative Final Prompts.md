@@ -6,6 +6,11 @@ tags:
 ---
 
 -  Evil in human nature ultimately originates from rejection.
+
+| My Perspective (From the Book) | External Sources | Counterpoints to the Argument |
+| ------------------------------ | ---------------- | ----------------------------- |
+|                                |                  |                               |
+
 -  Artists, inventors, and other self-driven people are egotistical and selfish in the pursuit of their art or their talent.
 -  There is no limit to what human beings should try to know or understand about the universe.
 - We would live in a better world if we did not use any judgments about physical appearance in making friends (or enemies). 
