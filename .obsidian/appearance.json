@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Encore",
+  "cssTheme": "Tokyo Night Storm",
   "translucency": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "IndexHider"
   ],
-  "baseFontSize": 13
+  "baseFontSize": 16
 }
