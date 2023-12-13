@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "5e8ab83a2a4cd25b",
+      "id": "78915e951f98e37a",
       "parent": 0,
       "droppable": true,
-      "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "050c4e34303f80af",
-      "parent": 0,
-      "droppable": true,
-      "text": "ChatGPT",
+      "text": "Origin of Human Evil",
       "data": {
         "fileType": "site",
         "fileSize": "",

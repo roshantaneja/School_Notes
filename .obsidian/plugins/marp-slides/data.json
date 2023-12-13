@@ -1,7 +1,11 @@
 {
   "CHROME_PATH": "",
   "ThemePath": "",
+<<<<<<< HEAD
   "EnableHTML": true,
+=======
+  "EnableHTML": false,
+>>>>>>> origin/main
   "MathTypesettings": "katex",
   "HTMLExportMode": "bare",
   "EXPORT_PATH": ""

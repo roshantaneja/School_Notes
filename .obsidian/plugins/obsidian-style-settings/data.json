@@ -33,5 +33,6 @@
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@encore-fancy-headers": true,
   "encore-settings@@encore-mobile-translucency": false,
-  "encore-settings@@encore-no-makemd": false
+  "encore-settings@@encore-no-makemd": false,
+  "encore-settings@@encore-disable-grain": true
 }

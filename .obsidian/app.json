@@ -7,14 +7,14 @@
   "smartIndentList": true,
   "showFrontmatter": false,
   "showIndentGuide": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 100
+    "downscalePercent": 77
   },
   "livePreview": true,
   "vimMode": false,
