@@ -3,7 +3,6 @@ tags:
   - worldreligions
   - religion
   - final
-  - AnthropoceneReviewed
 theme: uncover
 backgroundColor: #333
 header: The Cult of Asherah
@@ -68,6 +67,7 @@ color: #eed
 ![bg right](30_Obsidian/32_Attachments/Asherah/HomelessHappyPeople.png)
 
 ---
+<!-- _footer: __-->
 
 ## Prothero 4 Aspects
 
