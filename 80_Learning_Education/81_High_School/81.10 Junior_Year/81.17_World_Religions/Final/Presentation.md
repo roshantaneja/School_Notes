@@ -109,7 +109,6 @@ paginate: true
 
 ---
 
-<!-- _color: white -->
 <!-- header: Specific "Your Way" Questions -->
 
 ### Specific "Your Way" Questions
