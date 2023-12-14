@@ -82,7 +82,9 @@ paginate: true
 
 ### Prothero Questions
 
-![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/ProtheroQuestion.png)
+<!-- _backgroundColor: #334949 -->
+
+![bg brightness:0.3 50%](30_Obsidian/32_Attachments/Asherah/ProtheroQuestion.png)
 
 ---
 
