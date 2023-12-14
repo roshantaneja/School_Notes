@@ -93,7 +93,7 @@ paginate: true
 
 **Goal:** A return to understanding and utilizing the primordial language. Achieving a higher state of consciousness or control over reality through language.
 
- ![bg right](30_Obsidian/32_Attachments/Asherah/Reverand.png)
+![bg right](30_Obsidian/32_Attachments/Asherah/Reverand.png)
 
 ---
 
@@ -163,7 +163,6 @@ A couple examples
 - Good/Evil
 - Happiness/Sadness
 
-
 ![bg left](30_Obsidian/32_Attachments/Asherah/BinaryGods1.png)
 
 ---
@@ -187,11 +186,15 @@ A couple examples
 
 - As an ancient Semitic cult, it likely had a structured form of worship and organization, possibly led by priests or priestesses. The institutional structure would have been central to maintaining the cult's practices, teachings, and rituals.
 
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/Heirarchy.png)
+
 ---
 
 **3. Narrative Dimension:**
 
 - The cult's narrative dimension would revolve around the stories and myths of Asherah, who is believed to have been considered the "wife of god" or "god of wisdom and knowledge." These narratives would form the backbone of the cult's beliefs and practices.
+
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/NarrativeDimension.png)
 
 ---
 
@@ -199,12 +202,16 @@ A couple examples
 
 - Doctrinally, the Cult of Asherah would include beliefs about the nature of Asherah as a deity, her powers, and her role in the spiritual and physical world. This might involve teachings on wisdom, knowledge, and possibly fertility, as Asherah was often associated with these aspects.
 
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/DoctrinalDimension.png)
+
 ---
 
 **5. Ritual Dimension:**
 
 - Ritual practices include offerings, prayers, and possibly festivals dedicated to Asherah. These rituals would be crucial for maintaining a connection with the deity and for communal worship.
-- Much of these ritual practices stem from the original Semitic practices of the Sumerians. 
+- Much of these ritual practices stem from the original Semitic practices of the Sumerians.
+
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/RitualDimension.png)
 
 ---
 
@@ -212,11 +219,15 @@ A couple examples
 
 - The ethical teachings of the cult would be derived from its doctrines and narratives, possibly emphasizing aspects like wisdom, knowledge, and perhaps moral guidelines influenced by Asherah's perceived qualities.
 
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/EthicalDimension.png)
+
 ---
 
 **7. Material Dimension:**
 
 - Material expressions of the cult include statues, altars, or other artefacts dedicated to Asherah. These would be used in ritual practices and as focal points of worship.
+
+
 
 ---
 
