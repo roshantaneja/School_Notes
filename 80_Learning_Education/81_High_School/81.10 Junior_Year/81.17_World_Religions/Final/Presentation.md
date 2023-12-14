@@ -6,9 +6,8 @@ tags:
 backgroundColor: #333
 theme: gaia
 header: The Modernized Cult of Asherah
-footer: Roshan Taneja
-color: aqua
-
+footer: Roshan Taneja - World Religions
+color: "#eef"
 paginate: true
 ---
 
@@ -25,7 +24,7 @@ paginate: true
 - Asherah as the "wife of god"/"god of wisdom and knowledge"
 - Majority focus on technological advancement
 
-![bg left:40% 90%](30_Obsidian/32_Attachments/Asherah/TowerOfBabel.png)
+![bg left:40%](30_Obsidian/32_Attachments/Asherah/TowerOfBabel.png)
 
 ---
 
@@ -37,7 +36,7 @@ paginate: true
 - Belief in a primordial language that can affect human cognition and behaviours
 - understanding of the role in society of utmost importance to success in life.
 
-![bg right:30% 90%](30_Obsidian/32_Attachments/Asherah/Asherah.png)
+![bg right:40%](30_Obsidian/32_Attachments/Asherah/Asherah.png)
 
 ---
 ## The Modern Cult of Asherah (My Way)
@@ -75,7 +74,7 @@ paginate: true
 | Cultural/Historical Reference            |
 | Critique of organized religion and cults |
 
-![bg right 80%](30_Obsidian/32_Attachments/Asherah/AsherahAndBabel.png)
+![bg right](30_Obsidian/32_Attachments/Asherah/AsherahAndBabel.png)
 
 
 ---
@@ -118,7 +117,8 @@ paginate: true
 
 ---
 
-1. **Name**: "Cult of Asherah: The Way of Primordial Language."
+1. **Name**:
+	- "Cult of Asherah: The Way of Primordial Language."
 ![bg left](30_Obsidian/32_Attachments/Asherah/BeliefsOfAsherah.png)
 
 
@@ -126,34 +126,50 @@ paginate: true
 
 2. **Life’s Big Questions**: 
 	- The true purpose of life is to follow the instructions given to you by the Enki.
+	- Participate as an individual in the whole.
+	- Believe anything you want, but follow the instructions.
 
 ![bg left](30_Obsidian/32_Attachments/Asherah/Controller.png)
 
 ---
 
-3. **Sacred Text**: Enki's or Religious tablets, believed to be the transcribed instructions of Asherah, in Sumerian Cuneiform.
-	- Would often be followed 
+3. **Sacred Text**:
+	- Enki's or Religious tablets, believed to be the transcribed instructions of Asherah, in Sumerian Cuneiform.
+	- Would often be followed by everyone to accomplish greater acts of technological advancement as a group.
 
 ![bg left](30_Obsidian/32_Attachments/Asherah/SumerianTablet.png)
 
 
 ---
 
-4. **Contemporary Problems**: Modern Religious groups, especially those based on more antiquated practices are often marginalized or outcasted. Many of the contemporary problems that The Cult of Asherah faces are being labelled as dangerous, or eccentric.
+4. **Contemporary Problems**:
+	- Modern Religious groups, especially those based on more antiquated practices are often marginalized or outcasted.
+	- Many of the contemporary problems that The Cult of Asherah faces are being labelled as dangerous, or eccentric.
 
 ---
 
-5. **Ideal World Description**: Describe what the world would look like if everyone followed the Cult of Asherah. This might involve a society deeply connected to ancient wisdom and the primordial language, with a different understanding of reality and consciousness.
+5. **Ideal World Description**:
+
+	- 
 
 ---
 
-6. **Symbol and Ritual**: Binary
-	- The meaning of the universe
+6. **Symbol and Ritual**:
+
+	- Anything binary is a symbol of the universe.
+A couple examples
+- Day/Night
+- 0/1
+- Good/Evil
+- Happiness/Sadness
+
+
 ![bg left](30_Obsidian/32_Attachments/Asherah/BinaryGods1.png)
 
 ---
 
-<!-- Header: 7 Aspects of Religion -->
+
+<!-- header: 7 Aspects of Religion -->
 
 ### 7 Aspects of Religion
 
@@ -162,6 +178,8 @@ paginate: true
 **1. Experiential (Emotional) Dimension:**
 
 - The Cult of Asherah involves personal experiences and emotional connections with the divine, focusing on Asherah as a significant deity. Worshipers may have experienced a sense of awe, reverence, or spiritual insight through their devotion to Asherah.
+
+![bg right:40 brightness:0.3](30_Obsidian/32_Attachments/Asherah/Experiential.png)
 
 ---
 
@@ -202,6 +220,6 @@ paginate: true
 
 ---
 
-<!-- Header: The Modernized Cult of Asherah -->
+<!-- header: The Modernized Cult of Asherah -->
 
 ## Thanks For Listening!

@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night Storm",
+  "cssTheme": "Typewriter",
   "translucency": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "IndexHider"
   ],
-  "baseFontSize": 26
+  "baseFontSize": 23
 }
