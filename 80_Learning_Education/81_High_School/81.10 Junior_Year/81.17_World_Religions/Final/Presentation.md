@@ -82,6 +82,8 @@ paginate: true
 
 ### Prothero Questions
 
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/ProtheroQuestion.png)
+
 ---
 
 **Problem:** The Disconnection from ancient wisdom acquired by primordial language. Especially relevant to modern society.
@@ -146,11 +148,20 @@ paginate: true
 	- Modern Religious groups, especially those based on more antiquated practices are often marginalized or outcasted.
 	- Many of the contemporary problems that The Cult of Asherah faces are being labelled as dangerous, or eccentric.
 
+![bg left](30_Obsidian/32_Attachments/Asherah/ContemporaryProblems.png)
+
 ---
 
 5. **Ideal World Description**:
+	- Harmony with Nature
+	- Wisdom and Knowledge
+	- Maternal Values and Care
+	- Spiritual Fulfillment
+	- Peace and Cooperation
+	- Equality and Justice
+	- Artistic and Cultural Flourishing
 
-	- 
+![bg left](30_Obsidian/32_Attachments/Asherah/IdealWorld.png)
 
 ---
 
@@ -171,6 +182,8 @@ A couple examples
 <!-- header: 7 Aspects of Religion -->
 
 ### 7 Aspects of Religion
+
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/7Dimensions.png)
 
 ---
 
@@ -227,10 +240,11 @@ A couple examples
 
 - Material expressions of the cult include statues, altars, or other artefacts dedicated to Asherah. These would be used in ritual practices and as focal points of worship.
 
-
+![bg brightness:0.3](30_Obsidian/32_Attachments/Asherah/MaterialDimension.png)
 
 ---
 
 <!-- header: The Modernized Cult of Asherah -->
 
-## Thanks For Listening!
+# Thanks For Listening!
+
