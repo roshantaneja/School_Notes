@@ -100,11 +100,13 @@ paginate: true
 ---
 
 **Techniques:** Use of ancient Sumerian language and rituals along with technology and biotechnology.
+
 ![bg right](30_Obsidian/32_Attachments/Asherah/SnowCrashCapsule.png)
 
 ---
 
 **Exemplars:** Leaders and significant members who are knowledgeable about the ancient language and myths.
+
 ![bg right](30_Obsidian/32_Attachments/Asherah/SumerianLeader.png)
 
 ---
@@ -120,6 +122,7 @@ paginate: true
 
 1. **Name**:
 	- "Cult of Asherah: The Way of Primordial Language."
+
 ![bg left](30_Obsidian/32_Attachments/Asherah/BeliefsOfAsherah.png)
 
 

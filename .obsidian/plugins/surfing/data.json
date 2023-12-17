@@ -65,6 +65,28 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "85267ff6e67ea76f",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "b9fbaa3af7fc26bb",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
