@@ -9,6 +9,12 @@ Tema: Influye la familia en la formacion do los valores de una persona?
 
 Parrafo: Introducion: Tu Tesis
 
+Parrafo #1:Apuntes: Fuente #1: Living on a dollar a day
+
+Parrafo #2: Apuntes: Fuente #2: "Mi Familia" y/o "Familias que yo conozco"
+
+Parrafo #3: "Conclusion"
+
 **Introducción:** La familia juega un papel fundamental en la formación de los valores de una persona, una verdad que se refleja claramente tanto en el documental "Living on One Dollar a Day" como en mis propias experiencias de vida.
 
 **Primer Párrafo - Argumento Principal:** En "Living on One Dollar a Day", observamos cómo la familia influye en los valores de los personajes, especialmente en su enfoque hacia la comunidad y la solidaridad. Por ejemplo, las familias en el documental, a pesar de vivir en extrema pobreza, muestran una profunda compasión y apoyo mutuo. Este comportamiento modela y refuerza valores como la empatía y la cooperación en sus hijos.
