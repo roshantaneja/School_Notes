@@ -21,7 +21,7 @@
   "tabSize": 4,
   "promptDelete": false,
   "readableLineLength": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "30_Obsidian/32_Attachments",
