@@ -9,15 +9,27 @@ Tema: Influye la familia en la formacion do los valores de una persona?
 
 Parrafo: Introducion: Tu Tesis
 
-**Introducción:** La familia juega un papel fundamental en la formación de los valores de una persona, una verdad que se refleja claramente tanto en el documental "Living on One Dollar a Day" como en mis propias experiencias de vida.
+Parrafo #1:Apuntes: Fuente #1: Living on a dollar a day
 
-**Primer Párrafo - Argumento Principal:** En "Living on One Dollar a Day", observamos cómo la familia influye en los valores de los personajes, especialmente en su enfoque hacia la comunidad y la solidaridad. Por ejemplo, las familias en el documental, a pesar de vivir en extrema pobreza, muestran una profunda compasión y apoyo mutuo. Este comportamiento modela y refuerza valores como la empatía y la cooperación en sus hijos.
+Parrafo #2: Apuntes: Fuente #2: "Mi Familia" y/o "Familias que yo conozco"
 
-**Segundo Párrafo - Ejemplo Personal:** De manera similar, en mi vida, la influencia de mi familia ha sido decisiva en la formación de mis valores. Mis padres siempre han enfatizado la importancia de la honestidad y el trabajo duro, valores que han guiado mis decisiones y acciones. Sus enseñanzas se han manifestado en situaciones como mi enfoque en los estudios y en mi responsabilidad al manejar tareas.
+Parrafo #3: "Conclusion"
 
-**Tercer Párrafo - Refutación de Argumentos Contrarios:** Algunos podrían argumentar que los valores son principalmente influenciados por factores externos como los amigos o los medios de comunicación. Si bien estos elementos tienen su impacto, la influencia temprana y continua de la familia en la infancia establece una base sólida para el desarrollo de valores personales.
+### Introducción: Tesis
 
-**Conclusión:** En conclusión, tanto en el ejemplo del documental "Living on One Dollar a Day" como en mi experiencia personal, es evidente que la familia desempeña un papel esencial en la formación de valores. Los valores inculcados por la familia desde la infancia se convierten en los pilares sobre los cuales se construyen nuestras percepciones y comportamientos futuros.
+La familia ejerce una influencia fundamental en la formación de los valores de una persona. Esta afirmación se basa en la observación de cómo las interacciones y experiencias familiares moldean las creencias, actitudes y comportamientos de los individuos desde la infancia hasta la adultez. A través de la película "Living on One Dollar a Day" y mis propias experiencias, analizaré cómo la familia actúa como el núcleo principal en el desarrollo de los valores personales.
+
+### Parrafo #1: "Living on One Dollar a Day"
+
+En el documental "Living on One Dollar a Day", se muestra cómo las familias en situaciones de extrema pobreza, a pesar de sus desafíos, inculcan valores de solidaridad, perseverancia y esperanza. Por ejemplo, la familia de Anthony, uno de los protagonistas, a pesar de sus limitados recursos, muestra una gran solidaridad y apoyo mutuo. Este tipo de ambiente familiar, aunque enfrenta adversidades económicas, refuerza la importancia de la unidad y el trabajo en equipo, valores que Anthony y sus amigos aprenden y valoran profundamente.
+
+### Parrafo #2: "Mi Familia" y/o "Familias que yo conozco"
+
+En mi propia experiencia, he observado cómo mi familia ha sido esencial en la formación de mis valores. La honestidad, el respeto y la empatía son valores que se han reforzado constantemente en mi hogar. Por ejemplo, mis padres siempre han enfatizado la importancia de ser honestos, incluso en situaciones difíciles. Además, en otras familias que conozco, he visto cómo los padres inculcan la importancia del esfuerzo y la educación, mostrando a sus hijos que a través del trabajo duro se pueden alcanzar objetivos significativos.
+
+### Parrafo #3: Conclusión
+
+En conclusión, tanto en el documental "Living on One Dollar a Day" como en mi propia experiencia y la de otras familias, es evidente que la familia juega un papel crucial en la formación de los valores de una persona. Los valores aprendidos en el seno familiar se reflejan en las decisiones y comportamientos de los individuos a lo largo de sus vidas, demostrando que la familia no solo proporciona un contexto para el desarrollo de valores, sino que también actúa como un pilar fundamental en la construcción de la identidad y la moral de una persona.
 
 
 

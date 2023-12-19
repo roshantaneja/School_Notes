@@ -1,10 +1,16 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Tokyo Night Storm",
   "translucency": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "IndexHider"
   ],
+<<<<<<< HEAD
   "baseFontSize": 27
+=======
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": ""
+>>>>>>> origin/main
 }
