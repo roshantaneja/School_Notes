@@ -43,7 +43,6 @@
     ],
     "defaultFilterType": "tree"
   },
-<<<<<<< HEAD
   "treeData": [
     {
       "id": "4da029f9e7280faf",
@@ -55,42 +54,6 @@
         "fileSize": "",
         "icon": {}
       }
-    },
-    {
-      "id": "368eec6fdf2886a3",
-      "parent": 0,
-      "droppable": true,
-      "text": "Home | George Mason University",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "85267ff6e67ea76f",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "b9fbaa3af7fc26bb",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
     }
   ]
-=======
-  "treeData": []
->>>>>>> origin/main
 }
