@@ -6,6 +6,7 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
+  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"
@@ -45,10 +46,10 @@
   },
   "treeData": [
     {
-      "id": "050c4e34303f80af",
+      "id": "5dc2e5b4e05e98ad",
       "parent": 0,
       "droppable": true,
-      "text": "ChatGPT",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
