@@ -6,7 +6,6 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
-  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"
@@ -46,10 +45,21 @@
   },
   "treeData": [
     {
-      "id": "5dc2e5b4e05e98ad",
+      "id": "050c4e34303f80af",
       "parent": 0,
       "droppable": true,
-      "text": "New Tab",
+      "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "86c6bb9d75b7000d",
+      "parent": 0,
+      "droppable": true,
+      "text": "2023-2024 Common App essay prompts",
       "data": {
         "fileType": "site",
         "fileSize": "",
