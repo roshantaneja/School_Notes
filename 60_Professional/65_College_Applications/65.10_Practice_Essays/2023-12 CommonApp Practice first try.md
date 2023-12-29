@@ -12,7 +12,7 @@
 
 ## December 29th, 2023:
 
-Prompt 6
+#### Prompt 6
 
 Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
 
@@ -21,4 +21,30 @@ Describe a topic, idea, or concept you find so engaging that it makes you lose a
 	- websites
 	- teaching tech literacy
 	- engaging with joseph
+	- machine learning project with maps
+- Robotics
+	- concept and idea of building things for scale
+	- built something that would be helpful for my team
+	- ended up being useful for all the teams
+
+
+#### Prompt 3
+
+Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?
+
+- challenging the decisions of the former student officers in order to be fair to all the students of the school.
+
+
+#### Prompt 5
+
+Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
+
+- Offsite in the 4 Seasons hotel in Arusha with the Maasai tribe
+- convincing 4 other families to come to Tanzania.
+- 5 days on-ground in Arusha with the 6 kids
+- Lions Club speech in front of 600 people
+	- practicing
+	- jetlag
+	- 48-hour trip
+	- on the fly changing the speech from 15 minutes to 5 minutes
 - 
