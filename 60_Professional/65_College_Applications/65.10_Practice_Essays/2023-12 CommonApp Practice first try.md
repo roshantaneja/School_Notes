@@ -1,3 +1,9 @@
+---
+tags:
+  - college
+---
+
+
 [CommonApp Essay Prompts 2023-2024](https://www.commonapp.org/blog/2023-2024-common-app-essay-prompts)
 
 
@@ -19,6 +25,9 @@
 
 
 ## December 29th, 2023:
+
+
+### CommonApp Prompts
 
 #### Prompt 6
 
@@ -81,3 +90,143 @@ The lessons we take from obstacles we encounter can be fundamental to later succ
 	- had to reduce my list of actionables down to a couple because of the size of the project.
 	- 
 - Mrs Hansen
+
+
+
+### Weird Exercise that Dad wants to do.
+
+What do I value?
+
+Here’s my other favorite brainstorming exercise and it’ll help you figure out the second half of your essay in about
+five minutes. To begin, pick your top 10 values from the list below.
+
+
+community
+inspiration
+money
+intellect
+status
+financial gain
+laughter
+serenity
+physical challenge
+responsibility
+competition
+career
+fame
+working with others
+freedom
+security
+strength
+self-control
+hunger
+personal development
+trust
+faith
+involvement
+adventure
+vulnerability
+adaptability
+friendship
+excellence
+job tranquility
+power
+passion
+cooperation
+affection
+wisdom
+knowledge
+growth
+
+expertise
+order
+privacy
+self expression
+stability
+art
+autonomy
+risk
+balance
+self-discipline
+courage
+family
+empathy
+working alone
+humility
+efficiency
+intensity
+health and fitness
+meaningful work
+my country
+music
+truth
+resourcefulness
+challenges
+commitment
+leadership
+helping others
+influence
+wit
+success
+patience
+listening
+diversity
+love
+fast-paced work
+nutrition
+
+competence
+practicality
+creativity
+excitement
+collaboration
+social change
+beauty
+ecological awareness
+quality relationships
+travel
+decisiveness
+curiosity
+spirituality
+loyalty
+honesty
+independence
+supervising others
+recognition
+accountability
+democracy
+close relationships
+religion
+respect
+bravery
+communication
+change and variety
+compassion
+nature
+
+---
+
+Brainstorming the First Half of Your Essay:
+The Values Exercise
+
+Now pick your Top 5.
+
+1. 
+
+Once you have those, pick your Top 3.
+
+And then, yes, pick your #1 value. Remember that you’re not losing any of the others, you’re just picking the most
+important value for you today.
+
+Don’t read ahead ‘til you’ve done that.
+
+Really.
+
+Finally, if you know what career you’d like to pursue--Engineering, for example--put the first letter of that career
+(E) beside five values of a great Engineer. Maybe you write an “E” next to collaboration, autonomy, and helping
+others, and in the blank you write in “working with my hands.”
+
+Once that’s done, set these aside.
+
+I’ll tell you what to do with them in a little bit.
+

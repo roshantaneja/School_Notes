@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 21
+  "baseFontSize": 19,
+  "cssTheme": "Encore",
+  "accentColor": "",
+  "theme": "obsidian"
 }
