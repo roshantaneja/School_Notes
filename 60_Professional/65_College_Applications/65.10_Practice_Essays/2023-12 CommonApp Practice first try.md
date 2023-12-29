@@ -230,3 +230,10 @@ Once that’s done, set these aside.
 
 I’ll tell you what to do with them in a little bit.
 
+#### What is something you never leave home without
+
+Headphones
+
+#### 21 weird things about me
+
+- Being in bookstores or libraries makes me want to poop badly. Like really badly. 
