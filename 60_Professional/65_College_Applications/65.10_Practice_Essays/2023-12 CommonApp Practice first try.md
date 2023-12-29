@@ -1,5 +1,7 @@
 [CommonApp Essay Prompts 2023-2024](https://www.commonapp.org/blog/2023-2024-common-app-essay-prompts)
 
+
+
 1. Some students have a background, identity, interest, or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story.
 2. The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?
 3. Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?
@@ -47,4 +49,23 @@ Discuss an accomplishment, event, or realization that sparked a period of person
 	- jetlag
 	- 48-hour trip
 	- on the fly changing the speech from 15 minutes to 5 minutes
-- 
+
+
+#### Prompt 4
+
+Reflect on something that someone has done for you that has made you happy or thankful in a surprising way. How has this gratitude affected or motivated you?
+
+- Deepak
+	- Known him since grade 5-6
+	- allowed me to participate with the Maasai community for the first time.
+- Mbayani
+	- accepted me in the community
+	- made me one of his own
+	- responsive to what I'm trying to get done
+	- always
+- Aayushi
+
+#### Prompt 2
+
+The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?
+
