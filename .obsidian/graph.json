@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -18,14 +18,14 @@
       "query": "tag:#religion",
       "color": {
         "a": 1,
-        "rgb": 14736466
+        "rgb": 8737792
       }
     },
     {
       "query": "tag:#history",
       "color": {
         "a": 1,
-        "rgb": 14724178
+        "rgb": 16753152
       }
     },
     {
@@ -60,7 +60,14 @@
       "query": "path:20_Creations",
       "color": {
         "a": 1,
-        "rgb": 14999271
+        "rgb": 16711901
+      }
+    },
+    {
+      "query": "path:60_Professional  ",
+      "color": {
+        "a": 1,
+        "rgb": 28415
       }
     }
   ],
@@ -70,10 +77,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 0.610416666666667,
   "collapse-forces": false,
-  "centerStrength": 0.869791666666667,
-  "repelStrength": 20,
+  "centerStrength": 0.975094142649417,
+  "repelStrength": 16.9247977331196,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.28118783780959566,
-  "close": true
+  "scale": 0.35713696184230315,
+  "close": false
 }

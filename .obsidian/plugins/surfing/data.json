@@ -6,6 +6,7 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
+  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"
