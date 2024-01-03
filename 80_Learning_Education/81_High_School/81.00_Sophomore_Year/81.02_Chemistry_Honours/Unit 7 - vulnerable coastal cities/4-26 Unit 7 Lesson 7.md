@@ -1,5 +1,7 @@
 ---
-tags: [chemistry]
+tags:
+  - "#chemistry"
+  - science
 title: L7.7
 ---
 
