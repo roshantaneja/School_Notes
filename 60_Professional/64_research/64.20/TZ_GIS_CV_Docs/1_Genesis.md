@@ -4,14 +4,8 @@ tags:
   - AI
   - CS
 ---
-
-
-
-# What is TZ_GIS_CV?
-(Tanzania Geographic Information System with Computer Vision)
-
 ### Project Title:
-"Satellite Imaging for Water in MaasAi Environments (SIWMAE)"
+"Satellite Imaging for Water in MAasai Environments (SIWMAE)"
 
 ### Problem Statement:
 In the Monduli District of Arusha, Tanzania, the Maasai communities face acute water scarcity, significantly impacting their daily lives, health, and economic activities. Traditional methods of identifying locations for water harvesting units rely on ground surveys, which are time-consuming and may not accurately capture the dynamic nature of community settlements and water needs. There is a pressing need for an innovative approach to efficiently identify areas with the highest population density and greatest need for water harvesting units. This project proposes the use of computer vision techniques on satellite imagery to address these challenges, ensuring a more effective allocation of resources and maximizing the impact of water harvesting initiatives.
