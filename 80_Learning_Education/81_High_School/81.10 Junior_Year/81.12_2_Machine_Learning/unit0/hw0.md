@@ -2,7 +2,7 @@
 tags:
   - CS
   - AI
-  - email
+  - MachineLearning
 ---
 # Infinite Campbell
 ```python
