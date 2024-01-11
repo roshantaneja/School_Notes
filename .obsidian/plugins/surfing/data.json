@@ -44,9 +44,6 @@
     ],
     "defaultFilterType": "tree"
   },
-<<<<<<< HEAD
-  "treeData": []
-=======
   "treeData": [
     {
       "id": "050c4e34303f80af",
@@ -58,29 +55,6 @@
         "fileSize": "",
         "icon": {}
       }
-    },
-    {
-      "id": "86c6bb9d75b7000d",
-      "parent": 0,
-      "droppable": true,
-      "text": "2023-2024 Common App essay prompts",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "0fe1c061f5a2c5f7",
-      "parent": 0,
-      "droppable": true,
-      "text": "2023-2024 Common App essay prompts",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
     }
   ]
->>>>>>> origin/main
 }
