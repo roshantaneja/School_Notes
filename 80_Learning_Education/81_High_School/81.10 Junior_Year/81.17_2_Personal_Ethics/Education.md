@@ -25,4 +25,8 @@ problem posing education
 | assumption: teachers knows, students don't | Significance of Teachers and learners working together |
 |                                            | Conscientiation                                        |
 |                                            | 2-sided conversations teachers+students in daialogue   |
-|                                            | events+info of how to solve problem                                                       |
+|                                            | events+info of how to solve problem                    | 
+
+
+
+
