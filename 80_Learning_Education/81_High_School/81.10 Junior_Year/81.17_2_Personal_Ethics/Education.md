@@ -11,6 +11,8 @@ seeking a harmony between teaching and learning.
 
 problem posing education
 - praxis, education focused on values
+	- teaching, action, reflection
+	- 
 - dialogue
 - significance of teachers and learners using conscientisation
 - 
@@ -28,5 +30,8 @@ problem posing education
 |                                            | events+info of how to solve problem                    | 
 
 
+# Liberation
 
+Authentic Liberation is a praxis
+its the action and reflection of men and women 
 
