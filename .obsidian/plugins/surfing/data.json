@@ -44,5 +44,32 @@
     ],
     "defaultFilterType": "tree"
   },
+<<<<<<< HEAD
   "treeData": []
+=======
+  "treeData": [
+    {
+      "id": "050c4e34303f80af",
+      "parent": 0,
+      "droppable": true,
+      "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d466ba0a78fe7920",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
+>>>>>>> origin/main
 }
