@@ -43,3 +43,7 @@ tags:
 
 18. **Living with ADHD**: Strategies for living with ADHD include organizing the environment to minimize distractions, using time management tools, and seeking support from ADHD coaches or therapists.
 
+
+
+
+
