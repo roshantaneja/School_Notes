@@ -1,6 +1,6 @@
 {
   "showVaultName": true,
-  "showCurrentFileName": true,
+  "showCurrentFileName": false,
   "showPopups": true,
   "customVaultName": "Brain",
   "showFileExtension": true,
