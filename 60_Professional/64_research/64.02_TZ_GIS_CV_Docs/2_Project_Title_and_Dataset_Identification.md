@@ -20,11 +20,11 @@ Dataset Access: [Google Drive Folder](https://drive.google.com/drive/folders/1il
 
 ---
 
-## Introduction to TZ_GIS_CV (Tanzania Geographic Information System with Computer Vision)
+## Introduction to WATER-VISION
 
 ### Background:
 
-The project, TZ_GIS_CV, is focused on addressing the critical issue of water scarcity in the Monduli District of Arusha, Tanzania. This region, predominantly inhabited by the Maasai communities, experiences significant challenges in water availability, affecting daily life, health, and economic activities.
+The project, WATER-VISION, is focused on addressing the critical issue of water scarcity in the Monduli District of Arusha, Tanzania. This region, predominantly inhabited by the Maasai communities, experiences significant challenges in water availability, affecting daily life, health, and economic activities.
 
 ### Problem Statement:
 
