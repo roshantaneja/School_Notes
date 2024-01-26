@@ -1,5 +1,5 @@
 {
   "folder": "90_Personal/91_Daily_Notes",
-  "autorun": true,
+  "autorun": false,
   "template": "30_Obsidian/31_Templates/Daily Note"
 }
