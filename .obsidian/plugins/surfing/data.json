@@ -44,17 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "c9c33ada672b565b",
-      "parent": 0,
-      "droppable": true,
-      "text": "ChatGPT",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
