@@ -1,8 +1,8 @@
 {
   "resultSeparator": " → ",
-  "layoutStyle": "TwoPanes",
+  "layoutStyle": "AnswerRight",
   "alternateRowColor": true,
-  "defaultRenderStyle": "Plain",
+  "defaultRenderStyle": "TeX",
   "hideLinesWithoutMarkupWhenEmitting": true,
   "hideEmitterMarkupInInput": true,
   "dollarSymbolCurrency": {
