@@ -44,5 +44,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "050c4e34303f80af",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
