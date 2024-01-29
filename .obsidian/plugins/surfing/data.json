@@ -46,10 +46,17 @@
   },
   "treeData": [
     {
+<<<<<<< HEAD
       "id": "050c4e34303f80af",
       "parent": 0,
       "droppable": true,
       "text": "New Tab",
+=======
+      "id": "c9c33ada672b565b",
+      "parent": 0,
+      "droppable": true,
+      "text": "ChatGPT",
+>>>>>>> origin/main
       "data": {
         "fileType": "site",
         "fileSize": "",
