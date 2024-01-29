@@ -27,10 +27,13 @@ c = (135 - 120) * 0.05
 a + b + c
 ```
 
-8.25 gallons
+**8.25 gallons**
 
 
-(b) Must there exist a value of c, for $60 < c < 120$, such that $f'(c) = 0$ ? Justify your answer.
+(b) Must there exist a value of $c$, for $60 < c < 120$, such that $f'(c) = 0$ ? Justify your answer.
+
+
+
 
 (c) The rate of flow of gasoline, in gallons per second, can also be modeled by $g(t) = (\frac{t}{500}) \cos( ( \frac{t}{120})^2)$ for $0 < t < 150$. Using this model, find the average rate of flow of gasoline over the time interval $0 < t < 150$. Show the setup for your calculations.
 
