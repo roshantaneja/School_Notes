@@ -1,6 +1,7 @@
 ---
 tags:
   - math
+  - Calculus
 ---
 
 ## Derivatives
