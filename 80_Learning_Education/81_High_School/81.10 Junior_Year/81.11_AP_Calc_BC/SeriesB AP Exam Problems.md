@@ -18,7 +18,7 @@ AP® Calculus BC 2023 Free-Response Questions
 
 $\int _{60}^{135} f(t)\, dt$ is the total gas (in gallons) that the customer receives between 60 and 135 seconds.
 
-$\sum_{n=1}^{\infty} (f_{n} - t_{n-1}) * f(t)$
+$\sum_{n=2}^{5} (t_{n} - t_{n-1}) * f(t)$
 
 ```math
 a = (90-60) * 0.15
