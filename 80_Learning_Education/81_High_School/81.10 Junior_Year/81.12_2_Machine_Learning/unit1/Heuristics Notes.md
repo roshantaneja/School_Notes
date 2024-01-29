@@ -1,8 +1,8 @@
 ---
-Tags:
-- Machine Learning
-- AI
-- Notes
+tags:
+  - AI
+  - Notes
+  - MachineLearning
 ---
 
 # Types of Heuristics in AI and Machine Learning
