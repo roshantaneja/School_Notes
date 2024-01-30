@@ -14,19 +14,19 @@ while minimizing total travel time.
 (i) What is a good (minimal) state space representation for this problem?
 
 ```python 
-State = (int: current_landmark, int[]: path)
+State = (int: current_landmark, set(): visited, int: total_time)
 ```
 
 (ii) What is the size of the state space?
 ### $N*2^{N}$
 
-**Part B:** Oh no! Sea lions have taken to the streets of the city. Sea lions are notoriously aggressive, so you want to plan your path to encounter fewer of them. If you travel from Li to Lj, you’ll encounter $s_{ij}$ sea lions on the way. Your goal is still to find a route that minimizes the total travel time while keeping your number of sea lion encounters under Smax.
+**Part B:** Oh no! Sea lions have taken to the streets of the city. Sea lions are notoriously aggressive, so you want to plan your path to encounter fewer of them. If you travel from $L_{i}$ to $L_{j}$, you’ll encounter $s_{ij}$ sea lions on the way. Your goal is still to find a route that minimizes the total travel time while keeping your number of sea lion encounters under $S_{max}$.
 
 
 (i) What is a good (minimal) state space representation for this problem?
 
 ```python
-State = (int: current_landmark, int[]: path, int: sealions_encountered)
+State = (int: current_landmark, set(): visited, int: sealions_encountered)
 ```
 
 (ii) What is the size of the state space?
@@ -44,4 +44,4 @@ State = ((int: friend_curr_location, int[]: path)[k]: friends_list)
 
 (ii) What is the size of the state space?
 
-### $kN*2^{N}$
+### $N^k*2^{N}$
