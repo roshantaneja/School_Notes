@@ -44,15 +44,15 @@ The Pancake Sorting problem is a playful yet complex problem in algorithm theory
 ### Example
 ```
 Initial State:
-  _ _
-_ _ _ _
-_ _ _ _ _ _
+      _ _
+    _ _ _ _
+  _ _ _ _ _ _
 _ _ _ _ _ _ _ _
 
 After Flip from 2nd Pancake:
-_ _ _ _
-  _ _
-_ _ _ _ _ _
+    _ _ _ _
+      _ _
+  _ _ _ _ _ _
 _ _ _ _ _ _ _ _
 ```
 The largest pancake out of place (pancake #2) determines the next flip.
