@@ -25,6 +25,8 @@
   "useWebview": false,
   "useIconList": true,
   "darkMode": false,
+  "randomBackground": false,
+  "lastOpenedFiles": false,
   "bookmarkManager": {
     "openBookMark": false,
     "saveBookMark": false,
@@ -46,22 +48,16 @@
   },
   "treeData": [
     {
-<<<<<<< HEAD
-      "id": "050c4e34303f80af",
+      "id": "2517c54f30628d49",
       "parent": 0,
       "droppable": true,
-      "text": "New Tab",
-=======
-      "id": "c9c33ada672b565b",
-      "parent": 0,
-      "droppable": true,
-      "text": "ChatGPT",
->>>>>>> origin/main
+      "text": "How the Census Bureau Measures Poverty",
       "data": {
         "fileType": "site",
         "fileSize": "",
         "icon": {}
       }
     }
-  ]
+  ],
+  "enableHtmlPreview": true
 }
