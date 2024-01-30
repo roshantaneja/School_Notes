@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 18,
-  "cssTheme": "Typewriter",
+  "baseFontSize": 16,
+  "cssTheme": "monochroYOU",
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "translucency": false
 }
