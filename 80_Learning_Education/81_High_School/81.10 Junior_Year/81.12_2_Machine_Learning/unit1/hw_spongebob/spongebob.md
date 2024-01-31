@@ -17,6 +17,11 @@ Suppose you only control **one police car**. Remember, that since Spongebob is h
 
 ```python
 State = (int: x, int: y, int: speed, int[]: visited)
+
+x = m
+y = n
+speed = 4
+visited = 2**(m*n)
 ```
 
 
@@ -25,7 +30,8 @@ State = (int: x, int: y, int: speed, int[]: visited)
 ```python
 positions = m * n
 speeds = 4
-state_space = positions * speeds # 4mn
+visited = 2**(m*n)
+state_space = positions * speeds #4 * mn * 2^(mn)
 ```
 
 
@@ -37,19 +43,19 @@ Steering = [Right, Left, Forwards, Backwards]
 
 actions = len(Throttle) * (len(Steering))
 
-max_branching_factor = actions # 12
+max_branching_factor = actions #12
 ```
 
 (d) Is Breadth First Search guaranteed to return the shortest path?
 
 ```md
-> Yes, because the cost of each action is the same.
+> Yes, because the cost of each action is the same. It is optimal.
 ```
 
 (e) Is Depth First Search guaranteed to return the shortest path?
 
 ```md
-> No, because it may not pick the fastest path, but it may find "a" path *faster*.
+> No, because it may not pick the fastest path, but it may find "a" path *faster*. It is not optimal.
 ```
 
 ---
@@ -60,12 +66,11 @@ communicate and collectively check each location.
 (f) What is the new size of the state space?
 
 ```python
-positions = m * n
-speeds = 4
+positions = (m * n)**P
+speeds = 4**P
 P = number of police cars
 
-state_space = positions * speeds * P # 4Pmn
-
+state_space = positions * speeds * P #4^(P) * (mn)^(P) * 2^(mn)
 ```
 
 (g) What is the new maximum branching factor?
@@ -74,5 +79,5 @@ state_space = positions * speeds * P # 4Pmn
 Throttle = [-1, 0, 1]
 Steering = [Right, Left, Forwards, Backwards]
 
-actions = len(Throttle) * (len(Steering)) * P # 12P
+actions = len(Throttle) * (len(Steering)) * P  #12^(P)
 ```

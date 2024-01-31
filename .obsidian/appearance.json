@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "baseFontSize": 16,
+=======
+  "baseFontSize": 20,
+>>>>>>> origin/main
   "cssTheme": "Encore",
   "accentColor": "",
   "theme": "obsidian",
