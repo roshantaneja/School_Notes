@@ -1,7 +1,10 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "monochroYOU",
+  "cssTheme": "Encore",
   "accentColor": "",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "DejaVu Sans Mono",
+  "monospaceFontFamily": "MotoyaLCedar W3 mono"
 }
