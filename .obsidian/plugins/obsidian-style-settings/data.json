@@ -37,7 +37,7 @@
   "encore-settings@@encore-disable-grain": true,
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-border-dt",
-  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-yellow-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-custom-dt",
   "obsidian-prism-theme@@pt-disable-blur": false,
   "obsidian-prism-theme@@pt-custom-vault-banner": false,
   "obsidian-prism-theme@@pt-font-alt-a": false,
@@ -48,5 +48,8 @@
   "obsidian-prism-theme@@pt-titlebar-hide-text": false,
   "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-floating",
   "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-center",
-  "obsidian-prism-theme@@pt-pdf-dark-theme": true
+  "obsidian-prism-theme@@pt-pdf-dark-theme": true,
+  "obsidian-prism-theme@@color-accent-base-dt": "#DCC377",
+  "obsidian-prism-theme@@color-accent-tint-dt": "#DCC377",
+  "obsidian-prism-theme@@color-accent-text-dt": "#DCC377"
 }
