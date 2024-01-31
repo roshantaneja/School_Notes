@@ -1,7 +1,4 @@
 {
-  "baseFontSize": 20,
-  "cssTheme": "Encore",
   "accentColor": "",
-  "theme": "obsidian",
-  "translucency": false
+  "cssTheme": "Prism"
 }

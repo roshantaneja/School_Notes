@@ -1,6 +1,6 @@
 {
   "resultSeparator": " → ",
-  "layoutStyle": "TwoPanes",
+  "layoutStyle": "AnswerRight",
   "alternateRowColor": true,
   "defaultRenderStyle": "SyntaxHighlight",
   "hideLinesWithoutMarkupWhenEmitting": true,
