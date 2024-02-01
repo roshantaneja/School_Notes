@@ -5,13 +5,19 @@ tags:
 
 
 ```math
-lotto = (10/14)
-
-two = (4/14) * (3/13)
-four = (10/14) * (9/13)
+lotto = (8/14)
+two = (6/14) * (5/13)
+four = (8/14) * (7/13)
 three = 1 - four - two
 
-grillion = Infinity
 
-seven = 1 grillion
+two * 100
+three*100
+four*100
+
+at_least_three = (three + four) * 100
 ```
+
+
+
+

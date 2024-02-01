@@ -4,8 +4,6 @@ tags:
 ---
 # The Unreasonable Effectiveness of Plaintext
 
-## Roshan, Why did you make this?
-
 If you've ever worked on a project with other people, you've probably been here before: bad software, constantly changing processes and lots and lots of meetings.
 
 I've discussed some of these problems with other people, and they all seem to agree that the problem is that we are using the wrong tools.
@@ -23,7 +21,7 @@ I'll mention, that not a lot of the Ideas I am going to mention are new, they've
 
 It's not just enough to argue for good tools today, you must stop the future churn of new absent processes that solve the same things in different ways but equivalent ways. You do this with a Ulysses pact.
 
-### What is a Ulysess pact?
+### What is a Ulysses pact?
 
 In the Odyssey, Odysseus (confusingly called Ulysses in English Literature) had to travel through siren-infested waters. This was a well-understood problem in his world; sailors would put wax in their ears so they couldn't hear the sirens and be lured to their deaths. But Odysseus had a challenge: He WANTED to hear the sirens' beautiful song. He certainly didn't want to drown either, so he came up with a solution: He had his crew tie him to the mast of the ship, and ignore any of his pleas to be untied. This way, he was able to guard against future bad decisions he knew he would make by setting up a framework to control his future self. This is the Ulysses pact, and it's a very common trick.
 
