@@ -79,7 +79,7 @@ Each repository has a wiki, a folder of linked markdown files that anyone with a
 
 #### Markdown
 
-Github, and most of the internet have standardized on markdown, (WIP)
+GitHub, and most of the internet have standardized on markdown, (WIP)
 
 
 
