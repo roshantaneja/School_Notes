@@ -8,6 +8,7 @@ theme: gaia
 header: The Modernized Cult of Asherah
 footer: Roshan Taneja - World Religions
 color: "#eef"
+marp: true
 paginate: true
 ---
 

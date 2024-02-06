@@ -6,6 +6,7 @@ footer: Roshan Taneja
 color: "#eef"
 paginate: true
 text-align: center
+marp: true
 ---
 
 ![w:300](30_Obsidian/32_Attachments/Plaintext/git-logo.png)
@@ -70,6 +71,20 @@ An example of a warrant canary
 
 ---
 
+# They All Suck
+
+![bg](30_Obsidian/32_Attachments/Plaintext/gdocs-screenshot.png)
+
+![bg](30_Obsidian/32_Attachments/Plaintext/jamboard-photo.png)
+
+![bg](30_Obsidian/32_Attachments/Plaintext/confluence-screenshot.png)
+
+![bg](30_Obsidian/32_Attachments/Plaintext/pivotal-tracker-screenshot.png)
+
+![bg](30_Obsidian/32_Attachments/Plaintext/trello-screenshot.png)
+
+---
+
 # Enter Git
 
 - GitHub
@@ -81,12 +96,6 @@ An example of a warrant canary
 ---
 
 # Why Popularity Matters
-
----
-
-## Aside:
-
-# Linux & Git
 
 ---
 
