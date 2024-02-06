@@ -4,6 +4,10 @@ tags:
 ---
 # The Unreasonable Effectiveness of Plaintext
 
+---
+
+# First World Problems
+
 If you've ever worked on a project with other people, you've probably been here before: bad software, constantly changing processes and lots and lots of meetings.
 
 I've discussed some of these problems with other people, and they all seem to agree that the problem is that we are using the wrong tools.
@@ -17,9 +21,15 @@ The secret?
    - Greg McKeown
 ```
 
+---
+
+### Rework Book
+
 I'll mention, that not a lot of the Ideas I am going to mention are new, they've been well understood in the start-up world for a long time; but regression to the mean is prevalent.
 
 It's not just enough to argue for good tools today, you must stop the future churn of new absent processes that solve the same things in different ways but equivalent ways. You do this with a Ulysses pact.
+
+---
 
 ### What is a Ulysses pact?
 
@@ -30,6 +40,8 @@ Some examples of Ulysses Pacts:
 - publishing a warrant canary on your company's website
 - **standardizing all your tools on plain text** (wink wink)
 
+---
+
 In the future, I or my successor may be tempted to try the new "hottest project management software" or "newest collaboration tool" or "newest file sharing service". While it might be good for a while, the act of changing tools constantly is an enormous overhead for your team, and give the lasting impression that anything that they write may soon be a legacy very soon. So why bother?
 
 Tying yourself to the mast, (like Odysseus) and standardizing on a single tool, and not only that, but a plaintext tool, means your data will live on forever, and the network effect can make it more and more valuable over time, instead of less and less.
@@ -39,6 +51,8 @@ Tying yourself to the mast, (like Odysseus) and standardizing on a single tool, 
 "The greatest problem in communication is the illusion that it has been accomplished."
    - William H. Whyte
 ```
+
+---
 
 ## Why?
 

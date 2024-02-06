@@ -93,13 +93,14 @@ An example of a warrant canary
 # Github Et Al. Are Greater Than the Sum of Their Parts
 
 ---
-![[repo.png]]
+
+![w:800](30_Obsidian/32_Attachments/Plaintext/repo.png)
 
 # Repos
 
 ---
 
-![[wiki2.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/wiki2.png)
 
 ## Wikis
 
@@ -119,53 +120,57 @@ _(learn more: [markdownguide.org/basic-syntax/](https://www.markdownguide.org/ba
 
 ---
 
-![[issues.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/issues.png)
 
 ## Issues
 
 ---
-![[milestones.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/milestones.png)
 
 ## Milestones
 
 ---
-![[projects.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/projects.png)
 
 ## Projects
 
 ---
-![[org-public.png]]
+
+![w:800](30_Obsidian/32_Attachments/Plaintext/org-public.png)
 
 ## Organisations
 
 ---
-![[teams.png]]
+
+![w:800](30_Obsidian/32_Attachments/Plaintext/teams.png)
 
 ## Teams
 
 ---
 
-![[PR.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/PR.png)
 
 ## Pull Requests
 
 ---
-![[PR diff.png]]
+
+![w:800](30_Obsidian/32_Attachments/Plaintext/PR%20diff.png)
 
 ## Pull Requests (diffs)
 
 ---
-![[action.png]]
+
+![w:800](30_Obsidian/32_Attachments/Plaintext/action.png)
 
 # Github Actions
 
 ---
 
-![[language-tool-on-premise.png]]
+![](30_Obsidian/32_Attachments/Plaintext/language-tool-on-premise.png)
 
 ---
 
-![[nvme.png]]
+![](30_Obsidian/32_Attachments/Plaintext/nvme.png)
 
 ---
 
@@ -177,16 +182,17 @@ _(learn more: [markdownguide.org/basic-syntax/](https://www.markdownguide.org/ba
 
 ---
 
-![[killed-by-google-10-23.png]]
+![w:800](30_Obsidian/32_Attachments/Plaintext/killed-by-google-10-23.png)
 
-[https://killedbygoogle.com]()
+[https://killedbygoogle.com]
 
 ---
 
 # Conclusion
+(big reveal)
 
 ---
 
-![[tri-hex-moon-white-transparent.png|300]]
+![w:400](30_Obsidian/32_Attachments/Plaintext/pool.jpg)
 
 # Thank You
