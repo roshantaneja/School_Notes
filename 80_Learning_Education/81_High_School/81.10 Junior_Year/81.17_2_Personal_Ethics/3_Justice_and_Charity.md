@@ -19,3 +19,10 @@ Bandage, Painkillers
 donating money
 Give a man a fish, feed him for a day.
 
+
+Social Justice as Right Relationships
+
+A philosophical framework
+
+
+
