@@ -24,5 +24,14 @@ Social Justice as Right Relationships
 
 A philosophical framework
 
+#### Distribitive Justice
 
+The fair contribution of resources and benefits in society considering the needs of individuals 
 
+#### Contributive Justice
+
+Importance of individuals 
+
+#### Communitive Justice
+
+THe fairness and equity in individual transations and relationships.
