@@ -1,5 +1,5 @@
 ---
-backgroundColor: 
+backgroundColor: #333
 theme: uncover
 header: Plaintext Organizations
 footer: Roshan Taneja
@@ -7,8 +7,6 @@ color: "#eef"
 paginate: true
 text-align: center
 marp: true
-tags:
-  - CS
 ---
 
 ![w:300](30_Obsidian/32_Attachments/Plaintext/git-logo.png)
@@ -73,20 +71,6 @@ An example of a warrant canary
 
 ---
 
-# They All Suck
-
-![bg](30_Obsidian/32_Attachments/Plaintext/gdocs-screenshot.png)
-
-![bg](30_Obsidian/32_Attachments/Plaintext/jamboard-photo.png)
-
-![bg](30_Obsidian/32_Attachments/Plaintext/confluence-screenshot.png)
-
-![bg](30_Obsidian/32_Attachments/Plaintext/pivotal-tracker-screenshot.png)
-
-![bg](30_Obsidian/32_Attachments/Plaintext/trello-screenshot.png)
-
----
-
 # Enter Git
 
 - GitHub
@@ -98,6 +82,12 @@ An example of a warrant canary
 ---
 
 # Why Popularity Matters
+
+---
+
+## Aside:
+
+# Linux & Git
 
 ---
 
@@ -180,6 +170,8 @@ _(learn more: [markdownguide.org/basic-syntax/](https://www.markdownguide.org/ba
 ![](30_Obsidian/32_Attachments/Plaintext/language-tool-on-premise.png)
 
 ---
+
+# Offline Work
 
 ![](30_Obsidian/32_Attachments/Plaintext/nvme.png)
 
