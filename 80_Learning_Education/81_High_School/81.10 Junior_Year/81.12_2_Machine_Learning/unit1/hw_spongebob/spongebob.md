@@ -1,3 +1,11 @@
+---
+tags:
+  - MachineLearning
+  - AI
+  - homework
+---
+
+
 # Search Formulation Practice: Spongebob
 
 Spongebob is taking his drivers license exam with Mrs. Puff and it goes a bit haywire! Now he’s being chased down by the Bikini Bottom police. Instead of pullingover, Spongebob speeds away and is now hiding somewhere in the city.

@@ -1,5 +1,5 @@
 ---
-backgroundColor: #333
+backgroundColor: 
 theme: uncover
 header: Plaintext Organizations
 footer: Roshan Taneja
@@ -7,6 +7,8 @@ color: "#eef"
 paginate: true
 text-align: center
 marp: true
+tags:
+  - CS
 ---
 
 ![w:300](30_Obsidian/32_Attachments/Plaintext/git-logo.png)
