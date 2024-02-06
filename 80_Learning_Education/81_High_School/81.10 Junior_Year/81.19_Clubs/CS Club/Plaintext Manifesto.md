@@ -79,13 +79,33 @@ Each repository has a wiki, a folder of linked markdown files that anyone with a
 
 #### Markdown
 
-GitHub, and most of the internet have standardized on markdown, (WIP)
+GitHub, and most of the internet have standardized on markdown, just like Slack, Discord, many chat forums, and occasionally, Facebook, depending on the phase of the moon. They all format text using this lightweight standard called markdown. Markdown is my favorite text format, its really simple to use and designed to look good either rendered or as plaintext, unlike HTML which is unreadable to most people unless rendered in a browser. 
 
+Here we've got a heading, denoted by the hash symbol, italic with underscores, bold with double asterisks, and links using this bracket pairing syntax. There are a few more options available, which you can look up at markdownguide.org, but this is the overwhelming majority of formatting you'll need on a day-to-day basis.
 
+The genius of storing your data in this universal plain-text format is that should you wish to migrate from GitHub to another similar platform, your data is portable and under your control. GitHub formats Markdown very nicely, but you can export it in any format you like, and edit it with any tool you like, present and future.
 
+Including my favourite tool here, Obsidian.
 
+Markdown keeps your team focussed on what is important by allowing you just enough formatting, but no rich customisation options. You're not making a beautiful client brochure, so you shouldn't use 90's desktop publishing tools to make your company's critical documentation.
 
+#### Issues
 
+Though not part of the git system, Issues are a natural addition that all git hosts have implemented: A simple task system for capturing work that needs doing. These could be new features, customer requests, bug reports, or ideas. They have a rich comment thread for discussion, can be assigned to team members, and tagged with custom tags. This minimum viable project management system could be all you need. Certainly, for a solo or small team, capturing requirements in Issues might be enough.
+
+#### Milestones
+
+But if you need more, you need Milestones. GitHub milestones are a grouping of issues with a deadline. They typically represent a target, a release, or something the team is working towards. Milestones just have a title, a description, and a date. No burndown charts, no swim lanes, no complex statistics, just a progress bar. This might be enough project management for you.
+
+#### Projects
+
+If not, it is time for GitHub Projects. Each GitHub repo, team, and organisation can have a project board, a lightweight kanban board with customisable columns, allowing you to group your issues together, and observe their progress through your current iteration. This represents the information radiator for your team, a bird's-eye view of what is happening with the project, and something you might gather around for your morning catchup meeting.
+
+You don't need all the features of Trello, JIRA, or anything like that. You need the minimum viable board. This bare-bones tool completely side-steps 'the JIRA effect', which is if you have a tool that is packed full of time tracking, velocity points, and so on the temptation is to use all these features, even if they give no value and complicate your processes. If you have one meeting a day, it should be a standup. Good standups replace other meetings and accelerate your project dramatically.
+
+#### Github in a nutshell
+
+Back to GitHub. GitHub provides an umbrella group of users called an organisation. This is your company, and if you're building your products in the open, as I recommend you do, you won't pay GitHub a thing. Most git hosts provide their services for free for open-source companies. If you have too much money, you can pay GitHub for a plan to make your data closed. If you require more subdivision, Organisations are divided into Teams. Teams on GitHub allow you to granularly scope repo, project, wiki, and other permissions to the different teams in your organisation. I recommend allowing everyone to write and contribute to all projects, you want the network effect and low admin overhead. This pattern is called "internal open source". But if you wish, perhaps for regulatory reasons, read and write access to repos can be restricted by team.
 
 
 ## How do I use this?
