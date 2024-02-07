@@ -7,7 +7,7 @@
   "smartIndentList": true,
   "showFrontmatter": false,
   "showIndentGuide": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": false,
