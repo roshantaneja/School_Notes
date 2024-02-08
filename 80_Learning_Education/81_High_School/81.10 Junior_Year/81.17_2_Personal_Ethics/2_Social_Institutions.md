@@ -3,126 +3,42 @@ tags:
   - PersonalEthics
   - notes
 ---
+#### The Individual: Sacred and Social
 
+- Individuals are inherently sacred, reflecting the image of the divine.
+- They are also inherently social, engaging in and contributing to various social institutions.
 
-The person is sacred, (Made in the image of god), and also social (participates in social intistutions)
+#### Culture: The Prism of Meaning
 
-#### Culture (sources of meaning) (prism)
-Culture is the language, beliefs, values, norms, behaviors, and even material objects that are passed from one generation to the next.
+- Culture encompasses the languages, beliefs, values, norms, behaviors, and material objects transmitted across generations.
+- It serves as a foundational call to family, community, and participation, shaping individual and collective identities.
 
-Call to family, community and paricipation
+#### The Roles Within Society
 
-Role of family
-- raise children
-- Teach them to act in a certain culture
+- **Family** focuses on nurturing and educating children, instilling cultural values and norms.
+- **Community** is formed through shared experiences, fostering unity.
+- **Participation** emphasizes solidarity and togetherness, essential for a cohesive society.
 
-Role of community
-- United by shared experience
+#### Social Structures and Institutions
 
-role of Paricipation
-- Solidarity
-- togetherness
+- Social structures are the underlying patterns in social relationships, governed by norms, customs, policies, and laws, reflecting and perpetuating values.
+- Social institutions, constructed by humans, can evolve. They include:
+    - **Family**: Safety, organization, community, responsibility.
+    - **Religion**: Belonging, individualism, cultural integration, purpose.
+    - **Education**: Literacy, knowledge pursuit, curiosity.
+    - **Economics**: Capitalism, financial achievement.
+    - **Medicine**: Health awareness, healthcare access challenges.
+    - **Politics**: Leadership, governance, civic engagement.
+    - **Law**: Legal frameworks, ethical standards.
+    - **Science**: Inquiry, knowledge advancement.
+    - **Military**: Defense, community, national pride.
+    - **Mass Media**: Information dissemination and influence.
+- These institutions organize social life to meet basic societal needs, offering structure, guidance, and order.
 
-Social Structures that feed into social institutions
+#### Institutional Evolution
 
+- Institutions adapt over time, reflecting changes in societal values and norms, such as greater acceptance of diverse family structures, through processes of innovation, diffusion, legitimization, and reevaluation.
 
-#### Social Structures
-- Underlying patterns of social relationships.
-- Includes written and unwritten rules (norms) such as customs, policies, and laws.
-- Have their own systems of values that influence how we think and behave.
-- Are constructed by humans and can be changed
+#### Social Dominance Theory
 
-#### Social Institutions
-- Family
-	- Raising someone
-	- Protection
-	- Safety
-	- Organization
-	- Sense of community
-	- Part of something greater than yourself
-	- Your actions are what you are responsible for
-	- 
-- Religion
-	- Community
-	- Indiviualims
-	- Culture
-	- Sense of belonging
-	- purpose
-	- 
-- Education
-	- Hardworking
-	- Striving for knowledge and learning
-	- Literacy and knowlege
-	- curiosity as a sense of purpose
-	- further our education
-- Economics
-	- Capitalism
-	- Money
-	- Financial Success
-	- Achieve as much as possible
-- Medicine
-	- Health
-	- Benefits of being healthy
-	- Expensive
-	- need to pay for healthcare
-- Politics
-	- Leadership
-	- protection
-	- having an opinion
-	- government
-	- 
-- Law
-	- Legal stuff
-	- Don't harm others
-	- Set of values of right and wrong
-	- Don't do wrong
-	- Morality
-- Science
-	- Knowledge and facts
-	- answers
-	- ability to develop informed decisions about our lives
-	- question everything
-	- curiosity
-- Military
-	- Strength
-	- Brotherhood
-	- Leadership
-	- Community
-	- Protects society
-	- Patriotism
-	- Pride in our country
-- Mass Media
-
-Social institutions are the established patterns of beliefs, behaviors and relationships that organize social life. Social institutions exist to meet society’s fundamental needs, such as providing structure, guidance and order.
-
-
-
-### Process of institutionalization
-Institutions can change
-
-For example
-- Family
-	- More receptive of Homosexual Marriages
-	- No Children
-	- Women Work
-
-Innovation: Ideas, concepts, social goals, become regulations, pilicies, systems
-
-Diffusion: Ideas and actions are dissmeniated. Positive impacts are shown. Support from Interest groups grow. Will always have some resistance groups.
-
-Legitimization: Becomes a formal Institution or changes an established organization, mantained by power. Values and norms become a part of culture.
-
-Partial Insitintiutionalization: Himan praxis no longer aligns or recieve positive impact form institutions. New ideas begin to form.
-
-
-
-### Social Dominance Theory
-
-Social dominance can be described as the assertion of power by one group or groups over another through **hierarchies**.
-
-Social dominance occurs when one group, or person, assumes the **hegemonical** (most powerful) role over other social groups. 
-
-Social dominance is usually based on a combination of economic status, race, gender, religion, etc. (also known as **intersectionality**).
-
-
-
+- Social dominance theory examines power dynamics and hierarchies within society, influenced by factors like economic status, race, gender, and religion, illustrating how dominance is asserted and maintained across intersecting social categories.
