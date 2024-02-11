@@ -34,3 +34,5 @@ Commutative justice deals with fairness and equity in individual transactions an
 In contrast to justice, charity focuses on addressing immediate needs. It acts as a bandage, providing temporary relief in times of crisis or hardship. Through acts such as donating money or providing essential items, charity offers direct support to those in need. This approach is likened to giving a man a fish, feeding him for a day. It's about immediate assistance and alleviation of suffering, often responding to the symptoms rather than the underlying causes of problems.
 
 Charity plays a crucial role in offering quick, compassionate aid, bridging gaps in times of emergency or when systemic solutions are in development. It embodies the spirit of generosity and empathy, reflecting a commitment to helping others without delay.
+
+
