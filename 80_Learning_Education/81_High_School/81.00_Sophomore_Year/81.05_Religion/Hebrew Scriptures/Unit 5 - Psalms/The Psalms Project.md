@@ -1,5 +1,9 @@
 ---
-tags: [homework, review]
+tags:
+  - homework
+  - review
+  - religion
+  - s
 ---
 # Lesson 2 The Psalms
 
