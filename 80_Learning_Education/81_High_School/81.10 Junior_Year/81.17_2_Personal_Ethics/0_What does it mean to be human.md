@@ -45,3 +45,14 @@ Colossians 3:10-11
 # Disability Visibility
 ### First Person Stories from the twenty first century
 
+## Praxis Cycle
+
+1. **Action**: This phase involves engaging in concrete activities that address social issues, injustices, or needs within a community. Actions are guided by Gospel values and the teachings of the Church, aiming to bring about change or provide support where it's most needed. This could include service projects, advocacy, community organizing, or other forms of social action.
+    
+2. **Reflection**: Following action, this phase encourages individuals and communities to reflect on their experiences. Reflection in the Catholic praxis cycle is deeply theological and considers questions like: How did our actions align with the teachings of Jesus and the Church? What was the impact of our actions on the community and ourselves? How do we see God in the faces and stories of those we serve?
+    
+3. **Analysis**: Building on reflection, this step involves a more systematic evaluation of the actions taken, considering the broader social, economic, and political contexts. It seeks to understand the root causes of the issues addressed and evaluates the effectiveness of the actions in making a meaningful difference.
+    
+4. **Planning**: Informed by action, reflection, and analysis, this phase involves strategizing for future actions. It includes setting goals, identifying resources, and determining the best methods to address the needs identified. Planning ensures that future actions are thoughtful, strategic, and informed by previous cycles of praxis.
+    
+5. **Action (renewed)**: With new insights and strategies, the cycle returns to action, implementing the plans formulated in the previous phase. This renewed action is more informed and refined, aiming to be more effective in achieving transformative change.
