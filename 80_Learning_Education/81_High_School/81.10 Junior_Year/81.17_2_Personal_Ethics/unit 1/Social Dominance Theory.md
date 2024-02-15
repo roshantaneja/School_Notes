@@ -1,3 +1,12 @@
+---
+tags:
+  - SocialEthics
+  - religion
+  - notes
+---
+
+
+
 ### 1. Social Dominance Theory
 
 - **Introduction to Social Dominance Theory**
