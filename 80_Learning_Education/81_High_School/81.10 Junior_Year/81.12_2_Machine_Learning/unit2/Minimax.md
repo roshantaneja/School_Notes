@@ -13,3 +13,13 @@ tags:
 1. Depth Limiting
 	1. Evaluate States
 	2. "How good is my position rn?"
+
+### AlphaBeta Pruning
+ 
+```
+
+alpha = - inf
+beta = inf
+```
+
+alpha and beta change as max and min find best and worst max and min values
