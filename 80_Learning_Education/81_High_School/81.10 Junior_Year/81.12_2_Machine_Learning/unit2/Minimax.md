@@ -16,10 +16,9 @@ tags:
 
 ### AlphaBeta Pruning
  
-```
-
-alpha = - inf
-beta = inf
+```python
+a = - inf
+b = inf
 ```
 
 alpha and beta change as max and min find best and worst max and min values

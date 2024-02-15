@@ -4,12 +4,9 @@
   "obsidian-excel-to-markdown-table",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
-  "numerals",
   "better-word-count",
   "convert-url-to-iframe",
-  "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "obsidian-charts",
   "obsidian-git",
   "obsidian42-brat",
   "obsidian-grammarly-plugin",
@@ -19,7 +16,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "garble-text",
-  "obsidian-style-settings",
   "calendar",
   "marp-slides"
 ]
