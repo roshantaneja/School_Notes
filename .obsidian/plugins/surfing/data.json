@@ -46,6 +46,33 @@
     ],
     "defaultFilterType": "tree"
   },
+<<<<<<< HEAD
   "treeData": [],
+=======
+  "treeData": [
+    {
+      "id": "e24994c5fa79e3e5",
+      "parent": 0,
+      "droppable": true,
+      "text": "ChatGPT",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "2332db44175ca537",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+>>>>>>> origin/main
   "enableHtmlPreview": true
 }

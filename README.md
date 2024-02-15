@@ -1,4 +1,4 @@
-# School_Notes
+# Brain
 ---
 I made a private repo to keep my school notes here because sometimes I forget to take notes, so now I feel motivated.
 
