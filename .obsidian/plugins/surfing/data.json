@@ -57,6 +57,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "2332db44175ca537",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ],
   "enableHtmlPreview": true
