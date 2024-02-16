@@ -16,7 +16,7 @@ tags:
 
 ### AlphaBeta Pruning
  
-```python
+```py
 a = - inf
 b = inf
 ```

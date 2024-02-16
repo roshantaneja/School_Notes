@@ -16,4 +16,9 @@ He observes everything, is like the great puppeteer.
 Pretty important character
 Not really a fool
 very philosophical about life.
+not super fond of viola/cesario, but he is very fond of olivia
+
+## Viola/Cesario
+thinks her brother is dead
+she is very smart, and very good at thinking on her feet
 
