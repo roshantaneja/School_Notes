@@ -17,3 +17,15 @@
 9. **The Office (US)** (2005-2013) - A mockumentary sitcom about the everyday lives of office employees working at Dunder Mifflin's Scranton, PA branch, celebrated for its humor and character dynamics.
 
 10. **Sherlock** (2010-2017) - A modern update to the classic British detective tales of Sherlock Holmes, known for its clever plots, dynamic relationship between Sherlock and Watson, and modern technological twists.
+
+| Roshan | Angelo | Curt |  |
+| ---- | ---- | ---- | ---- |
+| Stranger Things | Young Justice | Teen Titans | Curtis |
+| 1997 X-Men | Gravity Falls | Samurai Jack | - |
+| The Sopranos | Dragon Ball Z | Better Call Saul | Roshan |
+| Breaking Bad | Top Gear | Loki | Angelo |
+| Voltron | George Lopez | The Regular Show | Angelo |
+
+
+
+
