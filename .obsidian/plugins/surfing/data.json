@@ -57,6 +57,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "0f2c81adf21b7988",
+      "parent": 0,
+      "droppable": true,
+      "text": "BTS members to start Korean military service : NPR",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ],
   "enableHtmlPreview": true
