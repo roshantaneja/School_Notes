@@ -3,84 +3,20 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#English",
-      "color": {
-        "a": 1,
-        "rgb": 5424352
-      }
-    },
-    {
-      "query": "tag:#religion",
-      "color": {
-        "a": 1,
-        "rgb": 8737792
-      }
-    },
-    {
-      "query": "tag:#history",
-      "color": {
-        "a": 1,
-        "rgb": 16753152
-      }
-    },
-    {
-      "query": "tag:#cs",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#science",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#Spanish",
-      "color": {
-        "a": 1,
-        "rgb": 11424480
-      }
-    },
-    {
-      "query": "tag:#DailyNote",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:20_Creations",
-      "color": {
-        "a": 1,
-        "rgb": 16711901
-      }
-    },
-    {
-      "query": "path:60_Professional  ",
-      "color": {
-        "a": 1,
-        "rgb": 28415
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 0.610416666666667,
-  "collapse-forces": false,
-  "centerStrength": 0.975094142649417,
-  "repelStrength": 16.9247977331196,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.5341716472135676,
+  "linkDistance": 250,
+  "scale": 0.26407194862911487,
   "close": true
 }

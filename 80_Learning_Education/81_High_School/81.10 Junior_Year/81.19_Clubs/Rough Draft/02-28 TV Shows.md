@@ -1,3 +1,10 @@
+---
+tags:
+  - clubs
+---
+
+
+
 1. **Breaking Bad** (2008-2013) - A drama about a high school chemistry teacher turned methamphetamine manufacturing drug dealer, renowned for its storytelling, character development, and moral dilemmas.
 
 2. **The Wire** (2002-2008) - A crime drama series that explores the complex life and crime in the city of Baltimore through the eyes of both law enforcers and drug dealers.
