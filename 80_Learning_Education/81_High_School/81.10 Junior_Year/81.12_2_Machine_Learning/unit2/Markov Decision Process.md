@@ -58,3 +58,7 @@ The notes also mention a Gridworld example, illustrating an MDP scenario where a
 *its like a vector field, but Theo says it isn't and that its a stupid idea*
 
 In summary, Markov Decision Processes provide a comprehensive framework for modeling decision-making in environments with stochastic dynamics. By defining states, actions, transition and reward functions, and policies, MDPs enable the formulation of strategies that can navigate uncertainties to achieve specified objectives.
+
+
+
+
