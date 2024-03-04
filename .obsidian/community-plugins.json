@@ -17,5 +17,7 @@
   "templater-obsidian",
   "garble-text",
   "calendar",
-  "marp-slides"
+  "marp-slides",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-latex-suite"
 ]
