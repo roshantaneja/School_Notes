@@ -1,3 +1,10 @@
+---
+tags:
+  - script
+  - clubs
+---
+
+
 ## <center>Scene 1: Rock 'n Jock Players Abduction</center>
 ### <center> Description: The vibrant atmosphere of a Rock 'n Jock practice is disrupted as a group of players is abruptly taken away by unidentified assailants, leaving chaos and confusion in their wake.</center>
 
