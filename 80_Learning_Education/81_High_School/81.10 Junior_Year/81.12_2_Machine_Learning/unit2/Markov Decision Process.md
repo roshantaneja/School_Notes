@@ -58,3 +58,68 @@ The notes also mention a Gridworld example, illustrating an MDP scenario where a
 *its like a vector field, but Theo says it isn't and that its a stupid idea*
 
 In summary, Markov Decision Processes provide a comprehensive framework for modeling decision-making in environments with stochastic dynamics. By defining states, actions, transition and reward functions, and policies, MDPs enable the formulation of strategies that can navigate uncertainties to achieve specified objectives.
+
+
+Q- State and Chance node: Same thing, where the T and R function are decided to move from an action to a state. 
+
+
+# How to solve the issue of infinite loops?
+we need to decay the rewards so that the agent doesn't just run forever to collect points.
+
+$\gamma$ = discount
+
+$\gamma$ needs to be less than 1 so that the reward decays and so the reward converges
+
+
+for example
+
+```python
+moves = [<<, >>, ext]
+
+"""
+																  v Start
++------+------+------+------+------+------+------+------+------+------+
+|  10  |   9  |   8  |   7  |   6  |   5  |   4  |   3  |   2  |   1` |
++------+------+------+------+------+------+------+------+------+------+
+"""
+
+
+gamma = 0.1
+```
+
+
+Formula Time!
+
+$v^*(S) \to$ start in $S$, act optimally (return quantity)
+
+$Q^*(S, a) \to$ States, take $a$ acting optimally, how much reward? (return quantity)
+
+$\pi^*(S) \to$ optimal action from state $S$ (return state)
+
+for gridworld, after running 100 iterations:
+
+``` python
++--------+--------+--------+--------+
+|  0.64  |  0.74  |  0.85  |   +1   |
++--------+--------+--------+--------+
+|  0.57  |  XXXX  |  0.57  |   -1   |
++--------+--------+--------+--------+
+|  0.49  |  0.43  |  0.48  |  0.28  |
++--------+--------+--------+--------+
+```
+
+Each state has its own value
+
+$v^*(S)=max(Q^*(S, a))$ is the value of my state
+
+$Q^*(S, a) = \Sigma_{S'}^{a\text{ (ctions from S')}}T_{\text{ransition}}(S, a, S') * (R_{\text{eward}}(S, a, S') + \gamma_{\text{Discount}} * v^*_{\text{alue}}(S'))$
+
+
+so $v^*(S)$ is recursive, infinitely, so when does it end?
+
+what happens if I run the iteration for one time step, what about two? So we keep running iteratively, as time goes on till the value of each state converges.
+
+
+
+
+
