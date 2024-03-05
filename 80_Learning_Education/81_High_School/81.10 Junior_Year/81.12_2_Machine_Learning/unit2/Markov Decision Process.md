@@ -90,6 +90,12 @@ gamma = 0.1
 
 Formula Time!
 
+### How value iteration works
+
+If i take zero steps, the values are all zeros.
+For each iteration, the compute one step out.
+For each passthrough of the formula, take the value of the action that gets the largest reward.
+
 $v^*(S) \to$ start in $S$, act optimally (return quantity)
 
 $Q^*(S, a) \to$ States, take $a$ acting optimally, how much reward? (return quantity)
@@ -118,8 +124,6 @@ $Q^*(S, a) = \Sigma_{S'}^{a\text{ (ctions from S')}}T_{\text{ransition}}(S, a, S
 so $v^*(S)$ is recursive, infinitely, so when does it end?
 
 what happens if I run the iteration for one time step, what about two? So we keep running iteratively, as time goes on till the value of each state converges.
-
-
 
 
 
