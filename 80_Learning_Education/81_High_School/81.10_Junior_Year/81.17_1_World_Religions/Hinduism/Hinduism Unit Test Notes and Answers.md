@@ -49,7 +49,7 @@ tags:
 2. What are the Vedas and what do they teach?
 3. What are the Upanishads and what do they teach?
 4. What does Lord Krishna teach Arjuna in the Bhagavad Gita?
-5. What is the epic tale of the [Ramayana](80_Learning_Education/81_High_School/81.10%20Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md) about?
+5. What is the epic tale of the [Ramayana](80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md) about?
 
 <u>The Yogas</u>
 
@@ -158,7 +158,7 @@ a. Atman (soul) b. Samsara (world) c. Moksha (liberation) d. Through Dharma and 
 2. The Vedas are scriptures, foundational to Hinduism.
 3. Upanishads are philosophical texts.
 4. Krishna teaches Arjuna about Dharma and Karma.
-5. [Ramayana](80_Learning_Education/81_High_School/81.10%20Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md) is about Lord Rama's life and adventures.
+5. [Ramayana](80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md) is about Lord Rama's life and adventures.
 
 <u>The Yogas</u>
 

@@ -18,7 +18,7 @@ The religion has been shaped and enriched by various historical and social conte
     
 2. **Upanishads**: Philosophical texts that explore the concepts found in the Vedas.
     
-3. **Mahabharata and [Ramayana](80_Learning_Education/81_High_School/81.10%20Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md)**: These are epic tales that are also considered sacred texts. The Mahabharata contains the Bhagavad Gita, a dialog between Prince Arjuna and the god Krishna, who serves as his charioteer.
+3. **Mahabharata and [Ramayana](80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_1_World_Religions/Hinduism/Ramayana.md)**: These are epic tales that are also considered sacred texts. The Mahabharata contains the Bhagavad Gita, a dialog between Prince Arjuna and the god Krishna, who serves as his charioteer.
     
 4. **Puranas**: These are a genre of important Hindu, Jain, and Buddhist literature, denoting ancient stories, traditions, and legends.
     
