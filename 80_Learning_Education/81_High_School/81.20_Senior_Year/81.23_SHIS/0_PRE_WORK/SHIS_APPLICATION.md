@@ -48,6 +48,8 @@ raechel@illinois.edu
 
 **Description of Experience of Independent Work.** Please describe in approximately 150 words an experience in which you have demonstrated your ability to work independently. Keep in mind any opportunity, group work, project, idea, passion or interest in which you have taken the initiative, followed through with completion, or pursued. Be as specific as possible.
 
+
+
 **Guiding/Essential Questions.** List the Guiding/Essential Questions you are posing in your study that will guide your overall study and research.
 
 **Description of Content Areas.** Describe in approximately 200 words what you propose to study. Be as specific and as complete as possible.
