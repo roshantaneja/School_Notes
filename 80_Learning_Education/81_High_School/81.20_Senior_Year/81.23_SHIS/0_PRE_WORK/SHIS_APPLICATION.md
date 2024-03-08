@@ -38,7 +38,6 @@ s.belongie@di.ku.dk
 dho@law.stanford.edu
 #### Related Work:
 [**Deep Learning with Satellite Imagery to Enhance Environmental Enforcement**](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
-
 ### D. **Raechel Portelli:** Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
 raechel@illinois.edu
 #### Related Work
