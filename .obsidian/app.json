@@ -14,7 +14,7 @@
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 77
+    "downscalePercent": 70
   },
   "livePreview": true,
   "vimMode": false,

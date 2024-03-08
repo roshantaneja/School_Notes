@@ -3,6 +3,7 @@ tags:
   - AI
   - Notes
   - MachineLearning
+  - CS
 ---
 
 # Types of Heuristics in AI and Machine Learning
