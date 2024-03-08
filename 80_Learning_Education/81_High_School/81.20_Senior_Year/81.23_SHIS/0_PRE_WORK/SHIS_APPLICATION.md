@@ -18,7 +18,7 @@ APPLICATION
 **Name of Student Applicant:** Roshan Taneja
 
 **I. COURSE DESCRIPTION**
-**Name of project:** Object Detection on Public Satellite Data For Scaled Placement of Water Harvesting Units across 250mi^2 in Northern Tanzania
+**Name of project:** Object Detection on Public Satellite Data For Scaled Placement of Water Harvesting Units in in East Africa
 **Department sponsoring project:** Computer Science
 **Name of on-campus mentor:** Ms. Kayla Holman
 
@@ -30,8 +30,8 @@ Related Work:
 **Multi-Objective Ergodic Search for Dynamic Information Maps**
 [https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
 
-B. **Serge Belongie:** PhD at Cornell Tech
-
+B. **Serge Belongie:** Professor, Dept. of Computer Science, University of Copenhagen
+s.belongie@di.ku.dk
 Related Work:
 **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges**
 [https://ieeexplore.ieee.org/abstract/document/9560031](https://ieeexplore.ieee.org/abstract/document/9560031)
