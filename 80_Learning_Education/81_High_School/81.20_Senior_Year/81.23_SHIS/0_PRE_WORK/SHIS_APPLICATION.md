@@ -3,33 +3,29 @@ SENIOR HONORS INDEPENDENT STUDY
 APPLICATION
 (Revised December 2023)
 
-PLEASE NOTE:
-	● The SHIS application and addenda (if applicable) are due to Mr. Ramos, either via email or uploaded to the shared Google folder, by noon (12 pm) on Monday, April 29, 2024.
-	● Incomplete or late applications will not be forwarded to the SHIS Application Review Committee for review.
-	● If your SHIS Application includes the use of interview questions, surveys, questionnaires or human participants for research or experiments through which you intend to collect data:
-● You must have completed AP Statistics, or enroll in AP Statistics in your senior year, or
-complete an approved Statistics course over the summer in order to be able to analyze the
-data that you plan to collect for your experiment.
-● You must complete the two addenda below, in addition to this SHIS application, and submit
-all of these documents together by the application deadline above. These forms are
-available on the “SHP Senior Honors Independent Study Program” webpage in the Student
-Portal of our SHS website:
-● “Addendum A: Research Experiment Plan”
-● “Addendum B: Human Informed Consent Form”
-● For Capstone Project Credit - In order for your Independent Study to qualify for Capstone
-credit, your project must investigate a specific justice issue and work to produce a tangible
-good for the community. You will need to submit additional work to Service Learning and
-through x2Vol.com, including your Capstone Project Proposal Form, academic research, 25
-hours of proximity to the issue, and 2 – 3 pages of reflection &amp; analysis (you can use your final
-project write-up).
-Name of Student Applicant:
-I. COURSE DESCRIPTION
-Name of project:
-Department sponsoring project:
-Name of on-campus mentor:
+*PLEASE NOTE:*
+	● The SHIS application and addenda (if applicable) are due to Mr. Ramos, either via email or uploaded to the shared Google folder, __==<u>by noon (12 pm) on Monday, April 29, 2024.</u>==__
+	● Incomplete or late applications <u>will not be forwarded</u> to the SHIS Application Review Committee for review.
+	● If your SHIS Application includes <u>the use of interview questions, surveys, questionnaires or human participants</u> for research or experiments through which you intend to collect data:
+		● You must have completed AP Statistics, or enroll in AP Statistics in your senior year, or complete an approved Statistics course over the summer in order to be able to analyze the data that you plan to collect for your experiment.
+		● You must complete the two addenda below, in addition to this SHIS application, and submit all of these documents together **by the application deadline above**. These forms are available on the “SHP Senior Honors Independent Study Program” webpage in the Student Portal of our SHS website:
+		● “Addendum A: Research Experiment Plan”
+		● “Addendum B: Human Informed Consent Form”
+	● **For Capstone Project Credit** - In order for your Independent Study to qualify for Capstone credit, your project must investigate a specific justice issue and work to produce a tangible good for the community. You will need to submit additional work to Service Learning and through x2Vol.com, including your Capstone Project Proposal Form, academic research, 25 hours of proximity to the issue, and 2 – 3 pages of reflection &amp; analysis (you can use your final project write-up).
+
+
+
+**Name of Student Applicant:** Roshan Taneja
+
+**I. COURSE DESCRIPTION**
+**Name of project:** Object Detection on Public Satellite Data For Streamlining Environmental Resource Management in East Africa
+**Department sponsoring project:** Computer Science
+**Name of on-campus mentor:** Ms. Kayla Holman
+
 Names and professional credentials of three (3) off-campus experts, including their title and
 occupations and an email address where they can be reached:
-A.
+A. Ananya Rao
+
 B.
 C.
 Description of Experience of Independent Work. Please describe in approximately 150 words an
