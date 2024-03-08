@@ -18,16 +18,27 @@ APPLICATION
 **Name of Student Applicant:** Roshan Taneja
 
 **I. COURSE DESCRIPTION**
-**Name of project:** Object Detection on Public Satellite Data For Streamlining Environmental Resource Management in East Africa
+**Name of project:** Object Detection on Public Satellite Data For Scaled Placement of Water Harvesting Units across 250mi^2 in Northern Tanzania
 **Department sponsoring project:** Computer Science
 **Name of on-campus mentor:** Ms. Kayla Holman
 
 Names and professional credentials of three (3) off-campus experts, including their title and
 occupations and an email address where they can be reached:
-A. Ananya Rao
+A. **Ananya Rao:** PhD Student, Carnegie Mellon University
+ananyara@andrew.cmu.edu
+Related Work:
+**Multi-Objective Ergodic Search for Dynamic Information Maps**
+[https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
 
-B.
+B. **Serge Belongie:** PhD at Cornell Tech
+
+Related Work:
+**Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges**
+[https://ieeexplore.ieee.org/abstract/document/9560031](https://ieeexplore.ieee.org/abstract/document/9560031)
+
 C.
+
+
 Description of Experience of Independent Work. Please describe in approximately 150 words an
 experience in which you have demonstrated your ability to work independently. Keep in mind any
 opportunity, group work, project, idea, passion or interest in which you have taken the initiative,
