@@ -48,11 +48,18 @@
   },
   "treeData": [
     {
-<<<<<<< HEAD
       "id": "e24994c5fa79e3e5",
-=======
-      "id": "c38c7118e38cbee8",
->>>>>>> origin/main
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "2c39629a8342fc67",
       "parent": 0,
       "droppable": true,
       "text": "Surfing",

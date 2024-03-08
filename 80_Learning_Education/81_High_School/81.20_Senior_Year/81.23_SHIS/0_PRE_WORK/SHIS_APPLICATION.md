@@ -17,27 +17,29 @@ APPLICATION
 
 **Name of Student Applicant:** Roshan Taneja
 
-**I. COURSE DESCRIPTION**
+## **I. COURSE DESCRIPTION**
 **Name of project:** Object Detection on Public Satellite Data For Scaled Placement of Water Harvesting Units in in East Africa
+
 **Department sponsoring project:** Computer Science
+
 **Name of on-campus mentor:** Ms. Kayla Holman
 
-Names and professional credentials of three (3) off-campus experts, including their title and
-occupations and an email address where they can be reached:
-A. **Ananya Rao:** PhD Student, Carnegie Mellon University
+Names and professional credentials of three (3) off-campus experts, including their title and occupations and an email address where they can be reached:
+
+### A. **Ananya Rao:** PhD Student, Carnegie Mellon University
 ananyara@andrew.cmu.edu
-Related Work:
-**Multi-Objective Ergodic Search for Dynamic Information Maps**
-[https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
-
-B. **Serge Belongie:** Professor, Dept. of Computer Science, University of Copenhagen
+#### Related Work:
+[**Multi-Objective Ergodic Search for Dynamic Information Maps**](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
+### B. **Serge Belongie:** Professor, Dept. of Computer Science, University of Copenhagen
 s.belongie@di.ku.dk
-Related Work:
-**Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges**
-[https://ieeexplore.ieee.org/abstract/document/9560031](https://ieeexplore.ieee.org/abstract/document/9560031)
+#### Related Work:
+[**Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges**](https://ieeexplore.ieee.org/abstract/document/9560031)
+### C. **Daniel E. Ho:** Professor, Dept. of Computer Science,  Stanford University
+dho@law.stanford.edu
+#### Related Work:
+[**Deep Learning with Satellite Imagery to Enhance Environmental Enforcement**](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
 
-C.
-
+### D. Cassandra Handan-Nader: PhD 
 
 Description of Experience of Independent Work. Please describe in approximately 150 words an
 experience in which you have demonstrated your ability to work independently. Keep in mind any
