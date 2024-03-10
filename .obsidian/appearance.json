@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Origami",
+  "cssTheme": "Obsidian gruvbox",
   "baseFontSize": 22,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }

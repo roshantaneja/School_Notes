@@ -68,6 +68,28 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "2636b51524011893",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5f1423779114995f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ],
   "enableHtmlPreview": true

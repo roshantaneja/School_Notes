@@ -29,7 +29,7 @@ APPLICATION
 ### Professional Experts
 Names and professional credentials of three (3) off-campus experts, including their title and occupations and an email address where they can be reached:
 
-> [!example] A. **Ananya Rao**
+> [!success] #### **Ananya Rao**
 > PhD Student, Carnegie Mellon University
 > 
 > ananyara@andrew.cmu.edu
@@ -37,59 +37,60 @@ Names and professional credentials of three (3) off-campus experts, including th
 > ##### Related Work:
 > [Multi-Objective Ergodic Search for Dynamic Information Maps](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
 
-#### B. **Serge Belongie**
-Professor, Dept. of Computer Science, University of Copenhagen
+> [!success] #### **Serge Belongie**
+> Professor, Dept. of Computer Science, University of Copenhagen
+> 
+> s.belongie@di.ku.dk
+> 
+> ##### Related Work:
+> [Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges](https://ieeexplore.ieee.org/abstract/document/9560031)
 
-s.belongie@di.ku.dk
+> [!success] #### **Daniel E. Ho**
+> Professor, Dept. of Computer Science,  Stanford University
+> 
+> dho@law.stanford.edu
+> 
+> ##### Related Work:
+> [Deep Learning with Satellite Imagery to Enhance Environmental Enforcement](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
 
-##### Related Work:
-[Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges](https://ieeexplore.ieee.org/abstract/document/9560031)
-
-#### C. **Daniel E. Ho**
-Professor, Dept. of Computer Science,  Stanford University
-
-dho@law.stanford.edu
-
-##### Related Work:
-[Deep Learning with Satellite Imagery to Enhance Environmental Enforcement](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
-
-#### D. **Raechel Portelli**
-Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
-
-raechel@illinois.edu
-
-##### Related Work
-[Measurement of vegetation change in critical dune sites along the eastern shores of Lake Michigan from 1938 to 2014 with object-based image analysis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=3PEUAnYAAAAJ&citation_for_view=3PEUAnYAAAAJ:W7OEmFMy1HYC)
+> [!success] #### **Raechel Portelli**
+> Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
+> 
+> raechel@illinois.edu
+> 
+> ##### Related Work
+> [Measurement of vegetation change in critical dune sites along the eastern shores of Lake Michigan from 1938 to 2014 with object-based image analysis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=3PEUAnYAAAAJ&citation_for_view=3PEUAnYAAAAJ:W7OEmFMy1HYC)
 
 ---
 
 ### **Description of Experience of Independent Work**
 Please describe in approximately 150 words an experience in which you have demonstrated your ability to work independently. Keep in mind any opportunity, group work, project, idea, passion or interest in which you have taken the initiative, followed through with completion, or pursued. Be as specific as possible.
 
-In the realm of Computer Science and Machine Learning, I independently embarked on a project that exemplifies my passion and capabilities in the field: the development of a reinforcement learning agent for the game Space Invaders. Driven by my profound interest in machine learning, I set out to create an agent that could learn and improve its performance in the game over time, without any human intervention. Utilizing Python and Tensor-Flow, I implemented a Deep Q-Network (DQN) algorithm. This technique enabled the agent to evaluate its actions based on the state of the game, learning from its environment by maximizing the cumulative reward. The project required meticulous coding, extensive testing, and continuous refinement of the model's parameters to enhance its decision-making processes. Through this endeavor, not only did I deepen my understanding of reinforcement learning principles and algorithms, but I also honed my skills in problem-solving and algorithmic thinking. This project stands as a testament to my ability to independently navigate the complexities of machine learning, fueling my ambition to contribute innovative solutions within the field of computer science.
-
-after the project, I documented the process in a google slideshow, in case anyone asked me about this project.
-
+In the realm of Computer Science and Machine Learning, I developed a reinforcement learning agent for Space Invaders, employing Deep Q-Learning to enhance its performance over time. I utilized a Q-Network and a Target Network to calculate Q-values, optimizing the agent's decision-making process. This technique enabled the agent to evaluate its actions based on the state of the game, learning from its environment by maximizing the cumulative reward. This approach involved storing experiences as tuples (state, action, reward, next state), refining the model through iterations, and adjusting weights. Through this endeavor, not only did I deepen my understanding of reinforcement learning principles and algorithms, but I also honed my skills in problem-solving and algorithmic thinking. The project's results demonstrated significant improvement in the agent's game performance, showcasing my ability to apply complex machine learning algorithms and neural networks in developing practical solutions independently.
 
 
 ### **Guiding/Essential Questions**
 List the Guiding/Essential Questions you are posing in your study that will guide your overall study and research.
 
-- TOP LEVEL QUESTION: How do I use Publicly available satellite Information to Identify and accurately assess population Densities?
-- How does object detection work?
-- How can I use computer vision to recognize objects?
-- Can I train an object detection area on 
+- ==TOP LEVEL QUESTION:== How do I use Publicly available satellite Information to Identify and accurately assess population Densities?
+	- How does object detection work?
+	- How can I use computer vision to recognize objects?
+	- Can I train an object detection area on 
+	- 
 
 ### **Description of Content Areas**
 Describe in approximately 200 words what you propose to study. Be as specific and as complete as possible.
+
 
 
 ### **Description of your motivation for pursuing this independent study**
 Describe in 150 – 200 words what has motivated you to undertake this work, what specific approach(es) you plan to take in this study, and how this study fits into your overall academic values.
 
 
+
 ### **List of Objectives and Learning Goals**
 List, in bullet points, the major learning objectives, outcomes or goals that you plan to accomplish by the end of your independent study. Begin your list of bullet points with the phrase, “By the end of my independent study, I intend to:…”
+
 
 
 ### **List and Description of Key Assignments and Major Assessments**
