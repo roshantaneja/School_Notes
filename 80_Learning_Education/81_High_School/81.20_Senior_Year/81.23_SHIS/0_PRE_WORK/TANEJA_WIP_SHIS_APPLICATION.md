@@ -66,22 +66,25 @@ Names and professional credentials of three (3) off-campus experts, including th
 ### **Description of Experience of Independent Work**
 Please describe in approximately 150 words an experience in which you have demonstrated your ability to work independently. Keep in mind any opportunity, group work, project, idea, passion or interest in which you have taken the initiative, followed through with completion, or pursued. Be as specific as possible.
 
-If there are two things I love in this world, Its Computer Science and Retro Video Games. In the realm of Computer Science and Machine Learning, I developed a reinforcement learning agent for Space Invaders, employing Deep Q-Learning to enhance its performance the longer it plays. I utilized a Q-Network and a Target Network to calculate Q-values, optimizing the agent's decision-making process. This technique enabled the agent to evaluate its actions based on the state of the game, learning from its environment by maximizing the cumulative reward. This approach involved storing experiences as tuples (state, action, reward, next state), refining the model through iterations, and adjusting weights. Through this endeavor, not only did I deepen my understanding of reinforcement learning principles and algorithms, but I also honed my skills in problem-solving and algorithmic thinking. The project's results demonstrated significant improvement in the agent's game performance, showcasing my ability to apply complex machine learning algorithms and neural networks in developing practical solutions independently and pursue projects to completion.
+There are two things I love in this world: Computer Science and Retro Video Games. One of my favorite games is space invaders, so I decided to build a Reinforcement Learning agent to beat the game (because I never could). I utilized a Q-Network and a Target Network to calculate Q-values, optimizing the agent's decision-making process. This technique enabled the agent to evaluate its actions based on the state of the game, learning from its environment by maximizing the cumulative reward. This approach involved storing experiences as tuples (state, action, reward, next state), refining the model through iterations, and adjusting weights. Through this endeavor, not only did I deepen my understanding of reinforcement learning principles and algorithms, but I also honed my skills in problem-solving and algorithmic thinking. The project's results demonstrated significant improvement in the agent's game performance, showcasing my ability to independently apply complex machine learning algorithms and neural networks in developing practical solutions and pursuing projects to completion.
 
 
 ### **Guiding/Essential Questions**
 List the Guiding/Essential Questions you are posing in your study that will guide your overall study and research.
 
-- ==TOP LEVEL QUESTION:== How do I use Publicly available satellite Information to Identify and accurately assess population Densities?
+- ==TOP LEVEL QUESTION:== How do I use publicly available satellite Information to identify and accurately assess population densities?
 	- How does object detection work?
 	- How can I use computer vision to recognize objects?
-	- Can I train an object detection area on 
-	- 
+	- How do satellites process Image Data?
+	- Can I train an object detection model on raw satellite data?
+	- Can I run an object detection model on raw satellite data?
+	- What is the best scanning algorithm for a problem of this scale?
+	- How do you assess the best locations to place water harvesting units using population density?
 
 ### **Description of Content Areas**
 Describe in approximately 200 words what you propose to study. Be as specific and as complete as possible.
 
-
+My SHIS will focus on the integration of Machine Learning and Remote Sensing into Environmental Sustainability.
 
 ### **Description of your motivation for pursuing this independent study**
 Describe in 150 – 200 words what has motivated you to undertake this work, what specific approach(es) you plan to take in this study, and how this study fits into your overall academic values.
