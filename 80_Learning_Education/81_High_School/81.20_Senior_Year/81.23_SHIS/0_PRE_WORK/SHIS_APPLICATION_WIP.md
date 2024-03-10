@@ -43,13 +43,15 @@ raechel@illinois.edu
 #### Related Work
 [Measurement of vegetation change in critical dune sites along the eastern shores of Lake Michigan from 1938 to 2014 with object-based image analysis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=3PEUAnYAAAAJ&citation_for_view=3PEUAnYAAAAJ:W7OEmFMy1HYC)
 
-
+---
 
 **Description of Experience of Independent Work.** Please describe in approximately 150 words an experience in which you have demonstrated your ability to work independently. Keep in mind any opportunity, group work, project, idea, passion or interest in which you have taken the initiative, followed through with completion, or pursued. Be as specific as possible.
 
 
 
 **Guiding/Essential Questions.** List the Guiding/Essential Questions you are posing in your study that will guide your overall study and research.
+
+- How do I use Publicly available satellite Information to 
 
 **Description of Content Areas.** Describe in approximately 200 words what you propose to study. Be as specific and as complete as possible.
 
