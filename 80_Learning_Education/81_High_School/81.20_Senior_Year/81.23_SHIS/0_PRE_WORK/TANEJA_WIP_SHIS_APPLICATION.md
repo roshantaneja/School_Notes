@@ -84,7 +84,7 @@ List the Guiding/Essential Questions you are posing in your study that will guid
 ### **Description of Content Areas**
 Describe in approximately 200 words what you propose to study. Be as specific and as complete as possible.
 
-My SHIS will focus on the integration of Machine Learning and Remote Sensing into Environmental Sustainability.
+My SHIS will focus on the integration of Machine Learning and Remote Sensing into Environmental Sustainability. 
 
 ### **Description of your motivation for pursuing this independent study**
 Describe in 150 – 200 words what has motivated you to undertake this work, what specific approach(es) you plan to take in this study, and how this study fits into your overall academic values.
