@@ -145,3 +145,11 @@ Does basically the same thing as Value iteration, but is faster than considering
 0. Policy Evaluation
 1. Policy Extraction
 2. Done!
+
+| States | 0 | 2 | 3 | 4 | 5 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $\pi_i$ | Draw | Stop | Draw | Stop | Draw |
+| $V^{\pi_i}$ | 0 | 2 | 0 | 4 | 0 |
+| $\pi_{i + 1}$ | Draw | Stop | Stop | Stop | Stop |
+| $V^{\pi_{i + 1}}$ | 3 | 2 | 3 | 4 | 5 |
+| $\pi_{i+2}$ | Draw | Draw |  |  |  |
