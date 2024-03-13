@@ -3,7 +3,6 @@ tags:
   - ECON
   - notes
 ---
-Integrating the additional details from your Unit 4 Review Guide into a markdown-enhanced document, we get a comprehensive study guide that looks like this:
 
 ---
 
@@ -30,6 +29,8 @@ Integrating the additional details from your Unit 4 Review Guide into a markdown
 ### M2:
 
 - **Includes**: M1 + Non-Bank money market accounts, savings accounts, CD’s, etc.
+
+---
 
 ## The Roles of the Financial System:
 
