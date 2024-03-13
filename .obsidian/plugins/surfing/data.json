@@ -48,7 +48,7 @@
   },
   "treeData": [
     {
-      "id": "e24994c5fa79e3e5",
+      "id": "c38c7118e38cbee8",
       "parent": 0,
       "droppable": true,
       "text": "Surfing",
@@ -59,7 +59,29 @@
       }
     },
     {
-      "id": "2c39629a8342fc67",
+      "id": "30dc779c2ccb1261",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "2636b51524011893",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5f1423779114995f",
       "parent": 0,
       "droppable": true,
       "text": "Surfing",

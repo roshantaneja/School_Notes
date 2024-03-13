@@ -124,7 +124,32 @@ $Q^*(S, a) = \Sigma_{S'}^{a\text{ (ctions from S')}}T_{\text{ransition}}(S, a, S
 
 so $v^*(S)$ is recursive, infinitely, so when does it end?
 
-what happens if I run the iteration for one time step, what about two? So we keep running iteratively, as time goes on till the value of each state converges.
+what happens if I run the iteration for one time step, what about two?
+
+So we keep running iteratively, as time goes on till the value of each state converges.
+
+# Policy evaluation
+
+How do i go from a policy -> values
+
+$$V^{\pi}(S)=\Sigma_{S'}^{a} T(S, a, S')[R(S, a, S') + \gamma V^{pi}(S')]$$
+
+since policy only has one action, no need to pick the max anymore.
+
+can we go backward?
 
 
+# Policy Iteration
+Does basically the same thing as Value iteration, but is faster than considering all actions.
 
+0. Policy Evaluation
+1. Policy Extraction
+2. Done!
+
+| States | 0 | 2 | 3 | 4 | 5 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| $\pi_i$ | Draw | Stop | Draw | Stop | Draw |
+| $V^{\pi_i}$ | 0 | 2 | 0 | 4 | 0 |
+| $\pi_{i + 1}$ | Draw | Stop | Stop | Stop | Stop |
+| $V^{\pi_{i + 1}}$ | 3 | 2 | 3 | 4 | 5 |
+| $\pi_{i+2}$ | Draw | Draw |  |  |  |
