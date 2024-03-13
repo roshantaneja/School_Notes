@@ -136,7 +136,7 @@ verifying your ability to undertake and follow through on independent work of a 
 ## V. EMAIL FROM PARENT/GUARDIAN
 indicating an understanding of the SHIS program, its rigor and assessment guidelines, and support of the student’s application
 
-
+![](30_Obsidian/32_Attachments/Images/Pasted%20image%2020240313161038.png)
 
 ## VI. BRIEF STATEMENT OF PREFERENCE FOR FALL OR SPRING SEMESTER
 to include any compelling reason(s) for this preference. Please note that this preference is not guaranteed but rather considered in the process of evaluating and balancing independent study projects per semester.
