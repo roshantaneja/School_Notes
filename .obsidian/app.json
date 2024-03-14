@@ -10,8 +10,8 @@
   "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Tabloid",
+    "includeName": false,
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
     "downscalePercent": 70
