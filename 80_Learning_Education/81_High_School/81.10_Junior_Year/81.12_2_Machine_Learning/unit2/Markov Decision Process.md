@@ -153,3 +153,4 @@ Does basically the same thing as Value iteration, but is faster than considering
 | $\pi_{i + 1}$ | Draw | Stop | Stop | Stop | Stop |
 | $V^{\pi_{i + 1}}$ | 3 | 2 | 3 | 4 | 5 |
 | $\pi_{i+2}$ | Draw | Draw |  |  |  |
+|  |  |  |  |  |  |
