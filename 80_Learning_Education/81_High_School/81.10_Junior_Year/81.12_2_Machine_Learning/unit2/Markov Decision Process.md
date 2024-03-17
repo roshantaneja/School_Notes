@@ -117,12 +117,12 @@ for gridworld, after running 100 iterations:
 
 Each state has its own value
 
-$v^*(S)=max(Q^*(S, a))$ is the value of my state
+$V^*(S)=max(Q^*(S, a))$ is the value of my state
 
 $Q^*(S, a) = \Sigma_{S'}^{a\text{ (ctions from S')}}T_{\text{ransition}}(S, a, S') * (R_{\text{eward}}(S, a, S') + \gamma_{\text{Discount}} * v^*_{\text{alue}}(S'))$
 
 
-so $v^*(S)$ is recursive, infinitely, so when does it end?
+so $V^*(S)$ is recursive, infinitely, so when does it end?
 
 what happens if I run the iteration for one time step, what about two?
 

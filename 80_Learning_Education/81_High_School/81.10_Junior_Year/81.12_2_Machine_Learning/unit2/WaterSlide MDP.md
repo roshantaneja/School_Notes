@@ -5,7 +5,7 @@ You’ve decided to take a trip with your friends to the grid-world water park. 
 ```
 +--------+--------+--------+--------+--------+--------+
 |        | Ladder | Ladder | Slide  | Slide  |        |
-|      0<->-1   0<->-1     ->+2     ->+2     ->0      |
+|       0↔-1     0↔-1      →+2      →+2      →0       |
 | [C]0   | [D]    | [E]    | [F]    | [G]    |    0   |
 +----↕---+-----------------------------------+----↕---+
 |    0   |                                   |    0   |
@@ -13,22 +13,18 @@ You’ve decided to take a trip with your friends to the grid-world water park. 
 | [B]0   |                                   |    0   |
 +----↕---+-----------------------------------+----↕---+
 |    0   |        |        |        |        |    0   |
-|      0<->0    0<->0    0<->0    0<->0    0<->0      |
+|       0↔0      0↔0      0↔0      0↔0      0↔0       |
 | [A]    |        |        |        |        |        |
 +--------+--------+--------+--------+--------+--------+
 
 ```
 
-(a) How many (deterministic) policies 𝜋 are possible for this MDP? (think of how many actions
-can be taken from each state and how many states there are).
+(a) How many (deterministic) policies 𝜋 are possible for this MDP? (think of how many actions can be taken from each state and how many states there are).
 
 
 
 
-(b) Fill in the blank cells of this table with values that are correct for the corresponding
-function, discount, and state. Hint: You should not need to do substantial calculation here.
-(Note: Vt(s) is the time-limited value of state s, if our MDP were to terminate after t
-timesteps.)
+(b) Fill in the blank cells of this table with values that are correct for the corresponding function, discount, and state. Hint: You should not need to do substantial calculation here. (Note: Vt(s) is the time-limited value of state s, if our MDP were to terminate after t timesteps.)
 
 |                   | $\gamma$ | $s = A$ | $s = E$ |
 | ----------------- | -------- | ------- | ------- |
