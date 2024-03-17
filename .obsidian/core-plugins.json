@@ -3,7 +3,6 @@
   "global-search",
   "switcher",
   "graph",
-  "canvas",
   "outgoing-link",
   "tag-pane",
   "properties",
@@ -12,7 +11,6 @@
   "command-palette",
   "slash-command",
   "editor-status",
-  "bookmarks",
   "outline",
   "slides",
   "publish"
