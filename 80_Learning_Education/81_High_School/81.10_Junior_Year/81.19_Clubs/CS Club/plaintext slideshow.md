@@ -1,9 +1,9 @@
 ---
-backgroundColor: 
+backgroundColor: #151515
 theme: uncover
 header: Plaintext Organizations
 footer: Roshan Taneja
-color: "#eef"
+color: #eef
 paginate: true
 text-align: center
 marp: true
