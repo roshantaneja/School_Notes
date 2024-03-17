@@ -19,12 +19,6 @@ You’ve decided to take a trip with your friends to the grid-world water park. 
 
 ```
 
-
-
-
-
-
-
 (a) How many (deterministic) policies 𝜋 are possible for this MDP? (think of how many actions
 can be taken from each state and how many states there are).
 
@@ -45,3 +39,5 @@ timesteps.)
 | $Q_{10}(s, west)$ | 1.0      |         |         |
 | $V^{*}(s)$        | 1.0      |         |         |
 | $V^{*}(s)$        | 0.1      |         |         |
+
+
