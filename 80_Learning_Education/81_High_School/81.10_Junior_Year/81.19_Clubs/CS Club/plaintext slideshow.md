@@ -38,7 +38,7 @@ An example of a warrant canary
 
 "The greatest problem in communication is the _illusion_ that it has been achieved."
 
-## - William H. Whyte
+## &mdash; William H. Whyte
 
 [(not George Bernard Shaw, apparently)](https://quoteinvestigator.com/2014/08/31/illusion/)
 
