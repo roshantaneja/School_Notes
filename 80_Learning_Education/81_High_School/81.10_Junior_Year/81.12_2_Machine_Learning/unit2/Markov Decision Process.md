@@ -132,7 +132,7 @@ So we keep running iteratively, as time goes on till the value of each state con
 
 How do i go from a policy -> values
 
-$$V^{\pi}(S)=\Sigma_{S'}^{a} T(S, a, S')[R(S, a, S') + \gamma*V^{\pi}(S')]$$
+$V^{\pi}_{k+1}(S)=\Sigma_{S'} T(S, \pi(S), S')[R(S, \pi(S), S') + \gamma*V^{\pi}_{k}(S')]$
 
 since policy only has one action, no need to pick the max anymore.
 

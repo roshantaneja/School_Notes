@@ -68,8 +68,11 @@ T(B, east, C) = 0.75
 Refrence:
 
 Round 1, Step 2
+
 Round 2, Step 2
+
 Round 3, Step 2
+
 Round 4, Step 2
 
 so 
@@ -101,7 +104,22 @@ Learn $V(S)$
 
 so for our previous example
 
+$\frac{1}{N}\Sigma {\text{ Samples}}$
 
+### Learning Rate $\alpha$
 
+How quickly am i changing my information if samples change?
+
+$V^{\pi}_{k+1}(S)=\Sigma_{S'} (1-\alpha)V^{\pi}_{k}(S) + \alpha * \text{Sample}$
+
+so for 
+
+$A + East = B, -2$  and $\alpha = 0.5$
+
+$V^{\pi}(A) = (1- 0.5) * 0 + (0.5)(-2) = -1$
+
+$V^{\pi}(B) = (1- 0.5) * 0 + (0.5)(-2) = -1$
+
+$V^{\pi}(C) = (1- 0.5) * 8 + (0.5)(10) = 9$
 
 
