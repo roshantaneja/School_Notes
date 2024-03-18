@@ -57,6 +57,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "19cb052fa1124b8f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Mohsin Hamid annotates the first page of his novel, ‘Exit West’ | PBS NewsHour",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ],
   "enableHtmlPreview": true
