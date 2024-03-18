@@ -3,7 +3,7 @@
   /*
     If the font isn't installed in the system, 
     it will go down the list until it finds on that is.
-    */
+  */
 
   --default-font: '"JetBrains Mono", monospace, "Inter", sans-serif';
   --font-monospace: '"JetBrains Mono", monospace, "Source Code Pro", monospace'; /*Code block text*/
@@ -365,548 +365,236 @@ span.cm-hmd-frontmatter.cm-meta {
   color: rgba(var(--blue0_x), 0.9);
 }
 
-/* @settings
+body {
+  --numerals-comment: var(--text-faint);
+  --numerals-heading: var(--text-faint);
+  --numerals-background: var(--code-background);
+  --numerals-font: var(--font-monospace);
+  --numerals-size: var(--code-size);
+  --numerals-emitter-input-weight: var(--normal-weight);
+  --numerals-alternating-row-color: var(--background-modifier-hover);
+}
 
-name: TokyoNight
-id: TokyoNight
-settings:
-  - 
-    id: heading-fonts
-    title: Fonts
-    type: heading
-    level: 1
-    collapsed: true
-  - 
-    id: default-font
-    title: Base Font
-    type: variable-text
-    default: '"JetBrains Mono", monospace, "Inter", sans-serif'
-  - 
-    id: font-monospace
-    title: Monospace Font
-    description: Used for codeblocks, tables, etc.
-    type: variable-text
-    default: '"JetBrains Mono", monospace, "Source Code Pro", monospace'
-  - 
-    id: heading-translucency
-    title: Translucency
-    type: heading
-    level: 1
-    collapsed: true
-  -
-    id: opacity-translucency-light
-    title: Light Theme Translucency
-    type: variable-number-slider
-    default: 1
-    min: 0
-    max: 1
-    step: 0.01
-  -
-    id: opacity-translucency-dark
-    title: Dark Theme Translucency
-    type: variable-number-slider
-    default: 1
-    min: 0
-    max: 1
-    step: 0.01
-  
-  - 
-    id: heading-colors-background
-    title: Background Colors
-    type: heading
-    level: 1
-    collapsed: true
-  -
-    id: background-primary
-    title: Background Primary
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(213, 214, 219)'
-    default-dark: 'rgb(26, 27, 38)'
-  -
-    id: background-primary-alt
-    title: Background Primary (alt)
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(213, 214, 219)'
-    default-dark: 'rgb(26, 27, 38)'
-  -
-    id: background-secondary
-    title: Background Secondary
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(203, 204, 209)'
-    default-dark: 'rgb(22, 22, 30)'
-  -
-    id: background-secondary-alt
-    title: Background Secondary (alt)
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(203, 204, 209)'
-    default-dark: 'rgb(22, 22, 30)'
-  -
-    id: background-modifier-border
-    title: 'Background Modifier: Border'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(220, 222, 226, 1)'
-    default-dark: 'rgba(41, 46, 66, 1)'
-  -
-    id: background-modifier-form-field
-    title: 'Background Modifier: Form Field'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(203, 204, 209, 1)'
-    default-dark: 'rgba(22, 22, 30, 1)'
-  -
-    id: background-modifier-form-field-highlighted
-    title: 'Background Modifier: Form Field (highlighted)'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(203, 204, 209, 1)'
-    default-dark: 'rgba(22, 22, 30, 1)'
-  -
-    id: background-modifier-box-shadow
-    title: 'Background Modifier: Box Shadow'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(0, 0, 0, 0.3)'
-    default-dark: 'rgba(0, 0, 0, 0.3)'
-  -
-    id: background-modifier-success
-    title: 'Background Modifier: Success'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(51, 99, 92, 1)'
-    default-dark: 'rgba(158, 206, 106, 1)'
-  -
-    id: background-modifier-error
-    title: 'Background Modifier: Error'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(115, 42, 56, 1)'
-    default-dark: 'rgba(219, 75, 75, 1)'
-  -
-    id: background-modifier-error-hover
-    title: 'Background Modifier: Error (hover)'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(140, 67, 81, 1)'
-    default-dark: 'rgba(255, 117, 127, 1)'
-  -
-    id: background-modifier-cover
-    title: 'Background Modifier: Cover'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(203, 204, 209, 0.8)'
-    default-dark: 'rgba(22, 22, 30, 0.8)'
-  -
-    id: background-modifier-hover
-    title: 'Background Modifier: Hover'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(220, 222, 226, 1)'
-    default-dark: 'rgba(41, 46, 66, 1)'
-  - 
-    id: heading-colors-text
-    title: Text Colors
-    type: heading
-    level: 1
-    collapsed: true
-  -
-    id: text-accent
-    title: 'Text: Accent'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(90, 74, 120)'
-    default-dark: 'rgb(187, 154, 247)'
-  -
-    id: text-accent-hover
-    title: 'Text: Accent (hover)'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(15, 75, 110)'
-    default-dark: 'rgb(125, 207, 255)'
-  -
-    id: text-normal
-    title: 'Text: Normal'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(52, 59, 88)'
-    default-dark: 'rgb(192, 202, 245)'
-  -
-    id: text-muted
-    title: 'Text: Muted'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(39, 46, 75)'
-    default-dark: 'rgb(169, 177, 214)'
-  -
-    id: text-faint
-    title: 'Text: Faint'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(150, 153, 163)'
-    default-dark: 'rgb(86, 95, 137)'
-  -
-    id: text-error
-    title: 'Text: Error'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(115, 42, 56)'
-    default-dark: 'rgb(219, 75, 75)'
-  -
-    id: text-error-hover
-    title: 'Text: Error Hover'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(140, 67, 81)'
-    default-dark: 'rgb(255, 117, 127)'
-  -
-    id: text-highlight-bg
-    title: 'Text: Highlight Background'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(150, 80, 39, 0.4)'
-    default-dark: 'rgba(255, 158, 100, 0.4)'
-  -
-    id: text-selection
-    title: 'Text: Selection Background'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(39, 71, 125, 0.6)'
-    default-dark: 'rgba(61, 89, 161, 0.6)'
-  - 
-    id: bold-color
-    title: Bold Color 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(90, 74, 120)' 
-    default-dark: 'rgb(187, 154, 247)'
-  - 
-    id: italic-color 
-    title: Italic Color 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(90, 74, 120)' 
-    default-dark: 'rgb(187, 154, 247)'
-  - 
-    id: heading-colors
-    title: Header Colors 
-    type: heading
-    level: 1
-    collapsed: true
-  - 
-    id: h1-color
-    title: 'H1 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(140, 67, 8)'
-    default-dark: 'rgb(255, 117, 127)'
-  - 
-    id: h2-color
-    title: 'H2 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(143, 94, 21)'
-    default-dark: 'rgb(224, 175, 104)' 
-  - 
-    id: h3-color
-    title: 'H3 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(51, 99, 92)'
-    default-dark: 'rgb(158, 206, 106)'
-  - 
-    id: h4-color
-    title: 'H4 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(15, 75, 110)'
-    default-dark: 'rgb(125, 207, 255)'
-  - 
-    id: h5-color
-    title: 'H5 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(52, 84, 138)'
-    default-dark: 'rgb(122, 162, 247)'
-  - 
-    id: h6-color
-    title: 'H6 Color'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(90, 74, 120)'
-    default-dark: 'rgb(187, 154, 247)'
+.numerals-syntax .numerals-input span {
+  padding: 0 2px;
+}
+.numerals-syntax .numerals-input {
+  overflow-wrap: break-word;
+}
+.numerals-block .numerals-input .math-parenthesis,
+.numerals-block .numerals-input .math-paranthesis {
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
-  - 
-    id: heading-colors-interactive
-    title: Interactive Colors
-    type: heading
-    level: 1
-    collapsed: true
-  -
-    id: interactive-normal
-    title: 'Interactive: Normal'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(203, 204, 209)'
-    default-dark: 'rgb(22, 22, 30)'
-  -
-    id: interactive-hover
-    title: 'Interactive: Hover'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(213, 214, 219)'
-    default-dark: 'rgb(26, 27, 38)'
-  -
-    id: interactive-accent
-    title: 'Interactive: Accent'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(15, 75, 110)'
-    default-dark: 'rgb(125, 207, 255)'
-  -
-    id: interactive-accent-hover
-    title: 'Interactive: Accent (hover)'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(52, 84, 138)'
-    default-dark: 'rgb(122, 162, 247)'
-  -
-    id: interactive-success
-    title: 'Interactive: Success'
-    type: variable-themed-color
-    opacity: false
-    format: rgb
-    default-light: 'rgb(51, 99, 92)'
-    default-dark: 'rgb(158, 206, 106)'
+.numerals-block .numerals-input .math-number {
+  color: var(--code-value);
+}
+.numerals-block .numerals-input .math-string {
+  color: var(--code-string);
+}
+.numerals-block .numerals-input .math-boolean {
+  color: var(--code-value);
+}
+.numerals-block .numerals-input .math-undefined {
+  color: var(--code-keyword);
+  display: none;
+}
+.numerals-block .numerals-input .math-function {
+  color: var(--code-function);
+}
+.numerals-block .numerals-input .math-parameter {
+  color: var(--code-property);
+}
+.numerals-block .numerals-input .math-property {
+  color: var(--code-property);
+}
+.numerals-block .numerals-input .math-symbol {
+  color: var(--code-property);
+}
+.numerals-block .numerals-input .math-operator {
+  color: var(--code-operator);
+}
+.numerals-block .numerals-input .math-parenthesis,
+.numerals-block .numerals-input .math-paranthesis {
+  color: var(--code-punctuation);
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.numerals-block .numerals-input .math-separator {
+  color: var(--code-punctuation);
+}
 
-  - 
-    id: heading-tag-color 
-    title: 'Tag Color'
-    type: heading
-    level: 1
-    collapsed: true 
-  - 
-    id: tag-color 
-    title: 'Tag Color'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(90, 74, 120, 1)'
-    default-dark: 'rgba(187, 154, 247, 1)'
-  - 
-    id: tag-background 
-    title: 'Tag Background' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(90, 74, 120, 0.15)' 
-    default-dark: 'rgba(187, 154, 247, 0.15)' 
-  - 
-    id: tag-color-hover 
-    title: 'Tag Color (hover)' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(15, 75, 110, 1)' 
-    default-dark: 'rgba(125, 207, 255, 1)' 
-  - 
-    id: tag-background-hover 
-    title: 'Tag Background (hover)' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(15, 75, 110, 0.15)' 
-    default-dark: 'rgba(125, 207, 255, 0.15)'
-  - 
-    id: heading-link-color 
-    title: 'Link Color' 
-    type: heading 
-    level: 1 
-    collapsed: true 
-  - 
-    id: link-color 
-    title: 'Link Color' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(90, 74, 120, 1)' 
-    default-dark: 'rgba(187, 154, 247, 1)' 
-  - 
-    id: link-color-hover 
-    title: 'Link Color (hover)' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(15, 75, 110, 1)' 
-    default-dark: 'rgba(125, 207, 255, 1)' 
-  - 
-    id: link-external-color 
-    title: 'Link External Color' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(90, 74, 120, 1)' 
-    default-dark: 'rgba(187, 154, 247, 1)'
-  - 
-    id: link-external-color-hover 
-    title: 'Link External Color (hover)' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(15, 75, 110, 1)' 
-    default-dark: 'rgba(125, 207, 255, 1)'
+.numerals-block  {
+  background-color: var(--numerals-background);
+  font-family: var(--numerals-font);    
+  font-size: var(--numerals-size);    
+  padding: var(--size-4-4);    
+} 
 
-  - 
-    id: heading-checkbox-checklist
-    title: 'Checkbox and Checklist' 
-    type: heading 
-    level: 1 
-    collapsed: true 
-  - 
-    id: checkbox-radius 
-    title: 'Checkbox: Radius' 
-    type: variable-number-slider 
-    default: 4 
-    min: 0 
-    max: 20 
-    step: 1 
-  - 
-    id: checkbox-color 
-    title: 'Checkbox: Color' 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(150, 153, 163)' 
-    default-dark: 'rgb(86, 95, 137)'
-  - 
-    id: checkbox-color-hover 
-    title: 'Checkbox: Color (hover)'
-    type: variable-themed-color
-    opacity: false
-    format: rgb 
-    default-light: 'rgb(150, 153, 163)' 
-    default-dark: 'rgb(86, 95, 137)' 
-  - 
-    id: checkbox-marker-color 
-    title: 'Checkbox: Marker Color' 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(51, 99, 92)' 
-    default-dark: 'rgb(158, 206, 106)' 
-  - 
-    id: checkbox-border-color 
-    title: 'Checkbox: Border Color' 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(150, 153, 163)' 
-    default-dark: 'rgb(86, 95, 137)' 
-  - 
-    id: checkbox-border-color-hover 
-    title: 'Checkbox: Border Color (hover)' 
-    type: variable-themed-color 
-    opacity: false 
-    format: rgb 
-    default-light: 'rgb(150, 153, 163)' 
-    default-dark: 'rgb(86, 95, 137)' 
-  - 
-    id: checklist-done-color 
-    title: 'Checklist: Done Color' 
-    type: variable-themed-color 
-    opacity: true 
-    format: rgba 
-    default-light: 'rgba(51, 99, 92, 0.5)' 
-    default-dark: 'rgba(158, 206, 106, 0.5)'
-  - 
-    id: heading-scrollbar
-    title: 'Scrollbar'
-    type: heading
-    level: 1
-    collapsed: true
-  -
-    id: scrollbar-bg
-    title: 'Scrollbar: Background'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(188, 189, 194, 1)'
-    default-dark: 'rgba(18, 18, 24, 1)'
-  -
-    id: scrollbar-thumb-bg
-    title: 'Scrollbar: Thumb Background'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(150, 153, 163, 1)'
-    default-dark: 'rgba(86, 95, 137, 1)'
-  -
-    id: scrollbar-active-thumb-bg
-    title: 'Scrollbar: Active Thumb Background'
-    type: variable-themed-color
-    opacity: true
-    format: rgba
-    default-light: 'rgba(203, 204, 209, 1)'
-    default-dark: 'rgba(22, 22, 30, 1)'
-  - 
-    id: scrollbar-width 
-    title: 'Scrollbar: Width'
-    type: variable-number-slider
-    default: 0 
-    min: 0 
-    max: 20 
-    step: 1 
-  - 
-    id: miscellaneous
-    title: Miscellaneous
-    type: heading 
-    level: 1 
-    collapsed: true 
-  - 
-    id: border-width 
-    title: 'Border Width'
-    type: variable-number-slider 
-    default: 2 
-    min: 0 
-    max: 20 
-    step: 1 
-  
+.numerals-block .MathJax {
+  text-align: left !important;
+  margin-top: .5em !important;
+  margin-bottom: .5em !important;
+} 
 
-*/
+.numerals-input.numerals-empty {
+  font-weight: bold;
+  color: var(--numerals-heading);
+}
+
+.numerals-input .numerals-tex {
+  display:inline-block;
+}
+
+.numerals-input .numerals-inline-comment {
+  display: inline-block;
+  padding-left: 1em;
+  color: var(--numerals-comment);
+}
+
+.numerals-alt-row-color .numerals-line:nth-child(even){
+  background-color: var(--numerals-alternating-row-color);
+}
+
+.numerals-alt-row-color .numerals-line .numerals-input{
+  padding-left: var(--size-2-2);
+}
+
+.numerals-alt-row-color .numerals-line .numerals-result {
+  padding-right: var(--size-2-2);        
+}
+
+.numerals-error-name {
+  color:var(--color-red);
+  padding-right: var(--size-4-2);
+}
+
+/**********************************/
+/* ** Right-aligned Style ** */
+
+/* TODO Switch to a diffent display layout so that result can be centered */
+
+.numerals-answer-right .numerals-line {
+  line-height: var(--line-height-tight);
+  clear: both;
+  overflow: auto;    
+}
+
+.numerals-answer-right .numerals-input {
+  float: left;
+}
+
+.numerals-answer-right .numerals-result {
+  float: right;
+  color: var(--text-muted);
+}
+
+/**********************************/
+/* ** Two Panes Style ** */
+/* this leads to filling all the way to the bottom of the container. probably bigger than desired */
+.numerals-panes .numerals-line {
+  line-height: var(--line-height-tight);
+
+}
+
+.numerals-panes .numerals-line {
+  display: flex;
+}
+
+.numerals-panes .numerals-input {
+  width:75%;
+}
+
+.numerals-panes .numerals-result {
+  color: var(--text-muted);
+  background-color: var(--background-modifier-hover);
+  width: 25%;
+  text-align: left;
+  padding-left: var(--size-2-2);
+  border-left: 1px solid var(--background-modifier-border-focus);
+}
+
+/* .numerals-panes .MathJax {
+  float:left;
+} */
+
+
+/**********************************/
+/* ** Result on following line ** */
+
+.numerals-answer-below .numerals-line {
+  line-height: var(--line-height-tight);
+}
+
+.numerals-answer-below .numerals-line .numerals-result,
+.numerals-answer-below .numerals-line .numerals-input  {
+  display:block;
+}
+
+.numerals-answer-below .numerals-line .numerals-result {
+  color: var(--text-muted);
+  padding-left: var(--size-4-4);
+  padding-bottom: var(--size-2-1);
+}
+
+.numerals-answer-below .numerals-line .numerals-input {
+  padding-top: var(--size-2-1);
+}
+
+.numerals-answer-below .numerals-input.numerals-empty {
+  padding-top: var(--size-4-3);
+  padding-bottom: var(--size-4-1);
+}
+
+.numerals-answer-below .numerals-result.numerals-empty {
+  display: none;
+}
+
+/* Don't show text in .numerals-result that and aren't descendents of .numerals-emitter */
+.numerals-emitters-present:not(.numerals-hide-non-emitters) .numerals-result:not(.numerals-emitter .numerals-result) {
+  color: var(--text-faint);
+}
+
+.numerals-emitter .numerals-input {
+  font-weight: var(--numerals-emitter-input-weight)
+}
+
+.numerals-emitters-present.numerals-hide-non-emitters .numerals-result:not(.numerals-emitter .numerals-result) {
+  color: transparent;
+}
+
+
+/**********************************/
+/* ** Inline Style ** */
+/* TODO Switch to a diffent display layout so that result can be centered */
+
+.numerals-answer-right .numerals-line {
+  line-height: var(--line-height-tight);
+  /* clear: both; */
+  /* overflow: auto;     */
+}
+
+.numerals-answer-inline .numerals-input {
+  display:inline-block;
+  padding-right: 20px;
+  /* float: left; */
+}
+
+.numerals-answer-inline .numerals-result {
+  /* float: right; */
+  color: var(--text-muted);
+  display:inline-block;
+}
+
+
+/***************************/
+/* ** Suggestion Style ** */
+
+/* .numerals-suggestion-icon {
+--icon-size: 1em;
+} */
+.numerals-suggestion {
+  font-family: var(--numerals-font);
+  font-size: var(--numerals-size);
+}
