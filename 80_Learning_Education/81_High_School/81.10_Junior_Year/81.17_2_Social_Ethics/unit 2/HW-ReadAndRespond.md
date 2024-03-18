@@ -1,3 +1,11 @@
+---
+tags:
+  - SocialEthics
+  - religion
+---
+
+
+
 1. **Definition of "Stand Your Ground" in Douglas's Context:**
    Kelly Brown Douglas might define "stand your ground" within the context of her analysis as a legal and societal concept that justifies the use of force in self-defense without the duty to retreat, no matter the setting. In her context, "stand your ground" laws are critiqued for how they disproportionately protect white individuals while criminalizing and targeting black bodies. Douglas likely argues that these laws are not neutral but are deeply embedded within the racial prejudices and histories of violence against black people in the United States, reinforcing the notion of the black body as inherently dangerous or guilty.
 
