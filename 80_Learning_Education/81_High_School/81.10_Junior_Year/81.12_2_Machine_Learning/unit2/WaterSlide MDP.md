@@ -51,10 +51,10 @@ total_policy = 1^(slide + corner) * 2^(ladder + other)
 | ----------------- | -------- | ---------- | --------------------------------------------------------------- |
 | $V_{3}(s)$        | 1.0      | 0          | +4                                                              |
 | $V_{10}(s)$       | 1.0      | +2         | +4                                                              |
-| $V_{10}(s)$       | 0.1      | 0          | +0.22                                                           |
+| $V_{10}(s)$       | 0.1      | 0          | +2.2                                                           |
 | $Q_{1}(s, west)$  | 1.0      | N/A        | 0                                                               |
 | $Q_{10}(s, west)$ | 1.0      | N/A        | +3                                                              |
 | $V^{*}(s)$        | 1.0      | $+ \infty$ | $+ \infty$ (Maximizes use of slide, infinite rewards)           |
-| $V^{*}(s)$        | 0.1      | 0          | $<+0.22$ (Uses slide initially, rewards diminish substantially) |
+| $V^{*}(s)$        | 0.1      | 0          | $<+2.2$ (Uses slide initially, rewards diminish substantially) |
 
 
