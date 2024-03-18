@@ -1,3 +1,10 @@
+---
+tags:
+  - SHIS
+  - "#applications"
+---
+
+
 SENIOR HONORS INDEPENDENT STUDY
 
 APPLICATION
