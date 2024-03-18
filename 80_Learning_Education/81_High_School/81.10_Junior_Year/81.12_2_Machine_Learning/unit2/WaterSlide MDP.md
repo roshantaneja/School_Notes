@@ -21,19 +21,32 @@ You’ve decided to take a trip with your friends to the grid-world water park. 
 
 (a) How many (deterministic) policies 𝜋 are possible for this MDP? (think of how many actions can be taken from each state and how many states there are).
 
+2 Slide States: 1 action possible
+1 Corner State: 1 action possible
+2 Ladder States: 2 actions possible
+9 Other States: 2 actions possible
 
+```math
+slide = 2
+corner = 1
+ladder = 2
+other = 9
+
+total_policy = 1^(slide + corner) * 2^(ladder + other)
+
+```
 
 
 (b) Fill in the blank cells of this table with values that are correct for the corresponding function, discount, and state. Hint: You should not need to do substantial calculation here. (Note: Vt(s) is the time-limited value of state s, if our MDP were to terminate after t timesteps.)
 
-|                   | $\gamma$ | $s = A$ | $s = E$ |
-| ----------------- | -------- | ------- | ------- |
-| $V_{3}(s)$        | 1.0      |         |         |
-| $V_{10}(s)$       | 1.0      |         |         |
-| $V_{10}(s)$       | 0.1      |         |         |
-| $Q_{1}(s, west)$  | 1.0      |         |         |
-| $Q_{10}(s, west)$ | 1.0      |         |         |
-| $V^{*}(s)$        | 1.0      |         |         |
-| $V^{*}(s)$        | 0.1      |         |         |
+|                   | $\gamma$ | $s = A$    | $s = E$                                                         |
+| ----------------- | -------- | ---------- | --------------------------------------------------------------- |
+| $V_{3}(s)$        | 1.0      | 0          | +4                                                              |
+| $V_{10}(s)$       | 1.0      | +2         | +4                                                              |
+| $V_{10}(s)$       | 0.1      | 0          | +0.22                                                           |
+| $Q_{1}(s, west)$  | 1.0      | N/A        | 0                                                               |
+| $Q_{10}(s, west)$ | 1.0      | N/A        | +3                                                              |
+| $V^{*}(s)$        | 1.0      | $+ \infty$ | $+ \infty$ (Maximizes use of slide, infinite rewards)           |
+| $V^{*}(s)$        | 0.1      | 0          | $<+0.22$ (Uses slide initially, rewards diminish substantially) |
 
 
