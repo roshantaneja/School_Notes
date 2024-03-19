@@ -1,7 +1,6 @@
 [
   "obsidian-focus-mode",
   "obsidian-grandfather",
-  "obsidian-excel-to-markdown-table",
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
   "better-word-count",
@@ -17,5 +16,6 @@
   "marp-slides",
   "cm-editor-syntax-highlight-obsidian",
   "numerals",
-  "quick-latex"
+  "quick-latex",
+  "recent-files-obsidian"
 ]
