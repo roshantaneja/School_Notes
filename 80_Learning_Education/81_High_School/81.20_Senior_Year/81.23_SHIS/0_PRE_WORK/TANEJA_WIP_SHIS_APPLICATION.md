@@ -3,9 +3,7 @@ tags:
   - SHIS
   - "#applications"
 ---
-
-
-SENIOR HONORS INDEPENDENT STUDY
+# SENIOR HONORS INDEPENDENT STUDY
 
 APPLICATION
 (Revised December 2023)
@@ -25,6 +23,8 @@ APPLICATION
 
 **Name of Student Applicant:** ==Roshan Taneja==
 
+
+<div style="page-break-after: always;"></div>
 ## **I. COURSE DESCRIPTION**
 **Name of project:** Object Detection on Public Satellite Data For Scaled Placement of Water Harvesting Units in in East Africa
 
@@ -120,7 +120,9 @@ Please use MLA or Chicago Style format, depending on your sponsoring department�
 Author’s Last name, First name. “Title of the Article or Individual Page.” Title of the Website, Name of
 	the Publisher, Date of Publication in Day Month Year format, URL.
 ```
+---
 
+<div style="page-break-after: always;"></div>
 ## **II. DETAILED 16 – WEEK SYLLABUS**
 To include a ***weekly*** schedule of:
 	● Major readings
@@ -131,6 +133,9 @@ To include a ***weekly*** schedule of:
 Please note: Syllabus may also include work done over the summer before senior year. If so, please
 provide a detailed, day-to-day, week-by-week syllabus of your summer work.
 
+
+
+
 ## III. EMAIL OF AGREEMENT FROM THREE OFF-CAMPUS EXPERTS
 
 
@@ -138,12 +143,12 @@ provide a detailed, day-to-day, week-by-week syllabus of your summer work.
 ## IV. EMAIL OF BRIEF RECOMMENDATION FROM A SACRED HEART TEACHER
 verifying your ability to undertake and follow through on independent work of a sustained nature.
 
-
+![500](30_Obsidian/32_Attachments/Images/SHIS_Holman_Reccomendation.png)
 
 ## V. EMAIL FROM PARENT/GUARDIAN
 indicating an understanding of the SHIS program, its rigor and assessment guidelines, and support of the student’s application
 
-![](30_Obsidian/32_Attachments/Images/Pasted%20image%2020240313161038.png)
+![500](30_Obsidian/32_Attachments/Images/SHIS_Dad_Reccomendation.png)
 
 ## VI. BRIEF STATEMENT OF PREFERENCE FOR FALL OR SPRING SEMESTER
 to include any compelling reason(s) for this preference. Please note that this preference is not guaranteed but rather considered in the process of evaluating and balancing independent study projects per semester.
