@@ -31,11 +31,16 @@ The podcast episodes on carcinology delve into the fascinating world of crabs, e
 ## Reflection:
 (6-8 meaty sentences of your OWN thoughts and reflections – not a continuation of an explanation of the podcast. What does this make you think about? What does it make you wonder about? How has this changed or challenged your thinking?)
 
-The exploration of crabs through the lenses of both a scientific and cultural perspective in the "Ologies - Carcinology" podcast episodes makes me reflect on the intricate balance between human interests and the natural world. It's fascinating to consider how something as seemingly simple as a crab encompasses vast biological diversity, complex ecological roles, and significant cultural implications. The journey of Adam Wall, from a career in robotics to becoming a carcinologist, reminds me of the unpredictable paths curiosity can lead us down, highlighting the importance of following one's passion, even when it veers into uncharted territories. 
+The exploration of crabs through the lenses of both a scientific and cultural perspective in the "Ologies - Carcinology" podcast episodes makes me reflect on the intricate balance between human interests and the natural world. It's fascinating to consider how something as seemingly simple as a crab encompasses vast biological diversity, complex ecological roles, and significant cultural implications. The journey of Adam Wall, from a career in robotics to becoming a carcinologist, reminds me of the unpredictable paths curiosity can lead us down, highlighting the importance of following one's passion, even when it veers into uncharted territories.
 
 These episodes also prompt me to think about the ethical considerations surrounding our interaction with marine life, especially in terms of consumption and conservation. The discussion on sustainable eating and the impact of climate change on crab populations underscores the urgent need for collective action in preserving our planet's biodiversity. It challenges me to be more conscientious about my own choices and the broader implications they have on the environment.
 
 Moreover, the podcast has deepened my appreciation for the role of storytelling in science. By weaving together detailed scientific information with engaging narratives and personal anecdotes, it makes the complex world of crabs accessible and compelling to a wide audience. This approach not only educates but also fosters a deeper connection between people and the natural world, encouraging curiosity and care for the myriad life forms with whom we share our planet.
+
+
+
+
+
 ### Part 1: Introduction to Crabs and Carcinology
 - **Introduction and Overview**: Alie Ward introduces the topic of crabs, touching on the excitement of exploring the Natural History Museum's crab collection .
 - **Adam Wall's Background**: Adam's transition from robotics and NASA to carcinology is explored, highlighting his passion for crustaceans  .
