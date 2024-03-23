@@ -1,10 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Typewriter",
   "baseFontSize": 14,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
-  ]
+  ],
+  "monospaceFontFamily": "Cascadia Mono PL",
+  "interfaceFontFamily": ""
 }
