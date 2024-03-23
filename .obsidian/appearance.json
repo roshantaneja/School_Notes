@@ -3,5 +3,8 @@
   "cssTheme": "",
   "baseFontSize": 16,
   "theme": "moonstone",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "IndexHider"
+  ]
 }
