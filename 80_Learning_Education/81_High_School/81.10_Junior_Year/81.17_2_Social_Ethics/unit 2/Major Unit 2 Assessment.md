@@ -25,4 +25,19 @@ These stories showcase the impact of systemic oppression on children of undocume
 
 Children in these situations may also experience internalized oppression. The constant fear and uncertainty surrounding their immigration status can lead to feelings of isolation, worthlessness, and a sense that they don't belong. This can have long-lasting negative consequences on their mental health and well-being.
 
-Understanding these real-life stories helps us see the human cost of immigration enforcement policies and the need for reforms that prioritize the safety and well-being of children.
+Understanding these real-life stories helps us see the human cost of immigration enforcement policies and the need for reforms that prioritize the safety and well-being of children.\\\
+
+
+SOCIAL ANALYSIS
+Research at least 4 sources (2 from class and 2 outside sources) and describe the stereotypes, prejudice/bias, discrimination, systemic oppression, and internalized oppression commonly associated with this identity.
+
+THEOLOGICAL REFLECTION
+Analyze how Catholic social teaching principles (e.g., human dignity, solidarity, preferential option for the poor and vulnerable, common good) intersect with and respond to the challenges faced by individuals with this identity.
+Provide real-life examples, statistics, and scholarly sources to support your analysis.
+
+CST 2: call to family, community and Participation
+
+CST 4: Option for the poor and vulnerable
+
+ACTION
+Reflect on how your own beliefs and actions align with or challenge the principles of Catholic social teaching in relation to this marginalized identity.
