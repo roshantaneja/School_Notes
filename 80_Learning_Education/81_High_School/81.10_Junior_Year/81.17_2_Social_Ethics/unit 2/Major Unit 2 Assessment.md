@@ -41,3 +41,39 @@ CST 4: Option for the poor and vulnerable
 
 ACTION
 Reflect on how your own beliefs and actions align with or challenge the principles of Catholic social teaching in relation to this marginalized identity.
+
+
+
+## Social Analysis of Children of Undocumented Immigrants
+
+**Stereotypes:**
+
+* **Criminals:**  Undocumented immigrants are often stereotyped as criminals, which can be projected onto their children. This stereotype fuels the misconception that children of undocumented immigrants are more likely to be delinquent or pose a threat to society. 
+* **Dependence on Public Resources:**  A stereotype exists that undocumented immigrants are a drain on public resources.  This can lead to the assumption that their children are more likely to rely on welfare programs, creating prejudice against them.
+
+**Prejudice/Bias:**
+
+* **Negative Attitudes Towards Immigration:**  Negative attitudes towards immigration in general can translate into prejudice against children of undocumented immigrants.  They may be seen as "taking opportunities" away from native-born children, even if they are U.S. citizens themselves.
+* **Implicit Bias in Child Welfare System:**  Studies suggest implicit bias within the child welfare system, where workers may be more likely to view single-parent households led by non-citizens with suspicion, leading to unnecessary removal of children. ([SOURCE implicit bias in child welfare ON National Conference of State Legislatures ncsl.org])
+
+**Discrimination:**
+
+* **Limited Access to Resources:** Due to their immigration status, children of undocumented immigrants may face difficulties accessing essential services like healthcare or education.  Fear of deportation can prevent families from seeking help, further marginalizing them.  ([SOURCE children of undocumented immigrants and healthcare access ON American Immigration Council americanimmigrationcouncil.org])
+* **Educational Barriers:**  Undocumented students may face discrimination in schools, experiencing language barriers, limited access to college counseling, or fear of deportation impacting their educational opportunities.
+
+**Systemic Oppression:**
+
+* **Immigration Enforcement Policies:**  Detention and deportation policies can lead to the separation of families, placing a tremendous burden on children.  Furthermore, fear of deportation creates a chilling effect, preventing families from accessing essential services and reporting crimes.
+* **Inadequate Legal Protections:**  Many children of undocumented immigrants are U.S. citizens, but lack full legal protections due to their parents' status.  This can make them vulnerable to exploitation and limit their access to benefits available to other U.S. citizens.
+
+**Internalized Oppression:**
+
+* **Feeling of Illegitimacy:**  Children of undocumented immigrants, even if U.S. citizens themselves, may internalize the negative stereotypes surrounding their families' immigration status. This can lead to feelings of illegitimacy and not belonging.
+* **Fear and Anxiety:**  The constant fear of deportation and family separation can cause significant anxiety and emotional distress in children. This can carry over into academic performance, social interactions, and their overall well-being.  
+
+**Sources:**
+
+* **Class Source 1 (Replace with actual source title):** (Provide a brief description of the content relevant to the analysis)
+* **Class Source 2 (Replace with actual source title):** (Provide a brief description of the content relevant to the analysis)
+* **External Source 1:** "Implicit Bias in Child Welfare" ([https://www.americanbar.org/groups/public_interest/child_law/resources/child_law_practiceonline/january---december-2019/race-and-poverty-bias-in-the-child-welfare-system---strategies-f/](https://www.americanbar.org/groups/public_interest/child_law/resources/child_law_practiceonline/january---december-2019/race-and-poverty-bias-in-the-child-welfare-system---strategies-f/)) - This source explores the presence of implicit bias within the child welfare system, which can disproportionately impact children of undocumented immigrants.
+* **External Source 2:** "Children of Undocumented Immigrants and Healthcare Access" ([SOURCE children of undocumented immigrants and healthcare access ON American Immigration Council americanimmigrationcouncil.org]) - This source discusses the challenges faced by children of undocumented immigrants in accessing healthcare due to their immigration status.
