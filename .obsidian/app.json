@@ -14,7 +14,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 70
+    "downscalePercent": 60
   },
   "livePreview": true,
   "vimMode": false,
