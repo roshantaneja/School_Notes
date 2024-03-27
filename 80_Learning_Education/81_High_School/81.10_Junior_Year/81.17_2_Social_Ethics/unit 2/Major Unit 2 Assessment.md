@@ -171,4 +171,9 @@ Reflecting on our beliefs and actions through the lens of Catholic social teachi
 
 ## Conclusion
 
-The challenges faced by children of undocumented immigrants are complex and multifaceted, but they are not insurmountable. Through a combination of social analysis, theological reflection, and actionable steps informed by Catholic social teaching, we can work towards a more just and compassionate society. By recognizing the dignity of every child, standing in solidarity with the vulnerable, and advocating for policies that promote the common good, we embody the principles of CST and make tangible the Church's commitment to the most marginalized among us.
+
+The challenges faced by children of undocumented immigrants are undeniable. Yet, despair is not the answer. By uniting social analysis, theological reflection, and action guided by Catholic social teaching (CST), we can build a more just and compassionate society.
+
+We must recognize the inherent dignity of every child, regardless of immigration status. Policies that separate families and exploit vulnerabilities must be replaced with those that prioritize the common good. The principles of CST – human dignity and the preferential option for the poor and vulnerable – offer a roadmap for achieving this.
+
+The power to transform adversity into hope lies within us. Let us advocate for policies that uplift these children and embrace them as valued members of our communities. Through unwavering commitment to justice and empathy, we can illuminate a path towards a future where every child thrives, not just survives.
