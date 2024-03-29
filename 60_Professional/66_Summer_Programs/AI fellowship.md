@@ -9,6 +9,23 @@ Use the latex paper for a couple different reasons.
 
 Track Down the confenece speicifcations
 
+Introduction to the project
+
+Related Works
+- Related papers to the project
+Images/graphics
+- Graphs, Chart
+- Training data
+- API outpoot
+- testing data
+
+Working process
+- what API's
+- What algos
+- How is it set up
+- model config
+- etc
+
 
 Writing a paper takes a wherile, ghive ourselves enough time to complete it. ]
 
