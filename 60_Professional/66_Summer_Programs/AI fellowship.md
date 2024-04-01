@@ -27,11 +27,11 @@ Working process
 - etc
 
 
-Writing a paper takes a wherile, ghive ourselves enough time to complete it. ]
+Writing a paper takes a while, give ourselves enough time to complete it. ]
 
 speedrun another section of the drafts on the week that Im off,
 
-Easier to learn how to writ eth epaper 
+Easier to learn how to writ eth paper 
 
 tuesday, Wednesday 6:30
 
