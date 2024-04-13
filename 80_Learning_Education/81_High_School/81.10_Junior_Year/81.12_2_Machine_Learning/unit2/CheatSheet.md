@@ -121,7 +121,7 @@ $$\pi^{\pi}(S) = ^{\text{argmax}}_{a}\Sigma _{S'}T(S, a, S') \times [R(S, a, S')
 ==Temporal Difference Learning==
 $$V(S) = (1-\alpha) \times V(S) + \alpha \times \text{sample}$$
 
-==Temporal Difference Learning (Fun Function)==
+==Q-Learning (Fun Function)==
 
 $$Q(S, a) = (1-\alpha) \times Q(S, a) + \alpha \times \text{sample}$$
 
