@@ -36,7 +36,7 @@ APPLICATION
 ### Professional Experts
 Names and professional credentials of three (3) off-campus experts, including their title and occupations and an email address where they can be reached:
 
-> [!success] #### **Ananya Rao**
+> [!quote] #### **Ananya Rao**
 > PhD Student, Carnegie Mellon University
 > 
 > ananyara@andrew.cmu.edu
@@ -44,7 +44,7 @@ Names and professional credentials of three (3) off-campus experts, including th
 > ##### Related Work:
 > [Multi-Objective Ergodic Search for Dynamic Information Maps](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
 
-> [!success] #### **Serge Belongie**
+> [!quote] #### **Serge Belongie**
 > Professor, Dept. of Computer Science, University of Copenhagen
 > 
 > s.belongie@di.ku.dk
@@ -52,7 +52,7 @@ Names and professional credentials of three (3) off-campus experts, including th
 > ##### Related Work:
 > [Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges](https://ieeexplore.ieee.org/abstract/document/9560031)
 
-> [!success] #### **Daniel E. Ho**
+> [!quote] #### **Daniel E. Ho**
 > Professor, Dept. of Computer Science,  Stanford University
 > 
 > dho@law.stanford.edu
@@ -60,13 +60,14 @@ Names and professional credentials of three (3) off-campus experts, including th
 > ##### Related Work:
 > [Deep Learning with Satellite Imagery to Enhance Environmental Enforcement](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
 
-> [!success] #### **Raechel Portelli**
+> [!quote] #### **Raechel Portelli**
 > Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
 > 
 > raechel@illinois.edu
 > 
 > ##### Related Work
 > [Measurement of vegetation change in critical dune sites along the eastern shores of Lake Michigan from 1938 to 2014 with object-based image analysis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=3PEUAnYAAAAJ&citation_for_view=3PEUAnYAAAAJ:W7OEmFMy1HYC)
+> ![400](30_Obsidian/32_Attachments/Pasted%20image%2020240413151355.png)
 
 ---
 
