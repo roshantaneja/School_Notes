@@ -97,7 +97,9 @@ My SHIS will focus on the integration of Machine Learning and Remote Sensing int
 ### **Description of your motivation for pursuing this independent study**
 Describe in 150 – 200 words what has motivated you to undertake this work, what specific approach(es) you plan to take in this study, and how this study fits into your overall academic values.
 
+The Maasai women and children in the Monduli District of Tanzania walk over nine hours every day to collect water. Over the last four years, I have been working with this community, fundraising, and deploying water harvesting solutions in the area. So far, we have installed four units across the district. Our field research confirms that water harvesting units have doubled educational and economic activity for over 4500 community members within a 10-mile radius, as access to water frees Maasai women to pursue economic endeavors and enables children to attend school. There are over 30,000 Maasai spread over 300 sq miles. To scale this project, I want to find the most densely populated areas where I can place water units. There are no maps of where people live, no roads, just wilderness. So, I turned to satellite imagery.
 
+I want to train a object detection model to recognize housing units from public satellite data and create a density heatmap, pinpointing locations for future harvesting units. The model could pinpoint the 15 best locations to place water harvesting units to have the most impact.
 
 ### **List of Objectives and Learning Goals**
 List, in bullet points, the major learning objectives, outcomes or goals that you plan to accomplish by the end of your independent study. Begin your list of bullet points with the phrase, “By the end of my independent study, I intend to:…”
