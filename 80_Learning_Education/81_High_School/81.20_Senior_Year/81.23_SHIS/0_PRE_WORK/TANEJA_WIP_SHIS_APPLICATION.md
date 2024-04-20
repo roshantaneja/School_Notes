@@ -36,30 +36,14 @@ APPLICATION
 ### Professional Experts
 Names and professional credentials of three (3) off-campus experts, including their title and occupations and an email address where they can be reached:
 
-> [!quote] #### **Ananya Rao**
-> PhD Student, Carnegie Mellon University
-> 
-> ananyara@andrew.cmu.edu
-> 
-> ##### Related Work:
-> [Multi-Objective Ergodic Search for Dynamic Information Maps](https://www.ri.cmu.edu/publications/multi-objective-ergodic-search-for-dynamic-information-maps/)
-
-> [!quote] #### **Serge Belongie**
-> Professor, Dept. of Computer Science, University of Copenhagen
-> 
-> s.belongie@di.ku.dk
-> 
-> ##### Related Work:
-> [Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges](https://ieeexplore.ieee.org/abstract/document/9560031)
-
-> [!quote] #### **Katie Picchione**
+> [!quote] **Katie Picchione**
 > Associate Staff, Humanitarian Assistance and Disaster Relief Systems (Group 21), MIT Lincoln Laboratory
 > 
 > katherine.picchione@ll.mit.edu
 > 
 > ![400](30_Obsidian/32_Attachments/Pasted%20image%2020240420154128.png)
 
-> [!quote] #### **Raechel Portelli**
+> [!quote]  **Raechel Portelli**
 > Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
 > 
 > raechel@illinois.edu
