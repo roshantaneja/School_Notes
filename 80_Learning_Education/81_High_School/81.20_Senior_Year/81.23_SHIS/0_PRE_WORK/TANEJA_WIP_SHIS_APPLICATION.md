@@ -52,13 +52,12 @@ Names and professional credentials of three (3) off-campus experts, including th
 > ##### Related Work:
 > [Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges](https://ieeexplore.ieee.org/abstract/document/9560031)
 
-> [!quote] #### **Daniel E. Ho**
-> Professor, Dept. of Computer Science,  Stanford University
+> [!quote] #### **Katie Picchione**
+> Associate Staff, Humanitarian Assistance and Disaster Relief Systems (Group 21), MIT Lincoln Laboratory
 > 
-> dho@law.stanford.edu
+> katherine.picchione@ll.mit.edu
 > 
-> ##### Related Work:
-> [Deep Learning with Satellite Imagery to Enhance Environmental Enforcement](https://reglab.stanford.edu/wp-content/uploads/2020/05/Handan-Nader_Ho_Liu.pdf)
+> ![400](30_Obsidian/32_Attachments/Pasted%20image%2020240420154128.png)
 
 > [!quote] #### **Raechel Portelli**
 > Teaching Assistant Professor, Dept. of Geography and Geographic Information Science
