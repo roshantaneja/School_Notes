@@ -106,36 +106,38 @@ Author’s Last name, First name. “Title of the Article or Individual Page.”
 	the Publisher, Date of Publication in Day Month Year format, URL.
 ```
 
-1. https://gis.stackexchange.com/questions/197607/pattern-search-in-satellite-imagery
-2. https://www.diva-portal.org/smash/get/diva2:1119048/FULLTEXT01.pdf
-3. https://ieeexplore.ieee.org/document/8862452
-4. https://gisgeography.com/image-classification-techniques-remote-sensing/#:~:text=Unsupervised%20and%20supervised%20image%20classification,useful%20for%20high%2Dresolution%20data.
-5. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10347255/
-6. https://www.artefact.com/blog/applying-machine-learning-algorithms-to-satellite-imagery-for-agriculture-applications/
-7. https://www.researchgate.net/figure/Satellite-image-classification-techniques_fig2_333538172
-8. https://www.nature.com/articles/s41467-021-24638-z
-9. https://www.iceye.com/satellite-data
-10. https://developers.google.com/s/results/earth-engine/datasets?q=tanzania&text=tanzania
-11. https://github.com/satellite-image-deep-learning/techniques
-12. https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-spatial-analysis/
-13. https://www.explorium.ai/blog/location-data/satellite-data/
+1. [https://gis.stackexchange.com/questions/197607/pattern-search-in-satellite-imagery](https://gis.stackexchange.com/questions/197607/pattern-search-in-satellite-imagery])
+2. [https://www.diva-portal.org/smash/get/diva2:1119048/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:1119048/FULLTEXT01.pdf)
+3. [https://ieeexplore.ieee.org/document/8862452](https://ieeexplore.ieee.org/document/8862452)
+4. [https://gisgeography.com/image-classification-techniques-remote-sensing/#:~:text=Unsupervised%20and%20supervised%20image%20classification,useful%20for%20high%2Dresolution%20data](https://gisgeography.com/image-classification-techniques-remote-sensing/#:~:text=Unsupervised%20and%20supervised%20image%20classification,useful%20for%20high%2Dresolution%20data)
+5. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10347255/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10347255/)
+6. [https://www.artefact.com/blog/applying-machine-learning-algorithms-to-satellite-imagery-for-agriculture-applications/](https://www.artefact.com/blog/applying-machine-learning-algorithms-to-satellite-imagery-for-agriculture-applications/)
+7. [https://www.researchgate.net/figure/Satellite-image-classification-techniques_fig2_333538172](https://www.researchgate.net/figure/Satellite-image-classification-techniques_fig2_333538172)
+8. [https://www.nature.com/articles/s41467-021-24638-z](https://www.nature.com/articles/s41467-021-24638-z)
+9. [https://www.iceye.com/satellite-data](https://www.iceye.com/satellite-data)
+10. [https://developers.google.com/s/results/earth-engine/datasets?q=tanzania&text=tanzania](https://developers.google.com/s/results/earth-engine/datasets?q=tanzania&text=tanzania)
+11. [https://github.com/satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques)
+12. [https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-spatial-analysis/](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-spatial-analysis/)
+13. [https://www.explorium.ai/blog/location-data/satellite-data/](https://www.explorium.ai/blog/location-data/satellite-data/)
 
 ---
 
 <div style="page-break-after: always;"></div>
 ## **II. DETAILED 16 – WEEK SYLLABUS**
+
 To include a ***weekly*** schedule of:
 	● Major readings
 	● Major assignments/assessments and their due dates
 	● Journal or “process work, if required
 	● Any field excursions / projected meetings with off-campus mentors (as appropriate)
 	● Weekly meetings with on-campus mentors
-Please note: Syllabus may also include work done over the summer before senior year. If so, please
-provide a detailed, day-to-day, week-by-week syllabus of your summer work.
+
+
+Please note: Syllabus may also include work done over the summer before senior year. If so, please provide a detailed, day-to-day, week-by-week syllabus of your summer work.
 
 |   Week | Layout                                                                                                                                                                                                                                                                                                    |
 | -----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Summer | Attempt to take the MIT Beaverworks Course in Remote Sensing and Disaster Management.<br><br>(Have already applied, will update if accepted)                                                                                                                                                              |
+| Summer | Take the MIT Beaverworks Course in "Remote Sensing in Disaster Management".<br><br>(Have already applied, will notify jramos and kholman if accepted)                                                                                                                                                     |
 |      1 | Introduction to Remote Sensing <br><br>Assignment:<br><br>Read 3 papers on remote sensing systems and use cases [i.e., water resource detection, living location etc]<br>                                                                                                                                 |
 |      2 | Introduction to Geographical Informational Systems<br><br>(What is GIS, Where do you source satellite imagery data from, why we use GIS)<br><br>Assignment:<br><br>Identify and Record 2 GIS systems and how they are accessed. Public and private data sources used by Universities                      |
 |      3 | Introduction to Computer Vision.<br><br>Assignment:<br><br>Small Project on public image library. Create a Classifier.                                                                                                                                                                                    |
@@ -172,21 +174,8 @@ indicating an understanding of the SHIS program, its rigor and assessment guidel
 ## VI. BRIEF STATEMENT OF PREFERENCE FOR FALL OR SPRING SEMESTER
 to include any compelling reason(s) for this preference. Please note that this preference is not guaranteed but rather considered in the process of evaluating and balancing independent study projects per semester.
 
-I would prefer to do the project during the **spring semester** for two reasons. As detailed above, this independent study is part of a much larger project, hence, time is of the essence. Just a week ago, the largest few water dam in the Monduli district broke through, leaving over 70,000 Maasai without water in the upcoming drought season. 
+I would prefer to do the project during the **fall semester** for a few reasons. 
 
+As detailed above, this independent study is part of a much larger project, hence, time is of the essence. Just a week ago, the largest few water dam in the Monduli district broke through, leaving over 70,000 Maasai without water in the upcoming drought season this winter. Time is of the essence.
 
-
-
-
-
-==Deadline:==
-Completed applications with all necessary attachments (complete course description, syllabus, emails
-from mentors, email of recommendation from SHP teacher, email from parent or guardian, brief
-statement of preference for fall or spring semester, AND human participant forms, if applicable) are
-due, either ==via email in WORD format== to Mr. Ramos at jramos@shschools.org or uploaded in
-==Google Doc form== to the shared Google folder, no later than noon (12pm) on Monday, April 29,
-2024.
-Proposals will be reviewed for final approval by the SHIS Application Review Committee, which
-consists of SHP department heads and the Assistant Principal for Curriculum and Academics.
-Please note: Incomplete or late applications will not be forwarded to the SHIS Application Review
-Committee for review.
+During the fall semester, my only commitments are my grades and college applications. However, robotics building and competitions take a lot of my time during the first 2 months of spring semester, with all of my time after school and weekends being devoted to placement in qualifiers. Later in my spring semester, I will be busy with AP exam preparation and will also have less time to focus on my independent study. 
