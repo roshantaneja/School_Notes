@@ -14,13 +14,13 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 60
+    "downscalePercent": 100
   },
   "livePreview": true,
   "vimMode": false,
   "tabSize": 4,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
