@@ -46,18 +46,6 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "9d00e253f994bf46",
-      "parent": 0,
-      "droppable": true,
-      "text": "A generalizable and accessible approach to machine learning with global satellite imagery | Nature Communications",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true
 }
