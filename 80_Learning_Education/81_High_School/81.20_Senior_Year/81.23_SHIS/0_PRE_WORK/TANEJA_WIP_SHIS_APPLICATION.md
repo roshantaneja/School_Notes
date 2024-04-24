@@ -161,7 +161,7 @@ Please note: Syllabus may also include work done over the summer before senior y
 
 ![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%200.png)
 
-![600](30_Obsidian/32_Attachments/Pasted%20image%2020240423224612.png)
+![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%202.png)
 ## IV. EMAIL OF BRIEF RECOMMENDATION FROM A SACRED HEART TEACHER
 verifying your ability to undertake and follow through on independent work of a sustained nature.
 
