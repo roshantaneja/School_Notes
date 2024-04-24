@@ -38,15 +38,13 @@ Names and professional credentials of three (3) off-campus experts, including th
 > Associate Staff, Humanitarian Assistance and Disaster Relief Systems, MIT Lincoln Laboratory
 > 
 > katherine.picchione@ll.mit.edu
-> 
-> ![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%200.png)
+
 
 > [!quote]  **Raechel Portelli**
 > Teaching Assistant Professor, Dept. of Geography and Geographic Information Science, UIUC
 > 
 > raechel@illinois.edu
-> 
-> ![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%201.png)
+
 
 ---
 
@@ -159,8 +157,9 @@ Please note: Syllabus may also include work done over the summer before senior y
 
 ## III. EMAIL OF AGREEMENT FROM THREE OFF-CAMPUS EXPERTS
 
+![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%201.png)
 
-
+![600](30_Obsidian/32_Attachments/Images/SHIS%20Mentor%20Acceptance%200.png)
 ## IV. EMAIL OF BRIEF RECOMMENDATION FROM A SACRED HEART TEACHER
 verifying your ability to undertake and follow through on independent work of a sustained nature.
 
