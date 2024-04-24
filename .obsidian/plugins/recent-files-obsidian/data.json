@@ -1,44 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Perceptron",
-      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.12_2_Machine_Learning/unit3/Perceptron.md"
-    },
-    {
       "basename": "TANEJA_WIP_SHIS_APPLICATION",
       "path": "80_Learning_Education/81_High_School/81.20_Senior_Year/81.23_SHIS/0_PRE_WORK/TANEJA_WIP_SHIS_APPLICATION.md"
-    },
-    {
-      "basename": "CheatSheet",
-      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.12_2_Machine_Learning/unit2/CheatSheet.md"
-    },
-    {
-      "basename": "AI fellowship",
-      "path": "60_Professional/66_Summer_Programs/AI fellowship.md"
-    },
-    {
-      "basename": "plaintext slideshow",
-      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.19_Clubs/CS Club/plaintext slideshow.md"
-    },
-    {
-      "basename": "The 13th Worksheet",
-      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_2_Social_Ethics/unit 2/The 13th Worksheet.md"
-    },
-    {
-      "basename": "SHIS_Holman_Reccomendation",
-      "path": "30_Obsidian/32_Attachments/Images/SHIS_Holman_Reccomendation.png"
     },
     {
       "basename": "SHIS_Dad_Reccomendation",
       "path": "30_Obsidian/32_Attachments/Images/SHIS_Dad_Reccomendation.png"
     },
     {
-      "basename": "16887",
-      "path": "80_Learning_Education/81_High_School/81.00_Sophomore_Year/81.09_Robotics/2022-2023/16887.md"
+      "basename": "SHIS_Holman_Reccomendation",
+      "path": "30_Obsidian/32_Attachments/Images/SHIS_Holman_Reccomendation.png"
+    },
+    {
+      "basename": "SHIS Mentor Acceptance 0",
+      "path": "30_Obsidian/32_Attachments/Images/SHIS Mentor Acceptance 0.png"
+    },
+    {
+      "basename": "Inspiration for Journaling- Reviewing “The Anthropocene Reviewed”",
+      "path": "70_Sources/70_Articles/70.00_Misc/Inspiration for Journaling- Reviewing “The Anthropocene Reviewed”.md"
+    },
+    {
+      "basename": "Futurology",
+      "path": "70_Sources/70_Articles/70.00_Misc/Oologies/Futurology.md"
+    },
+    {
+      "basename": "Architectural Technology",
+      "path": "70_Sources/70_Articles/70.00_Misc/Oologies/Architectural Technology.md"
+    },
+    {
+      "basename": "SHIS Mentor Acceptance 1",
+      "path": "30_Obsidian/32_Attachments/Images/SHIS Mentor Acceptance 1.png"
+    },
+    {
+      "basename": "AI fellowship",
+      "path": "60_Professional/66_Summer_Programs/AI fellowship.md"
+    },
+    {
+      "basename": "Major Unit 2 Assessment",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_2_Social_Ethics/unit 2/Major Unit 2 Assessment.md"
+    },
+    {
+      "basename": "Economic Justice Presentation",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.17_2_Social_Ethics/unit 3/Economic Justice Presentation.md"
+    },
+    {
+      "basename": "SHIS_EXPECTATIONS",
+      "path": "80_Learning_Education/81_High_School/81.20_Senior_Year/81.23_SHIS/0_PRE_WORK/SHIS_EXPECTATIONS.md"
+    },
+    {
+      "basename": "Knowledge Project 10",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.13_AP_Language/5_Global Citizenship/Knowledge Project 10.md"
+    },
+    {
+      "basename": "Knowledge Project 9",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.13_AP_Language/5_Global Citizenship/Knowledge Project 9.md"
+    },
+    {
+      "basename": "CheatSheet",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.12_2_Machine_Learning/unit2/CheatSheet.md"
     },
     {
       "basename": "Markov Decision Process",
       "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.12_2_Machine_Learning/unit2/Markov Decision Process.md"
+    },
+    {
+      "basename": "16887",
+      "path": "80_Learning_Education/81_High_School/81.00_Sophomore_Year/81.09_Robotics/2022-2023/16887.md"
+    },
+    {
+      "basename": "Control Hub Process",
+      "path": "80_Learning_Education/81_High_School/81.00_Sophomore_Year/81.09_Robotics/Control Hub Process.md"
+    },
+    {
+      "basename": "Beaverworks Scratch Paper",
+      "path": "60_Professional/66_Summer_Programs/Beaverworks Scratch Paper.md"
+    },
+    {
+      "basename": "Derivatives Cheatsheet",
+      "path": "80_Learning_Education/81_High_School/81.10_Junior_Year/81.11_AP_Calc_BC/Derivatives Cheatsheet.md"
+    },
+    {
+      "basename": "UCLA",
+      "path": "60_Professional/66_Summer_Programs/UCLA.md"
     },
     {
       "basename": "Adversarial Search",
