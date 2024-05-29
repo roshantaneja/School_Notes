@@ -47,14 +47,15 @@ Implicit bias against single-parent households can cause unbalanced seizure of c
 ## Systemic Bias
 
 - **Carlos and Marco Hernandez**
+- **Chilling Effect**
 - **Psychological trauma**
 
 ![Image.jpg|500](https://static01.nyt.com/images/2018/06/26/us/26dc-immigrationexplainer1/26dc-immigrationexplainer1-superJumbo.jpg)
-Undocumented immigrants arriving Sunday in McAllen, Tex., after being processed by Customs and Border Protection and released.
+Undocumented immigrants arriving Sunday in McAllen, Texas, after being processed by Customs and Border Protection and released.
 Credit: Tamir Kalifa for The New York Times
 
-
-note: Speaker Notes:
+%%Cut down on this section%%
+note:
 Another example is Carlos and Marco Hernandez, the Brothers were U.S. citizens living with their undocumented mother. When their mother was deported, they were placed in separate foster homes. The boys experienced emotional distress from the separation and struggled to adjust to their new environments. These situations demonstrate the psychological trauma children can experience due to family separation caused by immigration enforcement. It extends beyond direct actions to a chilling effect discouraging families from seeking essential services like law enforcement or medical services. This chilling effect is dangerous to legal citizens and also encourages crime. Crime rates in cities with large populations of undocumented citizens like San Diego, Los Angeles, Houston, and Dallas have seen increased crime rates since ICE operations began within city limits.
 
 ---
@@ -68,7 +69,9 @@ Another example is Carlos and Marco Hernandez, the Brothers were U.S. citizens l
 ![|500](https://www.acf.hhs.gov/sites/default/files/images/ofa/tanf_moe_fig_1_total_funds.png)
 Statistics From US Department of Child Welfare
 
-note: Speaker Notes:
+
+%%Cut down on this%%
+note:
 The cost of maintaining the child welfare system is not cheap. State child welfare systems spent about $31.7 billion on child welfare in 2020. The states of California, Texas, New York, Florida, Illinois, and New Jersey alone consumed nearly 80% of that budget. 12.8% of children in the child welfare system are children of undocumented immigrants. A vast portion of our budget spent on Child Welfare is spent on children of undocumented immigrants.
 
 ---
@@ -82,14 +85,14 @@ The cost of maintaining the child welfare system is not cheap. State child welfa
 ![|500](https://www.azcentral.com/gcdn/-mm-/afd18c82ef6b2d0e45fdee86e48f149a2fa2ea50/c=0-0-4852-3648/local/-/media/2018/05/01/PalmSprings/PalmSprings/636607973653384424-Migrant-Day-Camp177.JPG)
 Central Migrants line up to get food at their encampment at the entrance to the "El Chaparral" U.S. Point of entry in Tijuana, Mexico on May 1, 2018. Credit: Omar Ornelas for The Desert Sun-USA Today Network
 
-note: Speaker Notes:
+note:
 1. Raise Awareness: Use social media platforms and school events to highlight the issues faced by children of undocumented immigrants. Sharing personal stories and data can help engage the community and foster empathy and understanding.
 2. Support Local Initiatives: Participate in and support community programs that assist families of undocumented immigrants. Encourage local governments and non-profits to develop programs that prevent unnecessary separations and provide tailored support.
 3. Volunteer and Mentor: Offer your time to volunteer with organizations that work with children of undocumented immigrants. Mentoring can provide much-needed support and stability for these children, helping them navigate challenges and succeed in their personal and academic lives.
 
 ---
 
-## More Actions
+## What We Can Do (Cont.)
 
 4. **Educate Ourselves and Others**
 5. **Advocate for Policy Changes**
@@ -99,7 +102,7 @@ note: Speaker Notes:
 ![|500](https://lh3.googleusercontent.com/proxy/ONtZuX1UsDSo6FAjWcTetmbWYH7BVFf6J2kQdvhjAaNd4hAH9CZERnGrRrZJF2u65zWF-ddbLlnG1Iyh7fDl7639nBwe_TAz7qEJXQW61S7QJ82edAFdTHLDJEEM77oC18KZdy24nnPyyk-hug)
 Protests against the New Jersey Task Force. Credit: Frank Alvarez for Kinship Care and Foster Care Newsletter
 
-note: Speaker Notes:
+note:
 4. Educate Ourselves and Others: Take the time to learn about the challenges faced by children of undocumented immigrants and share this knowledge with peers. Understanding the issues is the first step toward meaningful change.
 5. Advocate for Policy Changes: Encourage school boards and local officials to implement policies that support children of undocumented immigrants. This can include providing resources, training staff to handle related issues sensitively, and ensuring a supportive environment.
 6. Create Safe Spaces: Foster inclusive environments in schools and communities where children of undocumented immigrants feel safe and valued. This can involve setting up support groups, offering counseling services, and promoting a culture of acceptance and respect.
@@ -115,7 +118,8 @@ note: Speaker Notes:
 ![|400](https://static01.nyt.com/images/2018/06/05/world/6nations/merlin_136365657_5d740722-75bd-448a-815e-a6da614f1cd6-superJumbo.jpg?quality=75&auto=webp)
 A Border Patrol agent talking with migrants who illegally crossed the border from Mexico into the United States near McAllen, Texas. Credit: Loren Elliott for Reuters
 
-note: Speaker Notes:
+
+note:
 Imagine a classroom filled with bright, curious faces. Imagine some of those faces are clouded with worry, hunger, pain, and empty seats. These are the children we are failing. Let us not continue to defer their dreams. Let's act compassionately and reform the system to ensure every child feels safe, loved, and empowered to reach their full potential. We cannot afford to wait any longer. Let's act now to protect these vulnerable children. Empathy as our guide allows us to build a future where every child feels safe and valued.
 
 ---
