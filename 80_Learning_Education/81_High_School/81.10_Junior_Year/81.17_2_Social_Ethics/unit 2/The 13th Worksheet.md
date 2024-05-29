@@ -1,3 +1,11 @@
+---
+tags:
+  - SocialEthics
+  - religion
+---
+
+
+
 # The 13th Documentary Part One Worksheet                       Name: Roshan Taneja
 Certainly, let's format the information with bullet points for clarity:
 

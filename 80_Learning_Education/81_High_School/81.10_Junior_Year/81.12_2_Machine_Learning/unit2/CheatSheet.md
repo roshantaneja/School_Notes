@@ -1,3 +1,10 @@
+---
+tags:
+  - CS
+  - MachineLearning
+---
+
+
 ### Markov Decision Process
 *Stochastic Search, Random Element of Search*
 
