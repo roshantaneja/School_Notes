@@ -17,9 +17,19 @@
       }
     }
   ],
-  "altBar": [],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": "Words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    }
+  ],
   "countComments": false,
   "collectStats": false,
   "displaySectionCounts": true,
-  "pageWords": 300
+  "pageWords": 300,
+  "statsPath": ".obsidian/vault-stats.json"
 }
