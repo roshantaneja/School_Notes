@@ -7,6 +7,10 @@ tags:
 
 By Roshan Taneja
 
+note: Speaker Notes:
+
+Hi everyone, I'm here to talk about a serious issue: the rights of children of undocumented immigrants.
+
 ---
 
 ## The Urgency
@@ -19,7 +23,7 @@ By Roshan Taneja
 Detained Migrant Children Being Held In Portland, Oregon. Credit: PBS NewsHour
 
 note: Speaker Notes:
-I write with a strong sense of urgency and empathy, speaking out for the rights of the children of undocumented immigrants in this country. Four million students in the public and private school systems in the United States are children of undocumented immigrants. Americans have apathetically looked on for far too long at the atrocities that happen to these children, who walk a very steep slope, one that keeps them unseen and unheard by the rest of society. Though many of them are U.S. citizens by birth, they are disproportionately more likely to be included in the child welfare system, where, at every turn, the looming threat of family separation overshadows their sense of security. The Child Welfare system in the United States needs to evolve to support the lives and rights of children of undocumented immigrants.
+There are 4 million students in our schools who have undocumented parents. These kids face a lot of problems, and they're often ignored by society. Even though many of them are U.S. citizens, they're more likely to end up in the child welfare system, which means they might be taken away from their families. We need to change how the system works to help these kids.
 
 ---
 
@@ -27,14 +31,16 @@ I write with a strong sense of urgency and empathy, speaking out for the rights 
 
 - **Sofia's story**
 - **Anayeli Batista's case**
+- **Impacts of Implicit Bias**
 
 ![|500](https://d3i6fh83elv35t.cloudfront.net/static/2018/08/RTX6CYII-1024x683.jpg)
 Immigrant parents waiting at child welfare center. Credit: Joshua Barajas for PBS News Hour
 
 
 note: Speaker Notes:
-I became acutely aware of the issues surrounding the children of undocumented immigrants in middle school when one of my good friend's parents was deported. Her name was Sofia, and I used to eat lunch with her all of the time. She told me one day that her father was deported back to Mexico, and she was living with her cousin and aunt. Over the next year, her attendance in school started to diminish until seeing her at school was rare. Within the year, she was moved to a foster home elsewhere in California, and I haven't heard from her since. Her story is hardly unique. Even as U.S. citizens, children of undocumented immigrants are at elevated risk of entering the child welfare system when a parent is detained or deported.
-Implicit bias against single-parent households can cause unbalanced seizure of children. For instance, Anayeli Batista, a U.S. citizen teenager, had to enter foster care after her undocumented father was taken into custody by U.S. Immigration and Customs Enforcement. Even though Anayeli lived comfortably at home with her mother and siblings, authorities took Anayeli from her mother. They placed her in the child welfare system. This case brings up the systemic bias that can view the single-parent household led by non-citizens as inadequate, even when demonstrably safe and loving.
+I first noticed this problem in middle school when my friend's dad got deported. Her name was Sofia, and we used to eat lunch together. One day, she told me her dad was sent back to Mexico, and she had to live with her aunt. Over time, she stopped coming to school. Within the year, she was moved to a foster home elsewhere in California, and I haven't heard from her since. Her story is hardly unique. Even as U.S. citizens, children of undocumented immigrants are at elevated risk of entering the child welfare system when a parent is detained or deported.
+
+Implicit bias against single-parent households can cause unbalanced seizure of children. For instance, Anayeli Batista, a U.S. citizen teenager, had to enter foster care after her undocumented father was taken into custody by U.S. Immigration and Customs Enforcement. Even though Anayeli lived comfortably at home with her mother and siblings, authorities took Anayeli from her mother and placed her in the child welfare system. This case brings up the systemic bias that can view the single-parent household led by non-citizens as inadequate, even when demonstrably safe and loving.
 
 ---
 
@@ -49,7 +55,7 @@ Credit: Tamir Kalifa for The New York Times
 
 
 note: Speaker Notes:
-Carlos and Marco Hernandez: Brothers Carlos (10) and Marco (8) were U.S. citizens living with their undocumented mother. When their mother was deported, they were placed in separate foster homes. The boys experienced emotional distress from the separation and struggled to adjust to their new environments. These situations demonstrate the psychological trauma children can experience due to family separation caused by immigration enforcement. It extends beyond direct actions to a chilling effect discouraging families from seeking essential services like law enforcement or medical services. This chilling effect is dangerous to legal citizens and also encourages crime. Crime rates in cities with large populations of undocumented citizens like San Diego, Los Angeles, Houston, and Dallas have seen increased crime rates since ICE operations began within city limits.
+Another example is Carlos and Marco Hernandez, the Brothers were U.S. citizens living with their undocumented mother. When their mother was deported, they were placed in separate foster homes. The boys experienced emotional distress from the separation and struggled to adjust to their new environments. These situations demonstrate the psychological trauma children can experience due to family separation caused by immigration enforcement. It extends beyond direct actions to a chilling effect discouraging families from seeking essential services like law enforcement or medical services. This chilling effect is dangerous to legal citizens and also encourages crime. Crime rates in cities with large populations of undocumented citizens like San Diego, Los Angeles, Houston, and Dallas have seen increased crime rates since ICE operations began within city limits.
 
 ---
 
@@ -114,7 +120,7 @@ Imagine a classroom filled with bright, curious faces. Imagine some of those fac
 
 ---
 
-# SPACECAT Analysis of Justice Letter
+# SPACECAT Analysis my Justice Letter
 
 ---
 
