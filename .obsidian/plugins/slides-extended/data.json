@@ -13,7 +13,7 @@
   "transition": "none",
   "transitionSpeed": "default",
   "controls": false,
-  "progress": false,
+  "progress": true,
   "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",

@@ -236,6 +236,4 @@ note: Tone: The letter employs a compassionate, urgent, and authoritative tone, 
 
 ---
 
-# Thank You!
-
-![|300](https://assets-global.website-files.com/646218c67da47160c64a84d5/64634bf644ea290c3bbf033f_86.png)
+	# Thank You For Listening!
