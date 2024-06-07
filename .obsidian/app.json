@@ -10,11 +10,11 @@
   "showInlineTitle": true,
   "spellcheck": true,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "1",
-    "downscalePercent": 100
+    "margin": "0",
+    "downscalePercent": 50
   },
   "livePreview": true,
   "vimMode": false,
