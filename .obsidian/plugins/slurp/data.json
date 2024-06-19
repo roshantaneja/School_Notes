@@ -1,12 +1,12 @@
 {
   "settingsVersion": 1,
-  "defaultPath": "Slurped Pages",
+  "defaultPath": "70_Sources/73_Slurped_Pages",
   "fm": {
     "includeEmpty": false,
     "tags": {
       "parse": true,
       "prefix": "slurp",
-      "case": "iKebab-case"
+      "case": "snake_case"
     },
     "properties": {
       "link": {
@@ -97,6 +97,13 @@
         "idx": 11,
         "enabled": true,
         "custom": false
+      },
+      "p52x4": {
+        "id": "p52x4",
+        "key": "p52x4",
+        "idx": 12,
+        "enabled": true,
+        "custom": true
       }
     }
   },
