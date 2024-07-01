@@ -1,3 +1,11 @@
+---
+tags:
+  - English
+  - APLang
+  - final
+---
+
+
 Over 4 million students in the United States in both public and private schools are children of undocumented immigrants. For decades now, Americans have been passively witnessing the horrors that are occurring to children of undocumented immigrants. These children occupy a precarious position. Often unseen and unheard by the broader society, their lives are deeply affected by immigration policies and societal attitudes. Even though many of these children are U.S. citizens by birth, they are disproportionately at risk of entering the child welfare system. The threat of family separation hangs heavy, casting a long shadow over their sense of security—furthermore, these separations subject children to a complex web of systemic and internalized oppression.
 
 I became acutely aware of the issues surrounding the children of undocumented immigrants in middle school when one of my good friend's parents was deported. Over the next year, her attendance in school started to worsen until seeing her at school was rare. Within the year, she was moved to a foster home elsewhere in California, and I haven't heard from her since.

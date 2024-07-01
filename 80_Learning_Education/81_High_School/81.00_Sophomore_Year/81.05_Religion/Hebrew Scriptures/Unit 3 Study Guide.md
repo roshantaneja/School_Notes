@@ -1,4 +1,3 @@
-
 ---
 tags: [religion, review]
 ---

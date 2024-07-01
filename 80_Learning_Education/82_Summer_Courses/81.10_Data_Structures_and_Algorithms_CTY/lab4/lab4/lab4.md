@@ -1,3 +1,12 @@
+---
+tags:
+  - CTY
+  - lab
+  - summer
+---
+
+
+
 # Problem Set 5 Lab
 
 In this lab, you will complete the compression and decompression from the previous lab.
