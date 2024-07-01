@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="539203d2-0656-47a8-ae0e-c91f74ef20a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../W1D5_Lab2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W1D5_Lab2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W1D5_Lab2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W1D5_Lab2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/DrawingSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/DrawingSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/LList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/LList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/LineDrawlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/roshantaneja/w1d3_lab1/LineDrawlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SoNZvJI9WonmsXmcUN0W4QebZt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Roshan Taneja/Documents/Data_Structures_Algorithms_CTY/W1D5_Lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propGUI",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run DrawerApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.roshantaneja.w1d3_lab1.DrawerApp" />
+      <module name="W1D3_Lab1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539203d2-0656-47a8-ae0e-c91f74ef20a5" name="Changes" comment="" />
+      <created>1689809035432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689809035432</updated>
+      <workItem from="1689809036571" duration="6307000" />
+      <workItem from="1689858345828" duration="4102000" />
+      <workItem from="1689865505043" duration="3080000" />
+      <workItem from="1689868625195" duration="5985000" />
+      <workItem from="1689945441486" duration="982000" />
+      <workItem from="1689946737126" duration="1044000" />
+      <workItem from="1689949422539" duration="7000" />
+      <workItem from="1689949447458" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

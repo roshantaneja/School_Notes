@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RoshanCheckers">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoshanCheckers</output-path>
+    <root id="archive" name="RoshanCheckers.jar">
+      <element id="module-output" name="SampleAI" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+module:com.briansea.gamecabinetv1
+unnamed package
+com.briansea.gamecabinet
+com.briansea.gamecabinet.game
+com.briansea.gamecabinet.game.checkers
