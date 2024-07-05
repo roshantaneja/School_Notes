@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Encore",
   "baseFontSize": 23,
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"

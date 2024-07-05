@@ -2,21 +2,50 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#CS  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#history  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#science  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "t",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.710302734375,
-  "lineSizeMultiplier": 1.92573649088542,
-  "collapse-forces": false,
-  "centerStrength": 0.308919270833333,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.37863362630208,
+  "lineSizeMultiplier": 0.45888671875,
+  "collapse-forces": true,
+  "centerStrength": 0.690022786458333,
   "repelStrength": 20,
-  "linkStrength": 0.525349934895833,
+  "linkStrength": 0.703206380208333,
   "linkDistance": 500,
-  "scale": 0.2130789978756124,
-  "close": true
+  "scale": 0.1710637074720663,
+  "close": false
 }
