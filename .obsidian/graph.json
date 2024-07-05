@@ -22,17 +22,52 @@
       }
     },
     {
-      "query": "tag:#science  ",
+      "query": "tag:",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "t",
+      "query": "tag:#science  ",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#homework  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#English  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#religion ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#Spanish  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#lecture  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],

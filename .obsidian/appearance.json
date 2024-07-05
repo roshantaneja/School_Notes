@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Encore",
+  "accentColor": "#5cc7f5",
+  "cssTheme": "",
   "baseFontSize": 23,
   "theme": "system",
   "baseFontSizeAction": true,
@@ -9,5 +9,6 @@
   ],
   "monospaceFontFamily": "",
   "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "nativeMenus": false
 }
