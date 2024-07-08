@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "tag:#DailyNote  ",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -36,35 +36,35 @@
       }
     },
     {
-      "query": "tag:#homework  ",
+      "query": "tag:#English",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "tag:#English  ",
+      "query": "tag:#Spanish  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "tag:#religion ",
+      "query": "tag:#religion  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "tag:#Spanish  ",
+      "query": "tag: #Tanzania  ",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "tag:#lecture  ",
+      "query": "path:/",
       "color": {
         "a": 1,
         "rgb": 14048429
@@ -72,15 +72,15 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1.37863362630208,
-  "lineSizeMultiplier": 0.45888671875,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.690022786458333,
-  "repelStrength": 20,
-  "linkStrength": 0.703206380208333,
-  "linkDistance": 500,
-  "scale": 0.1710637074720663,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3328442283867977,
   "close": false
 }
