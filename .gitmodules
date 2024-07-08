@@ -1,6 +1,6 @@
-[submodule "80_Learning_Education/82_Summer_Courses/ucla_cssi_2024"]
-	path = 80_Learning_Education/82_Summer_Courses/ucla_cssi_2024
-	url = https://github.com/roshantaneja/ucla_cssi_2024
-[submodule "80_Learning_Education/82_Summer_Courses/Data_Structures_Algorithms_CTY"]
-	path = 80_Learning_Education/82_Summer_Courses/Data_Structures_Algorithms_CTY
+[submodule "80_Learning_Education/82_Summer_Courses/82.20_JHU_CTY_DSA/Data_Structures_Algorithms_CTY"]
+	path = 80_Learning_Education/82_Summer_Courses/82.20_JHU_CTY_DSA/Data_Structures_Algorithms_CTY
 	url = https://github.com/roshantaneja/Data_Structures_Algorithms_CTY
+[submodule "80_Learning_Education/82_Summer_Courses/82.30_UCLA_CSSI_CS97/ucla_cssi_2024"]
+	path = 80_Learning_Education/82_Summer_Courses/82.30_UCLA_CSSI_CS97/ucla_cssi_2024
+	url = https://github.com/roshantaneja/ucla_cssi_2024
