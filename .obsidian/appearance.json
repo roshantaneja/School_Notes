@@ -1,8 +1,8 @@
 {
   "accentColor": "#5c8ff5",
-  "cssTheme": "",
+  "cssTheme": "Primary",
   "baseFontSize": 24,
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
