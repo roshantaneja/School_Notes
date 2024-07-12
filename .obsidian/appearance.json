@@ -10,5 +10,6 @@
   "monospaceFontFamily": "",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "translucency": false
 }
