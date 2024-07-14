@@ -2,7 +2,7 @@
   "accentColor": "#5c8ff5",
   "cssTheme": "Primary",
   "baseFontSize": 24,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
