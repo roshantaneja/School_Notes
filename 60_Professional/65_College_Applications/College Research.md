@@ -73,3 +73,29 @@ tags:
 - **The Magnuson Center for Entrepreneurship** - Provides resources and support for student-led startups and entrepreneurial ventures.
 - **The Dartmouth Computing Cluster** - Offers high-performance computing resources for research in computational science and engineering.
 - **The Berry Library** - Part of the Baker-Berry Library complex, offering extensive resources, study spaces, and research support services.
+
+## General Information
+- **Location:** Hanover, New Hampshire
+- **Type:** Private Ivy League research university
+- **Founded:** 1769
+- **Undergraduate Enrollment:** ~4,400 students
+- **Student-Faculty Ratio:** 7:1
+
+## Academics
+- **Flexible Curriculum:** Liberal arts education with customizable schedules.
+- **D-Plan:** Unique academic calendar with four 10-week terms per year.
+- **Research Opportunities:** Significant funding and support for undergraduate research.
+
+## Campus Life
+- **Housing:** Guaranteed for all four years.
+- **Extracurriculars:** Over 160 student organizations.
+- **Greek Life:** Significant participation, around 60% of eligible students.
+
+## Notable Programs and Centers
+- **Thayer School of Engineering:** Integrates engineering with liberal arts.
+- **Tuck School of Business:** Renowned MBA program.
+- **Geisel School of Medicine:** Focus on research, clinical care, and education.
+- **Irving Institute for Energy and Society:** Research on energy challenges.
+
+## Study Abroad
+- **Off-Campus Programs:** Numerous global study opportunities.
