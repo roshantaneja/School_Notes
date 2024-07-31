@@ -30,6 +30,24 @@ tags:
 - **The Fondren Library** - Offers extensive resources, including digital collections, study spaces, and research support services.
 
 
+### Difference Between BSCS and BA in Computer Science at Rice University
+
+**BSCS Degree:**
+- Focuses on a more rigorous and technical curriculum.
+- Requires additional coursework in math, science, and engineering.
+- Prepares students for technical roles in industry or for graduate studies in computer science.
+- Includes a capstone project or senior design course.
+
+**BA Degree:**
+- Offers more flexibility and a broader liberal arts education.
+- Requires fewer math and science courses.
+- Allows students to combine computer science with other fields of study.
+- Suitable for students interested in interdisciplinary applications or double majors.
+
+ [BSCS](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-bscs/) and [BA](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-ba/)
+
+
+
 ---
 # Dartmouth
 
