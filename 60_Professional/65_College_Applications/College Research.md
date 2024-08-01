@@ -75,9 +75,6 @@ tags:
 - **The Berry Library** - Part of the Baker-Berry Library complex, offering extensive resources, study spaces, and research support services.
 
 ## General Information
-- **Location:** Hanover, New Hampshire
-- **Type:** Private Ivy League research university
-- **Founded:** 1769
 - **Undergraduate Enrollment:** ~4,400 students
 - **Student-Faculty Ratio:** 7:1
 
