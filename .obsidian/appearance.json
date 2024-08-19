@@ -7,9 +7,9 @@
   "enabledCssSnippets": [
     "IndexHider"
   ],
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "",
-  "textFontFamily": "Georgia",
+  "textFontFamily": "DecoType Naskh",
   "nativeMenus": false,
   "translucency": false
 }
