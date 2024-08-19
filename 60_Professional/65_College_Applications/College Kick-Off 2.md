@@ -101,3 +101,114 @@ Looking for concrete information about the undergrad experience that prompted yo
 ### Why Major?
 
 Very important to be specific about the major in 
+
+
+# UC Application
+
+once you have completed a section, you will have a checkmark next to each section.
+
+Lived Name: If you go by a different legal name
+
+CA SSID is california students: SHP doesnt have SSID number, only at public schools
+
+For household information. This is important for a fee waiver. Required for scholarships.
+
+They are going to ask you about your legal residence
+
+Yes, I want to be evaluated as a california resident
+
+When you complete each section, theres going to be a review section.
+
+Also going to be true about activities and awards etc.
+
+PIQs and whatever, make sure to have a second eye.
+
+There are 3 main things that the UCs are looking for.
+
+Its not just copy paste into COMMON APP
+
+How long you have been part of each institution, how have you progressed? Etc.
+
+Have you done exams that reflect part of you? etc?
+
+Are you the president?
+
+Leadership is so important for UC Application process.
+
+What were your responsibilities? How did you do things?
+
+## Activities and awards
+20 spaces, dont need to fill all 20.
+No preferences for specific types of involvment. important to note all of the facets that they are looking for.
+
+
+More common activities mentioned in the each section and activities and involvemnt. 
+
+For Awards:
+
+Do want to know the type of award. What type of award, Where its recognized? How should it be described? Academic or non-academic. The UC wants to know how selective it was, how many applied for it, etc.What did you do to achieve the award? Recognition? etc.
+
+For Extracurricular Activities:
+
+More about what you did in that activity. Focus on your experience and responsibility. Content > Formatting. How many hour per week, how many weeks per year.
+
+For Work Experience:
+
+Describe the Job responsibilities, What did you do? How did you get promoted? etc.
+Are going to ask, how did you use these funds that you earned?
+
+Add where there could have been more context etc.
+
+Community Service, Etc.
+
+Your Commonapp Activities and Awards. Thats going to come really handy when filling out the UC application.
+
+Consider the order, Biggest Fish First.
+
+Focus on your contribution and Impact.
+
+Dont talk more about the activity than yourself. Dont assume that the reader is going to know the acronyms that you mention, be verbose within word count.
+
+If you havent created UC account yet, please do so. Review slides from CKO1. Go into greater detail into how to give the insights into your direct impact.
+
+Please note, Academic History, Mandatory part of the process. This is the way that they review the transcript.
+
+# California Community Colleges
+
+Alekos Kapur. Community college and the transfer pathway.
+
+Went to SHP and then foothill for 2 years, and now at UCLA.
+
+Pros:
+
+Most people are withing college age-range
+
+Community College is a two year school that provides education after high school as a pathway to a four-year degree.
+
+Associates degree to a bachelors degree. 
+
+Two years of free tuition in california promise program. First time college students and full time students. 
+
+Cons:
+
+No on-campus living. 
+
+Learn how to seek out opportunities without hand-holding.
+
+Not a name-brand school. 
+
+Other:
+
+Transfer students are more likely to graduate from UCs with higher GPAs. Know exactly what major they want to enter into.
+
+TAP: Acceptance rates through honours programs.
+
+Schools like stanford/yale have transfer programs, etc.
+
+Co-Op programs can live in other countries. Pretty cool.
+
+kapuralekos@gmail.com
+
+650-670-7500
+
+## How to make it to december?
