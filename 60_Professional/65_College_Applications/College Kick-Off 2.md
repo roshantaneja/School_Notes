@@ -142,7 +142,6 @@ What were your responsibilities? How did you do things?
 20 spaces, dont need to fill all 20.
 No preferences for specific types of involvment. important to note all of the facets that they are looking for.
 
-
 More common activities mentioned in the each section and activities and involvemnt. 
 
 For Awards:
