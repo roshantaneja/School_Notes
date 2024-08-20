@@ -34,6 +34,7 @@ If I wanted to just work on my CAPS from now till December, its not possible.
 Admissions spend more time evaluating supplements rather than CAPS
 Looking for students who are great fits for their school. 
 Students who have the academics but also watch with the stuff.
+	Looking for students who actually read the supplementals.
 
 List out all of the supplementals, make sure to list out all of the work you need to do to estimate the amount of work required.
 
