@@ -1,15 +1,15 @@
 {
-  "accentColor": "",
-  "cssTheme": "Typewriter",
+  "accentColor": "#f55c5c",
+  "cssTheme": "Brainhack",
   "baseFontSize": 30,
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
   ],
-  "monospaceFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "",
   "interfaceFontFamily": "",
-  "textFontFamily": "DecoType Naskh",
+  "textFontFamily": "",
   "nativeMenus": false,
   "translucency": false
 }

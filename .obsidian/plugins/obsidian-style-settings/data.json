@@ -1,1 +1,5 @@
-{}
+{
+  "a-unique-id@@animation-toggle": true,
+  "a-unique-id@@noise-opacity-dm": 0.22,
+  "a-unique-id@@grayscale-toggle": false
+}

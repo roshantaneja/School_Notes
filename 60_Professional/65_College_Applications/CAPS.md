@@ -9,7 +9,6 @@ tags:
 > [!note] Prompt
 > Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others. (650)
 
-
 ### AUG 16, 2024 [811/650]
 
 As the relentless Tanzanian sun beat down on my neck, I walked alongside my new friend, Joseph, on the rugged path to his home. His shoes were made from cut-up tires and string. Joseph was about my age and part of the oldest tribe in the world, the Maasai. On our walk, I began to grasp the gravity of the water crisis in his community. 30,000 Maasai walk nearly nine hours every day searching for water. He explained that climate change and deforestation destroyed the soil of his land, exacerbating the droughts that killed cattle and floods that destroyed homes. After two hours, I stopped to rest. As I reached into my backpack for my water bottle, a wave of guilt washed over me. Here I was, a visitor with easy access to what Joseph’s family spends nearly every waking hour searching for.
