@@ -84,7 +84,7 @@ avoid cliches
 
 chliches can show a lack of introspection and maturity. Lack of understanding of a school.
 
-No statements with the word "Dream" or "Journey"
+No statements with the word "Dream" or "Journey" or passion
 
 ## Rule 8
 Not about what the campus brings to you, its what you can bring to the campus.
