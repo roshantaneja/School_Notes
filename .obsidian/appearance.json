@@ -2,7 +2,7 @@
   "accentColor": "#f55c5c",
   "cssTheme": "Brainhack",
   "baseFontSize": 30,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
