@@ -38,16 +38,12 @@ group by due
 
 ### [School]
 
-#### [Calc]
+#### [STAIN]
 
-#### [ATCS]
+#### [ATMH]
 
-#### [Lang]
+#### [SPAN]
 
-#### [Span]
-
-#### [Econ]
+#### [ENG]
 
 #### [Phys]
-
-#### [Reli]
