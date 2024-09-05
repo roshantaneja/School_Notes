@@ -16,16 +16,16 @@ Still working on styling and stuff but hopefully, this should be good
 
 ### ToDo List:
 
-| To Do                                                              | Done?                         |
-| ------------------------------------------------------------------ | ----------------------------- |
-| maintainance/upkeep                                                | Done (Johnny Decimal System)  |
-| make gh-workflow that uses html files by parsing in obsidian first | Removed                       |
-| maybe a jekyll theme?                                              | nope (not gonna do it)        |
-| add links to readme to nav site                                    | yes                           |
-| link notes together somehow                                        | Yes                           |
-| Move to MDBOOK instead of MKdocs                                   | final move to personal domain |
-| use johnny decimal system                                          | done                          |
-| fix my dns config                                                  | in progress                   |
-| finish my auto-linking script                                      | not done                      | 
+| To Do                                                              | Done?                         |     |
+| ------------------------------------------------------------------ | ----------------------------- | --- |
+| maintainance/upkeep                                                | Done (Johnny Decimal System)  |     |
+| make gh-workflow that uses html files by parsing in obsidian first | Removed                       |     |
+| maybe a jekyll theme?                                              | nope (not gonna do it)        |     |
+| add links to readme to nav site                                    | yes                           |     |
+| link notes together somehow                                        | Yes                           |     |
+| Move to MDBOOK instead of MKdocs                                   | final move to personal domain |     |
+| use johnny decimal system                                          | done                          |     |
+| fix my dns config                                                  | in progress                   |     |
+| finish my auto-linking script                                      | not done                      |     |
 
 
