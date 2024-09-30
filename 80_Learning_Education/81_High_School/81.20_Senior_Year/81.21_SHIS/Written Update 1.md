@@ -1,0 +1,6 @@
+---
+tags:
+  - SHIS
+  - AI
+  - project
+---
