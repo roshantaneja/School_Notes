@@ -4,7 +4,6 @@
   "obsidian-discordrpc",
   "obsidian-wrap-with-shortcuts",
   "better-word-count",
-  "obsidian-git",
   "obsidian-grammarly-plugin",
   "obsidian-icon-folder",
   "surfing",
@@ -16,5 +15,7 @@
   "slides-extended",
   "obsidian-latex-suite",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-mkdocs-publisher",
+  "obsidian-git"
 ]
