@@ -1,5 +1,14 @@
 {
   "a-unique-id@@animation-toggle": true,
   "a-unique-id@@noise-opacity-dm": 0.22,
-  "a-unique-id@@grayscale-toggle": false
+  "a-unique-id@@grayscale-toggle": false,
+  "primary-theme@@zero-tab-anim": false,
+  "primary-theme@@zero-popup-popdown": false,
+  "primary-theme@@interface_status-bar-style": "sb-style-full",
+  "primary-theme@@alt-folder-icons": true,
+  "primary-theme@@colorful-folders_text": true,
+  "primary-theme@@colorful-folders_collapse-indicator": true,
+  "primary-theme@@colorful-folders_background": false,
+  "primary-theme@@colorful-folders_indentation-guide": true,
+  "primary-theme@@colorful-folders_inherit-color": false
 }
