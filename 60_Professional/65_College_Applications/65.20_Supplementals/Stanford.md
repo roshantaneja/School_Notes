@@ -4,6 +4,25 @@ tags:
   - applications
   - essays
 ---
+
+
+
+
+
+
+
+As a kid, I was fascinated by Pokémon Go. Walking around town with my grandfather, both of us glued to his phone, I was amazed to see physical and virtual worlds intertwined. This sparked my interest in how satellites map our world and layer digital information onto it.
+
+Humanity has always been curious about how the world looks from above. From ancient cartography carved into stone to the scientific maps that revolutionized exploration, our desire to understand the world has driven innovation. I explored map projections, from Mercator’s designs to what3words’ grid system. Participating in Road Scholars competitions (though I never won), I realized satellites orbiting at 18,000 miles an hour do more than provide GPS—they track hurricanes, monitor forests, and detect underground resources.
+
+A few years later, in northern Tanzania with the Maasai tribe, I worked to determine where to place rainwater solutions. Initially hiking for hours to map remote villages, I thought—why not use satellite data? After consulting experts and studying open-source datasets, I created an accurate heatmap of living locations. It didn’t matter whether I used hyperspectral or infrared data; what mattered was addressing a real need, bringing water to over 10,000 people. The Maasai leader’s eyes lit up when he saw a satellite image dotted with 488 dwellings spread across 250 square miles. “I have never seen a map of my community,” he said. This year, 100 rainwater units are being deployed on those tiny black dots.
+
+Sharing my work at conferences, I’ve seen how high-resolution imagery and advanced computation transform earth observation. Today, we can predict drifting icebergs to protect ships or analyze urban activity to measure economic shifts—unimaginable just five years ago. Looking forward, technologies like high-resolution video from the ISS can track individual vehicles or even individual waves on the beach. I aim to harness the petabytes of data being collected to better understand our planet and serve its people.
+
+Just as Pokémon Go opened my eyes to a world where the digital and physical coexist, I hope to continue blending technology and reality to solve real-world problems.
+
+---
+
 As a kid, I was fascinated by Pokémon Go. Walking around town with my grandfather, both of us glued to his phone, I was amazed to see physical and virtual worlds intertwined. At first, it was all about how satellites could map my neighborhood and layer digital characters onto real streets. Before I knew it, I was diving into different kinds of maps—exploring how satellites capture terabytes of data daily.
 
 Humanity has always been curious about how the world looks from above. Once an art form carved into stone, cartography evolved into a scientific tool that revolutionized the unexplored world in the 1500s. I pored over map projections, from Mercator’s designs to the grid-based system of what3words. As I spent time in Road Scholars competitions (I won none), I realized these behemoths orbiting at 18,000 miles an hour do a lot more—tracking hurricanes like Irene, monitoring forest coverage, and even detecting underground water and mineral resources. Earth observation technology has been evolving since the dawn of humanity, from maps to satellites, yet despite all our progress, few are pausing to harness its full potential.
