@@ -5,6 +5,13 @@ tags:
   - essays
 ---
 
+As a kid, I was fascinated by Pokémon Go. Walking around town with my grandfather, both of us glued to his phone, I was amazed to see the virtual world intertwined with the physical one. That simple app ignited my fascination with maps, satellites, and how we interact with the world around us. Before I knew it, I was diving into different kinds of maps—from Mercator's designs for navigation to the grid system of what3words.
+
+A few years later, in northern Tanzania, I faced the daunting task of mapping remote Maasai dwellings to determine where rainwater harvesting units were most needed. As I hiked through rugged terrains, it struck me: satellites orbiting above could access places I couldn’t reach on foot. Using high-resolution satellite imagery and computer vision, I pinpointed optimal locations for rainwater harvesting, bringing clean water to over 10,000 people. Every day, satellites capture terabytes of data, from the temperature of our oceans to the smog level over cities—yet entire communities on Earth remain hidden. What if the key to solving water scarcity, climate change, and sustainability lies not beneath our feet, but hundreds of miles above us?
+
+This curiosity isn’t new. Humanity has always been driven to see the world from above. Cartography, once an ancient art carved into stone, became a revolutionary tool during the Age of Exploration. Today, Earth observation has evolved into a high-tech frontier, allowing us to track icebergs to protect ships or analyze urban sprawl to predict economic trends—things unimaginable just a few years ago. In my senior thesis, I am identifying locations for large reservoirs in Tanzania by analyzing topography, floodwater runoff zones, and the Maasai’s living locations. I’m excited to explore how satellite data could predict agricultural output by monitoring vegetation, rainfall, and temperature patterns.
+
+Every time I delve into new satellite data, I feel that same thrill of discovery. It’s not just about the images; it’s about uncovering stories hidden within pixels and using them to make a tangible difference. For me, the sky isn’t the limit—it’s the starting point.
 
 
 
