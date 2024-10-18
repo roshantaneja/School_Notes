@@ -1,0 +1,119 @@
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage[parfill]{parskip}
+\usepackage[bottom=0.5cm, right=2cm, left=2cm, top=2cm]{geometry}
+\usepackage{tcolorbox}
+\usepackage{stringstrings}
+\usepackage{xstring}
+\tcbuselibrary{most}
+
+% Define the \mybox command
+\newcommand{\mybox}[3]{
+    \begin{minipage}{\textwidth} % Ensures both boxes are treated as one block and won't break across pages
+        \begin{tcolorbox}[colback=grey, colframe=black, boxrule=0.5mm, width=\textwidth, sharp corners=south, enhanced]
+            \textbf{#1} \textit{#2}
+        \end{tcolorbox}
+        \vspace{-16pt}
+        \begin{tcolorbox}[colback=white, colframe=black, boxrule=0.5mm, width=\textwidth, sharp corners=north, top=0pt, enhanced]
+            \vspace{1em}
+            % \setlength{\parindent}{2em}
+            \setlength{\parskip}{1em}
+            #3
+        \end{tcolorbox}
+    \end{minipage}
+    \vspace{1em}
+}
+
+\title{Supplemental Essay Review}
+\author{Roshan Taneja}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+$\uparrow$ These links are clickable!
+
+
+
+
+\section{Stanford University}
+
+\mybox{Prompt: What is the most significant challenge that society faces today?}{Word count: 48/50}{
+3.5 million people die from lack of water access and sanitation every year. Thats like a jumbo jet crashing every hour. Water scarcity threatens global health, economic stability and environmental sustainability. Without equitable and sustainable access to water, society as we know today, will cease to exist
+}
+
+\mybox{Prompt: How did you spend your last two summers?}{Word count: 50/50}{
+In between cheering for my brother as the waterpolo JOs official photographer, I completed my research in  satellite data and machine learning and submitted it to NeurIPS. Data Science at UCLA came with the best tacos. And the rest of sunny mornings reviving a dead Land Rover Defender 90. Fundraising.
+}
+
+\mybox{Prompt: What historical moment or event do you wish you could have witnessed?}{Word count: 49/50}{
+July 20, 1969, at 20:17 in the “Sea of Tranquility" at 0 degrees, 41 minutes, 15 seconds north latitude and 23 degrees, 26 minutes east longitude with Buzz and Neil—a moment when science united the world. I definitely want to ride one of the lunar buggies too, obviously.
+}
+
+\mybox{Prompt: Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family.*}{Word count: 57/50 (I know I need to cut it down)}{
+I make trophies. From laser cutting and 3D printing to blow torching and (stained glassing?). I bring Improv to my maker lab, celebrating winners and their events with personalized trophies. It’s the perfect balance of technical, mechanical and creative pursuits. Some might say I am having so much fun, that I should get a trophy for it. 
+}
+
+\mybox{Prompt: List five things that are important to you.*}{Word count: 50/50}{
+1. Speaking pig latin with my brother \\
+2. The Dumpster Fire Award: A creation of my own, celebrating wins—and epic fails! \\
+3. Bringing water to the Maasai Community \\
+4. Sour Cream and Onion Pringles [short can not tall can, they taste different] \\
+5. Three Good-night hugs to my parents before bed \\
+}
+
+\mybox{Prompt: The Stanford community is deeply curious and driven to learn in and out of the classroom. Reflect on an idea or experience that makes you genuinely excited about learning.*}{Word count: 251/250}{
+If you knew 11-year-old me in 2017, you’d have heard how convinced I was that Pokémon Go would save the world. Going on daily walks with my grandfather, glued to his phone, and catching Pokemon all over my town, I believed the whole world would open borders and allow people to roam freely to catch Pokemon. I was fascinated by how satellites could seamlessly intermingle the physical and virtual worlds.
+
+At first, it was all about how satellites could map my neighborhood and layer digital characters onto real streets. But soon, I realized these orbiting machines could do so much more—track forest coverage, monitor oceans, and eventually help save lives. Fast-forward a few years, and I found myself in Northern Tanzania, working with the Maasai tribe to provide clean water access.
+
+I started out manually mapping remote villages, often hiking for hours when roads disappeared. One day, my car even toppled into a ditch. That’s when it hit me—why rely on guesswork when satellites could pinpoint exactly where rainwater harvesting units were needed? Using high-resolution imagery, I could identify settlements and install over 100 units, bringing clean water to more than 10,000 people.
+
+With real-time data, I could track changes in water sources and respond to droughts or floods as they happened or combine topographical maps and flood patterns to pick location of a community reservoir - something impossible even a decade ago.
+
+I see limitless opportunities to help human lives and combat global challenges, like climate change, and  water scarcity.
+}
+
+\mybox{Prompt: Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate – and us – get to know you better.*}{Word count: 256/250}{
+Hey Roomie,
+
+Don’t be surprised if you hear me speaking in random accents or pretending to be a detective hunting for the last slice of pizza in our room. It’s just part of the improv life. Feel free to jump in or laugh at my terrible one-liners! 
+
+On other days, you may find me curled up with a book in a corner for a few days. Don’t worry, I’m fine! As a test, you can ask me to sing the alphabet backwards, skip a letter, and then backwards skip a letter too. I had a lot of free time as a kid.
+
+When I’m not acting or reading, I love to tinker with everything. Whether it’s a busted robot or a squeaky door, I’m always fixing something. So if that IKEA shelf starts to wobble, I'll be on it before you can say, “Allen wrench!”
+
+I come from a lineage of chefs, which makes me - you got it - the best food taster. I will be your guy to find the newest boba shop or the oldest taco joint. Plus, my mom swears by the pancakes I’ve made for her since I was five.
+
+Oh, and I’m definitely a night owl. I’ll probably be up late working on projects or hanging out, so if you ever need something from the pharmacy at 2 a.m. or want to talk about life, I’ve got you. Living with my grandparents has taught me to always be there for the people you care about.
+
+Looking forward to our time together!
+}
+
+\mybox{Prompt: Please describe what aspects of your life experiences, interests and character would help you make a distinctive contribution as an undergraduate to Stanford University.*}{232/250 and 252/250}{
+
+\textbf{Attempt 1}
+
+At 5 a.m., my grandmother gently places a hand on my forehead and whispers, “Roshan, can you help me?” Without hesitation, I rise to set up her Zoom art class—a global affair complete with cameras, lights, and all the technical fixes that have become our weekly routine. Later, my grandfather calls me to help change a tire. Between tasks, I savor fresh orange juice and a homemade bagel, reminders of the love that fills our home. Living with my grandparents has woven the spirit of service into my daily life—helping is not an obligation, but a quiet, unspoken commitment.
+
+From these early mornings, I’ve learned that true service is not about recognition or reward, but about the simple act of being there for others. It’s in this spirit that I help my classmates grasp complex physics problems, organize school events, and troubleshoot a teacher’s computer without needing to be asked twice. Every task, whether big or small, is met with the same attention and care I give my family.
+
+At Stanford, I will carry this mindset with me—ready to serve and contribute in any way I can. I believe that even the smallest gestures, done with sincerity, can create a lasting ripple of impact in a community. This is how I hope to leave my mark: not through grand gestures, but through meaningful, everyday acts of service that help others thrive.
+
+\textbf{Attempt 2}
+
+A dusty ten-year-old school newspaper wasn't supposed to change my life, but that's the thing: life is full of surprises. Buried in its pages was an article about a long-forgotten Improv Club named “Kitsch.” Armed with YouTube videos and a “Yes, and…” attitude, I recruited a ragtag group of theater friends and dived into spontaneous storytelling with a fair share of awkward silences and laughs. “Kitsch” was reborn.
+
+What started as an experiment quickly turned into a passion. I organized practices, hosted showcases, and convinced my religion teacher, Ms. Boesen—a former improv enthusiast—to coach the 35 students who called Kitsch home. I embraced the spontaneity that comes from improv, bringing the spirit of humor and competition across campus. In robotics, embracing the idea of celebrating mistakes, I created the “Dumpster Fire” Award —a custom trophy I blowtorched beyond recognition and decorated with scrap wood and metal. It was hideous, hilarious, and a hit.
+
+Thus began my trophy-making “career.” I created custom awards, including snow globe-shaped trophies for the winter talent show and 3D-printed busts of our filmmaking teacher for the school’s Oscars. I've summoned the spirit of improv for the dozens of custom awards I've created since.
+
+At Stanford, you will find me crafting custom trophies in the create:space on weekends or trying out for SIMPS (Stanford Improv)! And who knows? Maybe I’ll even resurrect another forgotten tradition—or create a new one. Because if there’s one thing Kitsch has taught me, the best moments are the ones you don’t see coming.
+}
+
+
+\end{document}
