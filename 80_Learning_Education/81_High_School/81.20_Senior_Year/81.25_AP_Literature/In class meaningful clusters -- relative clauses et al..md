@@ -20,7 +20,8 @@ tags:
 > By the end of the period, submit yr sentences to Sch in the usual manner (pdf or Word doc -- not Google-doc nor anything fancy).
 
 
-1. **The wind gusting through the dilapidated marshes**, where Pip first encountered the convict, reminded him of the harshness of life that shaped his destiny. Miss Havisham, _who was trapped in her decaying mansion like a ghost of her own making_, became a symbol of unfulfilled desires. Had Pip never met her, _his future would have been_ entirely different. _(subjunctive)_
+
+1. **The wind blowing about the tombstones**, where Pip first encountered the convict, reminded him of the harshness of life that shaped his destiny. Miss Havisham, _who was trapped in her decaying mansion like a ghost of her own making_, became a symbol of unfulfilled desires. Had Pip never met her, _his future would have been_ entirely different. _(subjunctive)_
 
 2. Pip, _who had grown up believing in the value of wealth_, found himself trapped in the expectations society placed on him. The guilt, gnawing at his conscience like a relentless predator, **steering him further from his humble beginnings**, ultimately shaped the man he would become. _(Possible Inversion: “Steering him further from his humble beginnings was the guilt…”)_
 
@@ -36,6 +37,6 @@ tags:
 
 8. **The stars flickering in the night sky**, Pip looked out from his room, thinking of Estella, _who had always been beyond his reach_. His longing, **a flame that refused to die**, only grew stronger the more distant she became.
 
-9. Miss Havisham, _whose grief consumed her entire being_, had transformed her home into a tomb of memories. _Her wedding dress yellowed with age_; she waited in vain for a day that would never come. Pip, **his heart heavy**, could only watch as she withered away.
+9. Miss Havisham, _whose grief consumed her, had transformed her home into a tomb of memories. _Her wedding dress yellowed with age_; she waited in vain for a day that would never come. Pip, **his heart heavy**, could only watch as she withered away.
 
-10. Magwitch's unexpected presence revealed himself as the benefactor _who had orchestrated Pip’s rise to wealth_. Turning Pip’s world upside down, the revelation shattered his illusions of becoming a gentleman by his own merit. From that moment, Pip knew he could no longer escape the convict’s influence on his life.
+10. Magwitch's unexpected presence revealed himself as the benefactor _who had orchestrated Pip’s rise to wealth_. Turning Pip’s world upside down, the revelation destroyed his illusions of becoming a gentleman by his merit. From that moment, Pip knew he could no longer escape the convict’s influence on his life.
