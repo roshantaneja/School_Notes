@@ -1,38 +1,30 @@
-| Rank | Company                   | Sales (₹ Lakhs) |
-| ---- | ------------------------- | --------------- |
-| 21   | British India Corporation | 2,905           |
-| 22   | Macneill and Barry        | 2,698           |
-| 23   | Kasturbhai Lalbhai        | 2,620           |
-| 24   | Binny                     | 2,540           |
-| 25   | Killick Nixon             | 2,445           |
-| 26   | Rallis                    | 2,445           |
-| 27   | Kilachand                 | 2,430           |
-| 28   | Swedish Match             | 2,392           |
-| 29   | T. V. Sundaram Aiyangar   | 2,333           |
-| 30   | Balmer Lawrie             | 2,168           |
-| 31   | G. D. Kothari             | 2,155           |
-| 32   | Kirloskar                 | 2,146           |
-| 33   | A & F Harvey              | 2,114           |
-| 34   | Mahindra and Mahindra     | 2,111           |
-| 35   | Modi                      | 2,082           |
-| 36   | Scindia Steamships        | 2,062           |
-| 37   | Vissanji                  | 2,062           |
-| 38   | B. N. Elias               | 2,044           |
-| 59   | Podar                     | 1,103           |
-| 60   | V. Ramakrishna            | 1,052           |
-| 61   | Talukdar Law              | 1,028           |
-| 62   | J. P. Srivastava          | 1,013           |
-| 63   | Gillanders Arbuthnot      | 802             |
-| 64   | Indra Singh               | 777             |
-| 65   | Shiryas Prasad Jain       | 764             |
-| 66   | Wallace and Company       | 763             |
-| 67   | Mangaldas Jaisinghbhai    | 707             |
-| 68   | V. Rangaswamy Naidu       | 618             |
-| 69   | Kothari Madras            | 579             |
-| 70   | Ram Kumar Agarwal         | 502             |
-| 71   | R. K. Dalmia              | 412             |
-| 72   | Muthia                    | 405             |
-| 73   | Pierce Leslie             | 360             |
-| 74   | Shaw Wallace              | 333             |
-| 75   | Jatia                     | 65              |
+
+
+| Birth Cohort          | Level of Education (%) | a     | b    | c     | Total (Tot) |
+| --------------------- | ---------------------- | ----- | ---- | ----- | ----------- |
+| 1739-1794             | 69.5                   | 6.8   | 12.5 | 11.3  | 400         |
+| avg. career patents   | 5.6                    | 3.8   | 6.5  | 5.2   | 75          |
+| sell/license (col. %) | 54.9                   | 11.1  | 84.0 | 17.7  | 51.4%       |
+| prop/direct (col. %)  | 36.5                   | 74.1  | 2.0  | 44.7  | 35.6%       |
+| employee (col. %)     | 6.2                    | 7.4   | –    | –     | 4.8%        |
+| 1795-1819             | 59.1                   | 19.3  | 5.4  | 16.2  | 709         |
+| avg. career patents   | 20.0                   | 14.4  | 17.3 | 12.1  | 80          |
+| sell/license (col. %) | 58.2                   | 81.0  | 42.1 | 60.4  | 62.1%       |
+| prop/direct (col. %)  | 33.2                   | 10.2  | 47.4 | 24.3  | 28.1%       |
+| employee (col. %)     | 8.4                    | 8.8   | –    | 13.5  | 8.8%        |
+| 1820-1845             | 39.2                   | 34.7  | 16.3 | 9.7   | 1221        |
+| avg. career patents   | 41.8                   | 44.0  | 29.4 | 23.7  | 145         |
+| sell/license (col. %) | 50.7                   | 31.8  | 37.4 | 72.8  | 44.0%       |
+| prop/direct (col. %)  | 42.3                   | 55.2  | 47.7 | 19.3  | 45.5%       |
+| employee (col. %)     | 7.7                    | 13.0  | 14.9 | 7.0   | 10.2%       |
+| 1846-1865             | 22.2                   | 24.5  | 20.9 | 32.4  | 1438        |
+| avg. career patents   | 158.3                  | 73.6  | 78.6 | 55.3  | 80          |
+| sell/license (col. %) | 94.5                   | 68.5  | 46.2 | 57.1  | 66.0%       |
+| prop/direct (col. %)  | 5.5                    | 18.6  | 52.8 | 16.9  | 22.6%       |
+| employee (col. %)     | –                      | 12.9  | –    | 23.6  | 10.4%       |
+| 1866-1885             | 0.2                    | 17.9  | 21.4 | 60.5  | 574         |
+| avg. career patents   | –                      | 144.5 | 53.6 | 155.7 | 26          |
+| sell/license (col. %) | –                      | 1.0   | 46.3 | 40.1  | 34.3%       |
+| prop/direct (col. %)  | 100.0                  | 98.1  | 49.6 | 18.7  | 39.7%       |
+| employee (col. %)     | –                      | 1.0   | 4.1  | 41.2  | 26.0%       |
 
