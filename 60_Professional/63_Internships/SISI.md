@@ -9,7 +9,7 @@ Social media links, connection with local community.
 
 will share the cost of all materials,
 
-complete details will come through during mid december with all of the details
+complete details will come through during mid December with all of the details
 
 finish proposal draft by next week.
 
