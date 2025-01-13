@@ -87,10 +87,15 @@ g. $c\vec{u} \cdot d\vec{v} + ||\vec{w}||\vec{v}$ is not valid
 h. $||\vec{u} \cdot \vec{v}||$ is not valid
 
 # 22
-Show that if $u + v$ and $u - v$ are orthogonal, then the vectors **u** and **v** must have the same length.
+Show that if $u + v$ and $u - v$ are orthogonal, then the vectors $u$ and $v$ must have the same length.
 
 $$\begin{aligned}
 
-\text{f }
+&(\vec{u} + \vec{v}) \cdot (\vec{u} - \vec{v}) = 0\\
+=& (u_{1} + v_{1}, u_{2} + v_{2},\dots u_{n} + v_{n}) \cdot(u_{1} - v_{1}, u_{2} -v_{2}, \dots u_{n} - v_{n}) = 0\\
+=& ((u_{1}+v_{1}) * (u_{1}-v_{1})) + ((u_{2}+v_{2}) * (u_{2}-v_{2})) + \dots + ((u_{n}+v_{n}) * (u_{n}-v_{n})) = 0 \\
+=& (u_{1}^2-v_{1}^2) + (u_{2}^2-v_{2}^2) + \dots + (u_{n}^2-v_{n}^2) = 0 \\
+=& \vec{u} \cdot \vec{u} - \vec{v} \cdot \vec{v} = 0
+\vec{u}
 
 \end{aligned}$$

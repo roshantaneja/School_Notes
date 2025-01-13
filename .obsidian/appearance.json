@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Typewriter",
   "baseFontSize": 20,
-  "theme": "moonstone",
+  "theme": "system",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "IndexHider"
