@@ -4,6 +4,15 @@ tags:
   - ATMH
   - homework
 ---
+Dear Mr. Reyes,
+
+I hope this message finds you well. I wanted to let you know that I completed these problems on the plane in Latex because I had to travel to Boston to meet my family and didn’t have access to a notebook or WiFi on the plane. I actually had quite a bit of fun learning the latex syntax from the latex cheatsheet I downloaded. I understand if you want me to redo this submission as well on paper now that I have landed. I apologize for the late submission and any inconvenience this may have caused. Thank you for your understanding.
+
+Best regards,
+Roshan
+
+---
+
 # 13
 Are the vectors $(4, 5, -2)$ and $(3,-1, 5)$ orthogonal, parallel, or neither?
 
@@ -16,7 +25,7 @@ $$ \begin{aligned}
 &= 12 - 5 - 10 \\
 &= -3
 \end{aligned}$$
-Therefore the vectors are *Not* orthogonal
+Therefore the vectors are Not orthogonal
 
 
 # 15
@@ -200,4 +209,49 @@ $$
 
 
 # 28
+Find the area of the triangle determined by the points 𝑃1 = (2,2,0), 𝑃2 = (−1,0,2), and 𝑃3 = (0,4,3).
 
+Also find a nonzero vector orthogonal to the plane that contains the three points (and the triangle).
+
+$$
+\begin{aligned}
+\text{Given: } & P_1 = (2, 2, 0), \quad P_2 = (-1, 0, 2), \quad P_3 = (0, 4, 3).
+\\
+\\
+\vec{P_1P_2} &= P_2 - P_1 = (-1 - 2, 0 - 2, 2 - 0) = (-3, -2, 2), \\
+\vec{P_1P_3} &= P_3 - P_1 = (0 - 2, 4 - 2, 3 - 0) = (-2, 2, 3).
+\\
+\\
+\vec{P_1P_2} \times \vec{P_1P_3}: \\
+\vec{P_1P_2} \times \vec{P_1P_3} &= 
+\begin{vmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+-3 & -2 & 2 \\
+-2 & 2 & 3
+\end{vmatrix} \\
+&= \hat{i} \begin{vmatrix} -2 & 2 \\ 2 & 3 \end{vmatrix}
+- \hat{j} \begin{vmatrix} -3 & 2 \\ -2 & 3 \end{vmatrix}
++ \hat{k} \begin{vmatrix} -3 & -2 \\ -2 & 2 \end{vmatrix} \\
+&= \hat{i}((-2)(3) - (2)(2)) 
+- \hat{j}((-3)(3) - (-2)(2)) 
++ \hat{k}((-3)(2) - (-2)(-2)) \\
+&= \hat{i}(-6 - 4) 
+- \hat{j}(-9 + 4) 
++ \hat{k}(-6 - 4) \\
+&= \hat{i}(-10) 
+- \hat{j}(-5) 
++ \hat{k}(-10) \\
+&= -10\hat{i} + 5\hat{j} - 10\hat{k}.
+\\
+\\
+||\vec{P_1P_2} \times \vec{P_1P_3}|| &= \sqrt{(-10)^2 + 5^2 + (-10)^2} = \sqrt{100 + 25 + 100} = \sqrt{225} = 15.
+\\
+\\
+\text{Area} &= \frac{1}{2} ||\vec{P_1P_2} \times \vec{P_1P_3}|| = \frac{1}{2}(15) = 7.5.
+\\
+\\
+\vec{n} &= -10\hat{i} + 5\hat{j} - 10\hat{k}.
+\\
+\text{Area: } 7.5,& \quad \text{vector orthogonal to plane: } \vec{n} = -10\hat{i} + 5\hat{j} - 10\hat{k}.
+\end{aligned}
+$$
