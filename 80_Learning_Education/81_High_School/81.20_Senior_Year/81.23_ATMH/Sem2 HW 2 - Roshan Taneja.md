@@ -95,7 +95,7 @@ $$\begin{aligned}
 =& (u_{1} + v_{1}, u_{2} + v_{2},\dots u_{n} + v_{n}) \cdot(u_{1} - v_{1}, u_{2} -v_{2}, \dots u_{n} - v_{n}) = 0\\
 =& ((u_{1}+v_{1}) * (u_{1}-v_{1})) + ((u_{2}+v_{2}) * (u_{2}-v_{2})) + \dots + ((u_{n}+v_{n}) * (u_{n}-v_{n})) = 0 \\
 =& (u_{1}^2-v_{1}^2) + (u_{2}^2-v_{2}^2) + \dots + (u_{n}^2-v_{n}^2) = 0 \\
-=& \vec{u} \cdot \vec{u} - \vec{v} \cdot \vec{v} = 0
-\vec{u}
+=& \vec{u} \cdot \vec{u} - \vec{v} \cdot \vec{v} = 0 \\
+\vec{u} \cdot \vec{u} =& \vec{v} \cdot \vec{v}
 
-\end{aligned}$$
+\end{aligned}$$ 
