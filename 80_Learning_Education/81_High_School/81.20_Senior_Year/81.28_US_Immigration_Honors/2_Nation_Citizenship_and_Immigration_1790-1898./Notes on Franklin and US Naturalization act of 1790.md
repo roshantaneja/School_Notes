@@ -130,3 +130,70 @@ Discussion Questions:
 
 8. How does Franklin’s critique of restrictive British policies, such as the Iron Act, foreshadow the growing tensions between the colonies and Britain?
 
+
+
+**Notes on the Discussion:**
+
+1. **Franklin’s Views on Race and Slavery**:
+
+• Franklin’s discussion of “purely white people” and skin tones was highlighted, noting his emphasis on the racial composition of populations.
+
+• He expressed concerns about bringing enslaved people to America, arguing that it would hinder the increase of the white population.
+
+• While Franklin’s critiques of slavery may seem progressive for his time, his arguments were tied to economic and racial priorities rather than moral opposition.
+
+2. **Exclusion and Good Character**:
+
+• The idea of “good character” as a requirement for citizenship was discussed, emphasizing how it was linked to race and exclusion.
+
+• The group noted how this notion created a system that excluded people based on race and other biases, reinforcing second-class citizenship for non-white individuals.
+
+3. **Immigration and Cultural Assimilation**:
+
+• Franklin’s concerns about German immigrants failing to assimilate into British culture were seen as a reflection of his selective and exclusionary approach to immigration.
+
+• This revealed a bias against non-English cultures and an insistence on cultural homogeneity.
+
+4. **Economic and Political Observations**:
+
+• Participants noted Franklin’s focus on the economic inefficiency of slavery, including his arguments that free labor was more productive.
+
+• Franklin’s economic concerns also extended to fears of foreign labor and its impact on local businesses, reflecting broader exclusionary attitudes.
+
+5. **Contradictions and Ideals**:
+
+• The discussion touched on contradictions in Franklin’s ideals, such as his progressive views on labor versus his exclusionary views on race and immigration.
+
+• Participants reflected on how Franklin’s vision of America as a “city on a hill” was inherently tied to exclusionary practices, prioritizing white, male, landowning individuals in power.
+
+6. **Naturalization Act Connections**:
+
+• The group compared Franklin’s ideas to the Naturalization Act of 1790, which similarly limited citizenship to white individuals.
+
+• The discussion explored how these laws and ideas shaped America’s identity and reinforced systemic racism and inequality.
+
+7. **Modern Reflections**:
+
+• Participants questioned how these historical ideas have influenced modern immigration and citizenship policies.
+
+• The idea of proving “good character” was discussed in the context of contemporary parallels, such as current immigration criteria and biases.
+
+8. **Engagement and Participation**:
+
+• The discussion was described as interesting but marked by awkward silences, with participants needing more time or prompts to fully engage.
+
+• Suggestions included asking more questions and having more structured opportunities for sharing thoughts.
+
+  
+
+**Key Questions from the Discussion:**
+
+1. How did Franklin’s views on race and slavery reflect the broader attitudes of his time, and in what ways did they influence policies like the Naturalization Act of 1790?
+
+2. What does Franklin’s concern about the assimilation of German immigrants reveal about his vision for American identity and culture?
+
+3. How do Franklin’s economic critiques of slavery contrast with his racial biases and exclusionary practices?
+
+4. In what ways did Franklin’s notion of “good character” serve as a gatekeeping tool for citizenship and belonging in early America?
+
+5. How have historical ideas about race, immigration, and naturalization continued to shape modern policies and attitudes in the United States?
