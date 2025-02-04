@@ -38,7 +38,8 @@
     "iconsInLinksEnabled": true,
     "debugMode": false,
     "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "90_Personal": "😄",
   "80_Learning_Education": "📚",
