@@ -13,19 +13,19 @@ tags:
 
 2. **Law and Media Representation (Pages 158-160)**
 
-* **How did the law shape the representation of Asian women?**
+**How did the law shape the representation of Asian women?**
 
 * The Page Act of 1875 was the first federal immigration law and primarily targeted Chinese women under the guise of preventing “immoral” individuals, particularly prostitutes, from entering the U.S. This law institutionalized the stereotype of Asian women as either hypersexualized or morally corrupt, reinforcing their exclusion from American society.
 
-* **How did the Page Act set a precedent for future immigration laws?**
+**How did the Page Act set a precedent for future immigration laws?**
 
 * The Page Act established the framework for restrictive immigration policies that followed, including the **Chinese Exclusion Act of 1882** and later laws that restricted immigration based on race, nationality, and morality. It introduced broad government authority to decide who was “undesirable,” paving the way for future racialized immigration bans.
 
-* **How did the media shape the representation of Asian women?**
+**How did the media shape the representation of Asian women?**
 
 * The media reinforced harmful stereotypes, portraying Asian women as either submissive and exotic or as dangerous, manipulative figures. This created a limited and damaging perception that fueled discrimination, violence, and exclusion.
 
-* **How did Anna May Wong work to reshape these representations?**
+**How did Anna May Wong work to reshape these representations?**
 
 * Anna May Wong, one of the first Asian American Hollywood actresses, challenged these stereotypes by advocating for more complex and dignified roles. Though she often had to play characters that conformed to existing tropes, she used her platform to critique Hollywood’s typecasting and sought roles that broke away from the submissive or hypersexualized images of Asian women.
 
